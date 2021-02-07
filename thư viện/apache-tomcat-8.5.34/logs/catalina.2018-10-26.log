@@ -1,0 +1,656 @@
+26-Oct-2018 07:16:33.811 INFO [http-nio-8080-exec-13] org.apache.catalina.core.StandardContext.reload Reloading Context with name [/WebApplication2] has started
+26-Oct-2018 07:16:34.647 INFO [http-nio-8080-exec-13] org.apache.jasper.servlet.TldScanner.scanJars At least one JAR was scanned for TLDs yet contained no TLDs. Enable debug logging for this logger for a complete list of JARs that were scanned but no TLDs were found in them. Skipping unneeded JARs during scanning can improve startup time and JSP compilation time.
+26-Oct-2018 07:16:34.667 INFO [http-nio-8080-exec-13] org.apache.catalina.core.StandardContext.reload Reloading Context with name [/WebApplication2] is completed
+26-Oct-2018 07:16:35.182 INFO [http-nio-8080-exec-15] org.apache.catalina.core.StandardContext.reload Reloading Context with name [/WebApplication2] has started
+26-Oct-2018 07:16:35.412 INFO [http-nio-8080-exec-15] org.apache.jasper.servlet.TldScanner.scanJars At least one JAR was scanned for TLDs yet contained no TLDs. Enable debug logging for this logger for a complete list of JARs that were scanned but no TLDs were found in them. Skipping unneeded JARs during scanning can improve startup time and JSP compilation time.
+26-Oct-2018 07:16:35.418 INFO [http-nio-8080-exec-15] org.apache.catalina.core.StandardContext.reload Reloading Context with name [/WebApplication2] is completed
+26-Oct-2018 07:17:03.039 INFO [http-nio-8080-exec-19] org.apache.catalina.core.StandardContext.reload Reloading Context with name [/WebApplication2] has started
+26-Oct-2018 07:17:03.269 INFO [http-nio-8080-exec-19] org.apache.jasper.servlet.TldScanner.scanJars At least one JAR was scanned for TLDs yet contained no TLDs. Enable debug logging for this logger for a complete list of JARs that were scanned but no TLDs were found in them. Skipping unneeded JARs during scanning can improve startup time and JSP compilation time.
+26-Oct-2018 07:17:03.299 INFO [http-nio-8080-exec-19] org.apache.catalina.core.StandardContext.reload Reloading Context with name [/WebApplication2] is completed
+26-Oct-2018 07:31:43.074 INFO [http-nio-8080-exec-25] org.apache.catalina.core.StandardContext.reload Reloading Context with name [/WebApplication2] has started
+26-Oct-2018 07:31:43.399 INFO [http-nio-8080-exec-25] org.apache.jasper.servlet.TldScanner.scanJars At least one JAR was scanned for TLDs yet contained no TLDs. Enable debug logging for this logger for a complete list of JARs that were scanned but no TLDs were found in them. Skipping unneeded JARs during scanning can improve startup time and JSP compilation time.
+26-Oct-2018 07:31:43.408 INFO [76] org.apache.catalina.core.StandardContext.reload Reloading Context with name [/WebApplication2] is completed
+26-Oct-2018 07:32:29.272 INFO [http-nio-8080-exec-29] org.apache.catalina.core.StandardContext.reload Reloading Context with name [/WebApplication2] has started
+26-Oct-2018 07:32:29.536 INFO [http-nio-8080-exec-29] org.apache.jasper.servlet.TldScanner.scanJars At least one JAR was scanned for TLDs yet contained no TLDs. Enable debug logging for this logger for a complete list of JARs that were scanned but no TLDs were found in them. Skipping unneeded JARs during scanning can improve startup time and JSP compilation time.
+26-Oct-2018 07:32:29.541 INFO [http-nio-8080-exec-29] org.apache.catalina.core.StandardContext.reload Reloading Context with name [/WebApplication2] is completed
+26-Oct-2018 07:32:36.944 INFO [http-nio-8080-exec-26] org.apache.catalina.core.StandardContext.reload Reloading Context with name [/WebApplication2] has started
+26-Oct-2018 07:32:37.249 INFO [http-nio-8080-exec-26] org.apache.jasper.servlet.TldScanner.scanJars At least one JAR was scanned for TLDs yet contained no TLDs. Enable debug logging for this logger for a complete list of JARs that were scanned but no TLDs were found in them. Skipping unneeded JARs during scanning can improve startup time and JSP compilation time.
+26-Oct-2018 07:32:37.253 INFO [http-nio-8080-exec-26] org.apache.catalina.core.StandardContext.reload Reloading Context with name [/WebApplication2] is completed
+26-Oct-2018 07:33:05.350 INFO [http-nio-8080-exec-28] org.apache.catalina.core.StandardContext.reload Reloading Context with name [/WebApplication2] has started
+26-Oct-2018 07:33:05.610 INFO [http-nio-8080-exec-28] org.apache.jasper.servlet.TldScanner.scanJars At least one JAR was scanned for TLDs yet contained no TLDs. Enable debug logging for this logger for a complete list of JARs that were scanned but no TLDs were found in them. Skipping unneeded JARs during scanning can improve startup time and JSP compilation time.
+26-Oct-2018 07:33:05.615 INFO [http-nio-8080-exec-28] org.apache.catalina.core.StandardContext.reload Reloading Context with name [/WebApplication2] is completed
+26-Oct-2018 07:33:51.357 INFO [http-nio-8080-exec-36] org.apache.catalina.core.StandardContext.reload Reloading Context with name [/WebApplication2] has started
+26-Oct-2018 07:33:51.620 INFO [http-nio-8080-exec-36] org.apache.jasper.servlet.TldScanner.scanJars At least one JAR was scanned for TLDs yet contained no TLDs. Enable debug logging for this logger for a complete list of JARs that were scanned but no TLDs were found in them. Skipping unneeded JARs during scanning can improve startup time and JSP compilation time.
+26-Oct-2018 07:33:51.624 INFO [http-nio-8080-exec-36] org.apache.catalina.core.StandardContext.reload Reloading Context with name [/WebApplication2] is completed
+26-Oct-2018 07:37:51.789 INFO [http-nio-8080-exec-40] org.apache.catalina.core.StandardContext.reload Reloading Context with name [/WebApplication2] has started
+26-Oct-2018 07:37:52.341 INFO [http-nio-8080-exec-40] org.apache.jasper.servlet.TldScanner.scanJars At least one JAR was scanned for TLDs yet contained no TLDs. Enable debug logging for this logger for a complete list of JARs that were scanned but no TLDs were found in them. Skipping unneeded JARs during scanning can improve startup time and JSP compilation time.
+26-Oct-2018 07:37:52.345 INFO [http-nio-8080-exec-40] org.apache.catalina.core.StandardContext.reload Reloading Context with name [/WebApplication2] is completed
+26-Oct-2018 07:38:32.306 INFO [http-nio-8080-exec-39] org.apache.catalina.core.StandardContext.reload Reloading Context with name [/WebApplication2] has started
+26-Oct-2018 07:38:32.601 INFO [http-nio-8080-exec-39] org.apache.jasper.servlet.TldScanner.scanJars At least one JAR was scanned for TLDs yet contained no TLDs. Enable debug logging for this logger for a complete list of JARs that were scanned but no TLDs were found in them. Skipping unneeded JARs during scanning can improve startup time and JSP compilation time.
+26-Oct-2018 07:38:32.605 INFO [http-nio-8080-exec-39] org.apache.catalina.core.StandardContext.reload Reloading Context with name [/WebApplication2] is completed
+26-Oct-2018 07:38:50.614 INFO [http-nio-8080-exec-36] org.apache.catalina.core.StandardContext.reload Reloading Context with name [/WebApplication2] has started
+26-Oct-2018 07:38:51.002 INFO [http-nio-8080-exec-36] org.apache.jasper.servlet.TldScanner.scanJars At least one JAR was scanned for TLDs yet contained no TLDs. Enable debug logging for this logger for a complete list of JARs that were scanned but no TLDs were found in them. Skipping unneeded JARs during scanning can improve startup time and JSP compilation time.
+26-Oct-2018 07:38:51.006 INFO [http-nio-8080-exec-36] org.apache.catalina.core.StandardContext.reload Reloading Context with name [/WebApplication2] is completed
+26-Oct-2018 07:39:08.830 INFO [http-nio-8080-exec-28] org.apache.catalina.core.StandardContext.reload Reloading Context with name [/WebApplication2] has started
+26-Oct-2018 07:39:09.333 INFO [http-nio-8080-exec-28] org.apache.jasper.servlet.TldScanner.scanJars At least one JAR was scanned for TLDs yet contained no TLDs. Enable debug logging for this logger for a complete list of JARs that were scanned but no TLDs were found in them. Skipping unneeded JARs during scanning can improve startup time and JSP compilation time.
+26-Oct-2018 07:39:09.336 INFO [http-nio-8080-exec-28] org.apache.catalina.core.StandardContext.reload Reloading Context with name [/WebApplication2] is completed
+26-Oct-2018 07:39:24.569 INFO [http-nio-8080-exec-43] org.apache.catalina.core.StandardContext.reload Reloading Context with name [/WebApplication2] has started
+26-Oct-2018 07:39:24.796 INFO [http-nio-8080-exec-43] org.apache.jasper.servlet.TldScanner.scanJars At least one JAR was scanned for TLDs yet contained no TLDs. Enable debug logging for this logger for a complete list of JARs that were scanned but no TLDs were found in them. Skipping unneeded JARs during scanning can improve startup time and JSP compilation time.
+26-Oct-2018 07:39:24.800 INFO [http-nio-8080-exec-43] org.apache.catalina.core.StandardContext.reload Reloading Context with name [/WebApplication2] is completed
+26-Oct-2018 07:39:37.718 INFO [http-nio-8080-exec-42] org.apache.catalina.core.StandardContext.reload Reloading Context with name [/WebApplication2] has started
+26-Oct-2018 07:39:38.143 INFO [http-nio-8080-exec-42] org.apache.jasper.servlet.TldScanner.scanJars At least one JAR was scanned for TLDs yet contained no TLDs. Enable debug logging for this logger for a complete list of JARs that were scanned but no TLDs were found in them. Skipping unneeded JARs during scanning can improve startup time and JSP compilation time.
+26-Oct-2018 07:39:38.149 INFO [http-nio-8080-exec-42] org.apache.catalina.core.StandardContext.reload Reloading Context with name [/WebApplication2] is completed
+26-Oct-2018 14:22:57.137 INFO [http-nio-8080-exec-55] org.apache.catalina.core.StandardContext.reload Reloading Context with name [/MuaBanNha] has started
+26-Oct-2018 14:22:57.146 WARNING [http-nio-8080-exec-55] org.apache.catalina.loader.WebappClassLoaderBase.clearReferencesJdbc The web application [MuaBanNha] registered the JDBC driver [com.mysql.jdbc.Driver] but failed to unregister it when the web application was stopped. To prevent a memory leak, the JDBC Driver has been forcibly unregistered.
+26-Oct-2018 14:22:57.147 WARNING [http-nio-8080-exec-55] org.apache.catalina.loader.WebappClassLoaderBase.clearReferencesThreads The web application [MuaBanNha] appears to have started a thread named [MySQL Statement Cancellation Timer] but has failed to stop it. This is very likely to create a memory leak. Stack trace of thread:
+ java.lang.Object.wait(Native Method)
+ java.lang.Object.wait(Object.java:502)
+ java.util.TimerThread.mainLoop(Timer.java:526)
+ java.util.TimerThread.run(Timer.java:505)
+26-Oct-2018 14:22:58.758 INFO [124] org.apache.jasper.servlet.TldScanner.scanJars At least one JAR was scanned for TLDs yet contained no TLDs. Enable debug logging for this logger for a complete list of JARs that were scanned but no TLDs were found in them. Skipping unneeded JARs during scanning can improve startup time and JSP compilation time.
+26-Oct-2018 14:22:58.792 INFO [124] org.apache.catalina.core.StandardContext.reload Reloading Context with name [/MuaBanNha] is completed
+26-Oct-2018 14:40:10.385 INFO [http-nio-8080-exec-64] org.apache.catalina.core.StandardContext.reload Reloading Context with name [/MuaBanNha] has started
+26-Oct-2018 14:40:10.400 WARNING [http-nio-8080-exec-64] org.apache.catalina.loader.WebappClassLoaderBase.clearReferencesJdbc The web application [MuaBanNha] registered the JDBC driver [com.mysql.jdbc.Driver] but failed to unregister it when the web application was stopped. To prevent a memory leak, the JDBC Driver has been forcibly unregistered.
+26-Oct-2018 14:40:10.401 WARNING [http-nio-8080-exec-64] org.apache.catalina.loader.WebappClassLoaderBase.clearReferencesThreads The web application [MuaBanNha] appears to have started a thread named [MySQL Statement Cancellation Timer] but has failed to stop it. This is very likely to create a memory leak. Stack trace of thread:
+ java.lang.Object.wait(Native Method)
+ java.lang.Object.wait(Object.java:502)
+ java.util.TimerThread.mainLoop(Timer.java:526)
+ java.util.TimerThread.run(Timer.java:505)
+26-Oct-2018 14:40:10.895 INFO [http-nio-8080-exec-64] org.apache.jasper.servlet.TldScanner.scanJars At least one JAR was scanned for TLDs yet contained no TLDs. Enable debug logging for this logger for a complete list of JARs that were scanned but no TLDs were found in them. Skipping unneeded JARs during scanning can improve startup time and JSP compilation time.
+26-Oct-2018 14:40:10.946 INFO [http-nio-8080-exec-64] org.apache.catalina.core.StandardContext.reload Reloading Context with name [/MuaBanNha] is completed
+26-Oct-2018 14:48:15.576 INFO [http-nio-8080-exec-69] org.apache.catalina.core.StandardContext.reload Reloading Context with name [/MuaBanNha] has started
+26-Oct-2018 14:48:16.501 INFO [154] org.apache.jasper.servlet.TldScanner.scanJars At least one JAR was scanned for TLDs yet contained no TLDs. Enable debug logging for this logger for a complete list of JARs that were scanned but no TLDs were found in them. Skipping unneeded JARs during scanning can improve startup time and JSP compilation time.
+26-Oct-2018 14:48:16.525 INFO [154] org.apache.catalina.core.StandardContext.reload Reloading Context with name [/MuaBanNha] is completed
+26-Oct-2018 18:11:10.395 INFO [main] org.apache.catalina.core.StandardServer.await A valid shutdown command was received via the shutdown port. Stopping the Server instance.
+26-Oct-2018 18:11:10.493 INFO [main] org.apache.coyote.AbstractProtocol.pause Pausing ProtocolHandler ["http-nio-8080"]
+26-Oct-2018 18:11:10.700 INFO [main] org.apache.coyote.AbstractProtocol.pause Pausing ProtocolHandler ["ajp-nio-8009"]
+26-Oct-2018 18:11:10.849 INFO [main] org.apache.catalina.core.StandardService.stopInternal Stopping service [Catalina]
+26-Oct-2018 18:11:11.789 INFO [main] org.apache.coyote.AbstractProtocol.stop Stopping ProtocolHandler ["http-nio-8080"]
+26-Oct-2018 18:11:11.796 INFO [main] org.apache.coyote.AbstractProtocol.stop Stopping ProtocolHandler ["ajp-nio-8009"]
+26-Oct-2018 18:11:11.850 INFO [main] org.apache.coyote.AbstractProtocol.destroy Destroying ProtocolHandler ["http-nio-8080"]
+26-Oct-2018 18:11:11.865 INFO [main] org.apache.coyote.AbstractProtocol.destroy Destroying ProtocolHandler ["ajp-nio-8009"]
+26-Oct-2018 19:34:13.098 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Server version:        Apache Tomcat/8.5.34
+26-Oct-2018 19:34:13.109 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Server built:          Sep 4 2018 22:28:22 UTC
+26-Oct-2018 19:34:13.110 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Server number:         8.5.34.0
+26-Oct-2018 19:34:13.111 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log OS Name:               Windows 7
+26-Oct-2018 19:34:13.111 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log OS Version:            6.1
+26-Oct-2018 19:34:13.112 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Architecture:          amd64
+26-Oct-2018 19:34:13.112 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Java Home:             C:\Program Files\Java\jdk1.8.0_171\jre
+26-Oct-2018 19:34:13.112 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log JVM Version:           1.8.0_171-b11
+26-Oct-2018 19:34:13.113 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log JVM Vendor:            Oracle Corporation
+26-Oct-2018 19:34:13.113 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log CATALINA_BASE:         D:\Java\apache-tomcat-8.5.34
+26-Oct-2018 19:34:13.113 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log CATALINA_HOME:         D:\Java\apache-tomcat-8.5.34
+26-Oct-2018 19:34:13.114 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: -Djava.util.logging.config.file=D:\Java\apache-tomcat-8.5.34\conf\logging.properties
+26-Oct-2018 19:34:13.114 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: -Djava.util.logging.manager=org.apache.juli.ClassLoaderLogManager
+26-Oct-2018 19:34:13.115 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: -Dhttp.nonProxyHosts=localhost|127.0.0.1|Khatmau-sr
+26-Oct-2018 19:34:13.115 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: -Djdk.tls.ephemeralDHKeySize=2048
+26-Oct-2018 19:34:13.115 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: -Djava.protocol.handler.pkgs=org.apache.catalina.webresources
+26-Oct-2018 19:34:13.119 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: -Dignore.endorsed.dirs=
+26-Oct-2018 19:34:13.119 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: -Dcatalina.base=D:\Java\apache-tomcat-8.5.34
+26-Oct-2018 19:34:13.119 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: -Dcatalina.home=D:\Java\apache-tomcat-8.5.34
+26-Oct-2018 19:34:13.120 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: -Djava.io.tmpdir=D:\Java\apache-tomcat-8.5.34\temp
+26-Oct-2018 19:34:13.120 INFO [main] org.apache.catalina.core.AprLifecycleListener.lifecycleEvent The APR based Apache Tomcat Native library which allows optimal performance in production environments was not found on the java.library.path: [C:\Program Files\Java\jdk1.8.0_171\bin;C:\Windows\Sun\Java\bin;C:\Windows\system32;C:\Windows;C:\Program Files (x86)\Common Files\Oracle\Java\javapath;C:\Windows\system32;C:\Windows;C:\Windows\System32\Wbem;C:\Windows\System32\WindowsPowerShell\v1.0\;C:\Program Files\dotnet\;C:\Program Files\Microsoft SQL Server\130\Tools\Binn\;;.]
+26-Oct-2018 19:34:14.070 INFO [main] org.apache.coyote.AbstractProtocol.init Initializing ProtocolHandler ["http-nio-8080"]
+26-Oct-2018 19:34:14.703 INFO [main] org.apache.tomcat.util.net.NioSelectorPool.getSharedSelector Using a shared selector for servlet write/read
+26-Oct-2018 19:34:14.762 INFO [main] org.apache.coyote.AbstractProtocol.init Initializing ProtocolHandler ["ajp-nio-8009"]
+26-Oct-2018 19:34:14.766 INFO [main] org.apache.tomcat.util.net.NioSelectorPool.getSharedSelector Using a shared selector for servlet write/read
+26-Oct-2018 19:34:14.767 INFO [main] org.apache.catalina.startup.Catalina.load Initialization processed in 3658 ms
+26-Oct-2018 19:34:14.918 INFO [main] org.apache.catalina.core.StandardService.startInternal Starting service [Catalina]
+26-Oct-2018 19:34:14.918 INFO [main] org.apache.catalina.core.StandardEngine.startInternal Starting Servlet Engine: Apache Tomcat/8.5.34
+26-Oct-2018 19:34:14.985 INFO [localhost-startStop-1] org.apache.catalina.startup.HostConfig.deployDescriptor Deploying configuration descriptor [D:\Java\apache-tomcat-8.5.34\conf\Catalina\localhost\BanHoa.xml]
+26-Oct-2018 19:34:16.736 INFO [localhost-startStop-1] org.apache.catalina.startup.HostConfig.deployDescriptor Deployment of configuration descriptor [D:\Java\apache-tomcat-8.5.34\conf\Catalina\localhost\BanHoa.xml] has finished in [1,749] ms
+26-Oct-2018 19:34:16.736 INFO [localhost-startStop-1] org.apache.catalina.startup.HostConfig.deployDescriptor Deploying configuration descriptor [D:\Java\apache-tomcat-8.5.34\conf\Catalina\localhost\MuaBanNha.xml]
+26-Oct-2018 19:34:18.315 INFO [localhost-startStop-1] org.apache.jasper.servlet.TldScanner.scanJars At least one JAR was scanned for TLDs yet contained no TLDs. Enable debug logging for this logger for a complete list of JARs that were scanned but no TLDs were found in them. Skipping unneeded JARs during scanning can improve startup time and JSP compilation time.
+26-Oct-2018 19:34:18.364 INFO [localhost-startStop-1] org.apache.catalina.startup.HostConfig.deployDescriptor Deployment of configuration descriptor [D:\Java\apache-tomcat-8.5.34\conf\Catalina\localhost\MuaBanNha.xml] has finished in [1,628] ms
+26-Oct-2018 19:34:18.364 INFO [localhost-startStop-1] org.apache.catalina.startup.HostConfig.deployDescriptor Deploying configuration descriptor [D:\Java\apache-tomcat-8.5.34\conf\Catalina\localhost\WebApplication2.xml]
+26-Oct-2018 19:34:18.952 INFO [localhost-startStop-1] org.apache.jasper.servlet.TldScanner.scanJars At least one JAR was scanned for TLDs yet contained no TLDs. Enable debug logging for this logger for a complete list of JARs that were scanned but no TLDs were found in them. Skipping unneeded JARs during scanning can improve startup time and JSP compilation time.
+26-Oct-2018 19:34:18.958 INFO [localhost-startStop-1] org.apache.catalina.startup.HostConfig.deployDescriptor Deployment of configuration descriptor [D:\Java\apache-tomcat-8.5.34\conf\Catalina\localhost\WebApplication2.xml] has finished in [594] ms
+26-Oct-2018 19:34:18.960 INFO [localhost-startStop-1] org.apache.catalina.startup.HostConfig.deployDirectory Deploying web application directory [D:\Java\apache-tomcat-8.5.34\webapps\docs]
+26-Oct-2018 19:34:19.064 INFO [localhost-startStop-1] org.apache.catalina.startup.HostConfig.deployDirectory Deployment of web application directory [D:\Java\apache-tomcat-8.5.34\webapps\docs] has finished in [104] ms
+26-Oct-2018 19:34:19.064 INFO [localhost-startStop-1] org.apache.catalina.startup.HostConfig.deployDirectory Deploying web application directory [D:\Java\apache-tomcat-8.5.34\webapps\examples]
+26-Oct-2018 19:34:20.196 INFO [localhost-startStop-1] org.apache.catalina.startup.HostConfig.deployDirectory Deployment of web application directory [D:\Java\apache-tomcat-8.5.34\webapps\examples] has finished in [1,131] ms
+26-Oct-2018 19:34:20.196 INFO [localhost-startStop-1] org.apache.catalina.startup.HostConfig.deployDirectory Deploying web application directory [D:\Java\apache-tomcat-8.5.34\webapps\host-manager]
+26-Oct-2018 19:34:20.375 INFO [localhost-startStop-1] org.apache.catalina.startup.HostConfig.deployDirectory Deployment of web application directory [D:\Java\apache-tomcat-8.5.34\webapps\host-manager] has finished in [179] ms
+26-Oct-2018 19:34:20.376 INFO [localhost-startStop-1] org.apache.catalina.startup.HostConfig.deployDirectory Deploying web application directory [D:\Java\apache-tomcat-8.5.34\webapps\manager]
+26-Oct-2018 19:34:20.508 INFO [localhost-startStop-1] org.apache.catalina.startup.HostConfig.deployDirectory Deployment of web application directory [D:\Java\apache-tomcat-8.5.34\webapps\manager] has finished in [132] ms
+26-Oct-2018 19:34:20.509 INFO [localhost-startStop-1] org.apache.catalina.startup.HostConfig.deployDirectory Deploying web application directory [D:\Java\apache-tomcat-8.5.34\webapps\ROOT]
+26-Oct-2018 19:34:20.574 INFO [localhost-startStop-1] org.apache.catalina.startup.HostConfig.deployDirectory Deployment of web application directory [D:\Java\apache-tomcat-8.5.34\webapps\ROOT] has finished in [66] ms
+26-Oct-2018 19:34:20.634 INFO [main] org.apache.coyote.AbstractProtocol.start Starting ProtocolHandler ["http-nio-8080"]
+26-Oct-2018 19:34:20.745 INFO [main] org.apache.coyote.AbstractProtocol.start Starting ProtocolHandler ["ajp-nio-8009"]
+26-Oct-2018 19:34:20.769 INFO [main] org.apache.catalina.startup.Catalina.start Server startup in 5997 ms
+26-Oct-2018 19:34:25.478 INFO [http-nio-8080-exec-9] org.apache.catalina.startup.HostConfig.deployDescriptor Deploying configuration descriptor [D:\Java\apache-tomcat-8.5.34\conf\Catalina\localhost\shop.xml]
+26-Oct-2018 19:34:30.140 INFO [http-nio-8080-exec-9] org.apache.jasper.servlet.TldScanner.scanJars At least one JAR was scanned for TLDs yet contained no TLDs. Enable debug logging for this logger for a complete list of JARs that were scanned but no TLDs were found in them. Skipping unneeded JARs during scanning can improve startup time and JSP compilation time.
+26-Oct-2018 19:34:30.256 INFO [http-nio-8080-exec-9] org.springframework.web.context.ContextLoader.initWebApplicationContext Root WebApplicationContext: initialization started
+26-Oct-2018 19:34:30.840 INFO [http-nio-8080-exec-9] org.springframework.context.support.AbstractApplicationContext.prepareRefresh Refreshing Root WebApplicationContext: startup date [Fri Oct 26 19:34:30 GMT+07:00 2018]; root of context hierarchy
+26-Oct-2018 19:34:31.769 INFO [http-nio-8080-exec-9] org.springframework.beans.factory.xml.XmlBeanDefinitionReader.loadBeanDefinitions Loading XML bean definitions from ServletContext resource [/WEB-INF/applicationContext.xml]
+26-Oct-2018 19:34:32.390 INFO [http-nio-8080-exec-9] org.springframework.web.context.ContextLoader.initWebApplicationContext Root WebApplicationContext: initialization completed in 2134 ms
+26-Oct-2018 19:34:32.451 INFO [http-nio-8080-exec-9] org.springframework.web.servlet.FrameworkServlet.initServletBean FrameworkServlet 'dispatcher': initialization started
+26-Oct-2018 19:34:32.464 INFO [http-nio-8080-exec-9] org.springframework.context.support.AbstractApplicationContext.prepareRefresh Refreshing WebApplicationContext for namespace 'dispatcher-servlet': startup date [Fri Oct 26 19:34:32 GMT+07:00 2018]; parent: Root WebApplicationContext
+26-Oct-2018 19:34:32.469 INFO [http-nio-8080-exec-9] org.springframework.beans.factory.xml.XmlBeanDefinitionReader.loadBeanDefinitions Loading XML bean definitions from ServletContext resource [/WEB-INF/dispatcher-servlet.xml]
+26-Oct-2018 19:34:32.954 INFO [http-nio-8080-exec-9] org.springframework.web.servlet.handler.AbstractUrlHandlerMapping.registerHandler Mapped URL path [/index] onto handler 'indexController'
+26-Oct-2018 19:34:33.180 INFO [http-nio-8080-exec-9] org.springframework.web.servlet.FrameworkServlet.initServletBean FrameworkServlet 'dispatcher': initialization completed in 728 ms
+26-Oct-2018 19:34:33.187 INFO [http-nio-8080-exec-9] org.apache.catalina.startup.HostConfig.deployDescriptor Deployment of configuration descriptor [D:\Java\apache-tomcat-8.5.34\conf\Catalina\localhost\shop.xml] has finished in [7,710] ms
+26-Oct-2018 19:34:33.218 INFO [http-nio-8080-exec-1] org.apache.catalina.util.LifecycleBase.start The start() method was called on component [StandardEngine[Catalina].StandardHost[localhost].StandardContext[/shop]] after start() had already been called. The second call will be ignored.
+26-Oct-2018 19:39:45.150 INFO [http-nio-8080-exec-1] org.apache.catalina.core.StandardContext.reload Reloading Context with name [/shop] has started
+26-Oct-2018 19:39:45.155 INFO [http-nio-8080-exec-1] org.springframework.context.support.AbstractApplicationContext.doClose Closing WebApplicationContext for namespace 'dispatcher-servlet': startup date [Fri Oct 26 19:34:32 GMT+07:00 2018]; parent: Root WebApplicationContext
+26-Oct-2018 19:39:45.188 INFO [http-nio-8080-exec-1] org.springframework.context.support.AbstractApplicationContext.doClose Closing Root WebApplicationContext: startup date [Fri Oct 26 19:34:30 GMT+07:00 2018]; root of context hierarchy
+26-Oct-2018 19:39:53.401 INFO [http-nio-8080-exec-1] org.apache.jasper.servlet.TldScanner.scanJars At least one JAR was scanned for TLDs yet contained no TLDs. Enable debug logging for this logger for a complete list of JARs that were scanned but no TLDs were found in them. Skipping unneeded JARs during scanning can improve startup time and JSP compilation time.
+26-Oct-2018 19:39:53.568 INFO [http-nio-8080-exec-1] org.springframework.web.context.ContextLoader.initWebApplicationContext Root WebApplicationContext: initialization started
+26-Oct-2018 19:39:54.107 INFO [http-nio-8080-exec-1] org.springframework.context.support.AbstractApplicationContext.prepareRefresh Refreshing Root WebApplicationContext: startup date [Fri Oct 26 19:39:54 GMT+07:00 2018]; root of context hierarchy
+26-Oct-2018 19:39:54.372 INFO [http-nio-8080-exec-1] org.springframework.beans.factory.xml.XmlBeanDefinitionReader.loadBeanDefinitions Loading XML bean definitions from ServletContext resource [/WEB-INF/applicationContext.xml]
+26-Oct-2018 19:39:54.694 INFO [http-nio-8080-exec-1] org.springframework.web.context.ContextLoader.initWebApplicationContext Root WebApplicationContext: initialization completed in 1126 ms
+26-Oct-2018 19:39:54.779 INFO [http-nio-8080-exec-1] org.springframework.web.servlet.FrameworkServlet.initServletBean FrameworkServlet 'dispatcher': initialization started
+26-Oct-2018 19:39:54.791 INFO [http-nio-8080-exec-1] org.springframework.context.support.AbstractApplicationContext.prepareRefresh Refreshing WebApplicationContext for namespace 'dispatcher-servlet': startup date [Fri Oct 26 19:39:54 GMT+07:00 2018]; parent: Root WebApplicationContext
+26-Oct-2018 19:39:54.796 INFO [http-nio-8080-exec-1] org.springframework.beans.factory.xml.XmlBeanDefinitionReader.loadBeanDefinitions Loading XML bean definitions from ServletContext resource [/WEB-INF/dispatcher-servlet.xml]
+26-Oct-2018 19:39:55.614 INFO [http-nio-8080-exec-1] org.springframework.web.servlet.handler.AbstractUrlHandlerMapping.registerHandler Mapped URL path [/index] onto handler 'indexController'
+26-Oct-2018 19:39:55.983 INFO [19] org.springframework.web.servlet.FrameworkServlet.initServletBean FrameworkServlet 'dispatcher': initialization completed in 1203 ms
+26-Oct-2018 19:39:55.998 INFO [19] org.apache.catalina.core.StandardContext.reload Reloading Context with name [/shop] is completed
+26-Oct-2018 19:39:57.118 INFO [http-nio-8080-exec-4] org.apache.catalina.core.StandardContext.reload Reloading Context with name [/shop] has started
+26-Oct-2018 19:39:57.124 INFO [http-nio-8080-exec-4] org.springframework.context.support.AbstractApplicationContext.doClose Closing WebApplicationContext for namespace 'dispatcher-servlet': startup date [Fri Oct 26 19:39:54 GMT+07:00 2018]; parent: Root WebApplicationContext
+26-Oct-2018 19:39:57.132 INFO [http-nio-8080-exec-4] org.springframework.context.support.AbstractApplicationContext.doClose Closing Root WebApplicationContext: startup date [Fri Oct 26 19:39:54 GMT+07:00 2018]; root of context hierarchy
+26-Oct-2018 19:40:03.429 INFO [http-nio-8080-exec-4] org.apache.jasper.servlet.TldScanner.scanJars At least one JAR was scanned for TLDs yet contained no TLDs. Enable debug logging for this logger for a complete list of JARs that were scanned but no TLDs were found in them. Skipping unneeded JARs during scanning can improve startup time and JSP compilation time.
+26-Oct-2018 19:40:03.547 INFO [http-nio-8080-exec-4] org.springframework.web.context.ContextLoader.initWebApplicationContext Root WebApplicationContext: initialization started
+26-Oct-2018 19:40:04.050 INFO [http-nio-8080-exec-4] org.springframework.context.support.AbstractApplicationContext.prepareRefresh Refreshing Root WebApplicationContext: startup date [Fri Oct 26 19:40:04 GMT+07:00 2018]; root of context hierarchy
+26-Oct-2018 19:40:04.664 INFO [http-nio-8080-exec-4] org.springframework.beans.factory.xml.XmlBeanDefinitionReader.loadBeanDefinitions Loading XML bean definitions from ServletContext resource [/WEB-INF/applicationContext.xml]
+26-Oct-2018 19:40:05.209 INFO [http-nio-8080-exec-4] org.springframework.web.context.ContextLoader.initWebApplicationContext Root WebApplicationContext: initialization completed in 1662 ms
+26-Oct-2018 19:40:05.282 INFO [http-nio-8080-exec-4] org.springframework.web.servlet.FrameworkServlet.initServletBean FrameworkServlet 'dispatcher': initialization started
+26-Oct-2018 19:40:05.296 INFO [http-nio-8080-exec-4] org.springframework.context.support.AbstractApplicationContext.prepareRefresh Refreshing WebApplicationContext for namespace 'dispatcher-servlet': startup date [Fri Oct 26 19:40:05 GMT+07:00 2018]; parent: Root WebApplicationContext
+26-Oct-2018 19:40:05.303 INFO [http-nio-8080-exec-4] org.springframework.beans.factory.xml.XmlBeanDefinitionReader.loadBeanDefinitions Loading XML bean definitions from ServletContext resource [/WEB-INF/dispatcher-servlet.xml]
+26-Oct-2018 19:40:06.083 INFO [http-nio-8080-exec-4] org.springframework.web.servlet.handler.AbstractUrlHandlerMapping.registerHandler Mapped URL path [/index] onto handler 'indexController'
+26-Oct-2018 19:40:06.357 INFO [22] org.springframework.web.servlet.FrameworkServlet.initServletBean FrameworkServlet 'dispatcher': initialization completed in 1074 ms
+26-Oct-2018 19:40:06.362 INFO [22] org.apache.catalina.core.StandardContext.reload Reloading Context with name [/shop] is completed
+26-Oct-2018 19:40:45.985 INFO [http-nio-8080-exec-2] org.apache.catalina.core.StandardContext.reload Reloading Context with name [/shop] has started
+26-Oct-2018 19:40:45.998 INFO [http-nio-8080-exec-2] org.springframework.context.support.AbstractApplicationContext.doClose Closing WebApplicationContext for namespace 'dispatcher-servlet': startup date [Fri Oct 26 19:40:05 GMT+07:00 2018]; parent: Root WebApplicationContext
+26-Oct-2018 19:40:46.040 INFO [http-nio-8080-exec-2] org.springframework.context.support.AbstractApplicationContext.doClose Closing Root WebApplicationContext: startup date [Fri Oct 26 19:40:04 GMT+07:00 2018]; root of context hierarchy
+26-Oct-2018 19:40:52.584 INFO [http-nio-8080-exec-2] org.apache.jasper.servlet.TldScanner.scanJars At least one JAR was scanned for TLDs yet contained no TLDs. Enable debug logging for this logger for a complete list of JARs that were scanned but no TLDs were found in them. Skipping unneeded JARs during scanning can improve startup time and JSP compilation time.
+26-Oct-2018 19:40:52.697 INFO [http-nio-8080-exec-2] org.springframework.web.context.ContextLoader.initWebApplicationContext Root WebApplicationContext: initialization started
+26-Oct-2018 19:40:53.202 INFO [http-nio-8080-exec-2] org.springframework.context.support.AbstractApplicationContext.prepareRefresh Refreshing Root WebApplicationContext: startup date [Fri Oct 26 19:40:53 GMT+07:00 2018]; root of context hierarchy
+26-Oct-2018 19:40:53.649 INFO [http-nio-8080-exec-2] org.springframework.beans.factory.xml.XmlBeanDefinitionReader.loadBeanDefinitions Loading XML bean definitions from ServletContext resource [/WEB-INF/applicationContext.xml]
+26-Oct-2018 19:40:54.229 INFO [http-nio-8080-exec-2] org.springframework.web.context.ContextLoader.initWebApplicationContext Root WebApplicationContext: initialization completed in 1531 ms
+26-Oct-2018 19:40:54.440 INFO [http-nio-8080-exec-2] org.springframework.web.servlet.FrameworkServlet.initServletBean FrameworkServlet 'dispatcher': initialization started
+26-Oct-2018 19:40:54.456 INFO [http-nio-8080-exec-2] org.springframework.context.support.AbstractApplicationContext.prepareRefresh Refreshing WebApplicationContext for namespace 'dispatcher-servlet': startup date [Fri Oct 26 19:40:54 GMT+07:00 2018]; parent: Root WebApplicationContext
+26-Oct-2018 19:40:54.460 INFO [http-nio-8080-exec-2] org.springframework.beans.factory.xml.XmlBeanDefinitionReader.loadBeanDefinitions Loading XML bean definitions from ServletContext resource [/WEB-INF/dispatcher-servlet.xml]
+26-Oct-2018 19:40:55.828 INFO [http-nio-8080-exec-2] org.springframework.web.servlet.handler.AbstractUrlHandlerMapping.registerHandler Mapped URL path [/index] onto handler 'indexController'
+26-Oct-2018 19:40:56.208 INFO [20] org.springframework.web.servlet.FrameworkServlet.initServletBean FrameworkServlet 'dispatcher': initialization completed in 1768 ms
+26-Oct-2018 19:40:56.215 INFO [20] org.apache.catalina.core.StandardContext.reload Reloading Context with name [/shop] is completed
+26-Oct-2018 19:41:09.440 INFO [http-nio-8080-exec-6] org.apache.catalina.core.StandardContext.reload Reloading Context with name [/shop] has started
+26-Oct-2018 19:41:09.447 INFO [http-nio-8080-exec-6] org.springframework.context.support.AbstractApplicationContext.doClose Closing WebApplicationContext for namespace 'dispatcher-servlet': startup date [Fri Oct 26 19:40:54 GMT+07:00 2018]; parent: Root WebApplicationContext
+26-Oct-2018 19:41:09.461 INFO [http-nio-8080-exec-6] org.springframework.context.support.AbstractApplicationContext.doClose Closing Root WebApplicationContext: startup date [Fri Oct 26 19:40:53 GMT+07:00 2018]; root of context hierarchy
+26-Oct-2018 19:41:16.906 INFO [http-nio-8080-exec-6] org.apache.jasper.servlet.TldScanner.scanJars At least one JAR was scanned for TLDs yet contained no TLDs. Enable debug logging for this logger for a complete list of JARs that were scanned but no TLDs were found in them. Skipping unneeded JARs during scanning can improve startup time and JSP compilation time.
+26-Oct-2018 19:41:17.054 INFO [http-nio-8080-exec-6] org.springframework.web.context.ContextLoader.initWebApplicationContext Root WebApplicationContext: initialization started
+26-Oct-2018 19:41:17.568 INFO [http-nio-8080-exec-6] org.springframework.context.support.AbstractApplicationContext.prepareRefresh Refreshing Root WebApplicationContext: startup date [Fri Oct 26 19:41:17 GMT+07:00 2018]; root of context hierarchy
+26-Oct-2018 19:41:17.790 INFO [http-nio-8080-exec-6] org.springframework.beans.factory.xml.XmlBeanDefinitionReader.loadBeanDefinitions Loading XML bean definitions from ServletContext resource [/WEB-INF/applicationContext.xml]
+26-Oct-2018 19:41:18.089 INFO [http-nio-8080-exec-6] org.springframework.web.context.ContextLoader.initWebApplicationContext Root WebApplicationContext: initialization completed in 1034 ms
+26-Oct-2018 19:41:18.165 INFO [http-nio-8080-exec-6] org.springframework.web.servlet.FrameworkServlet.initServletBean FrameworkServlet 'dispatcher': initialization started
+26-Oct-2018 19:41:18.183 INFO [http-nio-8080-exec-6] org.springframework.context.support.AbstractApplicationContext.prepareRefresh Refreshing WebApplicationContext for namespace 'dispatcher-servlet': startup date [Fri Oct 26 19:41:18 GMT+07:00 2018]; parent: Root WebApplicationContext
+26-Oct-2018 19:41:18.189 INFO [http-nio-8080-exec-6] org.springframework.beans.factory.xml.XmlBeanDefinitionReader.loadBeanDefinitions Loading XML bean definitions from ServletContext resource [/WEB-INF/dispatcher-servlet.xml]
+26-Oct-2018 19:41:18.889 INFO [http-nio-8080-exec-6] org.springframework.web.servlet.handler.AbstractUrlHandlerMapping.registerHandler Mapped URL path [/index] onto handler 'indexController'
+26-Oct-2018 19:41:19.187 INFO [http-nio-8080-exec-6] org.springframework.web.servlet.FrameworkServlet.initServletBean FrameworkServlet 'dispatcher': initialization completed in 1021 ms
+26-Oct-2018 19:41:19.194 INFO [http-nio-8080-exec-6] org.apache.catalina.core.StandardContext.reload Reloading Context with name [/shop] is completed
+26-Oct-2018 19:41:27.142 INFO [http-nio-8080-exec-7] org.apache.catalina.core.StandardContext.reload Reloading Context with name [/shop] has started
+26-Oct-2018 19:41:27.146 INFO [http-nio-8080-exec-7] org.springframework.context.support.AbstractApplicationContext.doClose Closing WebApplicationContext for namespace 'dispatcher-servlet': startup date [Fri Oct 26 19:41:18 GMT+07:00 2018]; parent: Root WebApplicationContext
+26-Oct-2018 19:41:27.154 INFO [http-nio-8080-exec-7] org.springframework.context.support.AbstractApplicationContext.doClose Closing Root WebApplicationContext: startup date [Fri Oct 26 19:41:17 GMT+07:00 2018]; root of context hierarchy
+26-Oct-2018 19:41:33.277 INFO [http-nio-8080-exec-7] org.apache.jasper.servlet.TldScanner.scanJars At least one JAR was scanned for TLDs yet contained no TLDs. Enable debug logging for this logger for a complete list of JARs that were scanned but no TLDs were found in them. Skipping unneeded JARs during scanning can improve startup time and JSP compilation time.
+26-Oct-2018 19:41:33.520 INFO [http-nio-8080-exec-7] org.springframework.web.context.ContextLoader.initWebApplicationContext Root WebApplicationContext: initialization started
+26-Oct-2018 19:41:34.161 INFO [http-nio-8080-exec-7] org.springframework.context.support.AbstractApplicationContext.prepareRefresh Refreshing Root WebApplicationContext: startup date [Fri Oct 26 19:41:34 GMT+07:00 2018]; root of context hierarchy
+26-Oct-2018 19:41:34.461 INFO [http-nio-8080-exec-7] org.springframework.beans.factory.xml.XmlBeanDefinitionReader.loadBeanDefinitions Loading XML bean definitions from ServletContext resource [/WEB-INF/applicationContext.xml]
+26-Oct-2018 19:41:34.740 INFO [http-nio-8080-exec-7] org.springframework.web.context.ContextLoader.initWebApplicationContext Root WebApplicationContext: initialization completed in 1219 ms
+26-Oct-2018 19:41:34.802 INFO [http-nio-8080-exec-7] org.springframework.web.servlet.FrameworkServlet.initServletBean FrameworkServlet 'dispatcher': initialization started
+26-Oct-2018 19:41:34.815 INFO [http-nio-8080-exec-7] org.springframework.context.support.AbstractApplicationContext.prepareRefresh Refreshing WebApplicationContext for namespace 'dispatcher-servlet': startup date [Fri Oct 26 19:41:34 GMT+07:00 2018]; parent: Root WebApplicationContext
+26-Oct-2018 19:41:34.820 INFO [http-nio-8080-exec-7] org.springframework.beans.factory.xml.XmlBeanDefinitionReader.loadBeanDefinitions Loading XML bean definitions from ServletContext resource [/WEB-INF/dispatcher-servlet.xml]
+26-Oct-2018 19:41:35.169 INFO [http-nio-8080-exec-7] org.springframework.web.servlet.handler.AbstractUrlHandlerMapping.registerHandler Mapped URL path [/index] onto handler 'indexController'
+26-Oct-2018 19:41:35.377 INFO [http-nio-8080-exec-7] org.springframework.web.servlet.FrameworkServlet.initServletBean FrameworkServlet 'dispatcher': initialization completed in 574 ms
+26-Oct-2018 19:41:35.381 INFO [http-nio-8080-exec-7] org.apache.catalina.core.StandardContext.reload Reloading Context with name [/shop] is completed
+26-Oct-2018 19:43:07.279 INFO [http-nio-8080-exec-20] org.apache.catalina.core.StandardContext.reload Reloading Context with name [/shop] has started
+26-Oct-2018 19:43:07.285 INFO [http-nio-8080-exec-20] org.springframework.context.support.AbstractApplicationContext.doClose Closing WebApplicationContext for namespace 'dispatcher-servlet': startup date [Fri Oct 26 19:41:34 GMT+07:00 2018]; parent: Root WebApplicationContext
+26-Oct-2018 19:43:07.299 INFO [http-nio-8080-exec-20] org.springframework.context.support.AbstractApplicationContext.doClose Closing Root WebApplicationContext: startup date [Fri Oct 26 19:41:34 GMT+07:00 2018]; root of context hierarchy
+26-Oct-2018 19:43:12.951 INFO [http-nio-8080-exec-20] org.apache.jasper.servlet.TldScanner.scanJars At least one JAR was scanned for TLDs yet contained no TLDs. Enable debug logging for this logger for a complete list of JARs that were scanned but no TLDs were found in them. Skipping unneeded JARs during scanning can improve startup time and JSP compilation time.
+26-Oct-2018 19:43:13.117 INFO [http-nio-8080-exec-20] org.springframework.web.context.ContextLoader.initWebApplicationContext Root WebApplicationContext: initialization started
+26-Oct-2018 19:43:13.551 INFO [http-nio-8080-exec-20] org.springframework.context.support.AbstractApplicationContext.prepareRefresh Refreshing Root WebApplicationContext: startup date [Fri Oct 26 19:43:13 GMT+07:00 2018]; root of context hierarchy
+26-Oct-2018 19:43:13.930 INFO [http-nio-8080-exec-20] org.springframework.beans.factory.xml.XmlBeanDefinitionReader.loadBeanDefinitions Loading XML bean definitions from ServletContext resource [/WEB-INF/applicationContext.xml]
+26-Oct-2018 19:43:14.934 INFO [http-nio-8080-exec-20] org.springframework.web.context.ContextLoader.initWebApplicationContext Root WebApplicationContext: initialization completed in 1816 ms
+26-Oct-2018 19:43:15.003 INFO [http-nio-8080-exec-20] org.springframework.web.servlet.FrameworkServlet.initServletBean FrameworkServlet 'dispatcher': initialization started
+26-Oct-2018 19:43:15.015 INFO [http-nio-8080-exec-20] org.springframework.context.support.AbstractApplicationContext.prepareRefresh Refreshing WebApplicationContext for namespace 'dispatcher-servlet': startup date [Fri Oct 26 19:43:15 GMT+07:00 2018]; parent: Root WebApplicationContext
+26-Oct-2018 19:43:15.019 INFO [http-nio-8080-exec-20] org.springframework.beans.factory.xml.XmlBeanDefinitionReader.loadBeanDefinitions Loading XML bean definitions from ServletContext resource [/WEB-INF/dispatcher-servlet.xml]
+26-Oct-2018 19:43:15.532 INFO [http-nio-8080-exec-20] org.springframework.web.servlet.handler.AbstractUrlHandlerMapping.registerHandler Mapped URL path [/index] onto handler 'indexController'
+26-Oct-2018 19:43:15.777 INFO [http-nio-8080-exec-20] org.springframework.web.servlet.FrameworkServlet.initServletBean FrameworkServlet 'dispatcher': initialization completed in 773 ms
+26-Oct-2018 19:43:15.781 INFO [http-nio-8080-exec-20] org.apache.catalina.core.StandardContext.reload Reloading Context with name [/shop] is completed
+26-Oct-2018 19:45:32.262 INFO [http-nio-8080-exec-22] org.apache.catalina.core.StandardContext.reload Reloading Context with name [/shop] has started
+26-Oct-2018 19:45:32.268 INFO [http-nio-8080-exec-22] org.springframework.context.support.AbstractApplicationContext.doClose Closing WebApplicationContext for namespace 'dispatcher-servlet': startup date [Fri Oct 26 19:43:15 GMT+07:00 2018]; parent: Root WebApplicationContext
+26-Oct-2018 19:45:32.273 INFO [http-nio-8080-exec-22] org.springframework.context.support.AbstractApplicationContext.doClose Closing Root WebApplicationContext: startup date [Fri Oct 26 19:43:13 GMT+07:00 2018]; root of context hierarchy
+26-Oct-2018 19:45:38.372 INFO [http-nio-8080-exec-22] org.apache.jasper.servlet.TldScanner.scanJars At least one JAR was scanned for TLDs yet contained no TLDs. Enable debug logging for this logger for a complete list of JARs that were scanned but no TLDs were found in them. Skipping unneeded JARs during scanning can improve startup time and JSP compilation time.
+26-Oct-2018 19:45:38.545 INFO [http-nio-8080-exec-22] org.springframework.web.context.ContextLoader.initWebApplicationContext Root WebApplicationContext: initialization started
+26-Oct-2018 19:45:38.968 INFO [http-nio-8080-exec-22] org.springframework.context.support.AbstractApplicationContext.prepareRefresh Refreshing Root WebApplicationContext: startup date [Fri Oct 26 19:45:38 GMT+07:00 2018]; root of context hierarchy
+26-Oct-2018 19:45:39.317 INFO [http-nio-8080-exec-22] org.springframework.beans.factory.xml.XmlBeanDefinitionReader.loadBeanDefinitions Loading XML bean definitions from ServletContext resource [/WEB-INF/applicationContext.xml]
+26-Oct-2018 19:45:39.707 INFO [http-nio-8080-exec-22] org.springframework.web.context.ContextLoader.initWebApplicationContext Root WebApplicationContext: initialization completed in 1162 ms
+26-Oct-2018 19:45:39.776 INFO [http-nio-8080-exec-22] org.springframework.web.servlet.FrameworkServlet.initServletBean FrameworkServlet 'dispatcher': initialization started
+26-Oct-2018 19:45:39.789 INFO [http-nio-8080-exec-22] org.springframework.context.support.AbstractApplicationContext.prepareRefresh Refreshing WebApplicationContext for namespace 'dispatcher-servlet': startup date [Fri Oct 26 19:45:39 GMT+07:00 2018]; parent: Root WebApplicationContext
+26-Oct-2018 19:45:39.793 INFO [http-nio-8080-exec-22] org.springframework.beans.factory.xml.XmlBeanDefinitionReader.loadBeanDefinitions Loading XML bean definitions from ServletContext resource [/WEB-INF/dispatcher-servlet.xml]
+26-Oct-2018 19:45:40.225 INFO [http-nio-8080-exec-22] org.springframework.web.servlet.handler.AbstractUrlHandlerMapping.registerHandler Mapped URL path [/index] onto handler 'indexController'
+26-Oct-2018 19:45:40.485 INFO [http-nio-8080-exec-22] org.springframework.web.servlet.FrameworkServlet.initServletBean FrameworkServlet 'dispatcher': initialization completed in 709 ms
+26-Oct-2018 19:45:40.492 INFO [http-nio-8080-exec-22] org.apache.catalina.core.StandardContext.reload Reloading Context with name [/shop] is completed
+26-Oct-2018 19:46:35.147 INFO [http-nio-8080-exec-16] org.apache.catalina.core.StandardContext.reload Reloading Context with name [/shop] has started
+26-Oct-2018 19:46:35.151 INFO [http-nio-8080-exec-16] org.springframework.context.support.AbstractApplicationContext.doClose Closing WebApplicationContext for namespace 'dispatcher-servlet': startup date [Fri Oct 26 19:45:39 GMT+07:00 2018]; parent: Root WebApplicationContext
+26-Oct-2018 19:46:35.155 INFO [http-nio-8080-exec-16] org.springframework.context.support.AbstractApplicationContext.doClose Closing Root WebApplicationContext: startup date [Fri Oct 26 19:45:38 GMT+07:00 2018]; root of context hierarchy
+26-Oct-2018 19:46:38.643 INFO [http-nio-8080-exec-16] org.apache.jasper.servlet.TldScanner.scanJars At least one JAR was scanned for TLDs yet contained no TLDs. Enable debug logging for this logger for a complete list of JARs that were scanned but no TLDs were found in them. Skipping unneeded JARs during scanning can improve startup time and JSP compilation time.
+26-Oct-2018 19:46:38.719 INFO [http-nio-8080-exec-16] org.springframework.web.context.ContextLoader.initWebApplicationContext Root WebApplicationContext: initialization started
+26-Oct-2018 19:46:39.044 INFO [http-nio-8080-exec-16] org.springframework.context.support.AbstractApplicationContext.prepareRefresh Refreshing Root WebApplicationContext: startup date [Fri Oct 26 19:46:39 GMT+07:00 2018]; root of context hierarchy
+26-Oct-2018 19:46:39.188 INFO [http-nio-8080-exec-16] org.springframework.beans.factory.xml.XmlBeanDefinitionReader.loadBeanDefinitions Loading XML bean definitions from ServletContext resource [/WEB-INF/applicationContext.xml]
+26-Oct-2018 19:46:39.403 INFO [http-nio-8080-exec-16] org.springframework.web.context.ContextLoader.initWebApplicationContext Root WebApplicationContext: initialization completed in 684 ms
+26-Oct-2018 19:46:39.462 INFO [http-nio-8080-exec-16] org.springframework.web.servlet.FrameworkServlet.initServletBean FrameworkServlet 'dispatcher': initialization started
+26-Oct-2018 19:46:39.473 INFO [http-nio-8080-exec-16] org.springframework.context.support.AbstractApplicationContext.prepareRefresh Refreshing WebApplicationContext for namespace 'dispatcher-servlet': startup date [Fri Oct 26 19:46:39 GMT+07:00 2018]; parent: Root WebApplicationContext
+26-Oct-2018 19:46:39.492 INFO [http-nio-8080-exec-16] org.springframework.beans.factory.xml.XmlBeanDefinitionReader.loadBeanDefinitions Loading XML bean definitions from ServletContext resource [/WEB-INF/dispatcher-servlet.xml]
+26-Oct-2018 19:46:39.823 INFO [http-nio-8080-exec-16] org.springframework.web.servlet.handler.AbstractUrlHandlerMapping.registerHandler Mapped URL path [/index] onto handler 'indexController'
+26-Oct-2018 19:46:40.032 INFO [http-nio-8080-exec-16] org.springframework.web.servlet.FrameworkServlet.initServletBean FrameworkServlet 'dispatcher': initialization completed in 569 ms
+26-Oct-2018 19:46:40.037 INFO [http-nio-8080-exec-16] org.apache.catalina.core.StandardContext.reload Reloading Context with name [/shop] is completed
+26-Oct-2018 19:46:42.584 WARNING [http-nio-8080-exec-25] org.springframework.web.servlet.DispatcherServlet.noHandlerFound No mapping found for HTTP request with URI [/shop/home/index] in DispatcherServlet with name 'dispatcher'
+26-Oct-2018 19:49:53.578 INFO [http-nio-8080-exec-35] org.springframework.context.support.AbstractApplicationContext.doClose Closing WebApplicationContext for namespace 'dispatcher-servlet': startup date [Fri Oct 26 19:46:39 GMT+07:00 2018]; parent: Root WebApplicationContext
+26-Oct-2018 19:49:53.583 INFO [http-nio-8080-exec-35] org.springframework.context.support.AbstractApplicationContext.doClose Closing Root WebApplicationContext: startup date [Fri Oct 26 19:46:39 GMT+07:00 2018]; root of context hierarchy
+26-Oct-2018 19:50:03.374 INFO [ContainerBackgroundProcessor[StandardEngine[Catalina]]] org.apache.catalina.startup.HostConfig.reload Reloading context [/shop]
+26-Oct-2018 19:50:07.388 WARNING [ContainerBackgroundProcessor[StandardEngine[Catalina]]] org.apache.catalina.startup.HostConfig.reload Error during context [/shop] restart
+ org.apache.catalina.LifecycleException: Failed to start component [StandardEngine[Catalina].StandardHost[localhost].StandardContext[/shop]]
+	at org.apache.catalina.util.LifecycleBase.start(LifecycleBase.java:167)
+	at org.apache.catalina.startup.HostConfig.reload(HostConfig.java:1419)
+	at org.apache.catalina.startup.HostConfig.checkResources(HostConfig.java:1383)
+	at org.apache.catalina.startup.HostConfig.check(HostConfig.java:1619)
+	at org.apache.catalina.startup.HostConfig.lifecycleEvent(HostConfig.java:314)
+	at org.apache.catalina.util.LifecycleBase.fireLifecycleEvent(LifecycleBase.java:94)
+	at org.apache.catalina.core.ContainerBase.backgroundProcess(ContainerBase.java:1167)
+	at org.apache.catalina.core.ContainerBase$ContainerBackgroundProcessor.processChildren(ContainerBase.java:1389)
+	at org.apache.catalina.core.ContainerBase$ContainerBackgroundProcessor.processChildren(ContainerBase.java:1393)
+	at org.apache.catalina.core.ContainerBase$ContainerBackgroundProcessor.run(ContainerBase.java:1361)
+	at java.lang.Thread.run(Thread.java:748)
+Caused by: java.lang.IllegalArgumentException: Invalid <url-pattern> [home/] in servlet mapping
+	at org.apache.catalina.core.StandardContext.addServletMappingDecoded(StandardContext.java:3197)
+	at org.apache.catalina.core.StandardContext.addServletMappingDecoded(StandardContext.java:3184)
+	at org.apache.catalina.startup.ContextConfig.configureContext(ContextConfig.java:1366)
+	at org.apache.catalina.startup.ContextConfig.webConfig(ContextConfig.java:1180)
+	at org.apache.catalina.startup.ContextConfig.configureStart(ContextConfig.java:765)
+	at org.apache.catalina.startup.ContextConfig.lifecycleEvent(ContextConfig.java:299)
+	at org.apache.catalina.util.LifecycleBase.fireLifecycleEvent(LifecycleBase.java:94)
+	at org.apache.catalina.core.StandardContext.startInternal(StandardContext.java:5154)
+	at org.apache.catalina.util.LifecycleBase.start(LifecycleBase.java:150)
+	... 10 more
+
+26-Oct-2018 19:50:28.470 INFO [http-nio-8080-exec-46] org.apache.catalina.startup.HostConfig.undeploy Undeploying context [/shop]
+26-Oct-2018 19:50:28.511 INFO [http-nio-8080-exec-42] org.apache.catalina.startup.HostConfig.deployDescriptor Deploying configuration descriptor [D:\Java\apache-tomcat-8.5.34\conf\Catalina\localhost\shop.xml]
+26-Oct-2018 19:50:31.882 SEVERE [http-nio-8080-exec-42] org.apache.catalina.core.ContainerBase.addChildInternal ContainerBase.addChild: start: 
+ org.apache.catalina.LifecycleException: Failed to start component [StandardEngine[Catalina].StandardHost[localhost].StandardContext[/shop]]
+	at org.apache.catalina.util.LifecycleBase.start(LifecycleBase.java:167)
+	at org.apache.catalina.core.ContainerBase.addChildInternal(ContainerBase.java:754)
+	at org.apache.catalina.core.ContainerBase.addChild(ContainerBase.java:730)
+	at org.apache.catalina.core.StandardHost.addChild(StandardHost.java:734)
+	at org.apache.catalina.startup.HostConfig.deployDescriptor(HostConfig.java:629)
+	at org.apache.catalina.startup.HostConfig.deployApps(HostConfig.java:501)
+	at org.apache.catalina.startup.HostConfig.check(HostConfig.java:1650)
+	at sun.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+	at sun.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:62)
+	at sun.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)
+	at java.lang.reflect.Method.invoke(Method.java:498)
+	at org.apache.tomcat.util.modeler.BaseModelMBean.invoke(BaseModelMBean.java:300)
+	at com.sun.jmx.interceptor.DefaultMBeanServerInterceptor.invoke(DefaultMBeanServerInterceptor.java:819)
+	at com.sun.jmx.mbeanserver.JmxMBeanServer.invoke(JmxMBeanServer.java:801)
+	at org.apache.catalina.manager.ManagerServlet.check(ManagerServlet.java:1565)
+	at org.apache.catalina.manager.ManagerServlet.deploy(ManagerServlet.java:986)
+	at org.apache.catalina.manager.ManagerServlet.doGet(ManagerServlet.java:350)
+	at javax.servlet.http.HttpServlet.service(HttpServlet.java:635)
+	at javax.servlet.http.HttpServlet.service(HttpServlet.java:742)
+	at org.apache.catalina.core.ApplicationFilterChain.internalDoFilter(ApplicationFilterChain.java:231)
+	at org.apache.catalina.core.ApplicationFilterChain.doFilter(ApplicationFilterChain.java:166)
+	at org.apache.tomcat.websocket.server.WsFilter.doFilter(WsFilter.java:52)
+	at org.apache.catalina.core.ApplicationFilterChain.internalDoFilter(ApplicationFilterChain.java:193)
+	at org.apache.catalina.core.ApplicationFilterChain.doFilter(ApplicationFilterChain.java:166)
+	at org.apache.catalina.filters.SetCharacterEncodingFilter.doFilter(SetCharacterEncodingFilter.java:109)
+	at org.apache.catalina.core.ApplicationFilterChain.internalDoFilter(ApplicationFilterChain.java:193)
+	at org.apache.catalina.core.ApplicationFilterChain.doFilter(ApplicationFilterChain.java:166)
+	at org.apache.catalina.core.StandardWrapperValve.invoke(StandardWrapperValve.java:198)
+	at org.apache.catalina.core.StandardContextValve.invoke(StandardContextValve.java:96)
+	at org.apache.catalina.authenticator.AuthenticatorBase.invoke(AuthenticatorBase.java:610)
+	at org.apache.catalina.valves.RequestFilterValve.process(RequestFilterValve.java:348)
+	at org.apache.catalina.valves.RemoteAddrValve.invoke(RemoteAddrValve.java:52)
+	at org.apache.catalina.core.StandardHostValve.invoke(StandardHostValve.java:140)
+	at org.apache.catalina.valves.ErrorReportValve.invoke(ErrorReportValve.java:81)
+	at org.apache.catalina.valves.AbstractAccessLogValve.invoke(AbstractAccessLogValve.java:650)
+	at org.apache.catalina.core.StandardEngineValve.invoke(StandardEngineValve.java:87)
+	at org.apache.catalina.connector.CoyoteAdapter.service(CoyoteAdapter.java:342)
+	at org.apache.coyote.http11.Http11Processor.service(Http11Processor.java:800)
+	at org.apache.coyote.AbstractProcessorLight.process(AbstractProcessorLight.java:66)
+	at org.apache.coyote.AbstractProtocol$ConnectionHandler.process(AbstractProtocol.java:806)
+	at org.apache.tomcat.util.net.NioEndpoint$SocketProcessor.doRun(NioEndpoint.java:1498)
+	at org.apache.tomcat.util.net.SocketProcessorBase.run(SocketProcessorBase.java:49)
+	at java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1149)
+	at java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:624)
+	at org.apache.tomcat.util.threads.TaskThread$WrappingRunnable.run(TaskThread.java:61)
+	at java.lang.Thread.run(Thread.java:748)
+Caused by: java.lang.IllegalArgumentException: Invalid <url-pattern> [home/] in servlet mapping
+	at org.apache.catalina.core.StandardContext.addServletMappingDecoded(StandardContext.java:3197)
+	at org.apache.catalina.core.StandardContext.addServletMappingDecoded(StandardContext.java:3184)
+	at org.apache.catalina.startup.ContextConfig.configureContext(ContextConfig.java:1366)
+	at org.apache.catalina.startup.ContextConfig.webConfig(ContextConfig.java:1180)
+	at org.apache.catalina.startup.ContextConfig.configureStart(ContextConfig.java:765)
+	at org.apache.catalina.startup.ContextConfig.lifecycleEvent(ContextConfig.java:299)
+	at org.apache.catalina.util.LifecycleBase.fireLifecycleEvent(LifecycleBase.java:94)
+	at org.apache.catalina.core.StandardContext.startInternal(StandardContext.java:5154)
+	at org.apache.catalina.util.LifecycleBase.start(LifecycleBase.java:150)
+	... 45 more
+
+26-Oct-2018 19:50:31.900 SEVERE [http-nio-8080-exec-42] org.apache.catalina.startup.HostConfig.deployDescriptor Error deploying configuration descriptor [D:\Java\apache-tomcat-8.5.34\conf\Catalina\localhost\shop.xml]
+ java.lang.IllegalStateException: ContainerBase.addChild: start: org.apache.catalina.LifecycleException: Failed to start component [StandardEngine[Catalina].StandardHost[localhost].StandardContext[/shop]]
+	at org.apache.catalina.core.ContainerBase.addChildInternal(ContainerBase.java:758)
+	at org.apache.catalina.core.ContainerBase.addChild(ContainerBase.java:730)
+	at org.apache.catalina.core.StandardHost.addChild(StandardHost.java:734)
+	at org.apache.catalina.startup.HostConfig.deployDescriptor(HostConfig.java:629)
+	at org.apache.catalina.startup.HostConfig.deployApps(HostConfig.java:501)
+	at org.apache.catalina.startup.HostConfig.check(HostConfig.java:1650)
+	at sun.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+	at sun.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:62)
+	at sun.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)
+	at java.lang.reflect.Method.invoke(Method.java:498)
+	at org.apache.tomcat.util.modeler.BaseModelMBean.invoke(BaseModelMBean.java:300)
+	at com.sun.jmx.interceptor.DefaultMBeanServerInterceptor.invoke(DefaultMBeanServerInterceptor.java:819)
+	at com.sun.jmx.mbeanserver.JmxMBeanServer.invoke(JmxMBeanServer.java:801)
+	at org.apache.catalina.manager.ManagerServlet.check(ManagerServlet.java:1565)
+	at org.apache.catalina.manager.ManagerServlet.deploy(ManagerServlet.java:986)
+	at org.apache.catalina.manager.ManagerServlet.doGet(ManagerServlet.java:350)
+	at javax.servlet.http.HttpServlet.service(HttpServlet.java:635)
+	at javax.servlet.http.HttpServlet.service(HttpServlet.java:742)
+	at org.apache.catalina.core.ApplicationFilterChain.internalDoFilter(ApplicationFilterChain.java:231)
+	at org.apache.catalina.core.ApplicationFilterChain.doFilter(ApplicationFilterChain.java:166)
+	at org.apache.tomcat.websocket.server.WsFilter.doFilter(WsFilter.java:52)
+	at org.apache.catalina.core.ApplicationFilterChain.internalDoFilter(ApplicationFilterChain.java:193)
+	at org.apache.catalina.core.ApplicationFilterChain.doFilter(ApplicationFilterChain.java:166)
+	at org.apache.catalina.filters.SetCharacterEncodingFilter.doFilter(SetCharacterEncodingFilter.java:109)
+	at org.apache.catalina.core.ApplicationFilterChain.internalDoFilter(ApplicationFilterChain.java:193)
+	at org.apache.catalina.core.ApplicationFilterChain.doFilter(ApplicationFilterChain.java:166)
+	at org.apache.catalina.core.StandardWrapperValve.invoke(StandardWrapperValve.java:198)
+	at org.apache.catalina.core.StandardContextValve.invoke(StandardContextValve.java:96)
+	at org.apache.catalina.authenticator.AuthenticatorBase.invoke(AuthenticatorBase.java:610)
+	at org.apache.catalina.valves.RequestFilterValve.process(RequestFilterValve.java:348)
+	at org.apache.catalina.valves.RemoteAddrValve.invoke(RemoteAddrValve.java:52)
+	at org.apache.catalina.core.StandardHostValve.invoke(StandardHostValve.java:140)
+	at org.apache.catalina.valves.ErrorReportValve.invoke(ErrorReportValve.java:81)
+	at org.apache.catalina.valves.AbstractAccessLogValve.invoke(AbstractAccessLogValve.java:650)
+	at org.apache.catalina.core.StandardEngineValve.invoke(StandardEngineValve.java:87)
+	at org.apache.catalina.connector.CoyoteAdapter.service(CoyoteAdapter.java:342)
+	at org.apache.coyote.http11.Http11Processor.service(Http11Processor.java:800)
+	at org.apache.coyote.AbstractProcessorLight.process(AbstractProcessorLight.java:66)
+	at org.apache.coyote.AbstractProtocol$ConnectionHandler.process(AbstractProtocol.java:806)
+	at org.apache.tomcat.util.net.NioEndpoint$SocketProcessor.doRun(NioEndpoint.java:1498)
+	at org.apache.tomcat.util.net.SocketProcessorBase.run(SocketProcessorBase.java:49)
+	at java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1149)
+	at java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:624)
+	at org.apache.tomcat.util.threads.TaskThread$WrappingRunnable.run(TaskThread.java:61)
+	at java.lang.Thread.run(Thread.java:748)
+
+26-Oct-2018 19:50:32.651 INFO [86] org.apache.catalina.startup.HostConfig.deployDescriptor Deployment of configuration descriptor [D:\Java\apache-tomcat-8.5.34\conf\Catalina\localhost\shop.xml] has finished in [4,139] ms
+26-Oct-2018 19:50:55.872 INFO [http-nio-8080-exec-52] org.apache.catalina.startup.HostConfig.undeploy Undeploying context [/shop]
+26-Oct-2018 19:50:55.893 INFO [http-nio-8080-exec-49] org.apache.catalina.startup.HostConfig.deployDescriptor Deploying configuration descriptor [D:\Java\apache-tomcat-8.5.34\conf\Catalina\localhost\shop.xml]
+26-Oct-2018 19:50:59.002 INFO [http-nio-8080-exec-49] org.apache.jasper.servlet.TldScanner.scanJars At least one JAR was scanned for TLDs yet contained no TLDs. Enable debug logging for this logger for a complete list of JARs that were scanned but no TLDs were found in them. Skipping unneeded JARs during scanning can improve startup time and JSP compilation time.
+26-Oct-2018 19:50:59.090 INFO [http-nio-8080-exec-49] org.springframework.web.context.ContextLoader.initWebApplicationContext Root WebApplicationContext: initialization started
+26-Oct-2018 19:50:59.410 INFO [http-nio-8080-exec-49] org.springframework.context.support.AbstractApplicationContext.prepareRefresh Refreshing Root WebApplicationContext: startup date [Fri Oct 26 19:50:59 GMT+07:00 2018]; root of context hierarchy
+26-Oct-2018 19:50:59.549 INFO [http-nio-8080-exec-49] org.springframework.beans.factory.xml.XmlBeanDefinitionReader.loadBeanDefinitions Loading XML bean definitions from ServletContext resource [/WEB-INF/applicationContext.xml]
+26-Oct-2018 19:50:59.727 INFO [http-nio-8080-exec-49] org.springframework.web.context.ContextLoader.initWebApplicationContext Root WebApplicationContext: initialization completed in 637 ms
+26-Oct-2018 19:50:59.783 INFO [http-nio-8080-exec-49] org.springframework.web.servlet.FrameworkServlet.initServletBean FrameworkServlet 'dispatcher': initialization started
+26-Oct-2018 19:50:59.794 INFO [http-nio-8080-exec-49] org.springframework.context.support.AbstractApplicationContext.prepareRefresh Refreshing WebApplicationContext for namespace 'dispatcher-servlet': startup date [Fri Oct 26 19:50:59 GMT+07:00 2018]; parent: Root WebApplicationContext
+26-Oct-2018 19:50:59.797 INFO [http-nio-8080-exec-49] org.springframework.beans.factory.xml.XmlBeanDefinitionReader.loadBeanDefinitions Loading XML bean definitions from ServletContext resource [/WEB-INF/dispatcher-servlet.xml]
+26-Oct-2018 19:51:00.136 INFO [http-nio-8080-exec-49] org.springframework.web.servlet.handler.AbstractUrlHandlerMapping.registerHandler Mapped URL path [/index] onto handler 'indexController'
+26-Oct-2018 19:51:00.350 INFO [93] org.springframework.web.servlet.FrameworkServlet.initServletBean FrameworkServlet 'dispatcher': initialization completed in 567 ms
+26-Oct-2018 19:51:00.357 INFO [93] org.apache.catalina.startup.HostConfig.deployDescriptor Deployment of configuration descriptor [D:\Java\apache-tomcat-8.5.34\conf\Catalina\localhost\shop.xml] has finished in [4,464] ms
+26-Oct-2018 19:51:00.448 INFO [http-nio-8080-exec-53] org.apache.catalina.util.LifecycleBase.start The start() method was called on component [StandardEngine[Catalina].StandardHost[localhost].StandardContext[/shop]] after start() had already been called. The second call will be ignored.
+26-Oct-2018 19:51:04.429 INFO [http-nio-8080-exec-44] org.springframework.context.support.AbstractApplicationContext.doClose Closing WebApplicationContext for namespace 'dispatcher-servlet': startup date [Fri Oct 26 19:50:59 GMT+07:00 2018]; parent: Root WebApplicationContext
+26-Oct-2018 19:51:04.433 INFO [http-nio-8080-exec-44] org.springframework.context.support.AbstractApplicationContext.doClose Closing Root WebApplicationContext: startup date [Fri Oct 26 19:50:59 GMT+07:00 2018]; root of context hierarchy
+26-Oct-2018 19:51:07.229 INFO [http-nio-8080-exec-47] org.apache.jasper.servlet.TldScanner.scanJars At least one JAR was scanned for TLDs yet contained no TLDs. Enable debug logging for this logger for a complete list of JARs that were scanned but no TLDs were found in them. Skipping unneeded JARs during scanning can improve startup time and JSP compilation time.
+26-Oct-2018 19:51:07.304 INFO [http-nio-8080-exec-47] org.springframework.web.context.ContextLoader.initWebApplicationContext Root WebApplicationContext: initialization started
+26-Oct-2018 19:51:07.599 INFO [http-nio-8080-exec-47] org.springframework.context.support.AbstractApplicationContext.prepareRefresh Refreshing Root WebApplicationContext: startup date [Fri Oct 26 19:51:07 GMT+07:00 2018]; root of context hierarchy
+26-Oct-2018 19:51:07.742 INFO [http-nio-8080-exec-47] org.springframework.beans.factory.xml.XmlBeanDefinitionReader.loadBeanDefinitions Loading XML bean definitions from ServletContext resource [/WEB-INF/applicationContext.xml]
+26-Oct-2018 19:51:07.877 INFO [http-nio-8080-exec-47] org.springframework.web.context.ContextLoader.initWebApplicationContext Root WebApplicationContext: initialization completed in 573 ms
+26-Oct-2018 19:51:07.934 INFO [http-nio-8080-exec-47] org.springframework.web.servlet.FrameworkServlet.initServletBean FrameworkServlet 'dispatcher': initialization started
+26-Oct-2018 19:51:07.944 INFO [http-nio-8080-exec-47] org.springframework.context.support.AbstractApplicationContext.prepareRefresh Refreshing WebApplicationContext for namespace 'dispatcher-servlet': startup date [Fri Oct 26 19:51:07 GMT+07:00 2018]; parent: Root WebApplicationContext
+26-Oct-2018 19:51:07.947 INFO [http-nio-8080-exec-47] org.springframework.beans.factory.xml.XmlBeanDefinitionReader.loadBeanDefinitions Loading XML bean definitions from ServletContext resource [/WEB-INF/dispatcher-servlet.xml]
+26-Oct-2018 19:51:08.204 INFO [http-nio-8080-exec-47] org.springframework.web.servlet.handler.AbstractUrlHandlerMapping.registerHandler Mapped URL path [/index] onto handler 'indexController'
+26-Oct-2018 19:51:08.346 INFO [http-nio-8080-exec-47] org.springframework.web.servlet.FrameworkServlet.initServletBean FrameworkServlet 'dispatcher': initialization completed in 412 ms
+26-Oct-2018 19:51:10.469 WARNING [http-nio-8080-exec-44] org.springframework.web.servlet.DispatcherServlet.noHandlerFound No mapping found for HTTP request with URI [/shop/home/index] in DispatcherServlet with name 'dispatcher'
+26-Oct-2018 19:51:45.067 INFO [http-nio-8080-exec-54] org.apache.catalina.core.StandardContext.reload Reloading Context with name [/shop] has started
+26-Oct-2018 19:51:45.077 INFO [http-nio-8080-exec-54] org.springframework.context.support.AbstractApplicationContext.doClose Closing WebApplicationContext for namespace 'dispatcher-servlet': startup date [Fri Oct 26 19:51:07 GMT+07:00 2018]; parent: Root WebApplicationContext
+26-Oct-2018 19:51:45.083 INFO [http-nio-8080-exec-54] org.springframework.context.support.AbstractApplicationContext.doClose Closing Root WebApplicationContext: startup date [Fri Oct 26 19:51:07 GMT+07:00 2018]; root of context hierarchy
+26-Oct-2018 19:51:48.560 INFO [http-nio-8080-exec-54] org.apache.jasper.servlet.TldScanner.scanJars At least one JAR was scanned for TLDs yet contained no TLDs. Enable debug logging for this logger for a complete list of JARs that were scanned but no TLDs were found in them. Skipping unneeded JARs during scanning can improve startup time and JSP compilation time.
+26-Oct-2018 19:51:48.648 INFO [http-nio-8080-exec-54] org.springframework.web.context.ContextLoader.initWebApplicationContext Root WebApplicationContext: initialization started
+26-Oct-2018 19:51:49.059 INFO [http-nio-8080-exec-54] org.springframework.context.support.AbstractApplicationContext.prepareRefresh Refreshing Root WebApplicationContext: startup date [Fri Oct 26 19:51:49 GMT+07:00 2018]; root of context hierarchy
+26-Oct-2018 19:51:49.226 INFO [http-nio-8080-exec-54] org.springframework.beans.factory.xml.XmlBeanDefinitionReader.loadBeanDefinitions Loading XML bean definitions from ServletContext resource [/WEB-INF/applicationContext.xml]
+26-Oct-2018 19:51:49.431 INFO [http-nio-8080-exec-54] org.springframework.web.context.ContextLoader.initWebApplicationContext Root WebApplicationContext: initialization completed in 783 ms
+26-Oct-2018 19:51:49.484 INFO [http-nio-8080-exec-54] org.springframework.web.servlet.FrameworkServlet.initServletBean FrameworkServlet 'dispatcher': initialization started
+26-Oct-2018 19:51:49.495 INFO [http-nio-8080-exec-54] org.springframework.context.support.AbstractApplicationContext.prepareRefresh Refreshing WebApplicationContext for namespace 'dispatcher-servlet': startup date [Fri Oct 26 19:51:49 GMT+07:00 2018]; parent: Root WebApplicationContext
+26-Oct-2018 19:51:49.499 INFO [http-nio-8080-exec-54] org.springframework.beans.factory.xml.XmlBeanDefinitionReader.loadBeanDefinitions Loading XML bean definitions from ServletContext resource [/WEB-INF/dispatcher-servlet.xml]
+26-Oct-2018 19:51:49.773 INFO [http-nio-8080-exec-54] org.springframework.web.servlet.handler.AbstractUrlHandlerMapping.registerHandler Mapped URL path [/index] onto handler 'indexController'
+26-Oct-2018 19:51:49.936 INFO [http-nio-8080-exec-54] org.springframework.web.servlet.FrameworkServlet.initServletBean FrameworkServlet 'dispatcher': initialization completed in 452 ms
+26-Oct-2018 19:51:49.941 INFO [http-nio-8080-exec-54] org.apache.catalina.core.StandardContext.reload Reloading Context with name [/shop] is completed
+26-Oct-2018 19:51:50.850 WARNING [http-nio-8080-exec-61] org.springframework.web.servlet.DispatcherServlet.noHandlerFound No mapping found for HTTP request with URI [/shop/home/index] in DispatcherServlet with name 'dispatcher'
+26-Oct-2018 19:51:59.956 INFO [http-nio-8080-exec-55] org.apache.catalina.core.StandardContext.reload Reloading Context with name [/shop] has started
+26-Oct-2018 19:51:59.959 INFO [http-nio-8080-exec-55] org.springframework.context.support.AbstractApplicationContext.doClose Closing WebApplicationContext for namespace 'dispatcher-servlet': startup date [Fri Oct 26 19:51:49 GMT+07:00 2018]; parent: Root WebApplicationContext
+26-Oct-2018 19:51:59.965 INFO [http-nio-8080-exec-55] org.springframework.context.support.AbstractApplicationContext.doClose Closing Root WebApplicationContext: startup date [Fri Oct 26 19:51:49 GMT+07:00 2018]; root of context hierarchy
+26-Oct-2018 19:52:02.860 INFO [http-nio-8080-exec-55] org.apache.jasper.servlet.TldScanner.scanJars At least one JAR was scanned for TLDs yet contained no TLDs. Enable debug logging for this logger for a complete list of JARs that were scanned but no TLDs were found in them. Skipping unneeded JARs during scanning can improve startup time and JSP compilation time.
+26-Oct-2018 19:52:02.957 INFO [http-nio-8080-exec-55] org.springframework.web.context.ContextLoader.initWebApplicationContext Root WebApplicationContext: initialization started
+26-Oct-2018 19:52:03.235 INFO [http-nio-8080-exec-55] org.springframework.context.support.AbstractApplicationContext.prepareRefresh Refreshing Root WebApplicationContext: startup date [Fri Oct 26 19:52:03 GMT+07:00 2018]; root of context hierarchy
+26-Oct-2018 19:52:03.680 INFO [http-nio-8080-exec-55] org.springframework.beans.factory.xml.XmlBeanDefinitionReader.loadBeanDefinitions Loading XML bean definitions from ServletContext resource [/WEB-INF/applicationContext.xml]
+26-Oct-2018 19:52:03.829 INFO [http-nio-8080-exec-55] org.springframework.web.context.ContextLoader.initWebApplicationContext Root WebApplicationContext: initialization completed in 871 ms
+26-Oct-2018 19:52:03.881 INFO [http-nio-8080-exec-55] org.springframework.web.servlet.FrameworkServlet.initServletBean FrameworkServlet 'dispatcher': initialization started
+26-Oct-2018 19:52:03.892 INFO [http-nio-8080-exec-55] org.springframework.context.support.AbstractApplicationContext.prepareRefresh Refreshing WebApplicationContext for namespace 'dispatcher-servlet': startup date [Fri Oct 26 19:52:03 GMT+07:00 2018]; parent: Root WebApplicationContext
+26-Oct-2018 19:52:03.896 INFO [http-nio-8080-exec-55] org.springframework.beans.factory.xml.XmlBeanDefinitionReader.loadBeanDefinitions Loading XML bean definitions from ServletContext resource [/WEB-INF/dispatcher-servlet.xml]
+26-Oct-2018 19:52:04.180 INFO [http-nio-8080-exec-55] org.springframework.web.servlet.handler.AbstractUrlHandlerMapping.registerHandler Mapped URL path [/index] onto handler 'indexController'
+26-Oct-2018 19:52:04.326 INFO [http-nio-8080-exec-55] org.springframework.web.servlet.FrameworkServlet.initServletBean FrameworkServlet 'dispatcher': initialization completed in 445 ms
+26-Oct-2018 19:52:04.331 INFO [http-nio-8080-exec-55] org.apache.catalina.core.StandardContext.reload Reloading Context with name [/shop] is completed
+26-Oct-2018 19:52:05.666 WARNING [http-nio-8080-exec-65] org.springframework.web.servlet.DispatcherServlet.noHandlerFound No mapping found for HTTP request with URI [/shop/home/index] in DispatcherServlet with name 'dispatcher'
+26-Oct-2018 19:52:43.101 INFO [http-nio-8080-exec-66] org.apache.catalina.core.StandardContext.reload Reloading Context with name [/shop] has started
+26-Oct-2018 19:52:43.112 INFO [http-nio-8080-exec-66] org.springframework.context.support.AbstractApplicationContext.doClose Closing WebApplicationContext for namespace 'dispatcher-servlet': startup date [Fri Oct 26 19:52:03 GMT+07:00 2018]; parent: Root WebApplicationContext
+26-Oct-2018 19:52:43.120 INFO [http-nio-8080-exec-66] org.springframework.context.support.AbstractApplicationContext.doClose Closing Root WebApplicationContext: startup date [Fri Oct 26 19:52:03 GMT+07:00 2018]; root of context hierarchy
+26-Oct-2018 19:52:48.546 INFO [http-nio-8080-exec-66] org.apache.jasper.servlet.TldScanner.scanJars At least one JAR was scanned for TLDs yet contained no TLDs. Enable debug logging for this logger for a complete list of JARs that were scanned but no TLDs were found in them. Skipping unneeded JARs during scanning can improve startup time and JSP compilation time.
+26-Oct-2018 19:52:48.775 INFO [http-nio-8080-exec-66] org.springframework.web.context.ContextLoader.initWebApplicationContext Root WebApplicationContext: initialization started
+26-Oct-2018 19:52:49.399 INFO [http-nio-8080-exec-66] org.springframework.context.support.AbstractApplicationContext.prepareRefresh Refreshing Root WebApplicationContext: startup date [Fri Oct 26 19:52:49 GMT+07:00 2018]; root of context hierarchy
+26-Oct-2018 19:52:49.565 INFO [http-nio-8080-exec-66] org.springframework.beans.factory.xml.XmlBeanDefinitionReader.loadBeanDefinitions Loading XML bean definitions from ServletContext resource [/WEB-INF/applicationContext.xml]
+26-Oct-2018 19:52:49.731 INFO [http-nio-8080-exec-66] org.springframework.web.context.ContextLoader.initWebApplicationContext Root WebApplicationContext: initialization completed in 956 ms
+26-Oct-2018 19:52:49.779 INFO [http-nio-8080-exec-66] org.springframework.web.servlet.FrameworkServlet.initServletBean FrameworkServlet 'dispatcher': initialization started
+26-Oct-2018 19:52:49.788 INFO [http-nio-8080-exec-66] org.springframework.context.support.AbstractApplicationContext.prepareRefresh Refreshing WebApplicationContext for namespace 'dispatcher-servlet': startup date [Fri Oct 26 19:52:49 GMT+07:00 2018]; parent: Root WebApplicationContext
+26-Oct-2018 19:52:49.791 INFO [http-nio-8080-exec-66] org.springframework.beans.factory.xml.XmlBeanDefinitionReader.loadBeanDefinitions Loading XML bean definitions from ServletContext resource [/WEB-INF/dispatcher-servlet.xml]
+26-Oct-2018 19:52:50.052 INFO [http-nio-8080-exec-66] org.springframework.web.servlet.handler.AbstractUrlHandlerMapping.registerHandler Mapped URL path [/index] onto handler 'indexController'
+26-Oct-2018 19:52:50.224 INFO [http-nio-8080-exec-66] org.springframework.web.servlet.FrameworkServlet.initServletBean FrameworkServlet 'dispatcher': initialization completed in 445 ms
+26-Oct-2018 19:52:50.228 INFO [http-nio-8080-exec-66] org.apache.catalina.core.StandardContext.reload Reloading Context with name [/shop] is completed
+26-Oct-2018 19:53:44.775 INFO [http-nio-8080-exec-57] org.apache.catalina.core.StandardContext.reload Reloading Context with name [/shop] has started
+26-Oct-2018 19:53:44.779 INFO [http-nio-8080-exec-57] org.springframework.context.support.AbstractApplicationContext.doClose Closing WebApplicationContext for namespace 'dispatcher-servlet': startup date [Fri Oct 26 19:52:49 GMT+07:00 2018]; parent: Root WebApplicationContext
+26-Oct-2018 19:53:44.784 INFO [http-nio-8080-exec-57] org.springframework.context.support.AbstractApplicationContext.doClose Closing Root WebApplicationContext: startup date [Fri Oct 26 19:52:49 GMT+07:00 2018]; root of context hierarchy
+26-Oct-2018 19:53:47.899 INFO [http-nio-8080-exec-57] org.apache.jasper.servlet.TldScanner.scanJars At least one JAR was scanned for TLDs yet contained no TLDs. Enable debug logging for this logger for a complete list of JARs that were scanned but no TLDs were found in them. Skipping unneeded JARs during scanning can improve startup time and JSP compilation time.
+26-Oct-2018 19:53:47.991 INFO [http-nio-8080-exec-57] org.springframework.web.context.ContextLoader.initWebApplicationContext Root WebApplicationContext: initialization started
+26-Oct-2018 19:53:48.413 INFO [http-nio-8080-exec-57] org.springframework.context.support.AbstractApplicationContext.prepareRefresh Refreshing Root WebApplicationContext: startup date [Fri Oct 26 19:53:48 GMT+07:00 2018]; root of context hierarchy
+26-Oct-2018 19:53:48.536 INFO [http-nio-8080-exec-57] org.springframework.beans.factory.xml.XmlBeanDefinitionReader.loadBeanDefinitions Loading XML bean definitions from ServletContext resource [/WEB-INF/applicationContext.xml]
+26-Oct-2018 19:53:48.671 INFO [http-nio-8080-exec-57] org.springframework.web.context.ContextLoader.initWebApplicationContext Root WebApplicationContext: initialization completed in 678 ms
+26-Oct-2018 19:53:48.721 INFO [http-nio-8080-exec-57] org.springframework.web.servlet.FrameworkServlet.initServletBean FrameworkServlet 'dispatcher': initialization started
+26-Oct-2018 19:53:48.730 INFO [http-nio-8080-exec-57] org.springframework.context.support.AbstractApplicationContext.prepareRefresh Refreshing WebApplicationContext for namespace 'dispatcher-servlet': startup date [Fri Oct 26 19:53:48 GMT+07:00 2018]; parent: Root WebApplicationContext
+26-Oct-2018 19:53:48.733 INFO [http-nio-8080-exec-57] org.springframework.beans.factory.xml.XmlBeanDefinitionReader.loadBeanDefinitions Loading XML bean definitions from ServletContext resource [/WEB-INF/dispatcher-servlet.xml]
+26-Oct-2018 19:53:49.031 INFO [http-nio-8080-exec-57] org.springframework.web.servlet.handler.AbstractUrlHandlerMapping.registerHandler Mapped URL path [/index] onto handler 'indexController'
+26-Oct-2018 19:53:49.167 INFO [http-nio-8080-exec-57] org.springframework.web.servlet.FrameworkServlet.initServletBean FrameworkServlet 'dispatcher': initialization completed in 446 ms
+26-Oct-2018 19:53:49.173 INFO [http-nio-8080-exec-57] org.apache.catalina.core.StandardContext.reload Reloading Context with name [/shop] is completed
+26-Oct-2018 19:53:50.956 WARNING [112] org.springframework.web.servlet.DispatcherServlet.noHandlerFound No mapping found for HTTP request with URI [/shop/home/index] in DispatcherServlet with name 'dispatcher'
+26-Oct-2018 19:55:55.994 WARNING [http-nio-8080-exec-83] org.springframework.web.servlet.DispatcherServlet.noHandlerFound No mapping found for HTTP request with URI [/shop/home/index] in DispatcherServlet with name 'dispatcher'
+26-Oct-2018 19:56:19.723 INFO [http-nio-8080-exec-75] org.apache.catalina.core.StandardContext.reload Reloading Context with name [/shop] has started
+26-Oct-2018 19:56:19.728 INFO [http-nio-8080-exec-75] org.springframework.context.support.AbstractApplicationContext.doClose Closing WebApplicationContext for namespace 'dispatcher-servlet': startup date [Fri Oct 26 19:53:48 GMT+07:00 2018]; parent: Root WebApplicationContext
+26-Oct-2018 19:56:19.733 INFO [http-nio-8080-exec-75] org.springframework.context.support.AbstractApplicationContext.doClose Closing Root WebApplicationContext: startup date [Fri Oct 26 19:53:48 GMT+07:00 2018]; root of context hierarchy
+26-Oct-2018 19:56:23.804 INFO [http-nio-8080-exec-75] org.apache.jasper.servlet.TldScanner.scanJars At least one JAR was scanned for TLDs yet contained no TLDs. Enable debug logging for this logger for a complete list of JARs that were scanned but no TLDs were found in them. Skipping unneeded JARs during scanning can improve startup time and JSP compilation time.
+26-Oct-2018 19:56:23.904 INFO [http-nio-8080-exec-75] org.springframework.web.context.ContextLoader.initWebApplicationContext Root WebApplicationContext: initialization started
+26-Oct-2018 19:56:24.170 INFO [http-nio-8080-exec-75] org.springframework.context.support.AbstractApplicationContext.prepareRefresh Refreshing Root WebApplicationContext: startup date [Fri Oct 26 19:56:24 GMT+07:00 2018]; root of context hierarchy
+26-Oct-2018 19:56:24.307 INFO [http-nio-8080-exec-75] org.springframework.beans.factory.xml.XmlBeanDefinitionReader.loadBeanDefinitions Loading XML bean definitions from ServletContext resource [/WEB-INF/applicationContext.xml]
+26-Oct-2018 19:56:24.454 INFO [http-nio-8080-exec-75] org.springframework.web.context.ContextLoader.initWebApplicationContext Root WebApplicationContext: initialization completed in 550 ms
+26-Oct-2018 19:56:24.508 INFO [http-nio-8080-exec-75] org.springframework.web.servlet.FrameworkServlet.initServletBean FrameworkServlet 'dispatcher': initialization started
+26-Oct-2018 19:56:24.519 INFO [http-nio-8080-exec-75] org.springframework.context.support.AbstractApplicationContext.prepareRefresh Refreshing WebApplicationContext for namespace 'dispatcher-servlet': startup date [Fri Oct 26 19:56:24 GMT+07:00 2018]; parent: Root WebApplicationContext
+26-Oct-2018 19:56:24.523 INFO [http-nio-8080-exec-75] org.springframework.beans.factory.xml.XmlBeanDefinitionReader.loadBeanDefinitions Loading XML bean definitions from ServletContext resource [/WEB-INF/dispatcher-servlet.xml]
+26-Oct-2018 19:56:24.814 INFO [http-nio-8080-exec-75] org.springframework.web.servlet.handler.AbstractUrlHandlerMapping.registerHandler Mapped URL path [/index] onto handler 'indexController'
+26-Oct-2018 19:56:24.986 INFO [http-nio-8080-exec-75] org.springframework.web.servlet.FrameworkServlet.initServletBean FrameworkServlet 'dispatcher': initialization completed in 477 ms
+26-Oct-2018 19:56:24.990 INFO [http-nio-8080-exec-75] org.apache.catalina.core.StandardContext.reload Reloading Context with name [/shop] is completed
+26-Oct-2018 19:56:26.003 WARNING [http-nio-8080-exec-79] org.springframework.web.servlet.DispatcherServlet.noHandlerFound No mapping found for HTTP request with URI [/shop/home/index] in DispatcherServlet with name 'dispatcher'
+26-Oct-2018 19:56:32.989 INFO [http-nio-8080-exec-77] org.apache.catalina.core.StandardContext.reload Reloading Context with name [/shop] has started
+26-Oct-2018 19:56:32.993 INFO [http-nio-8080-exec-77] org.springframework.context.support.AbstractApplicationContext.doClose Closing WebApplicationContext for namespace 'dispatcher-servlet': startup date [Fri Oct 26 19:56:24 GMT+07:00 2018]; parent: Root WebApplicationContext
+26-Oct-2018 19:56:32.997 INFO [http-nio-8080-exec-77] org.springframework.context.support.AbstractApplicationContext.doClose Closing Root WebApplicationContext: startup date [Fri Oct 26 19:56:24 GMT+07:00 2018]; root of context hierarchy
+26-Oct-2018 19:56:36.090 INFO [http-nio-8080-exec-77] org.apache.jasper.servlet.TldScanner.scanJars At least one JAR was scanned for TLDs yet contained no TLDs. Enable debug logging for this logger for a complete list of JARs that were scanned but no TLDs were found in them. Skipping unneeded JARs during scanning can improve startup time and JSP compilation time.
+26-Oct-2018 19:56:36.176 INFO [http-nio-8080-exec-77] org.springframework.web.context.ContextLoader.initWebApplicationContext Root WebApplicationContext: initialization started
+26-Oct-2018 19:56:36.498 INFO [http-nio-8080-exec-77] org.springframework.context.support.AbstractApplicationContext.prepareRefresh Refreshing Root WebApplicationContext: startup date [Fri Oct 26 19:56:36 GMT+07:00 2018]; root of context hierarchy
+26-Oct-2018 19:56:36.667 INFO [http-nio-8080-exec-77] org.springframework.beans.factory.xml.XmlBeanDefinitionReader.loadBeanDefinitions Loading XML bean definitions from ServletContext resource [/WEB-INF/applicationContext.xml]
+26-Oct-2018 19:56:36.861 INFO [http-nio-8080-exec-77] org.springframework.web.context.ContextLoader.initWebApplicationContext Root WebApplicationContext: initialization completed in 685 ms
+26-Oct-2018 19:56:36.917 INFO [http-nio-8080-exec-77] org.springframework.web.servlet.FrameworkServlet.initServletBean FrameworkServlet 'dispatcher': initialization started
+26-Oct-2018 19:56:36.932 INFO [http-nio-8080-exec-77] org.springframework.context.support.AbstractApplicationContext.prepareRefresh Refreshing WebApplicationContext for namespace 'dispatcher-servlet': startup date [Fri Oct 26 19:56:36 GMT+07:00 2018]; parent: Root WebApplicationContext
+26-Oct-2018 19:56:36.936 INFO [http-nio-8080-exec-77] org.springframework.beans.factory.xml.XmlBeanDefinitionReader.loadBeanDefinitions Loading XML bean definitions from ServletContext resource [/WEB-INF/dispatcher-servlet.xml]
+26-Oct-2018 19:56:37.197 INFO [http-nio-8080-exec-77] org.springframework.web.servlet.handler.AbstractUrlHandlerMapping.registerHandler Mapped URL path [/index] onto handler 'indexController'
+26-Oct-2018 19:56:37.334 INFO [http-nio-8080-exec-77] org.springframework.web.servlet.FrameworkServlet.initServletBean FrameworkServlet 'dispatcher': initialization completed in 416 ms
+26-Oct-2018 19:56:37.339 INFO [http-nio-8080-exec-77] org.apache.catalina.core.StandardContext.reload Reloading Context with name [/shop] is completed
+26-Oct-2018 19:56:39.117 WARNING [http-nio-8080-exec-76] org.springframework.web.servlet.DispatcherServlet.noHandlerFound No mapping found for HTTP request with URI [/shop/home/index] in DispatcherServlet with name 'dispatcher'
+26-Oct-2018 19:57:08.442 WARNING [http-nio-8080-exec-91] org.springframework.web.servlet.DispatcherServlet.noHandlerFound No mapping found for HTTP request with URI [/shop/pages/index] in DispatcherServlet with name 'dispatcher'
+26-Oct-2018 19:57:24.495 INFO [http-nio-8080-exec-94] org.apache.catalina.core.StandardContext.reload Reloading Context with name [/shop] has started
+26-Oct-2018 19:57:24.501 INFO [http-nio-8080-exec-94] org.springframework.context.support.AbstractApplicationContext.doClose Closing WebApplicationContext for namespace 'dispatcher-servlet': startup date [Fri Oct 26 19:56:36 GMT+07:00 2018]; parent: Root WebApplicationContext
+26-Oct-2018 19:57:24.504 INFO [http-nio-8080-exec-94] org.springframework.context.support.AbstractApplicationContext.doClose Closing Root WebApplicationContext: startup date [Fri Oct 26 19:56:36 GMT+07:00 2018]; root of context hierarchy
+26-Oct-2018 19:57:28.160 INFO [http-nio-8080-exec-94] org.apache.jasper.servlet.TldScanner.scanJars At least one JAR was scanned for TLDs yet contained no TLDs. Enable debug logging for this logger for a complete list of JARs that were scanned but no TLDs were found in them. Skipping unneeded JARs during scanning can improve startup time and JSP compilation time.
+26-Oct-2018 19:57:28.249 INFO [http-nio-8080-exec-94] org.springframework.web.context.ContextLoader.initWebApplicationContext Root WebApplicationContext: initialization started
+26-Oct-2018 19:57:28.577 INFO [http-nio-8080-exec-94] org.springframework.context.support.AbstractApplicationContext.prepareRefresh Refreshing Root WebApplicationContext: startup date [Fri Oct 26 19:57:28 GMT+07:00 2018]; root of context hierarchy
+26-Oct-2018 19:57:28.750 INFO [http-nio-8080-exec-94] org.springframework.beans.factory.xml.XmlBeanDefinitionReader.loadBeanDefinitions Loading XML bean definitions from ServletContext resource [/WEB-INF/applicationContext.xml]
+26-Oct-2018 19:57:28.927 INFO [http-nio-8080-exec-94] org.springframework.web.context.ContextLoader.initWebApplicationContext Root WebApplicationContext: initialization completed in 677 ms
+26-Oct-2018 19:57:28.996 INFO [http-nio-8080-exec-94] org.springframework.web.servlet.FrameworkServlet.initServletBean FrameworkServlet 'dispatcher': initialization started
+26-Oct-2018 19:57:29.007 INFO [http-nio-8080-exec-94] org.springframework.context.support.AbstractApplicationContext.prepareRefresh Refreshing WebApplicationContext for namespace 'dispatcher-servlet': startup date [Fri Oct 26 19:57:29 GMT+07:00 2018]; parent: Root WebApplicationContext
+26-Oct-2018 19:57:29.011 INFO [http-nio-8080-exec-94] org.springframework.beans.factory.xml.XmlBeanDefinitionReader.loadBeanDefinitions Loading XML bean definitions from ServletContext resource [/WEB-INF/dispatcher-servlet.xml]
+26-Oct-2018 19:57:29.327 INFO [http-nio-8080-exec-94] org.springframework.web.servlet.handler.AbstractUrlHandlerMapping.registerHandler Mapped URL path [/index] onto handler 'indexController'
+26-Oct-2018 19:57:29.501 INFO [http-nio-8080-exec-94] org.springframework.web.servlet.FrameworkServlet.initServletBean FrameworkServlet 'dispatcher': initialization completed in 504 ms
+26-Oct-2018 19:57:29.505 INFO [http-nio-8080-exec-94] org.apache.catalina.core.StandardContext.reload Reloading Context with name [/shop] is completed
+26-Oct-2018 19:57:29.792 WARNING [http-nio-8080-exec-99] org.springframework.web.servlet.DispatcherServlet.noHandlerFound No mapping found for HTTP request with URI [/shop/pages/index] in DispatcherServlet with name 'dispatcher'
+26-Oct-2018 19:57:35.591 INFO [http-nio-8080-exec-101] org.apache.catalina.core.StandardContext.reload Reloading Context with name [/shop] has started
+26-Oct-2018 19:57:35.595 INFO [http-nio-8080-exec-101] org.springframework.context.support.AbstractApplicationContext.doClose Closing WebApplicationContext for namespace 'dispatcher-servlet': startup date [Fri Oct 26 19:57:29 GMT+07:00 2018]; parent: Root WebApplicationContext
+26-Oct-2018 19:57:35.600 INFO [http-nio-8080-exec-101] org.springframework.context.support.AbstractApplicationContext.doClose Closing Root WebApplicationContext: startup date [Fri Oct 26 19:57:28 GMT+07:00 2018]; root of context hierarchy
+26-Oct-2018 19:57:40.052 INFO [http-nio-8080-exec-101] org.apache.jasper.servlet.TldScanner.scanJars At least one JAR was scanned for TLDs yet contained no TLDs. Enable debug logging for this logger for a complete list of JARs that were scanned but no TLDs were found in them. Skipping unneeded JARs during scanning can improve startup time and JSP compilation time.
+26-Oct-2018 19:57:40.210 INFO [http-nio-8080-exec-101] org.springframework.web.context.ContextLoader.initWebApplicationContext Root WebApplicationContext: initialization started
+26-Oct-2018 19:57:40.814 INFO [http-nio-8080-exec-101] org.springframework.context.support.AbstractApplicationContext.prepareRefresh Refreshing Root WebApplicationContext: startup date [Fri Oct 26 19:57:40 GMT+07:00 2018]; root of context hierarchy
+26-Oct-2018 19:57:41.002 INFO [http-nio-8080-exec-101] org.springframework.beans.factory.xml.XmlBeanDefinitionReader.loadBeanDefinitions Loading XML bean definitions from ServletContext resource [/WEB-INF/applicationContext.xml]
+26-Oct-2018 19:57:41.181 INFO [http-nio-8080-exec-101] org.springframework.web.context.ContextLoader.initWebApplicationContext Root WebApplicationContext: initialization completed in 969 ms
+26-Oct-2018 19:57:41.240 INFO [http-nio-8080-exec-101] org.springframework.web.servlet.FrameworkServlet.initServletBean FrameworkServlet 'dispatcher': initialization started
+26-Oct-2018 19:57:41.250 INFO [http-nio-8080-exec-101] org.springframework.context.support.AbstractApplicationContext.prepareRefresh Refreshing WebApplicationContext for namespace 'dispatcher-servlet': startup date [Fri Oct 26 19:57:41 GMT+07:00 2018]; parent: Root WebApplicationContext
+26-Oct-2018 19:57:41.255 INFO [http-nio-8080-exec-101] org.springframework.beans.factory.xml.XmlBeanDefinitionReader.loadBeanDefinitions Loading XML bean definitions from ServletContext resource [/WEB-INF/dispatcher-servlet.xml]
+26-Oct-2018 19:57:41.573 INFO [http-nio-8080-exec-101] org.springframework.web.servlet.handler.AbstractUrlHandlerMapping.registerHandler Mapped URL path [/index] onto handler 'indexController'
+26-Oct-2018 19:57:41.733 INFO [http-nio-8080-exec-101] org.springframework.web.servlet.FrameworkServlet.initServletBean FrameworkServlet 'dispatcher': initialization completed in 493 ms
+26-Oct-2018 19:57:41.739 INFO [148] org.apache.catalina.core.StandardContext.reload Reloading Context with name [/shop] is completed
+26-Oct-2018 19:57:45.964 INFO [http-nio-8080-exec-95] org.apache.catalina.core.StandardContext.reload Reloading Context with name [/shop] has started
+26-Oct-2018 19:57:45.972 INFO [http-nio-8080-exec-95] org.springframework.context.support.AbstractApplicationContext.doClose Closing WebApplicationContext for namespace 'dispatcher-servlet': startup date [Fri Oct 26 19:57:41 GMT+07:00 2018]; parent: Root WebApplicationContext
+26-Oct-2018 19:57:45.980 INFO [http-nio-8080-exec-95] org.springframework.context.support.AbstractApplicationContext.doClose Closing Root WebApplicationContext: startup date [Fri Oct 26 19:57:40 GMT+07:00 2018]; root of context hierarchy
+26-Oct-2018 19:57:49.181 INFO [http-nio-8080-exec-95] org.apache.jasper.servlet.TldScanner.scanJars At least one JAR was scanned for TLDs yet contained no TLDs. Enable debug logging for this logger for a complete list of JARs that were scanned but no TLDs were found in them. Skipping unneeded JARs during scanning can improve startup time and JSP compilation time.
+26-Oct-2018 19:57:49.268 INFO [http-nio-8080-exec-95] org.springframework.web.context.ContextLoader.initWebApplicationContext Root WebApplicationContext: initialization started
+26-Oct-2018 19:57:49.523 INFO [http-nio-8080-exec-95] org.springframework.context.support.AbstractApplicationContext.prepareRefresh Refreshing Root WebApplicationContext: startup date [Fri Oct 26 19:57:49 GMT+07:00 2018]; root of context hierarchy
+26-Oct-2018 19:57:49.662 INFO [http-nio-8080-exec-95] org.springframework.beans.factory.xml.XmlBeanDefinitionReader.loadBeanDefinitions Loading XML bean definitions from ServletContext resource [/WEB-INF/applicationContext.xml]
+26-Oct-2018 19:57:49.797 INFO [http-nio-8080-exec-95] org.springframework.web.context.ContextLoader.initWebApplicationContext Root WebApplicationContext: initialization completed in 529 ms
+26-Oct-2018 19:57:49.843 INFO [http-nio-8080-exec-95] org.springframework.web.servlet.FrameworkServlet.initServletBean FrameworkServlet 'dispatcher': initialization started
+26-Oct-2018 19:57:49.853 INFO [http-nio-8080-exec-95] org.springframework.context.support.AbstractApplicationContext.prepareRefresh Refreshing WebApplicationContext for namespace 'dispatcher-servlet': startup date [Fri Oct 26 19:57:49 GMT+07:00 2018]; parent: Root WebApplicationContext
+26-Oct-2018 19:57:49.856 INFO [http-nio-8080-exec-95] org.springframework.beans.factory.xml.XmlBeanDefinitionReader.loadBeanDefinitions Loading XML bean definitions from ServletContext resource [/WEB-INF/dispatcher-servlet.xml]
+26-Oct-2018 19:57:50.120 INFO [http-nio-8080-exec-95] org.springframework.web.servlet.handler.AbstractUrlHandlerMapping.registerHandler Mapped URL path [/index] onto handler 'indexController'
+26-Oct-2018 19:57:50.247 INFO [http-nio-8080-exec-95] org.springframework.web.servlet.FrameworkServlet.initServletBean FrameworkServlet 'dispatcher': initialization completed in 403 ms
+26-Oct-2018 19:57:50.252 INFO [http-nio-8080-exec-95] org.apache.catalina.core.StandardContext.reload Reloading Context with name [/shop] is completed
+26-Oct-2018 19:59:05.127 INFO [http-nio-8080-exec-108] org.apache.catalina.core.StandardContext.reload Reloading Context with name [/shop] has started
+26-Oct-2018 19:59:05.130 INFO [http-nio-8080-exec-108] org.springframework.context.support.AbstractApplicationContext.doClose Closing WebApplicationContext for namespace 'dispatcher-servlet': startup date [Fri Oct 26 19:57:49 GMT+07:00 2018]; parent: Root WebApplicationContext
+26-Oct-2018 19:59:05.135 INFO [http-nio-8080-exec-108] org.springframework.context.support.AbstractApplicationContext.doClose Closing Root WebApplicationContext: startup date [Fri Oct 26 19:57:49 GMT+07:00 2018]; root of context hierarchy
+26-Oct-2018 19:59:08.320 INFO [http-nio-8080-exec-108] org.apache.jasper.servlet.TldScanner.scanJars At least one JAR was scanned for TLDs yet contained no TLDs. Enable debug logging for this logger for a complete list of JARs that were scanned but no TLDs were found in them. Skipping unneeded JARs during scanning can improve startup time and JSP compilation time.
+26-Oct-2018 19:59:08.428 INFO [http-nio-8080-exec-108] org.springframework.web.context.ContextLoader.initWebApplicationContext Root WebApplicationContext: initialization started
+26-Oct-2018 19:59:08.790 INFO [http-nio-8080-exec-108] org.springframework.context.support.AbstractApplicationContext.prepareRefresh Refreshing Root WebApplicationContext: startup date [Fri Oct 26 19:59:08 GMT+07:00 2018]; root of context hierarchy
+26-Oct-2018 19:59:08.960 INFO [http-nio-8080-exec-108] org.springframework.beans.factory.xml.XmlBeanDefinitionReader.loadBeanDefinitions Loading XML bean definitions from ServletContext resource [/WEB-INF/applicationContext.xml]
+26-Oct-2018 19:59:09.113 INFO [http-nio-8080-exec-108] org.springframework.web.context.ContextLoader.initWebApplicationContext Root WebApplicationContext: initialization completed in 684 ms
+26-Oct-2018 19:59:09.168 INFO [http-nio-8080-exec-108] org.springframework.web.servlet.FrameworkServlet.initServletBean FrameworkServlet 'dispatcher': initialization started
+26-Oct-2018 19:59:09.176 INFO [http-nio-8080-exec-108] org.springframework.context.support.AbstractApplicationContext.prepareRefresh Refreshing WebApplicationContext for namespace 'dispatcher-servlet': startup date [Fri Oct 26 19:59:09 GMT+07:00 2018]; parent: Root WebApplicationContext
+26-Oct-2018 19:59:09.180 INFO [http-nio-8080-exec-108] org.springframework.beans.factory.xml.XmlBeanDefinitionReader.loadBeanDefinitions Loading XML bean definitions from ServletContext resource [/WEB-INF/dispatcher-servlet.xml]
+26-Oct-2018 19:59:09.477 INFO [http-nio-8080-exec-108] org.springframework.web.servlet.handler.AbstractUrlHandlerMapping.registerHandler Mapped URL path [/index] onto handler 'indexController'
+26-Oct-2018 19:59:09.622 INFO [http-nio-8080-exec-108] org.springframework.web.servlet.FrameworkServlet.initServletBean FrameworkServlet 'dispatcher': initialization completed in 454 ms
+26-Oct-2018 19:59:09.626 INFO [http-nio-8080-exec-108] org.apache.catalina.core.StandardContext.reload Reloading Context with name [/shop] is completed
+26-Oct-2018 19:59:35.734 INFO [http-nio-8080-exec-109] org.apache.catalina.core.StandardContext.reload Reloading Context with name [/shop] has started
+26-Oct-2018 19:59:35.738 INFO [http-nio-8080-exec-109] org.springframework.context.support.AbstractApplicationContext.doClose Closing WebApplicationContext for namespace 'dispatcher-servlet': startup date [Fri Oct 26 19:59:09 GMT+07:00 2018]; parent: Root WebApplicationContext
+26-Oct-2018 19:59:35.741 INFO [http-nio-8080-exec-109] org.springframework.context.support.AbstractApplicationContext.doClose Closing Root WebApplicationContext: startup date [Fri Oct 26 19:59:08 GMT+07:00 2018]; root of context hierarchy
+26-Oct-2018 19:59:39.071 INFO [http-nio-8080-exec-109] org.apache.jasper.servlet.TldScanner.scanJars At least one JAR was scanned for TLDs yet contained no TLDs. Enable debug logging for this logger for a complete list of JARs that were scanned but no TLDs were found in them. Skipping unneeded JARs during scanning can improve startup time and JSP compilation time.
+26-Oct-2018 19:59:39.148 INFO [http-nio-8080-exec-109] org.springframework.web.context.ContextLoader.initWebApplicationContext Root WebApplicationContext: initialization started
+26-Oct-2018 19:59:39.403 INFO [http-nio-8080-exec-109] org.springframework.context.support.AbstractApplicationContext.prepareRefresh Refreshing Root WebApplicationContext: startup date [Fri Oct 26 19:59:39 GMT+07:00 2018]; root of context hierarchy
+26-Oct-2018 19:59:39.541 INFO [http-nio-8080-exec-109] org.springframework.beans.factory.xml.XmlBeanDefinitionReader.loadBeanDefinitions Loading XML bean definitions from ServletContext resource [/WEB-INF/applicationContext.xml]
+26-Oct-2018 19:59:39.699 INFO [http-nio-8080-exec-109] org.springframework.web.context.ContextLoader.initWebApplicationContext Root WebApplicationContext: initialization completed in 550 ms
+26-Oct-2018 19:59:39.747 INFO [http-nio-8080-exec-109] org.springframework.web.servlet.FrameworkServlet.initServletBean FrameworkServlet 'dispatcher': initialization started
+26-Oct-2018 19:59:39.762 INFO [http-nio-8080-exec-109] org.springframework.context.support.AbstractApplicationContext.prepareRefresh Refreshing WebApplicationContext for namespace 'dispatcher-servlet': startup date [Fri Oct 26 19:59:39 GMT+07:00 2018]; parent: Root WebApplicationContext
+26-Oct-2018 19:59:39.766 INFO [http-nio-8080-exec-109] org.springframework.beans.factory.xml.XmlBeanDefinitionReader.loadBeanDefinitions Loading XML bean definitions from ServletContext resource [/WEB-INF/dispatcher-servlet.xml]
+26-Oct-2018 19:59:40.039 INFO [http-nio-8080-exec-109] org.springframework.web.servlet.handler.AbstractUrlHandlerMapping.registerHandler Mapped URL path [/index] onto handler 'indexController'
+26-Oct-2018 19:59:40.173 INFO [http-nio-8080-exec-109] org.springframework.web.servlet.FrameworkServlet.initServletBean FrameworkServlet 'dispatcher': initialization completed in 425 ms
+26-Oct-2018 19:59:40.177 INFO [http-nio-8080-exec-109] org.apache.catalina.core.StandardContext.reload Reloading Context with name [/shop] is completed
+26-Oct-2018 20:00:05.455 INFO [http-nio-8080-exec-120] org.apache.catalina.core.StandardContext.reload Reloading Context with name [/shop] has started
+26-Oct-2018 20:00:05.459 INFO [http-nio-8080-exec-120] org.springframework.context.support.AbstractApplicationContext.doClose Closing WebApplicationContext for namespace 'dispatcher-servlet': startup date [Fri Oct 26 19:59:39 GMT+07:00 2018]; parent: Root WebApplicationContext
+26-Oct-2018 20:00:05.464 INFO [http-nio-8080-exec-120] org.springframework.context.support.AbstractApplicationContext.doClose Closing Root WebApplicationContext: startup date [Fri Oct 26 19:59:39 GMT+07:00 2018]; root of context hierarchy
+26-Oct-2018 20:00:08.295 INFO [http-nio-8080-exec-120] org.apache.jasper.servlet.TldScanner.scanJars At least one JAR was scanned for TLDs yet contained no TLDs. Enable debug logging for this logger for a complete list of JARs that were scanned but no TLDs were found in them. Skipping unneeded JARs during scanning can improve startup time and JSP compilation time.
+26-Oct-2018 20:00:08.379 INFO [http-nio-8080-exec-120] org.springframework.web.context.ContextLoader.initWebApplicationContext Root WebApplicationContext: initialization started
+26-Oct-2018 20:00:08.694 INFO [http-nio-8080-exec-120] org.springframework.context.support.AbstractApplicationContext.prepareRefresh Refreshing Root WebApplicationContext: startup date [Fri Oct 26 20:00:08 GMT+07:00 2018]; root of context hierarchy
+26-Oct-2018 20:00:08.843 INFO [http-nio-8080-exec-120] org.springframework.beans.factory.xml.XmlBeanDefinitionReader.loadBeanDefinitions Loading XML bean definitions from ServletContext resource [/WEB-INF/applicationContext.xml]
+26-Oct-2018 20:00:08.989 INFO [http-nio-8080-exec-120] org.springframework.web.context.ContextLoader.initWebApplicationContext Root WebApplicationContext: initialization completed in 610 ms
+26-Oct-2018 20:00:09.045 INFO [http-nio-8080-exec-120] org.springframework.web.servlet.FrameworkServlet.initServletBean FrameworkServlet 'dispatcher': initialization started
+26-Oct-2018 20:00:09.057 INFO [http-nio-8080-exec-120] org.springframework.context.support.AbstractApplicationContext.prepareRefresh Refreshing WebApplicationContext for namespace 'dispatcher-servlet': startup date [Fri Oct 26 20:00:09 GMT+07:00 2018]; parent: Root WebApplicationContext
+26-Oct-2018 20:00:09.061 INFO [http-nio-8080-exec-120] org.springframework.beans.factory.xml.XmlBeanDefinitionReader.loadBeanDefinitions Loading XML bean definitions from ServletContext resource [/WEB-INF/dispatcher-servlet.xml]
+26-Oct-2018 20:00:09.314 INFO [http-nio-8080-exec-120] org.springframework.web.servlet.handler.AbstractUrlHandlerMapping.registerHandler Mapped URL path [/index] onto handler 'indexController'
+26-Oct-2018 20:00:09.449 INFO [http-nio-8080-exec-120] org.springframework.web.servlet.FrameworkServlet.initServletBean FrameworkServlet 'dispatcher': initialization completed in 404 ms
+26-Oct-2018 20:00:09.452 INFO [http-nio-8080-exec-120] org.apache.catalina.core.StandardContext.reload Reloading Context with name [/shop] is completed
+26-Oct-2018 20:00:12.169 WARNING [http-nio-8080-exec-121] org.springframework.web.servlet.DispatcherServlet.noHandlerFound No mapping found for HTTP request with URI [/shop/home/index] in DispatcherServlet with name 'dispatcher'
+26-Oct-2018 20:00:26.423 INFO [http-nio-8080-exec-116] org.apache.catalina.core.StandardContext.reload Reloading Context with name [/shop] has started
+26-Oct-2018 20:00:26.429 INFO [http-nio-8080-exec-116] org.springframework.context.support.AbstractApplicationContext.doClose Closing WebApplicationContext for namespace 'dispatcher-servlet': startup date [Fri Oct 26 20:00:09 GMT+07:00 2018]; parent: Root WebApplicationContext
+26-Oct-2018 20:00:26.435 INFO [http-nio-8080-exec-116] org.springframework.context.support.AbstractApplicationContext.doClose Closing Root WebApplicationContext: startup date [Fri Oct 26 20:00:08 GMT+07:00 2018]; root of context hierarchy
+26-Oct-2018 20:00:30.776 INFO [http-nio-8080-exec-116] org.apache.jasper.servlet.TldScanner.scanJars At least one JAR was scanned for TLDs yet contained no TLDs. Enable debug logging for this logger for a complete list of JARs that were scanned but no TLDs were found in them. Skipping unneeded JARs during scanning can improve startup time and JSP compilation time.
+26-Oct-2018 20:00:30.863 INFO [http-nio-8080-exec-116] org.springframework.web.context.ContextLoader.initWebApplicationContext Root WebApplicationContext: initialization started
+26-Oct-2018 20:00:31.156 INFO [http-nio-8080-exec-116] org.springframework.context.support.AbstractApplicationContext.prepareRefresh Refreshing Root WebApplicationContext: startup date [Fri Oct 26 20:00:31 GMT+07:00 2018]; root of context hierarchy
+26-Oct-2018 20:00:31.319 INFO [http-nio-8080-exec-116] org.springframework.beans.factory.xml.XmlBeanDefinitionReader.loadBeanDefinitions Loading XML bean definitions from ServletContext resource [/WEB-INF/applicationContext.xml]
+26-Oct-2018 20:00:31.494 INFO [http-nio-8080-exec-116] org.springframework.web.context.ContextLoader.initWebApplicationContext Root WebApplicationContext: initialization completed in 630 ms
+26-Oct-2018 20:00:31.556 INFO [http-nio-8080-exec-116] org.springframework.web.servlet.FrameworkServlet.initServletBean FrameworkServlet 'dispatcher': initialization started
+26-Oct-2018 20:00:31.569 INFO [http-nio-8080-exec-116] org.springframework.context.support.AbstractApplicationContext.prepareRefresh Refreshing WebApplicationContext for namespace 'dispatcher-servlet': startup date [Fri Oct 26 20:00:31 GMT+07:00 2018]; parent: Root WebApplicationContext
+26-Oct-2018 20:00:31.574 INFO [http-nio-8080-exec-116] org.springframework.beans.factory.xml.XmlBeanDefinitionReader.loadBeanDefinitions Loading XML bean definitions from ServletContext resource [/WEB-INF/dispatcher-servlet.xml]
+26-Oct-2018 20:00:32.001 INFO [http-nio-8080-exec-116] org.springframework.web.servlet.handler.AbstractUrlHandlerMapping.registerHandler Mapped URL path [/index] onto handler 'indexController'
+26-Oct-2018 20:00:32.156 INFO [http-nio-8080-exec-116] org.springframework.web.servlet.FrameworkServlet.initServletBean FrameworkServlet 'dispatcher': initialization completed in 599 ms
+26-Oct-2018 20:00:32.160 INFO [http-nio-8080-exec-116] org.apache.catalina.core.StandardContext.reload Reloading Context with name [/shop] is completed
+26-Oct-2018 20:00:35.075 INFO [http-nio-8080-exec-129] org.apache.catalina.core.StandardContext.reload Reloading Context with name [/shop] has started
+26-Oct-2018 20:00:35.078 INFO [http-nio-8080-exec-129] org.springframework.context.support.AbstractApplicationContext.doClose Closing WebApplicationContext for namespace 'dispatcher-servlet': startup date [Fri Oct 26 20:00:31 GMT+07:00 2018]; parent: Root WebApplicationContext
+26-Oct-2018 20:00:35.084 INFO [http-nio-8080-exec-129] org.springframework.context.support.AbstractApplicationContext.doClose Closing Root WebApplicationContext: startup date [Fri Oct 26 20:00:31 GMT+07:00 2018]; root of context hierarchy
+26-Oct-2018 20:00:38.109 INFO [http-nio-8080-exec-129] org.apache.jasper.servlet.TldScanner.scanJars At least one JAR was scanned for TLDs yet contained no TLDs. Enable debug logging for this logger for a complete list of JARs that were scanned but no TLDs were found in them. Skipping unneeded JARs during scanning can improve startup time and JSP compilation time.
+26-Oct-2018 20:00:38.202 INFO [http-nio-8080-exec-129] org.springframework.web.context.ContextLoader.initWebApplicationContext Root WebApplicationContext: initialization started
+26-Oct-2018 20:00:38.501 INFO [http-nio-8080-exec-129] org.springframework.context.support.AbstractApplicationContext.prepareRefresh Refreshing Root WebApplicationContext: startup date [Fri Oct 26 20:00:38 GMT+07:00 2018]; root of context hierarchy
+26-Oct-2018 20:00:38.619 INFO [http-nio-8080-exec-129] org.springframework.beans.factory.xml.XmlBeanDefinitionReader.loadBeanDefinitions Loading XML bean definitions from ServletContext resource [/WEB-INF/applicationContext.xml]
+26-Oct-2018 20:00:38.750 INFO [http-nio-8080-exec-129] org.springframework.web.context.ContextLoader.initWebApplicationContext Root WebApplicationContext: initialization completed in 548 ms
+26-Oct-2018 20:00:38.798 INFO [http-nio-8080-exec-129] org.springframework.web.servlet.FrameworkServlet.initServletBean FrameworkServlet 'dispatcher': initialization started
+26-Oct-2018 20:00:38.809 INFO [http-nio-8080-exec-129] org.springframework.context.support.AbstractApplicationContext.prepareRefresh Refreshing WebApplicationContext for namespace 'dispatcher-servlet': startup date [Fri Oct 26 20:00:38 GMT+07:00 2018]; parent: Root WebApplicationContext
+26-Oct-2018 20:00:38.812 INFO [http-nio-8080-exec-129] org.springframework.beans.factory.xml.XmlBeanDefinitionReader.loadBeanDefinitions Loading XML bean definitions from ServletContext resource [/WEB-INF/dispatcher-servlet.xml]
+26-Oct-2018 20:00:39.097 INFO [http-nio-8080-exec-129] org.springframework.web.servlet.handler.AbstractUrlHandlerMapping.registerHandler Mapped URL path [/index] onto handler 'indexController'
+26-Oct-2018 20:00:39.269 INFO [http-nio-8080-exec-129] org.springframework.web.servlet.FrameworkServlet.initServletBean FrameworkServlet 'dispatcher': initialization completed in 470 ms
+26-Oct-2018 20:00:39.275 INFO [http-nio-8080-exec-129] org.apache.catalina.core.StandardContext.reload Reloading Context with name [/shop] is completed
+26-Oct-2018 20:00:40.816 WARNING [http-nio-8080-exec-127] org.springframework.web.servlet.DispatcherServlet.noHandlerFound No mapping found for HTTP request with URI [/shop/home/index] in DispatcherServlet with name 'dispatcher'
+26-Oct-2018 20:01:06.465 INFO [http-nio-8080-exec-138] org.apache.catalina.core.StandardContext.reload Reloading Context with name [/shop] has started
+26-Oct-2018 20:01:06.471 INFO [http-nio-8080-exec-138] org.springframework.context.support.AbstractApplicationContext.doClose Closing WebApplicationContext for namespace 'dispatcher-servlet': startup date [Fri Oct 26 20:00:38 GMT+07:00 2018]; parent: Root WebApplicationContext
+26-Oct-2018 20:01:06.478 INFO [http-nio-8080-exec-138] org.springframework.context.support.AbstractApplicationContext.doClose Closing Root WebApplicationContext: startup date [Fri Oct 26 20:00:38 GMT+07:00 2018]; root of context hierarchy
+26-Oct-2018 20:01:10.804 INFO [http-nio-8080-exec-138] org.apache.jasper.servlet.TldScanner.scanJars At least one JAR was scanned for TLDs yet contained no TLDs. Enable debug logging for this logger for a complete list of JARs that were scanned but no TLDs were found in them. Skipping unneeded JARs during scanning can improve startup time and JSP compilation time.
+26-Oct-2018 20:01:10.940 INFO [http-nio-8080-exec-138] org.springframework.web.context.ContextLoader.initWebApplicationContext Root WebApplicationContext: initialization started
+26-Oct-2018 20:01:11.306 INFO [http-nio-8080-exec-138] org.springframework.context.support.AbstractApplicationContext.prepareRefresh Refreshing Root WebApplicationContext: startup date [Fri Oct 26 20:01:11 GMT+07:00 2018]; root of context hierarchy
+26-Oct-2018 20:01:11.737 INFO [http-nio-8080-exec-138] org.springframework.beans.factory.xml.XmlBeanDefinitionReader.loadBeanDefinitions Loading XML bean definitions from ServletContext resource [/WEB-INF/applicationContext.xml]
+26-Oct-2018 20:01:11.977 INFO [http-nio-8080-exec-138] org.springframework.web.context.ContextLoader.initWebApplicationContext Root WebApplicationContext: initialization completed in 1036 ms
+26-Oct-2018 20:01:12.040 INFO [http-nio-8080-exec-138] org.springframework.web.servlet.FrameworkServlet.initServletBean FrameworkServlet 'dispatcher': initialization started
+26-Oct-2018 20:01:12.057 INFO [http-nio-8080-exec-138] org.springframework.context.support.AbstractApplicationContext.prepareRefresh Refreshing WebApplicationContext for namespace 'dispatcher-servlet': startup date [Fri Oct 26 20:01:12 GMT+07:00 2018]; parent: Root WebApplicationContext
+26-Oct-2018 20:01:12.063 INFO [http-nio-8080-exec-138] org.springframework.beans.factory.xml.XmlBeanDefinitionReader.loadBeanDefinitions Loading XML bean definitions from ServletContext resource [/WEB-INF/dispatcher-servlet.xml]
+26-Oct-2018 20:01:12.359 INFO [http-nio-8080-exec-138] org.springframework.web.servlet.handler.AbstractUrlHandlerMapping.registerHandler Mapped URL path [/index] onto handler 'indexController'
+26-Oct-2018 20:01:12.515 INFO [http-nio-8080-exec-138] org.springframework.web.servlet.FrameworkServlet.initServletBean FrameworkServlet 'dispatcher': initialization completed in 474 ms
+26-Oct-2018 20:01:12.521 INFO [http-nio-8080-exec-138] org.apache.catalina.core.StandardContext.reload Reloading Context with name [/shop] is completed
+26-Oct-2018 20:01:14.266 INFO [http-nio-8080-exec-139] org.apache.catalina.core.StandardContext.reload Reloading Context with name [/shop] has started
+26-Oct-2018 20:01:14.272 INFO [http-nio-8080-exec-139] org.springframework.context.support.AbstractApplicationContext.doClose Closing WebApplicationContext for namespace 'dispatcher-servlet': startup date [Fri Oct 26 20:01:12 GMT+07:00 2018]; parent: Root WebApplicationContext
+26-Oct-2018 20:01:14.277 INFO [http-nio-8080-exec-139] org.springframework.context.support.AbstractApplicationContext.doClose Closing Root WebApplicationContext: startup date [Fri Oct 26 20:01:11 GMT+07:00 2018]; root of context hierarchy
+26-Oct-2018 20:01:17.512 INFO [http-nio-8080-exec-139] org.apache.jasper.servlet.TldScanner.scanJars At least one JAR was scanned for TLDs yet contained no TLDs. Enable debug logging for this logger for a complete list of JARs that were scanned but no TLDs were found in them. Skipping unneeded JARs during scanning can improve startup time and JSP compilation time.
+26-Oct-2018 20:01:17.599 INFO [http-nio-8080-exec-139] org.springframework.web.context.ContextLoader.initWebApplicationContext Root WebApplicationContext: initialization started
+26-Oct-2018 20:01:17.931 INFO [http-nio-8080-exec-139] org.springframework.context.support.AbstractApplicationContext.prepareRefresh Refreshing Root WebApplicationContext: startup date [Fri Oct 26 20:01:17 GMT+07:00 2018]; root of context hierarchy
+26-Oct-2018 20:01:18.106 INFO [http-nio-8080-exec-139] org.springframework.beans.factory.xml.XmlBeanDefinitionReader.loadBeanDefinitions Loading XML bean definitions from ServletContext resource [/WEB-INF/applicationContext.xml]
+26-Oct-2018 20:01:18.426 INFO [http-nio-8080-exec-139] org.springframework.web.context.ContextLoader.initWebApplicationContext Root WebApplicationContext: initialization completed in 825 ms
+26-Oct-2018 20:01:18.499 INFO [http-nio-8080-exec-139] org.springframework.web.servlet.FrameworkServlet.initServletBean FrameworkServlet 'dispatcher': initialization started
+26-Oct-2018 20:01:18.525 INFO [http-nio-8080-exec-139] org.springframework.context.support.AbstractApplicationContext.prepareRefresh Refreshing WebApplicationContext for namespace 'dispatcher-servlet': startup date [Fri Oct 26 20:01:18 GMT+07:00 2018]; parent: Root WebApplicationContext
+26-Oct-2018 20:01:18.532 INFO [http-nio-8080-exec-139] org.springframework.beans.factory.xml.XmlBeanDefinitionReader.loadBeanDefinitions Loading XML bean definitions from ServletContext resource [/WEB-INF/dispatcher-servlet.xml]
+26-Oct-2018 20:01:19.138 INFO [http-nio-8080-exec-139] org.springframework.web.servlet.handler.AbstractUrlHandlerMapping.registerHandler Mapped URL path [/index] onto handler 'indexController'
+26-Oct-2018 20:01:19.357 INFO [http-nio-8080-exec-139] org.springframework.web.servlet.FrameworkServlet.initServletBean FrameworkServlet 'dispatcher': initialization completed in 858 ms
+26-Oct-2018 20:01:19.362 INFO [http-nio-8080-exec-139] org.apache.catalina.core.StandardContext.reload Reloading Context with name [/shop] is completed
+26-Oct-2018 20:04:40.764 INFO [main] org.apache.catalina.core.StandardServer.await A valid shutdown command was received via the shutdown port. Stopping the Server instance.
+26-Oct-2018 20:04:40.765 INFO [main] org.apache.coyote.AbstractProtocol.pause Pausing ProtocolHandler ["http-nio-8080"]
+26-Oct-2018 20:04:40.844 INFO [main] org.apache.coyote.AbstractProtocol.pause Pausing ProtocolHandler ["ajp-nio-8009"]
+26-Oct-2018 20:04:41.780 INFO [main] org.apache.catalina.core.StandardService.stopInternal Stopping service [Catalina]
+26-Oct-2018 20:04:41.848 INFO [localhost-startStop-2] org.springframework.context.support.AbstractApplicationContext.doClose Closing WebApplicationContext for namespace 'dispatcher-servlet': startup date [Fri Oct 26 20:01:18 GMT+07:00 2018]; parent: Root WebApplicationContext
+26-Oct-2018 20:04:41.892 INFO [localhost-startStop-2] org.springframework.context.support.AbstractApplicationContext.doClose Closing Root WebApplicationContext: startup date [Fri Oct 26 20:01:17 GMT+07:00 2018]; root of context hierarchy
+26-Oct-2018 20:04:41.931 INFO [main] org.apache.coyote.AbstractProtocol.stop Stopping ProtocolHandler ["http-nio-8080"]
+26-Oct-2018 20:04:41.935 INFO [main] org.apache.coyote.AbstractProtocol.stop Stopping ProtocolHandler ["ajp-nio-8009"]
+26-Oct-2018 20:04:41.938 INFO [main] org.apache.coyote.AbstractProtocol.destroy Destroying ProtocolHandler ["http-nio-8080"]
+26-Oct-2018 20:04:41.939 INFO [main] org.apache.coyote.AbstractProtocol.destroy Destroying ProtocolHandler ["ajp-nio-8009"]

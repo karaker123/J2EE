@@ -1,0 +1,7 @@
+0:0:0:0:0:0:0:1 - - [01/Jan/2019:08:16:37 +0700] "GET /Jquery/resources/css/bootstrap.min.css HTTP/1.1" 304 -
+0:0:0:0:0:0:0:1 - - [01/Jan/2019:08:16:37 +0700] "GET /Jquery/resources/css/bootstrap-grid.min.css HTTP/1.1" 304 -
+0:0:0:0:0:0:0:1 - - [01/Jan/2019:08:16:38 +0700] "GET /Jquery/resources/js/bootstrap.min.js.map HTTP/1.1" 404 1046
+0:0:0:0:0:0:0:1 - - [01/Jan/2019:08:16:38 +0700] "GET /Jquery/resources/css/bootstrap-grid.min.css.map HTTP/1.1" 404 1053
+0:0:0:0:0:0:0:1 - - [01/Jan/2019:08:16:38 +0700] "GET /Jquery/resources/js/popper.min.js.map HTTP/1.1" 404 1043
+127.0.0.1 - - [01/Jan/2019:09:40:10 +0700] "HEAD /netbeans-tomcat-status-test HTTP/1.1" 404 -
+127.0.0.1 - - [01/Jan/2019:09:40:10 +0700] "HEAD /netbeans-tomcat-status-test HTTP/1.1" 404 -

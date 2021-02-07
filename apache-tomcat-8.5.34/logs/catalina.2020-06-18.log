@@ -1,0 +1,701 @@
+18-Jun-2020 00:03:43.911 INFO [http-nio-8082-exec-19] org.apache.catalina.core.StandardContext.reload Reloading Context with name [/MuaBanNha] has started
+18-Jun-2020 00:03:43.947 WARNING [http-nio-8082-exec-19] org.apache.catalina.loader.WebappClassLoaderBase.clearReferencesJdbc The web application [MuaBanNha] registered the JDBC driver [com.mysql.jdbc.Driver] but failed to unregister it when the web application was stopped. To prevent a memory leak, the JDBC Driver has been forcibly unregistered.
+18-Jun-2020 00:03:43.947 WARNING [http-nio-8082-exec-19] org.apache.catalina.loader.WebappClassLoaderBase.clearReferencesThreads The web application [MuaBanNha] appears to have started a thread named [MySQL Statement Cancellation Timer] but has failed to stop it. This is very likely to create a memory leak. Stack trace of thread:
+ java.lang.Object.wait(Native Method)
+ java.lang.Object.wait(Object.java:502)
+ java.util.TimerThread.mainLoop(Timer.java:526)
+ java.util.TimerThread.run(Timer.java:505)
+18-Jun-2020 00:03:44.393 INFO [http-nio-8082-exec-19] org.apache.jasper.servlet.TldScanner.scanJars At least one JAR was scanned for TLDs yet contained no TLDs. Enable debug logging for this logger for a complete list of JARs that were scanned but no TLDs were found in them. Skipping unneeded JARs during scanning can improve startup time and JSP compilation time.
+18-Jun-2020 00:03:44.412 INFO [http-nio-8082-exec-19] org.apache.catalina.core.StandardContext.reload Reloading Context with name [/MuaBanNha] is completed
+18-Jun-2020 00:03:53.175 INFO [http-nio-8082-exec-15] org.apache.catalina.startup.HostConfig.undeploy Undeploying context [/MuaBanNha]
+18-Jun-2020 00:03:53.195 INFO [http-nio-8082-exec-16] org.apache.catalina.startup.HostConfig.deployDescriptor Deploying configuration descriptor [D:\apache-tomcat-8.5.34\conf\Catalina\localhost\MuaBanNha.xml]
+18-Jun-2020 00:03:53.587 INFO [http-nio-8082-exec-16] org.apache.jasper.servlet.TldScanner.scanJars At least one JAR was scanned for TLDs yet contained no TLDs. Enable debug logging for this logger for a complete list of JARs that were scanned but no TLDs were found in them. Skipping unneeded JARs during scanning can improve startup time and JSP compilation time.
+18-Jun-2020 00:03:53.587 INFO [http-nio-8082-exec-16] org.apache.catalina.startup.HostConfig.deployDescriptor Deployment of configuration descriptor [D:\apache-tomcat-8.5.34\conf\Catalina\localhost\MuaBanNha.xml] has finished in [393] ms
+18-Jun-2020 00:03:53.587 INFO [http-nio-8082-exec-11] org.apache.catalina.util.LifecycleBase.start The start() method was called on component [StandardEngine[Catalina].StandardHost[localhost].StandardContext[/MuaBanNha]] after start() had already been called. The second call will be ignored.
+18-Jun-2020 00:06:52.045 INFO [main] org.apache.catalina.core.StandardServer.await A valid shutdown command was received via the shutdown port. Stopping the Server instance.
+18-Jun-2020 00:06:52.045 INFO [main] org.apache.coyote.AbstractProtocol.pause Pausing ProtocolHandler ["http-nio-8082"]
+18-Jun-2020 00:06:52.463 INFO [main] org.apache.coyote.AbstractProtocol.pause Pausing ProtocolHandler ["ajp-nio-8009"]
+18-Jun-2020 00:06:52.833 INFO [main] org.apache.catalina.core.StandardService.stopInternal Stopping service [Catalina]
+18-Jun-2020 00:06:52.845 WARNING [localhost-startStop-2] org.apache.catalina.loader.WebappClassLoaderBase.clearReferencesJdbc The web application [MuaBanNha] registered the JDBC driver [com.mysql.jdbc.Driver] but failed to unregister it when the web application was stopped. To prevent a memory leak, the JDBC Driver has been forcibly unregistered.
+18-Jun-2020 00:06:52.846 WARNING [localhost-startStop-2] org.apache.catalina.loader.WebappClassLoaderBase.clearReferencesThreads The web application [MuaBanNha] appears to have started a thread named [MySQL Statement Cancellation Timer] but has failed to stop it. This is very likely to create a memory leak. Stack trace of thread:
+ java.lang.Object.wait(Native Method)
+ java.lang.Object.wait(Object.java:502)
+ java.util.TimerThread.mainLoop(Timer.java:526)
+ java.util.TimerThread.run(Timer.java:505)
+18-Jun-2020 00:06:52.852 INFO [main] org.apache.coyote.AbstractProtocol.stop Stopping ProtocolHandler ["http-nio-8082"]
+18-Jun-2020 00:06:52.855 INFO [main] org.apache.coyote.AbstractProtocol.stop Stopping ProtocolHandler ["ajp-nio-8009"]
+18-Jun-2020 00:06:52.856 INFO [main] org.apache.coyote.AbstractProtocol.destroy Destroying ProtocolHandler ["http-nio-8082"]
+18-Jun-2020 00:06:52.857 INFO [main] org.apache.coyote.AbstractProtocol.destroy Destroying ProtocolHandler ["ajp-nio-8009"]
+18-Jun-2020 08:37:39.191 WARNING [main] org.apache.catalina.core.AprLifecycleListener.init The APR based Apache Tomcat Native library failed to load. The error reported was [D:\apache-tomcat-8.5.34\bin\tcnative-1.dll: Can't load AMD 64-bit .dll on a IA 32-bit platform]
+ java.lang.UnsatisfiedLinkError: D:\apache-tomcat-8.5.34\bin\tcnative-1.dll: Can't load AMD 64-bit .dll on a IA 32-bit platform
+	at java.lang.ClassLoader$NativeLibrary.load(Native Method)
+	at java.lang.ClassLoader.loadLibrary0(ClassLoader.java:1941)
+	at java.lang.ClassLoader.loadLibrary(ClassLoader.java:1857)
+	at java.lang.Runtime.loadLibrary0(Runtime.java:870)
+	at java.lang.System.loadLibrary(System.java:1122)
+	at org.apache.tomcat.jni.Library.<init>(Library.java:42)
+	at org.apache.tomcat.jni.Library.initialize(Library.java:178)
+	at org.apache.catalina.core.AprLifecycleListener.init(AprLifecycleListener.java:198)
+	at org.apache.catalina.core.AprLifecycleListener.isAprAvailable(AprLifecycleListener.java:107)
+	at org.apache.catalina.connector.Connector.setProtocol(Connector.java:582)
+	at org.apache.catalina.connector.Connector.<init>(Connector.java:74)
+	at org.apache.catalina.startup.ConnectorCreateRule.begin(ConnectorCreateRule.java:64)
+	at org.apache.tomcat.util.digester.Digester.startElement(Digester.java:1250)
+	at com.sun.org.apache.xerces.internal.parsers.AbstractSAXParser.startElement(AbstractSAXParser.java:509)
+	at com.sun.org.apache.xerces.internal.parsers.AbstractXMLDocumentParser.emptyElement(AbstractXMLDocumentParser.java:182)
+	at com.sun.org.apache.xerces.internal.impl.XMLDocumentFragmentScannerImpl.scanStartElement(XMLDocumentFragmentScannerImpl.java:1339)
+	at com.sun.org.apache.xerces.internal.impl.XMLDocumentFragmentScannerImpl$FragmentContentDriver.next(XMLDocumentFragmentScannerImpl.java:2784)
+	at com.sun.org.apache.xerces.internal.impl.XMLDocumentScannerImpl.next(XMLDocumentScannerImpl.java:602)
+	at com.sun.org.apache.xerces.internal.impl.XMLDocumentFragmentScannerImpl.scanDocument(XMLDocumentFragmentScannerImpl.java:505)
+	at com.sun.org.apache.xerces.internal.parsers.XML11Configuration.parse(XML11Configuration.java:841)
+	at com.sun.org.apache.xerces.internal.parsers.XML11Configuration.parse(XML11Configuration.java:770)
+	at com.sun.org.apache.xerces.internal.parsers.XMLParser.parse(XMLParser.java:141)
+	at com.sun.org.apache.xerces.internal.parsers.AbstractSAXParser.parse(AbstractSAXParser.java:1213)
+	at com.sun.org.apache.xerces.internal.jaxp.SAXParserImpl$JAXPSAXParser.parse(SAXParserImpl.java:643)
+	at org.apache.tomcat.util.digester.Digester.parse(Digester.java:1518)
+	at org.apache.catalina.startup.Catalina.load(Catalina.java:604)
+	at org.apache.catalina.startup.Catalina.load(Catalina.java:655)
+	at sun.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+	at sun.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:62)
+	at sun.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)
+	at java.lang.reflect.Method.invoke(Method.java:498)
+	at org.apache.catalina.startup.Bootstrap.load(Bootstrap.java:309)
+	at org.apache.catalina.startup.Bootstrap.main(Bootstrap.java:492)
+
+18-Jun-2020 08:37:39.540 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Server version:        Apache Tomcat/8.5.34
+18-Jun-2020 08:37:39.540 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Server built:          Sep 4 2018 22:28:22 UTC
+18-Jun-2020 08:37:39.541 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Server number:         8.5.34.0
+18-Jun-2020 08:37:39.541 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log OS Name:               Windows 10
+18-Jun-2020 08:37:39.541 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log OS Version:            10.0
+18-Jun-2020 08:37:39.542 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Architecture:          x86
+18-Jun-2020 08:37:39.542 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Java Home:             C:\Program Files (x86)\Java\jdk1.8.0_144\jre
+18-Jun-2020 08:37:39.549 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log JVM Version:           1.8.0_144-b01
+18-Jun-2020 08:37:39.549 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log JVM Vendor:            Oracle Corporation
+18-Jun-2020 08:37:39.550 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log CATALINA_BASE:         D:\apache-tomcat-8.5.34
+18-Jun-2020 08:37:39.550 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log CATALINA_HOME:         D:\apache-tomcat-8.5.34
+18-Jun-2020 08:37:39.554 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: -Djava.util.logging.config.file=D:\apache-tomcat-8.5.34\conf\logging.properties
+18-Jun-2020 08:37:39.554 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: -Djava.util.logging.manager=org.apache.juli.ClassLoaderLogManager
+18-Jun-2020 08:37:39.554 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: -Dhttp.nonProxyHosts=localhost|127.0.0.1|DESKTOP-RE3N2QM
+18-Jun-2020 08:37:39.555 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: -Djdk.tls.ephemeralDHKeySize=2048
+18-Jun-2020 08:37:39.555 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: -Djava.protocol.handler.pkgs=org.apache.catalina.webresources
+18-Jun-2020 08:37:39.556 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: -Dignore.endorsed.dirs=
+18-Jun-2020 08:37:39.556 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: -Dcatalina.base=D:\apache-tomcat-8.5.34
+18-Jun-2020 08:37:39.556 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: -Dcatalina.home=D:\apache-tomcat-8.5.34
+18-Jun-2020 08:37:39.557 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: -Djava.io.tmpdir=D:\apache-tomcat-8.5.34\temp
+18-Jun-2020 08:37:40.089 INFO [main] org.apache.coyote.AbstractProtocol.init Initializing ProtocolHandler ["http-nio-8082"]
+18-Jun-2020 08:37:41.139 INFO [main] org.apache.tomcat.util.net.NioSelectorPool.getSharedSelector Using a shared selector for servlet write/read
+18-Jun-2020 08:37:41.233 INFO [main] org.apache.coyote.AbstractProtocol.init Initializing ProtocolHandler ["ajp-nio-8009"]
+18-Jun-2020 08:37:41.235 INFO [main] org.apache.tomcat.util.net.NioSelectorPool.getSharedSelector Using a shared selector for servlet write/read
+18-Jun-2020 08:37:41.235 INFO [main] org.apache.catalina.startup.Catalina.load Initialization processed in 3127 ms
+18-Jun-2020 08:37:41.312 INFO [main] org.apache.catalina.core.StandardService.startInternal Starting service [Catalina]
+18-Jun-2020 08:37:41.312 INFO [main] org.apache.catalina.core.StandardEngine.startInternal Starting Servlet Engine: Apache Tomcat/8.5.34
+18-Jun-2020 08:37:41.367 INFO [localhost-startStop-1] org.apache.catalina.startup.HostConfig.deployDescriptor Deploying configuration descriptor [D:\apache-tomcat-8.5.34\conf\Catalina\localhost\MuaBanNha.xml]
+18-Jun-2020 08:37:43.283 INFO [localhost-startStop-1] org.apache.jasper.servlet.TldScanner.scanJars At least one JAR was scanned for TLDs yet contained no TLDs. Enable debug logging for this logger for a complete list of JARs that were scanned but no TLDs were found in them. Skipping unneeded JARs during scanning can improve startup time and JSP compilation time.
+18-Jun-2020 08:37:43.512 INFO [localhost-startStop-1] org.apache.catalina.startup.HostConfig.deployDescriptor Deployment of configuration descriptor [D:\apache-tomcat-8.5.34\conf\Catalina\localhost\MuaBanNha.xml] has finished in [2,141] ms
+18-Jun-2020 08:37:43.517 INFO [localhost-startStop-1] org.apache.catalina.startup.HostConfig.deployDirectory Deploying web application directory [D:\apache-tomcat-8.5.34\webapps\docs]
+18-Jun-2020 08:37:43.602 INFO [localhost-startStop-1] org.apache.catalina.startup.HostConfig.deployDirectory Deployment of web application directory [D:\apache-tomcat-8.5.34\webapps\docs] has finished in [85] ms
+18-Jun-2020 08:37:43.602 INFO [localhost-startStop-1] org.apache.catalina.startup.HostConfig.deployDirectory Deploying web application directory [D:\apache-tomcat-8.5.34\webapps\examples]
+18-Jun-2020 08:37:44.255 INFO [localhost-startStop-1] org.apache.catalina.startup.HostConfig.deployDirectory Deployment of web application directory [D:\apache-tomcat-8.5.34\webapps\examples] has finished in [653] ms
+18-Jun-2020 08:37:44.255 INFO [localhost-startStop-1] org.apache.catalina.startup.HostConfig.deployDirectory Deploying web application directory [D:\apache-tomcat-8.5.34\webapps\host-manager]
+18-Jun-2020 08:37:44.338 INFO [localhost-startStop-1] org.apache.catalina.startup.HostConfig.deployDirectory Deployment of web application directory [D:\apache-tomcat-8.5.34\webapps\host-manager] has finished in [83] ms
+18-Jun-2020 08:37:44.338 INFO [localhost-startStop-1] org.apache.catalina.startup.HostConfig.deployDirectory Deploying web application directory [D:\apache-tomcat-8.5.34\webapps\manager]
+18-Jun-2020 08:37:44.391 INFO [localhost-startStop-1] org.apache.catalina.startup.HostConfig.deployDirectory Deployment of web application directory [D:\apache-tomcat-8.5.34\webapps\manager] has finished in [53] ms
+18-Jun-2020 08:37:44.391 INFO [localhost-startStop-1] org.apache.catalina.startup.HostConfig.deployDirectory Deploying web application directory [D:\apache-tomcat-8.5.34\webapps\ROOT]
+18-Jun-2020 08:37:44.429 INFO [localhost-startStop-1] org.apache.catalina.startup.HostConfig.deployDirectory Deployment of web application directory [D:\apache-tomcat-8.5.34\webapps\ROOT] has finished in [38] ms
+18-Jun-2020 08:37:44.436 INFO [main] org.apache.coyote.AbstractProtocol.start Starting ProtocolHandler ["http-nio-8082"]
+18-Jun-2020 08:37:44.467 INFO [main] org.apache.coyote.AbstractProtocol.start Starting ProtocolHandler ["ajp-nio-8009"]
+18-Jun-2020 08:37:44.472 INFO [main] org.apache.catalina.startup.Catalina.start Server startup in 3236 ms
+18-Jun-2020 08:37:47.937 INFO [http-nio-8082-exec-9] org.apache.catalina.startup.HostConfig.undeploy Undeploying context [/MuaBanNha]
+18-Jun-2020 08:37:48.064 INFO [http-nio-8082-exec-7] org.apache.catalina.startup.HostConfig.deployDescriptor Deploying configuration descriptor [D:\apache-tomcat-8.5.34\conf\Catalina\localhost\MuaBanNha.xml]
+18-Jun-2020 08:37:48.947 INFO [http-nio-8082-exec-7] org.apache.jasper.servlet.TldScanner.scanJars At least one JAR was scanned for TLDs yet contained no TLDs. Enable debug logging for this logger for a complete list of JARs that were scanned but no TLDs were found in them. Skipping unneeded JARs during scanning can improve startup time and JSP compilation time.
+18-Jun-2020 08:37:48.986 INFO [http-nio-8082-exec-7] org.apache.catalina.startup.HostConfig.deployDescriptor Deployment of configuration descriptor [D:\apache-tomcat-8.5.34\conf\Catalina\localhost\MuaBanNha.xml] has finished in [921] ms
+18-Jun-2020 08:37:48.992 INFO [http-nio-8082-exec-2] org.apache.catalina.util.LifecycleBase.start The start() method was called on component [StandardEngine[Catalina].StandardHost[localhost].StandardContext[/MuaBanNha]] after start() had already been called. The second call will be ignored.
+18-Jun-2020 08:43:29.530 INFO [main] org.apache.catalina.core.StandardServer.await A valid shutdown command was received via the shutdown port. Stopping the Server instance.
+18-Jun-2020 08:43:29.531 INFO [main] org.apache.coyote.AbstractProtocol.pause Pausing ProtocolHandler ["http-nio-8082"]
+18-Jun-2020 08:43:30.255 INFO [main] org.apache.coyote.AbstractProtocol.pause Pausing ProtocolHandler ["ajp-nio-8009"]
+18-Jun-2020 08:43:31.087 INFO [main] org.apache.catalina.core.StandardService.stopInternal Stopping service [Catalina]
+18-Jun-2020 08:43:31.164 WARNING [localhost-startStop-2] org.apache.catalina.loader.WebappClassLoaderBase.clearReferencesJdbc The web application [MuaBanNha] registered the JDBC driver [com.mysql.jdbc.Driver] but failed to unregister it when the web application was stopped. To prevent a memory leak, the JDBC Driver has been forcibly unregistered.
+18-Jun-2020 08:43:31.165 WARNING [localhost-startStop-2] org.apache.catalina.loader.WebappClassLoaderBase.clearReferencesThreads The web application [MuaBanNha] appears to have started a thread named [MySQL Statement Cancellation Timer] but has failed to stop it. This is very likely to create a memory leak. Stack trace of thread:
+ java.lang.Object.wait(Native Method)
+ java.lang.Object.wait(Object.java:502)
+ java.util.TimerThread.mainLoop(Timer.java:526)
+ java.util.TimerThread.run(Timer.java:505)
+18-Jun-2020 08:43:31.191 INFO [main] org.apache.coyote.AbstractProtocol.stop Stopping ProtocolHandler ["http-nio-8082"]
+18-Jun-2020 08:43:31.195 INFO [main] org.apache.coyote.AbstractProtocol.stop Stopping ProtocolHandler ["ajp-nio-8009"]
+18-Jun-2020 08:43:31.199 INFO [main] org.apache.coyote.AbstractProtocol.destroy Destroying ProtocolHandler ["http-nio-8082"]
+18-Jun-2020 08:43:31.200 INFO [main] org.apache.coyote.AbstractProtocol.destroy Destroying ProtocolHandler ["ajp-nio-8009"]
+18-Jun-2020 08:43:36.063 WARNING [main] org.apache.catalina.core.AprLifecycleListener.init The APR based Apache Tomcat Native library failed to load. The error reported was [D:\apache-tomcat-8.5.34\bin\tcnative-1.dll: Can't load AMD 64-bit .dll on a IA 32-bit platform]
+ java.lang.UnsatisfiedLinkError: D:\apache-tomcat-8.5.34\bin\tcnative-1.dll: Can't load AMD 64-bit .dll on a IA 32-bit platform
+	at java.lang.ClassLoader$NativeLibrary.load(Native Method)
+	at java.lang.ClassLoader.loadLibrary0(ClassLoader.java:1941)
+	at java.lang.ClassLoader.loadLibrary(ClassLoader.java:1857)
+	at java.lang.Runtime.loadLibrary0(Runtime.java:870)
+	at java.lang.System.loadLibrary(System.java:1122)
+	at org.apache.tomcat.jni.Library.<init>(Library.java:42)
+	at org.apache.tomcat.jni.Library.initialize(Library.java:178)
+	at org.apache.catalina.core.AprLifecycleListener.init(AprLifecycleListener.java:198)
+	at org.apache.catalina.core.AprLifecycleListener.isAprAvailable(AprLifecycleListener.java:107)
+	at org.apache.catalina.connector.Connector.setProtocol(Connector.java:582)
+	at org.apache.catalina.connector.Connector.<init>(Connector.java:74)
+	at org.apache.catalina.startup.ConnectorCreateRule.begin(ConnectorCreateRule.java:64)
+	at org.apache.tomcat.util.digester.Digester.startElement(Digester.java:1250)
+	at com.sun.org.apache.xerces.internal.parsers.AbstractSAXParser.startElement(AbstractSAXParser.java:509)
+	at com.sun.org.apache.xerces.internal.parsers.AbstractXMLDocumentParser.emptyElement(AbstractXMLDocumentParser.java:182)
+	at com.sun.org.apache.xerces.internal.impl.XMLDocumentFragmentScannerImpl.scanStartElement(XMLDocumentFragmentScannerImpl.java:1339)
+	at com.sun.org.apache.xerces.internal.impl.XMLDocumentFragmentScannerImpl$FragmentContentDriver.next(XMLDocumentFragmentScannerImpl.java:2784)
+	at com.sun.org.apache.xerces.internal.impl.XMLDocumentScannerImpl.next(XMLDocumentScannerImpl.java:602)
+	at com.sun.org.apache.xerces.internal.impl.XMLDocumentFragmentScannerImpl.scanDocument(XMLDocumentFragmentScannerImpl.java:505)
+	at com.sun.org.apache.xerces.internal.parsers.XML11Configuration.parse(XML11Configuration.java:841)
+	at com.sun.org.apache.xerces.internal.parsers.XML11Configuration.parse(XML11Configuration.java:770)
+	at com.sun.org.apache.xerces.internal.parsers.XMLParser.parse(XMLParser.java:141)
+	at com.sun.org.apache.xerces.internal.parsers.AbstractSAXParser.parse(AbstractSAXParser.java:1213)
+	at com.sun.org.apache.xerces.internal.jaxp.SAXParserImpl$JAXPSAXParser.parse(SAXParserImpl.java:643)
+	at org.apache.tomcat.util.digester.Digester.parse(Digester.java:1518)
+	at org.apache.catalina.startup.Catalina.load(Catalina.java:604)
+	at org.apache.catalina.startup.Catalina.load(Catalina.java:655)
+	at sun.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+	at sun.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:62)
+	at sun.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)
+	at java.lang.reflect.Method.invoke(Method.java:498)
+	at org.apache.catalina.startup.Bootstrap.load(Bootstrap.java:309)
+	at org.apache.catalina.startup.Bootstrap.main(Bootstrap.java:492)
+
+18-Jun-2020 08:43:36.237 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Server version:        Apache Tomcat/8.5.34
+18-Jun-2020 08:43:36.237 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Server built:          Sep 4 2018 22:28:22 UTC
+18-Jun-2020 08:43:36.237 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Server number:         8.5.34.0
+18-Jun-2020 08:43:36.237 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log OS Name:               Windows 10
+18-Jun-2020 08:43:36.238 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log OS Version:            10.0
+18-Jun-2020 08:43:36.238 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Architecture:          x86
+18-Jun-2020 08:43:36.238 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Java Home:             C:\Program Files (x86)\Java\jdk1.8.0_144\jre
+18-Jun-2020 08:43:36.239 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log JVM Version:           1.8.0_144-b01
+18-Jun-2020 08:43:36.239 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log JVM Vendor:            Oracle Corporation
+18-Jun-2020 08:43:36.239 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log CATALINA_BASE:         D:\apache-tomcat-8.5.34
+18-Jun-2020 08:43:36.239 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log CATALINA_HOME:         D:\apache-tomcat-8.5.34
+18-Jun-2020 08:43:36.239 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: -Djava.util.logging.config.file=D:\apache-tomcat-8.5.34\conf\logging.properties
+18-Jun-2020 08:43:36.239 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: -Djava.util.logging.manager=org.apache.juli.ClassLoaderLogManager
+18-Jun-2020 08:43:36.239 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: -Dhttp.nonProxyHosts=localhost|127.0.0.1|DESKTOP-RE3N2QM
+18-Jun-2020 08:43:36.239 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: -Djdk.tls.ephemeralDHKeySize=2048
+18-Jun-2020 08:43:36.240 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: -Djava.protocol.handler.pkgs=org.apache.catalina.webresources
+18-Jun-2020 08:43:36.240 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: -agentlib:jdwp=transport=dt_shmem,address=tomcat_shared_memory_id,server=y,suspend=n
+18-Jun-2020 08:43:36.240 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: -Dignore.endorsed.dirs=
+18-Jun-2020 08:43:36.240 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: -Dcatalina.base=D:\apache-tomcat-8.5.34
+18-Jun-2020 08:43:36.240 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: -Dcatalina.home=D:\apache-tomcat-8.5.34
+18-Jun-2020 08:43:36.240 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: -Djava.io.tmpdir=D:\apache-tomcat-8.5.34\temp
+18-Jun-2020 08:43:36.649 INFO [main] org.apache.coyote.AbstractProtocol.init Initializing ProtocolHandler ["http-nio-8082"]
+18-Jun-2020 08:43:37.730 INFO [main] org.apache.tomcat.util.net.NioSelectorPool.getSharedSelector Using a shared selector for servlet write/read
+18-Jun-2020 08:43:37.755 INFO [main] org.apache.coyote.AbstractProtocol.init Initializing ProtocolHandler ["ajp-nio-8009"]
+18-Jun-2020 08:43:37.759 INFO [main] org.apache.tomcat.util.net.NioSelectorPool.getSharedSelector Using a shared selector for servlet write/read
+18-Jun-2020 08:43:37.760 INFO [main] org.apache.catalina.startup.Catalina.load Initialization processed in 2342 ms
+18-Jun-2020 08:43:37.896 INFO [main] org.apache.catalina.core.StandardService.startInternal Starting service [Catalina]
+18-Jun-2020 08:43:37.896 INFO [main] org.apache.catalina.core.StandardEngine.startInternal Starting Servlet Engine: Apache Tomcat/8.5.34
+18-Jun-2020 08:43:37.921 INFO [localhost-startStop-1] org.apache.catalina.startup.HostConfig.deployDescriptor Deploying configuration descriptor [D:\apache-tomcat-8.5.34\conf\Catalina\localhost\MuaBanNha.xml]
+18-Jun-2020 08:43:40.383 INFO [localhost-startStop-1] org.apache.jasper.servlet.TldScanner.scanJars At least one JAR was scanned for TLDs yet contained no TLDs. Enable debug logging for this logger for a complete list of JARs that were scanned but no TLDs were found in them. Skipping unneeded JARs during scanning can improve startup time and JSP compilation time.
+18-Jun-2020 08:43:40.532 INFO [localhost-startStop-1] org.apache.catalina.startup.HostConfig.deployDescriptor Deployment of configuration descriptor [D:\apache-tomcat-8.5.34\conf\Catalina\localhost\MuaBanNha.xml] has finished in [2,610] ms
+18-Jun-2020 08:43:40.533 INFO [localhost-startStop-1] org.apache.catalina.startup.HostConfig.deployDirectory Deploying web application directory [D:\apache-tomcat-8.5.34\webapps\docs]
+18-Jun-2020 08:43:40.607 INFO [localhost-startStop-1] org.apache.catalina.startup.HostConfig.deployDirectory Deployment of web application directory [D:\apache-tomcat-8.5.34\webapps\docs] has finished in [74] ms
+18-Jun-2020 08:43:40.607 INFO [localhost-startStop-1] org.apache.catalina.startup.HostConfig.deployDirectory Deploying web application directory [D:\apache-tomcat-8.5.34\webapps\examples]
+18-Jun-2020 08:43:41.200 INFO [localhost-startStop-1] org.apache.catalina.startup.HostConfig.deployDirectory Deployment of web application directory [D:\apache-tomcat-8.5.34\webapps\examples] has finished in [592] ms
+18-Jun-2020 08:43:41.200 INFO [localhost-startStop-1] org.apache.catalina.startup.HostConfig.deployDirectory Deploying web application directory [D:\apache-tomcat-8.5.34\webapps\host-manager]
+18-Jun-2020 08:43:41.265 INFO [localhost-startStop-1] org.apache.catalina.startup.HostConfig.deployDirectory Deployment of web application directory [D:\apache-tomcat-8.5.34\webapps\host-manager] has finished in [64] ms
+18-Jun-2020 08:43:41.265 INFO [localhost-startStop-1] org.apache.catalina.startup.HostConfig.deployDirectory Deploying web application directory [D:\apache-tomcat-8.5.34\webapps\manager]
+18-Jun-2020 08:43:41.303 INFO [localhost-startStop-1] org.apache.catalina.startup.HostConfig.deployDirectory Deployment of web application directory [D:\apache-tomcat-8.5.34\webapps\manager] has finished in [38] ms
+18-Jun-2020 08:43:41.303 INFO [localhost-startStop-1] org.apache.catalina.startup.HostConfig.deployDirectory Deploying web application directory [D:\apache-tomcat-8.5.34\webapps\ROOT]
+18-Jun-2020 08:43:41.367 INFO [localhost-startStop-1] org.apache.catalina.startup.HostConfig.deployDirectory Deployment of web application directory [D:\apache-tomcat-8.5.34\webapps\ROOT] has finished in [64] ms
+18-Jun-2020 08:43:41.374 INFO [main] org.apache.coyote.AbstractProtocol.start Starting ProtocolHandler ["http-nio-8082"]
+18-Jun-2020 08:43:41.399 INFO [main] org.apache.coyote.AbstractProtocol.start Starting ProtocolHandler ["ajp-nio-8009"]
+18-Jun-2020 08:43:41.408 INFO [main] org.apache.catalina.startup.Catalina.start Server startup in 3647 ms
+18-Jun-2020 08:43:43.970 INFO [http-nio-8082-exec-9] org.apache.catalina.startup.HostConfig.undeploy Undeploying context [/MuaBanNha]
+18-Jun-2020 08:43:44.041 INFO [http-nio-8082-exec-7] org.apache.catalina.startup.HostConfig.deployDescriptor Deploying configuration descriptor [D:\apache-tomcat-8.5.34\conf\Catalina\localhost\MuaBanNha.xml]
+18-Jun-2020 08:43:45.531 INFO [http-nio-8082-exec-7] org.apache.jasper.servlet.TldScanner.scanJars At least one JAR was scanned for TLDs yet contained no TLDs. Enable debug logging for this logger for a complete list of JARs that were scanned but no TLDs were found in them. Skipping unneeded JARs during scanning can improve startup time and JSP compilation time.
+18-Jun-2020 08:43:45.558 INFO [http-nio-8082-exec-7] org.apache.catalina.startup.HostConfig.deployDescriptor Deployment of configuration descriptor [D:\apache-tomcat-8.5.34\conf\Catalina\localhost\MuaBanNha.xml] has finished in [1,518] ms
+18-Jun-2020 08:43:45.563 INFO [http-nio-8082-exec-8] org.apache.catalina.util.LifecycleBase.start The start() method was called on component [StandardEngine[Catalina].StandardHost[localhost].StandardContext[/MuaBanNha]] after start() had already been called. The second call will be ignored.
+18-Jun-2020 08:45:13.089 WARNING [http-nio-8082-exec-13] org.apache.catalina.loader.WebappClassLoaderBase.clearReferencesJdbc The web application [MuaBanNha] registered the JDBC driver [com.mysql.jdbc.Driver] but failed to unregister it when the web application was stopped. To prevent a memory leak, the JDBC Driver has been forcibly unregistered.
+18-Jun-2020 08:45:13.090 WARNING [http-nio-8082-exec-13] org.apache.catalina.loader.WebappClassLoaderBase.clearReferencesThreads The web application [MuaBanNha] appears to have started a thread named [MySQL Statement Cancellation Timer] but has failed to stop it. This is very likely to create a memory leak. Stack trace of thread:
+ java.lang.Object.wait(Native Method)
+ java.lang.Object.wait(Object.java:502)
+ java.util.TimerThread.mainLoop(Timer.java:526)
+ java.util.TimerThread.run(Timer.java:505)
+18-Jun-2020 08:45:13.594 INFO [http-nio-8082-exec-13] org.apache.catalina.startup.HostConfig.undeploy Undeploying context [/MuaBanNha]
+18-Jun-2020 08:45:13.644 INFO [http-nio-8082-exec-15] org.apache.catalina.startup.HostConfig.deployDescriptor Deploying configuration descriptor [D:\apache-tomcat-8.5.34\conf\Catalina\localhost\MuaBanNha.xml]
+18-Jun-2020 08:45:14.232 INFO [http-nio-8082-exec-15] org.apache.jasper.servlet.TldScanner.scanJars At least one JAR was scanned for TLDs yet contained no TLDs. Enable debug logging for this logger for a complete list of JARs that were scanned but no TLDs were found in them. Skipping unneeded JARs during scanning can improve startup time and JSP compilation time.
+18-Jun-2020 08:45:14.258 INFO [http-nio-8082-exec-15] org.apache.catalina.startup.HostConfig.deployDescriptor Deployment of configuration descriptor [D:\apache-tomcat-8.5.34\conf\Catalina\localhost\MuaBanNha.xml] has finished in [614] ms
+18-Jun-2020 08:45:14.262 INFO [http-nio-8082-exec-17] org.apache.catalina.util.LifecycleBase.start The start() method was called on component [StandardEngine[Catalina].StandardHost[localhost].StandardContext[/MuaBanNha]] after start() had already been called. The second call will be ignored.
+18-Jun-2020 08:49:49.368 WARNING [http-nio-8082-exec-22] org.apache.catalina.loader.WebappClassLoaderBase.clearReferencesJdbc The web application [MuaBanNha] registered the JDBC driver [com.mysql.jdbc.Driver] but failed to unregister it when the web application was stopped. To prevent a memory leak, the JDBC Driver has been forcibly unregistered.
+18-Jun-2020 08:49:49.369 WARNING [http-nio-8082-exec-22] org.apache.catalina.loader.WebappClassLoaderBase.clearReferencesThreads The web application [MuaBanNha] appears to have started a thread named [MySQL Statement Cancellation Timer] but has failed to stop it. This is very likely to create a memory leak. Stack trace of thread:
+ java.lang.Object.wait(Native Method)
+ java.lang.Object.wait(Object.java:502)
+ java.util.TimerThread.mainLoop(Timer.java:526)
+ java.util.TimerThread.run(Timer.java:505)
+18-Jun-2020 08:49:49.874 INFO [http-nio-8082-exec-22] org.apache.catalina.startup.HostConfig.undeploy Undeploying context [/MuaBanNha]
+18-Jun-2020 08:49:49.934 INFO [http-nio-8082-exec-28] org.apache.catalina.startup.HostConfig.deployDescriptor Deploying configuration descriptor [D:\apache-tomcat-8.5.34\conf\Catalina\localhost\MuaBanNha.xml]
+18-Jun-2020 08:49:50.643 INFO [http-nio-8082-exec-28] org.apache.jasper.servlet.TldScanner.scanJars At least one JAR was scanned for TLDs yet contained no TLDs. Enable debug logging for this logger for a complete list of JARs that were scanned but no TLDs were found in them. Skipping unneeded JARs during scanning can improve startup time and JSP compilation time.
+18-Jun-2020 08:49:50.658 INFO [http-nio-8082-exec-28] org.apache.catalina.startup.HostConfig.deployDescriptor Deployment of configuration descriptor [D:\apache-tomcat-8.5.34\conf\Catalina\localhost\MuaBanNha.xml] has finished in [725] ms
+18-Jun-2020 08:49:50.663 INFO [http-nio-8082-exec-23] org.apache.catalina.util.LifecycleBase.start The start() method was called on component [StandardEngine[Catalina].StandardHost[localhost].StandardContext[/MuaBanNha]] after start() had already been called. The second call will be ignored.
+18-Jun-2020 09:04:47.864 WARNING [http-nio-8082-exec-36] org.apache.catalina.loader.WebappClassLoaderBase.clearReferencesJdbc The web application [MuaBanNha] registered the JDBC driver [com.mysql.jdbc.Driver] but failed to unregister it when the web application was stopped. To prevent a memory leak, the JDBC Driver has been forcibly unregistered.
+18-Jun-2020 09:04:47.865 WARNING [http-nio-8082-exec-36] org.apache.catalina.loader.WebappClassLoaderBase.clearReferencesThreads The web application [MuaBanNha] appears to have started a thread named [MySQL Statement Cancellation Timer] but has failed to stop it. This is very likely to create a memory leak. Stack trace of thread:
+ java.lang.Object.wait(Native Method)
+ java.lang.Object.wait(Object.java:502)
+ java.util.TimerThread.mainLoop(Timer.java:526)
+ java.util.TimerThread.run(Timer.java:505)
+18-Jun-2020 09:04:48.371 INFO [http-nio-8082-exec-36] org.apache.catalina.startup.HostConfig.undeploy Undeploying context [/MuaBanNha]
+18-Jun-2020 09:04:48.408 INFO [http-nio-8082-exec-32] org.apache.catalina.startup.HostConfig.deployDescriptor Deploying configuration descriptor [D:\apache-tomcat-8.5.34\conf\Catalina\localhost\MuaBanNha.xml]
+18-Jun-2020 09:04:49.396 INFO [http-nio-8082-exec-32] org.apache.jasper.servlet.TldScanner.scanJars At least one JAR was scanned for TLDs yet contained no TLDs. Enable debug logging for this logger for a complete list of JARs that were scanned but no TLDs were found in them. Skipping unneeded JARs during scanning can improve startup time and JSP compilation time.
+18-Jun-2020 09:04:49.411 INFO [http-nio-8082-exec-32] org.apache.catalina.startup.HostConfig.deployDescriptor Deployment of configuration descriptor [D:\apache-tomcat-8.5.34\conf\Catalina\localhost\MuaBanNha.xml] has finished in [1,002] ms
+18-Jun-2020 09:04:49.420 INFO [http-nio-8082-exec-33] org.apache.catalina.util.LifecycleBase.start The start() method was called on component [StandardEngine[Catalina].StandardHost[localhost].StandardContext[/MuaBanNha]] after start() had already been called. The second call will be ignored.
+18-Jun-2020 09:07:38.902 WARNING [http-nio-8082-exec-50] org.apache.catalina.loader.WebappClassLoaderBase.clearReferencesJdbc The web application [MuaBanNha] registered the JDBC driver [com.mysql.jdbc.Driver] but failed to unregister it when the web application was stopped. To prevent a memory leak, the JDBC Driver has been forcibly unregistered.
+18-Jun-2020 09:07:38.903 WARNING [http-nio-8082-exec-50] org.apache.catalina.loader.WebappClassLoaderBase.clearReferencesThreads The web application [MuaBanNha] appears to have started a thread named [MySQL Statement Cancellation Timer] but has failed to stop it. This is very likely to create a memory leak. Stack trace of thread:
+ java.lang.Object.wait(Native Method)
+ java.lang.Object.wait(Object.java:502)
+ java.util.TimerThread.mainLoop(Timer.java:526)
+ java.util.TimerThread.run(Timer.java:505)
+18-Jun-2020 09:07:39.419 INFO [http-nio-8082-exec-50] org.apache.catalina.startup.HostConfig.undeploy Undeploying context [/MuaBanNha]
+18-Jun-2020 09:07:39.462 INFO [http-nio-8082-exec-42] org.apache.catalina.startup.HostConfig.deployDescriptor Deploying configuration descriptor [D:\apache-tomcat-8.5.34\conf\Catalina\localhost\MuaBanNha.xml]
+18-Jun-2020 09:07:40.129 INFO [http-nio-8082-exec-42] org.apache.jasper.servlet.TldScanner.scanJars At least one JAR was scanned for TLDs yet contained no TLDs. Enable debug logging for this logger for a complete list of JARs that were scanned but no TLDs were found in them. Skipping unneeded JARs during scanning can improve startup time and JSP compilation time.
+18-Jun-2020 09:07:40.141 INFO [http-nio-8082-exec-42] org.apache.catalina.startup.HostConfig.deployDescriptor Deployment of configuration descriptor [D:\apache-tomcat-8.5.34\conf\Catalina\localhost\MuaBanNha.xml] has finished in [679] ms
+18-Jun-2020 09:07:40.153 INFO [http-nio-8082-exec-43] org.apache.catalina.util.LifecycleBase.start The start() method was called on component [StandardEngine[Catalina].StandardHost[localhost].StandardContext[/MuaBanNha]] after start() had already been called. The second call will be ignored.
+18-Jun-2020 09:19:18.126 WARNING [http-nio-8082-exec-55] org.apache.catalina.loader.WebappClassLoaderBase.clearReferencesJdbc The web application [MuaBanNha] registered the JDBC driver [com.mysql.jdbc.Driver] but failed to unregister it when the web application was stopped. To prevent a memory leak, the JDBC Driver has been forcibly unregistered.
+18-Jun-2020 09:19:18.127 WARNING [http-nio-8082-exec-55] org.apache.catalina.loader.WebappClassLoaderBase.clearReferencesThreads The web application [MuaBanNha] appears to have started a thread named [MySQL Statement Cancellation Timer] but has failed to stop it. This is very likely to create a memory leak. Stack trace of thread:
+ java.lang.Object.wait(Native Method)
+ java.lang.Object.wait(Object.java:502)
+ java.util.TimerThread.mainLoop(Timer.java:526)
+ java.util.TimerThread.run(Timer.java:505)
+18-Jun-2020 09:19:18.633 INFO [http-nio-8082-exec-55] org.apache.catalina.startup.HostConfig.undeploy Undeploying context [/MuaBanNha]
+18-Jun-2020 09:19:18.669 INFO [http-nio-8082-exec-60] org.apache.catalina.startup.HostConfig.deployDescriptor Deploying configuration descriptor [D:\apache-tomcat-8.5.34\conf\Catalina\localhost\MuaBanNha.xml]
+18-Jun-2020 09:19:19.726 INFO [http-nio-8082-exec-60] org.apache.jasper.servlet.TldScanner.scanJars At least one JAR was scanned for TLDs yet contained no TLDs. Enable debug logging for this logger for a complete list of JARs that were scanned but no TLDs were found in them. Skipping unneeded JARs during scanning can improve startup time and JSP compilation time.
+18-Jun-2020 09:19:19.795 INFO [http-nio-8082-exec-60] org.apache.catalina.startup.HostConfig.deployDescriptor Deployment of configuration descriptor [D:\apache-tomcat-8.5.34\conf\Catalina\localhost\MuaBanNha.xml] has finished in [1,125] ms
+18-Jun-2020 09:19:19.829 INFO [http-nio-8082-exec-57] org.apache.catalina.util.LifecycleBase.start The start() method was called on component [StandardEngine[Catalina].StandardHost[localhost].StandardContext[/MuaBanNha]] after start() had already been called. The second call will be ignored.
+18-Jun-2020 09:20:28.426 WARNING [http-nio-8082-exec-64] org.apache.catalina.loader.WebappClassLoaderBase.clearReferencesJdbc The web application [MuaBanNha] registered the JDBC driver [com.mysql.jdbc.Driver] but failed to unregister it when the web application was stopped. To prevent a memory leak, the JDBC Driver has been forcibly unregistered.
+18-Jun-2020 09:20:28.428 WARNING [http-nio-8082-exec-64] org.apache.catalina.loader.WebappClassLoaderBase.clearReferencesThreads The web application [MuaBanNha] appears to have started a thread named [MySQL Statement Cancellation Timer] but has failed to stop it. This is very likely to create a memory leak. Stack trace of thread:
+ java.lang.Object.wait(Native Method)
+ java.lang.Object.wait(Object.java:502)
+ java.util.TimerThread.mainLoop(Timer.java:526)
+ java.util.TimerThread.run(Timer.java:505)
+18-Jun-2020 09:20:28.934 INFO [http-nio-8082-exec-64] org.apache.catalina.startup.HostConfig.undeploy Undeploying context [/MuaBanNha]
+18-Jun-2020 09:20:28.961 INFO [http-nio-8082-exec-67] org.apache.catalina.startup.HostConfig.deployDescriptor Deploying configuration descriptor [D:\apache-tomcat-8.5.34\conf\Catalina\localhost\MuaBanNha.xml]
+18-Jun-2020 09:20:29.564 INFO [http-nio-8082-exec-67] org.apache.jasper.servlet.TldScanner.scanJars At least one JAR was scanned for TLDs yet contained no TLDs. Enable debug logging for this logger for a complete list of JARs that were scanned but no TLDs were found in them. Skipping unneeded JARs during scanning can improve startup time and JSP compilation time.
+18-Jun-2020 09:20:29.579 INFO [http-nio-8082-exec-67] org.apache.catalina.startup.HostConfig.deployDescriptor Deployment of configuration descriptor [D:\apache-tomcat-8.5.34\conf\Catalina\localhost\MuaBanNha.xml] has finished in [618] ms
+18-Jun-2020 09:20:29.587 INFO [http-nio-8082-exec-69] org.apache.catalina.util.LifecycleBase.start The start() method was called on component [StandardEngine[Catalina].StandardHost[localhost].StandardContext[/MuaBanNha]] after start() had already been called. The second call will be ignored.
+18-Jun-2020 09:29:52.664 WARNING [http-nio-8082-exec-70] org.apache.catalina.loader.WebappClassLoaderBase.clearReferencesJdbc The web application [MuaBanNha] registered the JDBC driver [com.mysql.jdbc.Driver] but failed to unregister it when the web application was stopped. To prevent a memory leak, the JDBC Driver has been forcibly unregistered.
+18-Jun-2020 09:29:52.665 WARNING [http-nio-8082-exec-70] org.apache.catalina.loader.WebappClassLoaderBase.clearReferencesThreads The web application [MuaBanNha] appears to have started a thread named [MySQL Statement Cancellation Timer] but has failed to stop it. This is very likely to create a memory leak. Stack trace of thread:
+ java.lang.Object.wait(Native Method)
+ java.lang.Object.wait(Object.java:502)
+ java.util.TimerThread.mainLoop(Timer.java:526)
+ java.util.TimerThread.run(Timer.java:505)
+18-Jun-2020 09:29:53.169 INFO [http-nio-8082-exec-70] org.apache.catalina.startup.HostConfig.undeploy Undeploying context [/MuaBanNha]
+18-Jun-2020 09:29:53.196 INFO [http-nio-8082-exec-78] org.apache.catalina.startup.HostConfig.deployDescriptor Deploying configuration descriptor [D:\apache-tomcat-8.5.34\conf\Catalina\localhost\MuaBanNha.xml]
+18-Jun-2020 09:29:54.299 INFO [http-nio-8082-exec-78] org.apache.jasper.servlet.TldScanner.scanJars At least one JAR was scanned for TLDs yet contained no TLDs. Enable debug logging for this logger for a complete list of JARs that were scanned but no TLDs were found in them. Skipping unneeded JARs during scanning can improve startup time and JSP compilation time.
+18-Jun-2020 09:29:54.328 INFO [http-nio-8082-exec-78] org.apache.catalina.startup.HostConfig.deployDescriptor Deployment of configuration descriptor [D:\apache-tomcat-8.5.34\conf\Catalina\localhost\MuaBanNha.xml] has finished in [1,131] ms
+18-Jun-2020 09:29:54.332 INFO [http-nio-8082-exec-72] org.apache.catalina.util.LifecycleBase.start The start() method was called on component [StandardEngine[Catalina].StandardHost[localhost].StandardContext[/MuaBanNha]] after start() had already been called. The second call will be ignored.
+18-Jun-2020 09:30:54.330 WARNING [http-nio-8082-exec-72] org.apache.catalina.loader.WebappClassLoaderBase.clearReferencesJdbc The web application [MuaBanNha] registered the JDBC driver [com.mysql.jdbc.Driver] but failed to unregister it when the web application was stopped. To prevent a memory leak, the JDBC Driver has been forcibly unregistered.
+18-Jun-2020 09:30:54.331 WARNING [http-nio-8082-exec-72] org.apache.catalina.loader.WebappClassLoaderBase.clearReferencesThreads The web application [MuaBanNha] appears to have started a thread named [MySQL Statement Cancellation Timer] but has failed to stop it. This is very likely to create a memory leak. Stack trace of thread:
+ java.lang.Object.wait(Native Method)
+ java.lang.Object.wait(Object.java:502)
+ java.util.TimerThread.mainLoop(Timer.java:526)
+ java.util.TimerThread.run(Timer.java:505)
+18-Jun-2020 09:30:54.836 INFO [http-nio-8082-exec-72] org.apache.catalina.startup.HostConfig.undeploy Undeploying context [/MuaBanNha]
+18-Jun-2020 09:30:54.863 INFO [http-nio-8082-exec-84] org.apache.catalina.startup.HostConfig.deployDescriptor Deploying configuration descriptor [D:\apache-tomcat-8.5.34\conf\Catalina\localhost\MuaBanNha.xml]
+18-Jun-2020 09:30:55.470 INFO [Finalizer] org.apache.catalina.loader.WebappClassLoaderBase.checkStateForResourceLoading Illegal access: this web application instance has been stopped already. Could not load [com.mysql.jdbc.SQLError]. The following stack trace is thrown for debugging purposes as well as to attempt to terminate the thread which caused the illegal access.
+ java.lang.IllegalStateException: Illegal access: this web application instance has been stopped already. Could not load [com.mysql.jdbc.SQLError]. The following stack trace is thrown for debugging purposes as well as to attempt to terminate the thread which caused the illegal access.
+	at org.apache.catalina.loader.WebappClassLoaderBase.checkStateForResourceLoading(WebappClassLoaderBase.java:1329)
+	at org.apache.catalina.loader.WebappClassLoaderBase.checkStateForClassLoading(WebappClassLoaderBase.java:1317)
+	at org.apache.catalina.loader.WebappClassLoaderBase.loadClass(WebappClassLoaderBase.java:1176)
+	at org.apache.catalina.loader.WebappClassLoaderBase.loadClass(WebappClassLoaderBase.java:1137)
+	at com.mysql.jdbc.MysqlIO.send(MysqlIO.java:3134)
+	at com.mysql.jdbc.MysqlIO.quit(MysqlIO.java:1616)
+	at com.mysql.jdbc.ConnectionImpl.realClose(ConnectionImpl.java:4223)
+	at com.mysql.jdbc.ConnectionImpl.cleanup(ConnectionImpl.java:1257)
+	at com.mysql.jdbc.ConnectionImpl.finalize(ConnectionImpl.java:2663)
+	at java.lang.System$2.invokeFinalize(System.java:1270)
+	at java.lang.ref.Finalizer.runFinalizer(Finalizer.java:98)
+	at java.lang.ref.Finalizer.access$100(Finalizer.java:34)
+	at java.lang.ref.Finalizer$FinalizerThread.run(Finalizer.java:210)
+
+18-Jun-2020 09:30:55.699 INFO [http-nio-8082-exec-84] org.apache.jasper.servlet.TldScanner.scanJars At least one JAR was scanned for TLDs yet contained no TLDs. Enable debug logging for this logger for a complete list of JARs that were scanned but no TLDs were found in them. Skipping unneeded JARs during scanning can improve startup time and JSP compilation time.
+18-Jun-2020 09:30:55.729 INFO [http-nio-8082-exec-84] org.apache.catalina.startup.HostConfig.deployDescriptor Deployment of configuration descriptor [D:\apache-tomcat-8.5.34\conf\Catalina\localhost\MuaBanNha.xml] has finished in [866] ms
+18-Jun-2020 09:30:55.732 INFO [http-nio-8082-exec-81] org.apache.catalina.util.LifecycleBase.start The start() method was called on component [StandardEngine[Catalina].StandardHost[localhost].StandardContext[/MuaBanNha]] after start() had already been called. The second call will be ignored.
+18-Jun-2020 09:31:14.359 INFO [http-nio-8082-exec-83] org.apache.catalina.startup.HostConfig.undeploy Undeploying context [/MuaBanNha]
+18-Jun-2020 09:31:14.427 INFO [http-nio-8082-exec-80] org.apache.catalina.startup.HostConfig.deployDescriptor Deploying configuration descriptor [D:\apache-tomcat-8.5.34\conf\Catalina\localhost\MuaBanNha.xml]
+18-Jun-2020 09:31:15.058 INFO [http-nio-8082-exec-80] org.apache.jasper.servlet.TldScanner.scanJars At least one JAR was scanned for TLDs yet contained no TLDs. Enable debug logging for this logger for a complete list of JARs that were scanned but no TLDs were found in them. Skipping unneeded JARs during scanning can improve startup time and JSP compilation time.
+18-Jun-2020 09:31:15.068 INFO [http-nio-8082-exec-80] org.apache.catalina.startup.HostConfig.deployDescriptor Deployment of configuration descriptor [D:\apache-tomcat-8.5.34\conf\Catalina\localhost\MuaBanNha.xml] has finished in [641] ms
+18-Jun-2020 09:31:15.072 INFO [http-nio-8082-exec-71] org.apache.catalina.util.LifecycleBase.start The start() method was called on component [StandardEngine[Catalina].StandardHost[localhost].StandardContext[/MuaBanNha]] after start() had already been called. The second call will be ignored.
+18-Jun-2020 09:32:38.432 INFO [main] org.apache.catalina.core.StandardServer.await A valid shutdown command was received via the shutdown port. Stopping the Server instance.
+18-Jun-2020 09:32:38.433 INFO [main] org.apache.coyote.AbstractProtocol.pause Pausing ProtocolHandler ["http-nio-8082"]
+18-Jun-2020 09:32:39.149 INFO [main] org.apache.coyote.AbstractProtocol.pause Pausing ProtocolHandler ["ajp-nio-8009"]
+18-Jun-2020 09:32:40.566 INFO [main] org.apache.catalina.core.StandardService.stopInternal Stopping service [Catalina]
+18-Jun-2020 09:32:40.636 WARNING [localhost-startStop-2] org.apache.catalina.loader.WebappClassLoaderBase.clearReferencesJdbc The web application [MuaBanNha] registered the JDBC driver [com.mysql.jdbc.Driver] but failed to unregister it when the web application was stopped. To prevent a memory leak, the JDBC Driver has been forcibly unregistered.
+18-Jun-2020 09:32:40.636 WARNING [localhost-startStop-2] org.apache.catalina.loader.WebappClassLoaderBase.clearReferencesThreads The web application [MuaBanNha] appears to have started a thread named [MySQL Statement Cancellation Timer] but has failed to stop it. This is very likely to create a memory leak. Stack trace of thread:
+ java.lang.Object.wait(Native Method)
+ java.lang.Object.wait(Object.java:502)
+ java.util.TimerThread.mainLoop(Timer.java:526)
+ java.util.TimerThread.run(Timer.java:505)
+18-Jun-2020 09:32:40.656 INFO [main] org.apache.coyote.AbstractProtocol.stop Stopping ProtocolHandler ["http-nio-8082"]
+18-Jun-2020 09:32:40.658 INFO [main] org.apache.coyote.AbstractProtocol.stop Stopping ProtocolHandler ["ajp-nio-8009"]
+18-Jun-2020 09:32:40.660 INFO [main] org.apache.coyote.AbstractProtocol.destroy Destroying ProtocolHandler ["http-nio-8082"]
+18-Jun-2020 09:32:40.662 INFO [main] org.apache.coyote.AbstractProtocol.destroy Destroying ProtocolHandler ["ajp-nio-8009"]
+18-Jun-2020 09:48:38.888 WARNING [main] org.apache.catalina.core.AprLifecycleListener.init The APR based Apache Tomcat Native library failed to load. The error reported was [D:\apache-tomcat-8.5.34\bin\tcnative-1.dll: Can't load AMD 64-bit .dll on a IA 32-bit platform]
+ java.lang.UnsatisfiedLinkError: D:\apache-tomcat-8.5.34\bin\tcnative-1.dll: Can't load AMD 64-bit .dll on a IA 32-bit platform
+	at java.lang.ClassLoader$NativeLibrary.load(Native Method)
+	at java.lang.ClassLoader.loadLibrary0(ClassLoader.java:1941)
+	at java.lang.ClassLoader.loadLibrary(ClassLoader.java:1857)
+	at java.lang.Runtime.loadLibrary0(Runtime.java:870)
+	at java.lang.System.loadLibrary(System.java:1122)
+	at org.apache.tomcat.jni.Library.<init>(Library.java:42)
+	at org.apache.tomcat.jni.Library.initialize(Library.java:178)
+	at org.apache.catalina.core.AprLifecycleListener.init(AprLifecycleListener.java:198)
+	at org.apache.catalina.core.AprLifecycleListener.isAprAvailable(AprLifecycleListener.java:107)
+	at org.apache.catalina.connector.Connector.setProtocol(Connector.java:582)
+	at org.apache.catalina.connector.Connector.<init>(Connector.java:74)
+	at org.apache.catalina.startup.ConnectorCreateRule.begin(ConnectorCreateRule.java:64)
+	at org.apache.tomcat.util.digester.Digester.startElement(Digester.java:1250)
+	at com.sun.org.apache.xerces.internal.parsers.AbstractSAXParser.startElement(AbstractSAXParser.java:509)
+	at com.sun.org.apache.xerces.internal.parsers.AbstractXMLDocumentParser.emptyElement(AbstractXMLDocumentParser.java:182)
+	at com.sun.org.apache.xerces.internal.impl.XMLDocumentFragmentScannerImpl.scanStartElement(XMLDocumentFragmentScannerImpl.java:1339)
+	at com.sun.org.apache.xerces.internal.impl.XMLDocumentFragmentScannerImpl$FragmentContentDriver.next(XMLDocumentFragmentScannerImpl.java:2784)
+	at com.sun.org.apache.xerces.internal.impl.XMLDocumentScannerImpl.next(XMLDocumentScannerImpl.java:602)
+	at com.sun.org.apache.xerces.internal.impl.XMLDocumentFragmentScannerImpl.scanDocument(XMLDocumentFragmentScannerImpl.java:505)
+	at com.sun.org.apache.xerces.internal.parsers.XML11Configuration.parse(XML11Configuration.java:841)
+	at com.sun.org.apache.xerces.internal.parsers.XML11Configuration.parse(XML11Configuration.java:770)
+	at com.sun.org.apache.xerces.internal.parsers.XMLParser.parse(XMLParser.java:141)
+	at com.sun.org.apache.xerces.internal.parsers.AbstractSAXParser.parse(AbstractSAXParser.java:1213)
+	at com.sun.org.apache.xerces.internal.jaxp.SAXParserImpl$JAXPSAXParser.parse(SAXParserImpl.java:643)
+	at org.apache.tomcat.util.digester.Digester.parse(Digester.java:1518)
+	at org.apache.catalina.startup.Catalina.load(Catalina.java:604)
+	at org.apache.catalina.startup.Catalina.load(Catalina.java:655)
+	at sun.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+	at sun.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:62)
+	at sun.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)
+	at java.lang.reflect.Method.invoke(Method.java:498)
+	at org.apache.catalina.startup.Bootstrap.load(Bootstrap.java:309)
+	at org.apache.catalina.startup.Bootstrap.main(Bootstrap.java:492)
+
+18-Jun-2020 09:48:39.063 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Server version:        Apache Tomcat/8.5.34
+18-Jun-2020 09:48:39.063 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Server built:          Sep 4 2018 22:28:22 UTC
+18-Jun-2020 09:48:39.063 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Server number:         8.5.34.0
+18-Jun-2020 09:48:39.064 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log OS Name:               Windows 10
+18-Jun-2020 09:48:39.064 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log OS Version:            10.0
+18-Jun-2020 09:48:39.064 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Architecture:          x86
+18-Jun-2020 09:48:39.064 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Java Home:             C:\Program Files (x86)\Java\jdk1.8.0_144\jre
+18-Jun-2020 09:48:39.065 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log JVM Version:           1.8.0_144-b01
+18-Jun-2020 09:48:39.065 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log JVM Vendor:            Oracle Corporation
+18-Jun-2020 09:48:39.065 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log CATALINA_BASE:         D:\apache-tomcat-8.5.34
+18-Jun-2020 09:48:39.065 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log CATALINA_HOME:         D:\apache-tomcat-8.5.34
+18-Jun-2020 09:48:39.065 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: -Djava.util.logging.config.file=D:\apache-tomcat-8.5.34\conf\logging.properties
+18-Jun-2020 09:48:39.065 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: -Djava.util.logging.manager=org.apache.juli.ClassLoaderLogManager
+18-Jun-2020 09:48:39.065 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: -Dhttp.nonProxyHosts=localhost|127.0.0.1|DESKTOP-RE3N2QM
+18-Jun-2020 09:48:39.065 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: -Djdk.tls.ephemeralDHKeySize=2048
+18-Jun-2020 09:48:39.065 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: -Djava.protocol.handler.pkgs=org.apache.catalina.webresources
+18-Jun-2020 09:48:39.065 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: -Dignore.endorsed.dirs=
+18-Jun-2020 09:48:39.066 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: -Dcatalina.base=D:\apache-tomcat-8.5.34
+18-Jun-2020 09:48:39.066 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: -Dcatalina.home=D:\apache-tomcat-8.5.34
+18-Jun-2020 09:48:39.066 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: -Djava.io.tmpdir=D:\apache-tomcat-8.5.34\temp
+18-Jun-2020 09:48:39.313 INFO [main] org.apache.coyote.AbstractProtocol.init Initializing ProtocolHandler ["http-nio-8082"]
+18-Jun-2020 09:48:40.039 INFO [main] org.apache.tomcat.util.net.NioSelectorPool.getSharedSelector Using a shared selector for servlet write/read
+18-Jun-2020 09:48:40.082 INFO [main] org.apache.coyote.AbstractProtocol.init Initializing ProtocolHandler ["ajp-nio-8009"]
+18-Jun-2020 09:48:40.086 INFO [main] org.apache.tomcat.util.net.NioSelectorPool.getSharedSelector Using a shared selector for servlet write/read
+18-Jun-2020 09:48:40.086 INFO [main] org.apache.catalina.startup.Catalina.load Initialization processed in 1927 ms
+18-Jun-2020 09:48:40.156 INFO [main] org.apache.catalina.core.StandardService.startInternal Starting service [Catalina]
+18-Jun-2020 09:48:40.156 INFO [main] org.apache.catalina.core.StandardEngine.startInternal Starting Servlet Engine: Apache Tomcat/8.5.34
+18-Jun-2020 09:48:40.204 INFO [localhost-startStop-1] org.apache.catalina.startup.HostConfig.deployDescriptor Deploying configuration descriptor [D:\apache-tomcat-8.5.34\conf\Catalina\localhost\MuaBanNha.xml]
+18-Jun-2020 09:48:41.961 INFO [localhost-startStop-1] org.apache.jasper.servlet.TldScanner.scanJars At least one JAR was scanned for TLDs yet contained no TLDs. Enable debug logging for this logger for a complete list of JARs that were scanned but no TLDs were found in them. Skipping unneeded JARs during scanning can improve startup time and JSP compilation time.
+18-Jun-2020 09:48:42.089 INFO [localhost-startStop-1] org.apache.catalina.startup.HostConfig.deployDescriptor Deployment of configuration descriptor [D:\apache-tomcat-8.5.34\conf\Catalina\localhost\MuaBanNha.xml] has finished in [1,884] ms
+18-Jun-2020 09:48:42.089 INFO [localhost-startStop-1] org.apache.catalina.startup.HostConfig.deployDirectory Deploying web application directory [D:\apache-tomcat-8.5.34\webapps\docs]
+18-Jun-2020 09:48:42.133 INFO [localhost-startStop-1] org.apache.catalina.startup.HostConfig.deployDirectory Deployment of web application directory [D:\apache-tomcat-8.5.34\webapps\docs] has finished in [44] ms
+18-Jun-2020 09:48:42.133 INFO [localhost-startStop-1] org.apache.catalina.startup.HostConfig.deployDirectory Deploying web application directory [D:\apache-tomcat-8.5.34\webapps\examples]
+18-Jun-2020 09:48:42.595 INFO [localhost-startStop-1] org.apache.catalina.startup.HostConfig.deployDirectory Deployment of web application directory [D:\apache-tomcat-8.5.34\webapps\examples] has finished in [462] ms
+18-Jun-2020 09:48:42.595 INFO [localhost-startStop-1] org.apache.catalina.startup.HostConfig.deployDirectory Deploying web application directory [D:\apache-tomcat-8.5.34\webapps\host-manager]
+18-Jun-2020 09:48:42.692 INFO [localhost-startStop-1] org.apache.catalina.startup.HostConfig.deployDirectory Deployment of web application directory [D:\apache-tomcat-8.5.34\webapps\host-manager] has finished in [97] ms
+18-Jun-2020 09:48:42.692 INFO [localhost-startStop-1] org.apache.catalina.startup.HostConfig.deployDirectory Deploying web application directory [D:\apache-tomcat-8.5.34\webapps\manager]
+18-Jun-2020 09:48:42.774 INFO [localhost-startStop-1] org.apache.catalina.startup.HostConfig.deployDirectory Deployment of web application directory [D:\apache-tomcat-8.5.34\webapps\manager] has finished in [82] ms
+18-Jun-2020 09:48:42.774 INFO [localhost-startStop-1] org.apache.catalina.startup.HostConfig.deployDirectory Deploying web application directory [D:\apache-tomcat-8.5.34\webapps\ROOT]
+18-Jun-2020 09:48:42.836 INFO [localhost-startStop-1] org.apache.catalina.startup.HostConfig.deployDirectory Deployment of web application directory [D:\apache-tomcat-8.5.34\webapps\ROOT] has finished in [62] ms
+18-Jun-2020 09:48:42.843 INFO [main] org.apache.coyote.AbstractProtocol.start Starting ProtocolHandler ["http-nio-8082"]
+18-Jun-2020 09:48:42.936 INFO [main] org.apache.coyote.AbstractProtocol.start Starting ProtocolHandler ["ajp-nio-8009"]
+18-Jun-2020 09:48:42.947 INFO [main] org.apache.catalina.startup.Catalina.start Server startup in 2860 ms
+18-Jun-2020 09:48:47.804 INFO [http-nio-8082-exec-8] org.apache.catalina.startup.HostConfig.deployDescriptor Deploying configuration descriptor [D:\apache-tomcat-8.5.34\conf\Catalina\localhost\ThuCung.xml]
+18-Jun-2020 09:48:48.387 INFO [http-nio-8082-exec-8] org.apache.jasper.servlet.TldScanner.scanJars At least one JAR was scanned for TLDs yet contained no TLDs. Enable debug logging for this logger for a complete list of JARs that were scanned but no TLDs were found in them. Skipping unneeded JARs during scanning can improve startup time and JSP compilation time.
+18-Jun-2020 09:48:48.400 INFO [http-nio-8082-exec-8] org.apache.catalina.startup.HostConfig.deployDescriptor Deployment of configuration descriptor [D:\apache-tomcat-8.5.34\conf\Catalina\localhost\ThuCung.xml] has finished in [595] ms
+18-Jun-2020 09:48:48.403 INFO [http-nio-8082-exec-9] org.apache.catalina.util.LifecycleBase.start The start() method was called on component [StandardEngine[Catalina].StandardHost[localhost].StandardContext[/ThuCung]] after start() had already been called. The second call will be ignored.
+18-Jun-2020 10:54:17.518 INFO [ContainerBackgroundProcessor[StandardEngine[Catalina]]] org.apache.catalina.startup.HostConfig.undeploy Undeploying context [/MuaBanNha]
+18-Jun-2020 10:54:17.635 INFO [localhost-startStop-2] org.apache.catalina.startup.HostConfig.deployDescriptor Deploying configuration descriptor [D:\apache-tomcat-8.5.34\conf\Catalina\localhost\MuaBanNha.xml]
+18-Jun-2020 10:54:17.667 SEVERE [localhost-startStop-2] org.apache.catalina.core.ContainerBase.addChildInternal ContainerBase.addChild: start: 
+ org.apache.catalina.LifecycleException: Failed to start component [StandardEngine[Catalina].StandardHost[localhost].StandardContext[/MuaBanNha]]
+	at org.apache.catalina.util.LifecycleBase.start(LifecycleBase.java:167)
+	at org.apache.catalina.core.ContainerBase.addChildInternal(ContainerBase.java:754)
+	at org.apache.catalina.core.ContainerBase.addChild(ContainerBase.java:730)
+	at org.apache.catalina.core.StandardHost.addChild(StandardHost.java:734)
+	at org.apache.catalina.startup.HostConfig.deployDescriptor(HostConfig.java:629)
+	at org.apache.catalina.startup.HostConfig$DeployDescriptor.run(HostConfig.java:1839)
+	at java.util.concurrent.Executors$RunnableAdapter.call(Executors.java:511)
+	at java.util.concurrent.FutureTask.run(FutureTask.java:266)
+	at java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1149)
+	at java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:624)
+	at java.lang.Thread.run(Thread.java:748)
+Caused by: org.apache.catalina.LifecycleException: Failed to start component [org.apache.catalina.webresources.StandardRoot@1d04a1a]
+	at org.apache.catalina.util.LifecycleBase.start(LifecycleBase.java:167)
+	at org.apache.catalina.core.StandardContext.resourcesStart(StandardContext.java:4907)
+	at org.apache.catalina.core.StandardContext.startInternal(StandardContext.java:5042)
+	at org.apache.catalina.util.LifecycleBase.start(LifecycleBase.java:150)
+	... 10 more
+Caused by: java.lang.IllegalArgumentException: The main resource set specified [D:\J2EE\Webthucung\Webthucung\build\web] is not valid
+	at org.apache.catalina.webresources.StandardRoot.createMainResourceSet(StandardRoot.java:748)
+	at org.apache.catalina.webresources.StandardRoot.startInternal(StandardRoot.java:706)
+	at org.apache.catalina.util.LifecycleBase.start(LifecycleBase.java:150)
+	... 13 more
+
+18-Jun-2020 10:54:17.672 SEVERE [localhost-startStop-2] org.apache.catalina.startup.HostConfig.deployDescriptor Error deploying configuration descriptor [D:\apache-tomcat-8.5.34\conf\Catalina\localhost\MuaBanNha.xml]
+ java.lang.IllegalStateException: ContainerBase.addChild: start: org.apache.catalina.LifecycleException: Failed to start component [StandardEngine[Catalina].StandardHost[localhost].StandardContext[/MuaBanNha]]
+	at org.apache.catalina.core.ContainerBase.addChildInternal(ContainerBase.java:758)
+	at org.apache.catalina.core.ContainerBase.addChild(ContainerBase.java:730)
+	at org.apache.catalina.core.StandardHost.addChild(StandardHost.java:734)
+	at org.apache.catalina.startup.HostConfig.deployDescriptor(HostConfig.java:629)
+	at org.apache.catalina.startup.HostConfig$DeployDescriptor.run(HostConfig.java:1839)
+	at java.util.concurrent.Executors$RunnableAdapter.call(Executors.java:511)
+	at java.util.concurrent.FutureTask.run(FutureTask.java:266)
+	at java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1149)
+	at java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:624)
+	at java.lang.Thread.run(Thread.java:748)
+
+18-Jun-2020 10:54:17.673 INFO [localhost-startStop-2] org.apache.catalina.startup.HostConfig.deployDescriptor Deployment of configuration descriptor [D:\apache-tomcat-8.5.34\conf\Catalina\localhost\MuaBanNha.xml] has finished in [38] ms
+18-Jun-2020 11:07:54.053 WARNING [http-nio-8082-exec-19] org.apache.catalina.loader.WebappClassLoaderBase.clearReferencesJdbc The web application [ThuCung] registered the JDBC driver [com.mysql.jdbc.Driver] but failed to unregister it when the web application was stopped. To prevent a memory leak, the JDBC Driver has been forcibly unregistered.
+18-Jun-2020 11:07:54.056 WARNING [http-nio-8082-exec-19] org.apache.catalina.loader.WebappClassLoaderBase.clearReferencesThreads The web application [ThuCung] appears to have started a thread named [MySQL Statement Cancellation Timer] but has failed to stop it. This is very likely to create a memory leak. Stack trace of thread:
+ java.lang.Object.wait(Native Method)
+ java.lang.Object.wait(Object.java:502)
+ java.util.TimerThread.mainLoop(Timer.java:526)
+ java.util.TimerThread.run(Timer.java:505)
+18-Jun-2020 11:07:54.562 INFO [http-nio-8082-exec-19] org.apache.catalina.startup.HostConfig.undeploy Undeploying context [/ThuCung]
+18-Jun-2020 11:08:04.399 INFO [http-nio-8082-exec-18] org.apache.catalina.startup.HostConfig.deployDescriptor Deploying configuration descriptor [D:\apache-tomcat-8.5.34\conf\Catalina\localhost\ThuCung.xml]
+18-Jun-2020 11:08:05.998 INFO [http-nio-8082-exec-18] org.apache.jasper.servlet.TldScanner.scanJars At least one JAR was scanned for TLDs yet contained no TLDs. Enable debug logging for this logger for a complete list of JARs that were scanned but no TLDs were found in them. Skipping unneeded JARs during scanning can improve startup time and JSP compilation time.
+18-Jun-2020 11:08:06.026 INFO [http-nio-8082-exec-18] org.apache.catalina.startup.HostConfig.deployDescriptor Deployment of configuration descriptor [D:\apache-tomcat-8.5.34\conf\Catalina\localhost\ThuCung.xml] has finished in [1,627] ms
+18-Jun-2020 11:08:06.031 INFO [http-nio-8082-exec-12] org.apache.catalina.util.LifecycleBase.start The start() method was called on component [StandardEngine[Catalina].StandardHost[localhost].StandardContext[/ThuCung]] after start() had already been called. The second call will be ignored.
+18-Jun-2020 11:15:23.287 WARNING [http-nio-8082-exec-21] org.apache.catalina.loader.WebappClassLoaderBase.clearReferencesJdbc The web application [ThuCung] registered the JDBC driver [com.mysql.jdbc.Driver] but failed to unregister it when the web application was stopped. To prevent a memory leak, the JDBC Driver has been forcibly unregistered.
+18-Jun-2020 11:15:23.288 WARNING [http-nio-8082-exec-21] org.apache.catalina.loader.WebappClassLoaderBase.clearReferencesThreads The web application [ThuCung] appears to have started a thread named [MySQL Statement Cancellation Timer] but has failed to stop it. This is very likely to create a memory leak. Stack trace of thread:
+ java.lang.Object.wait(Native Method)
+ java.lang.Object.wait(Object.java:502)
+ java.util.TimerThread.mainLoop(Timer.java:526)
+ java.util.TimerThread.run(Timer.java:505)
+18-Jun-2020 11:15:23.796 INFO [http-nio-8082-exec-21] org.apache.catalina.startup.HostConfig.undeploy Undeploying context [/ThuCung]
+18-Jun-2020 11:15:35.666 INFO [http-nio-8082-exec-28] org.apache.catalina.startup.HostConfig.deployDescriptor Deploying configuration descriptor [D:\apache-tomcat-8.5.34\conf\Catalina\localhost\ThuCung.xml]
+18-Jun-2020 11:15:37.367 INFO [http-nio-8082-exec-28] org.apache.jasper.servlet.TldScanner.scanJars At least one JAR was scanned for TLDs yet contained no TLDs. Enable debug logging for this logger for a complete list of JARs that were scanned but no TLDs were found in them. Skipping unneeded JARs during scanning can improve startup time and JSP compilation time.
+18-Jun-2020 11:15:37.392 INFO [http-nio-8082-exec-28] org.apache.catalina.startup.HostConfig.deployDescriptor Deployment of configuration descriptor [D:\apache-tomcat-8.5.34\conf\Catalina\localhost\ThuCung.xml] has finished in [1,726] ms
+18-Jun-2020 11:15:37.397 INFO [http-nio-8082-exec-24] org.apache.catalina.util.LifecycleBase.start The start() method was called on component [StandardEngine[Catalina].StandardHost[localhost].StandardContext[/ThuCung]] after start() had already been called. The second call will be ignored.
+18-Jun-2020 11:16:45.258 WARNING [http-nio-8082-exec-39] org.apache.catalina.loader.WebappClassLoaderBase.clearReferencesJdbc The web application [ThuCung] registered the JDBC driver [com.mysql.jdbc.Driver] but failed to unregister it when the web application was stopped. To prevent a memory leak, the JDBC Driver has been forcibly unregistered.
+18-Jun-2020 11:16:45.259 WARNING [http-nio-8082-exec-39] org.apache.catalina.loader.WebappClassLoaderBase.clearReferencesThreads The web application [ThuCung] appears to have started a thread named [MySQL Statement Cancellation Timer] but has failed to stop it. This is very likely to create a memory leak. Stack trace of thread:
+ java.lang.Object.wait(Native Method)
+ java.lang.Object.wait(Object.java:502)
+ java.util.TimerThread.mainLoop(Timer.java:526)
+ java.util.TimerThread.run(Timer.java:505)
+18-Jun-2020 11:16:45.762 INFO [http-nio-8082-exec-39] org.apache.catalina.startup.HostConfig.undeploy Undeploying context [/ThuCung]
+18-Jun-2020 11:16:51.032 INFO [http-nio-8082-exec-31] org.apache.catalina.startup.HostConfig.deployDescriptor Deploying configuration descriptor [D:\apache-tomcat-8.5.34\conf\Catalina\localhost\ThuCung.xml]
+18-Jun-2020 11:16:51.869 INFO [http-nio-8082-exec-31] org.apache.jasper.servlet.TldScanner.scanJars At least one JAR was scanned for TLDs yet contained no TLDs. Enable debug logging for this logger for a complete list of JARs that were scanned but no TLDs were found in them. Skipping unneeded JARs during scanning can improve startup time and JSP compilation time.
+18-Jun-2020 11:16:51.887 INFO [http-nio-8082-exec-31] org.apache.catalina.startup.HostConfig.deployDescriptor Deployment of configuration descriptor [D:\apache-tomcat-8.5.34\conf\Catalina\localhost\ThuCung.xml] has finished in [855] ms
+18-Jun-2020 11:16:51.891 INFO [http-nio-8082-exec-38] org.apache.catalina.util.LifecycleBase.start The start() method was called on component [StandardEngine[Catalina].StandardHost[localhost].StandardContext[/ThuCung]] after start() had already been called. The second call will be ignored.
+18-Jun-2020 11:25:48.001 WARNING [http-nio-8082-exec-48] org.apache.catalina.loader.WebappClassLoaderBase.clearReferencesJdbc The web application [ThuCung] registered the JDBC driver [com.mysql.jdbc.Driver] but failed to unregister it when the web application was stopped. To prevent a memory leak, the JDBC Driver has been forcibly unregistered.
+18-Jun-2020 11:25:48.002 WARNING [http-nio-8082-exec-48] org.apache.catalina.loader.WebappClassLoaderBase.clearReferencesThreads The web application [ThuCung] appears to have started a thread named [MySQL Statement Cancellation Timer] but has failed to stop it. This is very likely to create a memory leak. Stack trace of thread:
+ java.lang.Object.wait(Native Method)
+ java.lang.Object.wait(Object.java:502)
+ java.util.TimerThread.mainLoop(Timer.java:526)
+ java.util.TimerThread.run(Timer.java:505)
+18-Jun-2020 11:25:48.505 INFO [http-nio-8082-exec-48] org.apache.catalina.startup.HostConfig.undeploy Undeploying context [/ThuCung]
+18-Jun-2020 11:25:56.234 INFO [http-nio-8082-exec-47] org.apache.catalina.startup.HostConfig.deployDescriptor Deploying configuration descriptor [D:\apache-tomcat-8.5.34\conf\Catalina\localhost\ThuCung.xml]
+18-Jun-2020 11:25:57.180 INFO [http-nio-8082-exec-47] org.apache.jasper.servlet.TldScanner.scanJars At least one JAR was scanned for TLDs yet contained no TLDs. Enable debug logging for this logger for a complete list of JARs that were scanned but no TLDs were found in them. Skipping unneeded JARs during scanning can improve startup time and JSP compilation time.
+18-Jun-2020 11:25:57.196 INFO [http-nio-8082-exec-47] org.apache.catalina.startup.HostConfig.deployDescriptor Deployment of configuration descriptor [D:\apache-tomcat-8.5.34\conf\Catalina\localhost\ThuCung.xml] has finished in [961] ms
+18-Jun-2020 11:25:57.198 INFO [http-nio-8082-exec-49] org.apache.catalina.util.LifecycleBase.start The start() method was called on component [StandardEngine[Catalina].StandardHost[localhost].StandardContext[/ThuCung]] after start() had already been called. The second call will be ignored.
+18-Jun-2020 11:36:44.461 WARNING [http-nio-8082-exec-58] org.apache.catalina.loader.WebappClassLoaderBase.clearReferencesJdbc The web application [ThuCung] registered the JDBC driver [com.mysql.jdbc.Driver] but failed to unregister it when the web application was stopped. To prevent a memory leak, the JDBC Driver has been forcibly unregistered.
+18-Jun-2020 11:36:44.461 WARNING [http-nio-8082-exec-58] org.apache.catalina.loader.WebappClassLoaderBase.clearReferencesThreads The web application [ThuCung] appears to have started a thread named [MySQL Statement Cancellation Timer] but has failed to stop it. This is very likely to create a memory leak. Stack trace of thread:
+ java.lang.Object.wait(Native Method)
+ java.lang.Object.wait(Object.java:502)
+ java.util.TimerThread.mainLoop(Timer.java:526)
+ java.util.TimerThread.run(Timer.java:505)
+18-Jun-2020 11:36:44.965 INFO [http-nio-8082-exec-58] org.apache.catalina.startup.HostConfig.undeploy Undeploying context [/ThuCung]
+18-Jun-2020 11:36:54.399 INFO [http-nio-8082-exec-54] org.apache.catalina.startup.HostConfig.deployDescriptor Deploying configuration descriptor [D:\apache-tomcat-8.5.34\conf\Catalina\localhost\ThuCung.xml]
+18-Jun-2020 11:36:55.127 INFO [http-nio-8082-exec-54] org.apache.jasper.servlet.TldScanner.scanJars At least one JAR was scanned for TLDs yet contained no TLDs. Enable debug logging for this logger for a complete list of JARs that were scanned but no TLDs were found in them. Skipping unneeded JARs during scanning can improve startup time and JSP compilation time.
+18-Jun-2020 11:36:55.153 INFO [http-nio-8082-exec-54] org.apache.catalina.startup.HostConfig.deployDescriptor Deployment of configuration descriptor [D:\apache-tomcat-8.5.34\conf\Catalina\localhost\ThuCung.xml] has finished in [754] ms
+18-Jun-2020 11:36:55.158 INFO [http-nio-8082-exec-56] org.apache.catalina.util.LifecycleBase.start The start() method was called on component [StandardEngine[Catalina].StandardHost[localhost].StandardContext[/ThuCung]] after start() had already been called. The second call will be ignored.
+18-Jun-2020 11:38:14.627 WARNING [http-nio-8082-exec-68] org.apache.catalina.loader.WebappClassLoaderBase.clearReferencesJdbc The web application [ThuCung] registered the JDBC driver [com.mysql.jdbc.Driver] but failed to unregister it when the web application was stopped. To prevent a memory leak, the JDBC Driver has been forcibly unregistered.
+18-Jun-2020 11:38:14.628 WARNING [http-nio-8082-exec-68] org.apache.catalina.loader.WebappClassLoaderBase.clearReferencesThreads The web application [ThuCung] appears to have started a thread named [MySQL Statement Cancellation Timer] but has failed to stop it. This is very likely to create a memory leak. Stack trace of thread:
+ java.lang.Object.wait(Native Method)
+ java.lang.Object.wait(Object.java:502)
+ java.util.TimerThread.mainLoop(Timer.java:526)
+ java.util.TimerThread.run(Timer.java:505)
+18-Jun-2020 11:38:15.131 INFO [http-nio-8082-exec-68] org.apache.catalina.startup.HostConfig.undeploy Undeploying context [/ThuCung]
+18-Jun-2020 11:38:20.279 INFO [http-nio-8082-exec-67] org.apache.catalina.startup.HostConfig.deployDescriptor Deploying configuration descriptor [D:\apache-tomcat-8.5.34\conf\Catalina\localhost\ThuCung.xml]
+18-Jun-2020 11:38:21.199 INFO [http-nio-8082-exec-67] org.apache.jasper.servlet.TldScanner.scanJars At least one JAR was scanned for TLDs yet contained no TLDs. Enable debug logging for this logger for a complete list of JARs that were scanned but no TLDs were found in them. Skipping unneeded JARs during scanning can improve startup time and JSP compilation time.
+18-Jun-2020 11:38:21.226 INFO [http-nio-8082-exec-67] org.apache.catalina.startup.HostConfig.deployDescriptor Deployment of configuration descriptor [D:\apache-tomcat-8.5.34\conf\Catalina\localhost\ThuCung.xml] has finished in [947] ms
+18-Jun-2020 11:38:21.232 INFO [http-nio-8082-exec-61] org.apache.catalina.util.LifecycleBase.start The start() method was called on component [StandardEngine[Catalina].StandardHost[localhost].StandardContext[/ThuCung]] after start() had already been called. The second call will be ignored.
+18-Jun-2020 11:40:40.665 WARNING [http-nio-8082-exec-72] org.apache.catalina.loader.WebappClassLoaderBase.clearReferencesJdbc The web application [ThuCung] registered the JDBC driver [com.mysql.jdbc.Driver] but failed to unregister it when the web application was stopped. To prevent a memory leak, the JDBC Driver has been forcibly unregistered.
+18-Jun-2020 11:40:40.666 WARNING [http-nio-8082-exec-72] org.apache.catalina.loader.WebappClassLoaderBase.clearReferencesThreads The web application [ThuCung] appears to have started a thread named [MySQL Statement Cancellation Timer] but has failed to stop it. This is very likely to create a memory leak. Stack trace of thread:
+ java.lang.Object.wait(Native Method)
+ java.lang.Object.wait(Object.java:502)
+ java.util.TimerThread.mainLoop(Timer.java:526)
+ java.util.TimerThread.run(Timer.java:505)
+18-Jun-2020 11:40:41.170 INFO [http-nio-8082-exec-72] org.apache.catalina.startup.HostConfig.undeploy Undeploying context [/ThuCung]
+18-Jun-2020 11:40:44.259 INFO [http-nio-8082-exec-77] org.apache.catalina.startup.HostConfig.deployDescriptor Deploying configuration descriptor [D:\apache-tomcat-8.5.34\conf\Catalina\localhost\ThuCung.xml]
+18-Jun-2020 11:40:45.002 INFO [http-nio-8082-exec-77] org.apache.jasper.servlet.TldScanner.scanJars At least one JAR was scanned for TLDs yet contained no TLDs. Enable debug logging for this logger for a complete list of JARs that were scanned but no TLDs were found in them. Skipping unneeded JARs during scanning can improve startup time and JSP compilation time.
+18-Jun-2020 11:40:45.022 INFO [http-nio-8082-exec-77] org.apache.catalina.startup.HostConfig.deployDescriptor Deployment of configuration descriptor [D:\apache-tomcat-8.5.34\conf\Catalina\localhost\ThuCung.xml] has finished in [763] ms
+18-Jun-2020 11:40:45.027 INFO [http-nio-8082-exec-78] org.apache.catalina.util.LifecycleBase.start The start() method was called on component [StandardEngine[Catalina].StandardHost[localhost].StandardContext[/ThuCung]] after start() had already been called. The second call will be ignored.
+18-Jun-2020 11:45:20.626 WARNING [http-nio-8082-exec-82] org.apache.catalina.loader.WebappClassLoaderBase.clearReferencesJdbc The web application [ThuCung] registered the JDBC driver [com.mysql.jdbc.Driver] but failed to unregister it when the web application was stopped. To prevent a memory leak, the JDBC Driver has been forcibly unregistered.
+18-Jun-2020 11:45:20.628 WARNING [http-nio-8082-exec-82] org.apache.catalina.loader.WebappClassLoaderBase.clearReferencesThreads The web application [ThuCung] appears to have started a thread named [MySQL Statement Cancellation Timer] but has failed to stop it. This is very likely to create a memory leak. Stack trace of thread:
+ java.lang.Object.wait(Native Method)
+ java.lang.Object.wait(Object.java:502)
+ java.util.TimerThread.mainLoop(Timer.java:526)
+ java.util.TimerThread.run(Timer.java:505)
+18-Jun-2020 11:45:21.131 INFO [http-nio-8082-exec-82] org.apache.catalina.startup.HostConfig.undeploy Undeploying context [/ThuCung]
+18-Jun-2020 11:45:27.034 INFO [http-nio-8082-exec-88] org.apache.catalina.startup.HostConfig.deployDescriptor Deploying configuration descriptor [D:\apache-tomcat-8.5.34\conf\Catalina\localhost\ThuCung.xml]
+18-Jun-2020 11:45:27.890 INFO [http-nio-8082-exec-88] org.apache.jasper.servlet.TldScanner.scanJars At least one JAR was scanned for TLDs yet contained no TLDs. Enable debug logging for this logger for a complete list of JARs that were scanned but no TLDs were found in them. Skipping unneeded JARs during scanning can improve startup time and JSP compilation time.
+18-Jun-2020 11:45:27.904 INFO [http-nio-8082-exec-88] org.apache.catalina.startup.HostConfig.deployDescriptor Deployment of configuration descriptor [D:\apache-tomcat-8.5.34\conf\Catalina\localhost\ThuCung.xml] has finished in [870] ms
+18-Jun-2020 11:45:27.910 INFO [http-nio-8082-exec-89] org.apache.catalina.util.LifecycleBase.start The start() method was called on component [StandardEngine[Catalina].StandardHost[localhost].StandardContext[/ThuCung]] after start() had already been called. The second call will be ignored.
+18-Jun-2020 11:53:45.035 WARNING [http-nio-8082-exec-98] org.apache.catalina.loader.WebappClassLoaderBase.clearReferencesJdbc The web application [ThuCung] registered the JDBC driver [com.mysql.jdbc.Driver] but failed to unregister it when the web application was stopped. To prevent a memory leak, the JDBC Driver has been forcibly unregistered.
+18-Jun-2020 11:53:45.036 WARNING [http-nio-8082-exec-98] org.apache.catalina.loader.WebappClassLoaderBase.clearReferencesThreads The web application [ThuCung] appears to have started a thread named [MySQL Statement Cancellation Timer] but has failed to stop it. This is very likely to create a memory leak. Stack trace of thread:
+ java.lang.Object.wait(Native Method)
+ java.lang.Object.wait(Object.java:502)
+ java.util.TimerThread.mainLoop(Timer.java:526)
+ java.util.TimerThread.run(Timer.java:505)
+18-Jun-2020 11:53:45.554 INFO [http-nio-8082-exec-98] org.apache.catalina.startup.HostConfig.undeploy Undeploying context [/ThuCung]
+18-Jun-2020 11:53:56.260 INFO [http-nio-8082-exec-92] org.apache.catalina.startup.HostConfig.deployDescriptor Deploying configuration descriptor [D:\apache-tomcat-8.5.34\conf\Catalina\localhost\ThuCung.xml]
+18-Jun-2020 11:53:57.198 INFO [http-nio-8082-exec-92] org.apache.jasper.servlet.TldScanner.scanJars At least one JAR was scanned for TLDs yet contained no TLDs. Enable debug logging for this logger for a complete list of JARs that were scanned but no TLDs were found in them. Skipping unneeded JARs during scanning can improve startup time and JSP compilation time.
+18-Jun-2020 11:53:57.208 INFO [http-nio-8082-exec-92] org.apache.catalina.startup.HostConfig.deployDescriptor Deployment of configuration descriptor [D:\apache-tomcat-8.5.34\conf\Catalina\localhost\ThuCung.xml] has finished in [948] ms
+18-Jun-2020 11:53:57.223 INFO [http-nio-8082-exec-95] org.apache.catalina.util.LifecycleBase.start The start() method was called on component [StandardEngine[Catalina].StandardHost[localhost].StandardContext[/ThuCung]] after start() had already been called. The second call will be ignored.
+18-Jun-2020 13:16:53.761 WARNING [http-nio-8082-exec-104] org.apache.catalina.loader.WebappClassLoaderBase.clearReferencesJdbc The web application [ThuCung] registered the JDBC driver [com.mysql.jdbc.Driver] but failed to unregister it when the web application was stopped. To prevent a memory leak, the JDBC Driver has been forcibly unregistered.
+18-Jun-2020 13:16:53.763 WARNING [http-nio-8082-exec-104] org.apache.catalina.loader.WebappClassLoaderBase.clearReferencesThreads The web application [ThuCung] appears to have started a thread named [MySQL Statement Cancellation Timer] but has failed to stop it. This is very likely to create a memory leak. Stack trace of thread:
+ java.lang.Object.wait(Native Method)
+ java.lang.Object.wait(Object.java:502)
+ java.util.TimerThread.mainLoop(Timer.java:526)
+ java.util.TimerThread.run(Timer.java:505)
+18-Jun-2020 13:16:54.270 INFO [http-nio-8082-exec-104] org.apache.catalina.startup.HostConfig.undeploy Undeploying context [/ThuCung]
+18-Jun-2020 13:17:15.051 INFO [main] org.apache.catalina.core.StandardServer.await A valid shutdown command was received via the shutdown port. Stopping the Server instance.
+18-Jun-2020 13:17:15.055 INFO [main] org.apache.coyote.AbstractProtocol.pause Pausing ProtocolHandler ["http-nio-8082"]
+18-Jun-2020 13:17:15.728 INFO [main] org.apache.coyote.AbstractProtocol.pause Pausing ProtocolHandler ["ajp-nio-8009"]
+18-Jun-2020 13:17:16.614 INFO [main] org.apache.catalina.core.StandardService.stopInternal Stopping service [Catalina]
+18-Jun-2020 13:17:16.764 INFO [main] org.apache.coyote.AbstractProtocol.stop Stopping ProtocolHandler ["http-nio-8082"]
+18-Jun-2020 13:17:16.766 INFO [main] org.apache.coyote.AbstractProtocol.stop Stopping ProtocolHandler ["ajp-nio-8009"]
+18-Jun-2020 13:17:16.768 INFO [main] org.apache.coyote.AbstractProtocol.destroy Destroying ProtocolHandler ["http-nio-8082"]
+18-Jun-2020 13:17:16.770 INFO [main] org.apache.coyote.AbstractProtocol.destroy Destroying ProtocolHandler ["ajp-nio-8009"]
+18-Jun-2020 22:06:30.469 WARNING [main] org.apache.catalina.core.AprLifecycleListener.init The APR based Apache Tomcat Native library failed to load. The error reported was [D:\apache-tomcat-8.5.34\bin\tcnative-1.dll: Can't load AMD 64-bit .dll on a IA 32-bit platform]
+ java.lang.UnsatisfiedLinkError: D:\apache-tomcat-8.5.34\bin\tcnative-1.dll: Can't load AMD 64-bit .dll on a IA 32-bit platform
+	at java.lang.ClassLoader$NativeLibrary.load(Native Method)
+	at java.lang.ClassLoader.loadLibrary0(ClassLoader.java:1941)
+	at java.lang.ClassLoader.loadLibrary(ClassLoader.java:1857)
+	at java.lang.Runtime.loadLibrary0(Runtime.java:870)
+	at java.lang.System.loadLibrary(System.java:1122)
+	at org.apache.tomcat.jni.Library.<init>(Library.java:42)
+	at org.apache.tomcat.jni.Library.initialize(Library.java:178)
+	at org.apache.catalina.core.AprLifecycleListener.init(AprLifecycleListener.java:198)
+	at org.apache.catalina.core.AprLifecycleListener.isAprAvailable(AprLifecycleListener.java:107)
+	at org.apache.catalina.connector.Connector.setProtocol(Connector.java:582)
+	at org.apache.catalina.connector.Connector.<init>(Connector.java:74)
+	at org.apache.catalina.startup.ConnectorCreateRule.begin(ConnectorCreateRule.java:64)
+	at org.apache.tomcat.util.digester.Digester.startElement(Digester.java:1250)
+	at com.sun.org.apache.xerces.internal.parsers.AbstractSAXParser.startElement(AbstractSAXParser.java:509)
+	at com.sun.org.apache.xerces.internal.parsers.AbstractXMLDocumentParser.emptyElement(AbstractXMLDocumentParser.java:182)
+	at com.sun.org.apache.xerces.internal.impl.XMLDocumentFragmentScannerImpl.scanStartElement(XMLDocumentFragmentScannerImpl.java:1339)
+	at com.sun.org.apache.xerces.internal.impl.XMLDocumentFragmentScannerImpl$FragmentContentDriver.next(XMLDocumentFragmentScannerImpl.java:2784)
+	at com.sun.org.apache.xerces.internal.impl.XMLDocumentScannerImpl.next(XMLDocumentScannerImpl.java:602)
+	at com.sun.org.apache.xerces.internal.impl.XMLDocumentFragmentScannerImpl.scanDocument(XMLDocumentFragmentScannerImpl.java:505)
+	at com.sun.org.apache.xerces.internal.parsers.XML11Configuration.parse(XML11Configuration.java:841)
+	at com.sun.org.apache.xerces.internal.parsers.XML11Configuration.parse(XML11Configuration.java:770)
+	at com.sun.org.apache.xerces.internal.parsers.XMLParser.parse(XMLParser.java:141)
+	at com.sun.org.apache.xerces.internal.parsers.AbstractSAXParser.parse(AbstractSAXParser.java:1213)
+	at com.sun.org.apache.xerces.internal.jaxp.SAXParserImpl$JAXPSAXParser.parse(SAXParserImpl.java:643)
+	at org.apache.tomcat.util.digester.Digester.parse(Digester.java:1518)
+	at org.apache.catalina.startup.Catalina.load(Catalina.java:604)
+	at org.apache.catalina.startup.Catalina.load(Catalina.java:655)
+	at sun.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+	at sun.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:62)
+	at sun.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)
+	at java.lang.reflect.Method.invoke(Method.java:498)
+	at org.apache.catalina.startup.Bootstrap.load(Bootstrap.java:309)
+	at org.apache.catalina.startup.Bootstrap.main(Bootstrap.java:492)
+
+18-Jun-2020 22:06:30.601 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Server version:        Apache Tomcat/8.5.34
+18-Jun-2020 22:06:30.601 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Server built:          Sep 4 2018 22:28:22 UTC
+18-Jun-2020 22:06:30.601 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Server number:         8.5.34.0
+18-Jun-2020 22:06:30.601 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log OS Name:               Windows 10
+18-Jun-2020 22:06:30.601 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log OS Version:            10.0
+18-Jun-2020 22:06:30.601 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Architecture:          x86
+18-Jun-2020 22:06:30.601 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Java Home:             C:\Program Files (x86)\Java\jdk1.8.0_144\jre
+18-Jun-2020 22:06:30.601 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log JVM Version:           1.8.0_144-b01
+18-Jun-2020 22:06:30.601 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log JVM Vendor:            Oracle Corporation
+18-Jun-2020 22:06:30.601 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log CATALINA_BASE:         D:\apache-tomcat-8.5.34
+18-Jun-2020 22:06:30.601 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log CATALINA_HOME:         D:\apache-tomcat-8.5.34
+18-Jun-2020 22:06:30.601 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: -Djava.util.logging.config.file=D:\apache-tomcat-8.5.34\conf\logging.properties
+18-Jun-2020 22:06:30.601 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: -Djava.util.logging.manager=org.apache.juli.ClassLoaderLogManager
+18-Jun-2020 22:06:30.601 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: -Dhttp.nonProxyHosts=localhost|127.0.0.1|DESKTOP-RE3N2QM
+18-Jun-2020 22:06:30.601 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: -Djdk.tls.ephemeralDHKeySize=2048
+18-Jun-2020 22:06:30.601 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: -Djava.protocol.handler.pkgs=org.apache.catalina.webresources
+18-Jun-2020 22:06:30.601 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: -Dignore.endorsed.dirs=
+18-Jun-2020 22:06:30.601 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: -Dcatalina.base=D:\apache-tomcat-8.5.34
+18-Jun-2020 22:06:30.601 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: -Dcatalina.home=D:\apache-tomcat-8.5.34
+18-Jun-2020 22:06:30.601 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: -Djava.io.tmpdir=D:\apache-tomcat-8.5.34\temp
+18-Jun-2020 22:06:30.817 INFO [main] org.apache.coyote.AbstractProtocol.init Initializing ProtocolHandler ["http-nio-8082"]
+18-Jun-2020 22:06:31.296 INFO [main] org.apache.tomcat.util.net.NioSelectorPool.getSharedSelector Using a shared selector for servlet write/read
+18-Jun-2020 22:06:31.327 INFO [main] org.apache.coyote.AbstractProtocol.init Initializing ProtocolHandler ["ajp-nio-8009"]
+18-Jun-2020 22:06:31.327 INFO [main] org.apache.tomcat.util.net.NioSelectorPool.getSharedSelector Using a shared selector for servlet write/read
+18-Jun-2020 22:06:31.327 INFO [main] org.apache.catalina.startup.Catalina.load Initialization processed in 1278 ms
+18-Jun-2020 22:06:31.363 INFO [main] org.apache.catalina.core.StandardService.startInternal Starting service [Catalina]
+18-Jun-2020 22:06:31.363 INFO [main] org.apache.catalina.core.StandardEngine.startInternal Starting Servlet Engine: Apache Tomcat/8.5.34
+18-Jun-2020 22:06:31.396 INFO [localhost-startStop-1] org.apache.catalina.startup.HostConfig.deployDescriptor Deploying configuration descriptor [D:\apache-tomcat-8.5.34\conf\Catalina\localhost\MuaBanNha.xml]
+18-Jun-2020 22:06:31.496 SEVERE [localhost-startStop-1] org.apache.catalina.core.ContainerBase.addChildInternal ContainerBase.addChild: start: 
+ org.apache.catalina.LifecycleException: Failed to start component [StandardEngine[Catalina].StandardHost[localhost].StandardContext[/MuaBanNha]]
+	at org.apache.catalina.util.LifecycleBase.start(LifecycleBase.java:167)
+	at org.apache.catalina.core.ContainerBase.addChildInternal(ContainerBase.java:754)
+	at org.apache.catalina.core.ContainerBase.addChild(ContainerBase.java:730)
+	at org.apache.catalina.core.StandardHost.addChild(StandardHost.java:734)
+	at org.apache.catalina.startup.HostConfig.deployDescriptor(HostConfig.java:629)
+	at org.apache.catalina.startup.HostConfig$DeployDescriptor.run(HostConfig.java:1839)
+	at java.util.concurrent.Executors$RunnableAdapter.call(Executors.java:511)
+	at java.util.concurrent.FutureTask.run(FutureTask.java:266)
+	at java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1149)
+	at java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:624)
+	at java.lang.Thread.run(Thread.java:748)
+Caused by: org.apache.catalina.LifecycleException: Failed to start component [org.apache.catalina.webresources.StandardRoot@13f47cf]
+	at org.apache.catalina.util.LifecycleBase.start(LifecycleBase.java:167)
+	at org.apache.catalina.core.StandardContext.resourcesStart(StandardContext.java:4907)
+	at org.apache.catalina.core.StandardContext.startInternal(StandardContext.java:5042)
+	at org.apache.catalina.util.LifecycleBase.start(LifecycleBase.java:150)
+	... 10 more
+Caused by: java.lang.IllegalArgumentException: The main resource set specified [D:\J2EE\Webthucung\Webthucung\build\web] is not valid
+	at org.apache.catalina.webresources.StandardRoot.createMainResourceSet(StandardRoot.java:748)
+	at org.apache.catalina.webresources.StandardRoot.startInternal(StandardRoot.java:706)
+	at org.apache.catalina.util.LifecycleBase.start(LifecycleBase.java:150)
+	... 13 more
+
+18-Jun-2020 22:06:31.496 SEVERE [localhost-startStop-1] org.apache.catalina.startup.HostConfig.deployDescriptor Error deploying configuration descriptor [D:\apache-tomcat-8.5.34\conf\Catalina\localhost\MuaBanNha.xml]
+ java.lang.IllegalStateException: ContainerBase.addChild: start: org.apache.catalina.LifecycleException: Failed to start component [StandardEngine[Catalina].StandardHost[localhost].StandardContext[/MuaBanNha]]
+	at org.apache.catalina.core.ContainerBase.addChildInternal(ContainerBase.java:758)
+	at org.apache.catalina.core.ContainerBase.addChild(ContainerBase.java:730)
+	at org.apache.catalina.core.StandardHost.addChild(StandardHost.java:734)
+	at org.apache.catalina.startup.HostConfig.deployDescriptor(HostConfig.java:629)
+	at org.apache.catalina.startup.HostConfig$DeployDescriptor.run(HostConfig.java:1839)
+	at java.util.concurrent.Executors$RunnableAdapter.call(Executors.java:511)
+	at java.util.concurrent.FutureTask.run(FutureTask.java:266)
+	at java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1149)
+	at java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:624)
+	at java.lang.Thread.run(Thread.java:748)
+
+18-Jun-2020 22:06:31.496 INFO [localhost-startStop-1] org.apache.catalina.startup.HostConfig.deployDescriptor Deployment of configuration descriptor [D:\apache-tomcat-8.5.34\conf\Catalina\localhost\MuaBanNha.xml] has finished in [100] ms
+18-Jun-2020 22:06:31.496 INFO [localhost-startStop-1] org.apache.catalina.startup.HostConfig.deployDirectory Deploying web application directory [D:\apache-tomcat-8.5.34\webapps\docs]
+18-Jun-2020 22:06:31.928 INFO [localhost-startStop-1] org.apache.catalina.startup.HostConfig.deployDirectory Deployment of web application directory [D:\apache-tomcat-8.5.34\webapps\docs] has finished in [432] ms
+18-Jun-2020 22:06:31.928 INFO [localhost-startStop-1] org.apache.catalina.startup.HostConfig.deployDirectory Deploying web application directory [D:\apache-tomcat-8.5.34\webapps\examples]
+18-Jun-2020 22:06:32.397 INFO [localhost-startStop-1] org.apache.catalina.startup.HostConfig.deployDirectory Deployment of web application directory [D:\apache-tomcat-8.5.34\webapps\examples] has finished in [469] ms
+18-Jun-2020 22:06:32.397 INFO [localhost-startStop-1] org.apache.catalina.startup.HostConfig.deployDirectory Deploying web application directory [D:\apache-tomcat-8.5.34\webapps\host-manager]
+18-Jun-2020 22:06:32.476 INFO [localhost-startStop-1] org.apache.catalina.startup.HostConfig.deployDirectory Deployment of web application directory [D:\apache-tomcat-8.5.34\webapps\host-manager] has finished in [79] ms
+18-Jun-2020 22:06:32.476 INFO [localhost-startStop-1] org.apache.catalina.startup.HostConfig.deployDirectory Deploying web application directory [D:\apache-tomcat-8.5.34\webapps\manager]
+18-Jun-2020 22:06:32.513 INFO [localhost-startStop-1] org.apache.catalina.startup.HostConfig.deployDirectory Deployment of web application directory [D:\apache-tomcat-8.5.34\webapps\manager] has finished in [37] ms
+18-Jun-2020 22:06:32.513 INFO [localhost-startStop-1] org.apache.catalina.startup.HostConfig.deployDirectory Deploying web application directory [D:\apache-tomcat-8.5.34\webapps\ROOT]
+18-Jun-2020 22:06:32.529 INFO [localhost-startStop-1] org.apache.catalina.startup.HostConfig.deployDirectory Deployment of web application directory [D:\apache-tomcat-8.5.34\webapps\ROOT] has finished in [16] ms
+18-Jun-2020 22:06:32.529 INFO [main] org.apache.coyote.AbstractProtocol.start Starting ProtocolHandler ["http-nio-8082"]
+18-Jun-2020 22:06:32.545 INFO [main] org.apache.coyote.AbstractProtocol.start Starting ProtocolHandler ["ajp-nio-8009"]
+18-Jun-2020 22:06:32.545 INFO [main] org.apache.catalina.startup.Catalina.start Server startup in 1221 ms
+18-Jun-2020 22:06:34.276 INFO [http-nio-8082-exec-9] org.apache.catalina.startup.HostConfig.deployDescriptor Deploying configuration descriptor [D:\apache-tomcat-8.5.34\conf\Catalina\localhost\ThuCung.xml]
+18-Jun-2020 22:06:34.746 INFO [http-nio-8082-exec-9] org.apache.jasper.servlet.TldScanner.scanJars At least one JAR was scanned for TLDs yet contained no TLDs. Enable debug logging for this logger for a complete list of JARs that were scanned but no TLDs were found in them. Skipping unneeded JARs during scanning can improve startup time and JSP compilation time.
+18-Jun-2020 22:06:34.746 INFO [http-nio-8082-exec-9] org.apache.catalina.startup.HostConfig.deployDescriptor Deployment of configuration descriptor [D:\apache-tomcat-8.5.34\conf\Catalina\localhost\ThuCung.xml] has finished in [470] ms
+18-Jun-2020 22:06:34.746 INFO [http-nio-8082-exec-10] org.apache.catalina.util.LifecycleBase.start The start() method was called on component [StandardEngine[Catalina].StandardHost[localhost].StandardContext[/ThuCung]] after start() had already been called. The second call will be ignored.
+18-Jun-2020 22:07:03.669 INFO [http-nio-8082-exec-3] org.apache.catalina.startup.HostConfig.undeploy Undeploying context [/ThuCung]
+18-Jun-2020 23:08:49.924 INFO [main] org.apache.catalina.core.StandardServer.await A valid shutdown command was received via the shutdown port. Stopping the Server instance.
+18-Jun-2020 23:08:49.939 INFO [main] org.apache.coyote.AbstractProtocol.pause Pausing ProtocolHandler ["http-nio-8082"]
+18-Jun-2020 23:08:50.340 INFO [main] org.apache.coyote.AbstractProtocol.pause Pausing ProtocolHandler ["ajp-nio-8009"]
+18-Jun-2020 23:08:50.741 INFO [main] org.apache.catalina.core.StandardService.stopInternal Stopping service [Catalina]
+18-Jun-2020 23:08:50.803 INFO [main] org.apache.coyote.AbstractProtocol.stop Stopping ProtocolHandler ["http-nio-8082"]
+18-Jun-2020 23:08:50.803 INFO [main] org.apache.coyote.AbstractProtocol.stop Stopping ProtocolHandler ["ajp-nio-8009"]
+18-Jun-2020 23:08:50.803 INFO [main] org.apache.coyote.AbstractProtocol.destroy Destroying ProtocolHandler ["http-nio-8082"]
+18-Jun-2020 23:08:50.803 INFO [main] org.apache.coyote.AbstractProtocol.destroy Destroying ProtocolHandler ["ajp-nio-8009"]

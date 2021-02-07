@@ -1,0 +1,1935 @@
+16-Oct-2018 19:34:29.360 INFO [localhost-startStop-1] org.apache.catalina.core.ApplicationContext.log ContextListener: contextInitialized()
+16-Oct-2018 19:34:29.360 INFO [localhost-startStop-1] org.apache.catalina.core.ApplicationContext.log SessionListener: contextInitialized()
+16-Oct-2018 19:34:29.362 INFO [localhost-startStop-1] org.apache.catalina.core.ApplicationContext.log ContextListener: attributeAdded('StockTicker', 'async.Stockticker@424a3bcb')
+16-Oct-2018 20:00:28.460 INFO [localhost-startStop-2] org.apache.catalina.core.ApplicationContext.log SessionListener: contextDestroyed()
+16-Oct-2018 20:00:28.461 INFO [localhost-startStop-2] org.apache.catalina.core.ApplicationContext.log ContextListener: contextDestroyed()
+16-Oct-2018 20:22:32.126 INFO [localhost-startStop-1] org.apache.catalina.core.ApplicationContext.log ContextListener: contextInitialized()
+16-Oct-2018 20:22:32.126 INFO [localhost-startStop-1] org.apache.catalina.core.ApplicationContext.log SessionListener: contextInitialized()
+16-Oct-2018 20:22:32.130 INFO [localhost-startStop-1] org.apache.catalina.core.ApplicationContext.log ContextListener: attributeAdded('StockTicker', 'async.Stockticker@6fdf9358')
+16-Oct-2018 20:22:48.112 SEVERE [http-nio-8080-exec-5] org.apache.catalina.core.StandardWrapperValve.invoke Servlet.service() for servlet [jsp] in context with path [/MuaBanNha] threw exception [An exception occurred processing JSP page [/product.jsp] at line [91]
+
+88:                 firstResult = (pages)* 4 - 4;
+89:                 maxResult = 4;
+90:             }
+91:             ArrayList<Product> list = ProductDAO.getListProductByNav(Long.parseLong(category_id) , firstResult, maxResult)  ;
+92:         %>
+93:         <div class="container">
+94:             <div class="content">
+
+
+Stacktrace:] with root cause
+ com.mysql.jdbc.exceptions.jdbc4.MySQLSyntaxErrorException: You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '-4 ,4' at line 1
+	at sun.reflect.NativeConstructorAccessorImpl.newInstance0(Native Method)
+	at sun.reflect.NativeConstructorAccessorImpl.newInstance(NativeConstructorAccessorImpl.java:62)
+	at sun.reflect.DelegatingConstructorAccessorImpl.newInstance(DelegatingConstructorAccessorImpl.java:45)
+	at java.lang.reflect.Constructor.newInstance(Constructor.java:423)
+	at com.mysql.jdbc.Util.handleNewInstance(Util.java:406)
+	at com.mysql.jdbc.Util.getInstance(Util.java:381)
+	at com.mysql.jdbc.SQLError.createSQLException(SQLError.java:1031)
+	at com.mysql.jdbc.SQLError.createSQLException(SQLError.java:957)
+	at com.mysql.jdbc.MysqlIO.checkErrorPacket(MysqlIO.java:3376)
+	at com.mysql.jdbc.MysqlIO.checkErrorPacket(MysqlIO.java:3308)
+	at com.mysql.jdbc.MysqlIO.sendCommand(MysqlIO.java:1837)
+	at com.mysql.jdbc.MysqlIO.sqlQueryDirect(MysqlIO.java:1961)
+	at com.mysql.jdbc.ConnectionImpl.execSQL(ConnectionImpl.java:2543)
+	at com.mysql.jdbc.PreparedStatement.executeInternal(PreparedStatement.java:1737)
+	at com.mysql.jdbc.PreparedStatement.executeQuery(PreparedStatement.java:1888)
+	at dao.ProductDAO.getListProductByNav(ProductDAO.java:25)
+	at org.apache.jsp.product_jsp._jspService(product_jsp.java:210)
+	at org.apache.jasper.runtime.HttpJspBase.service(HttpJspBase.java:70)
+	at javax.servlet.http.HttpServlet.service(HttpServlet.java:742)
+	at org.apache.jasper.servlet.JspServletWrapper.service(JspServletWrapper.java:457)
+	at org.apache.jasper.servlet.JspServlet.serviceJspFile(JspServlet.java:386)
+	at org.apache.jasper.servlet.JspServlet.service(JspServlet.java:330)
+	at javax.servlet.http.HttpServlet.service(HttpServlet.java:742)
+	at org.apache.catalina.core.ApplicationFilterChain.internalDoFilter(ApplicationFilterChain.java:231)
+	at org.apache.catalina.core.ApplicationFilterChain.doFilter(ApplicationFilterChain.java:166)
+	at org.apache.tomcat.websocket.server.WsFilter.doFilter(WsFilter.java:52)
+	at org.apache.catalina.core.ApplicationFilterChain.internalDoFilter(ApplicationFilterChain.java:193)
+	at org.apache.catalina.core.ApplicationFilterChain.doFilter(ApplicationFilterChain.java:166)
+	at org.apache.catalina.core.StandardWrapperValve.invoke(StandardWrapperValve.java:198)
+	at org.apache.catalina.core.StandardContextValve.invoke(StandardContextValve.java:96)
+	at org.apache.catalina.authenticator.AuthenticatorBase.invoke(AuthenticatorBase.java:493)
+	at org.apache.catalina.core.StandardHostValve.invoke(StandardHostValve.java:140)
+	at org.apache.catalina.valves.ErrorReportValve.invoke(ErrorReportValve.java:81)
+	at org.apache.catalina.valves.AbstractAccessLogValve.invoke(AbstractAccessLogValve.java:650)
+	at org.apache.catalina.core.StandardEngineValve.invoke(StandardEngineValve.java:87)
+	at org.apache.catalina.connector.CoyoteAdapter.service(CoyoteAdapter.java:342)
+	at org.apache.coyote.http11.Http11Processor.service(Http11Processor.java:800)
+	at org.apache.coyote.AbstractProcessorLight.process(AbstractProcessorLight.java:66)
+	at org.apache.coyote.AbstractProtocol$ConnectionHandler.process(AbstractProtocol.java:806)
+	at org.apache.tomcat.util.net.NioEndpoint$SocketProcessor.doRun(NioEndpoint.java:1498)
+	at org.apache.tomcat.util.net.SocketProcessorBase.run(SocketProcessorBase.java:49)
+	at java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1149)
+	at java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:624)
+	at org.apache.tomcat.util.threads.TaskThread$WrappingRunnable.run(TaskThread.java:61)
+	at java.lang.Thread.run(Thread.java:748)
+
+16-Oct-2018 20:25:15.172 SEVERE [http-nio-8080-exec-13] org.apache.catalina.core.StandardWrapperValve.invoke Servlet.service() for servlet [jsp] in context with path [/MuaBanNha] threw exception [An exception occurred processing JSP page [/product.jsp] at line [91]
+
+88:                 firstResult = (pages)* 4 - 4;
+89:                 maxResult = 4;
+90:             }
+91:             ArrayList<Product> list = ProductDAO.getListProductByNav(Long.parseLong(category_id) , firstResult, maxResult)  ;
+92:         %>
+93:         <div class="container">
+94:             <div class="content">
+
+
+Stacktrace:] with root cause
+ com.mysql.jdbc.exceptions.jdbc4.MySQLSyntaxErrorException: You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '-4 ,4' at line 1
+	at sun.reflect.NativeConstructorAccessorImpl.newInstance0(Native Method)
+	at sun.reflect.NativeConstructorAccessorImpl.newInstance(NativeConstructorAccessorImpl.java:62)
+	at sun.reflect.DelegatingConstructorAccessorImpl.newInstance(DelegatingConstructorAccessorImpl.java:45)
+	at java.lang.reflect.Constructor.newInstance(Constructor.java:423)
+	at com.mysql.jdbc.Util.handleNewInstance(Util.java:406)
+	at com.mysql.jdbc.Util.getInstance(Util.java:381)
+	at com.mysql.jdbc.SQLError.createSQLException(SQLError.java:1031)
+	at com.mysql.jdbc.SQLError.createSQLException(SQLError.java:957)
+	at com.mysql.jdbc.MysqlIO.checkErrorPacket(MysqlIO.java:3376)
+	at com.mysql.jdbc.MysqlIO.checkErrorPacket(MysqlIO.java:3308)
+	at com.mysql.jdbc.MysqlIO.sendCommand(MysqlIO.java:1837)
+	at com.mysql.jdbc.MysqlIO.sqlQueryDirect(MysqlIO.java:1961)
+	at com.mysql.jdbc.ConnectionImpl.execSQL(ConnectionImpl.java:2543)
+	at com.mysql.jdbc.PreparedStatement.executeInternal(PreparedStatement.java:1737)
+	at com.mysql.jdbc.PreparedStatement.executeQuery(PreparedStatement.java:1888)
+	at dao.ProductDAO.getListProductByNav(ProductDAO.java:25)
+	at org.apache.jsp.product_jsp._jspService(product_jsp.java:210)
+	at org.apache.jasper.runtime.HttpJspBase.service(HttpJspBase.java:70)
+	at javax.servlet.http.HttpServlet.service(HttpServlet.java:742)
+	at org.apache.jasper.servlet.JspServletWrapper.service(JspServletWrapper.java:457)
+	at org.apache.jasper.servlet.JspServlet.serviceJspFile(JspServlet.java:386)
+	at org.apache.jasper.servlet.JspServlet.service(JspServlet.java:330)
+	at javax.servlet.http.HttpServlet.service(HttpServlet.java:742)
+	at org.apache.catalina.core.ApplicationFilterChain.internalDoFilter(ApplicationFilterChain.java:231)
+	at org.apache.catalina.core.ApplicationFilterChain.doFilter(ApplicationFilterChain.java:166)
+	at org.apache.tomcat.websocket.server.WsFilter.doFilter(WsFilter.java:52)
+	at org.apache.catalina.core.ApplicationFilterChain.internalDoFilter(ApplicationFilterChain.java:193)
+	at org.apache.catalina.core.ApplicationFilterChain.doFilter(ApplicationFilterChain.java:166)
+	at org.apache.catalina.core.StandardWrapperValve.invoke(StandardWrapperValve.java:198)
+	at org.apache.catalina.core.StandardContextValve.invoke(StandardContextValve.java:96)
+	at org.apache.catalina.authenticator.AuthenticatorBase.invoke(AuthenticatorBase.java:493)
+	at org.apache.catalina.core.StandardHostValve.invoke(StandardHostValve.java:140)
+	at org.apache.catalina.valves.ErrorReportValve.invoke(ErrorReportValve.java:81)
+	at org.apache.catalina.valves.AbstractAccessLogValve.invoke(AbstractAccessLogValve.java:650)
+	at org.apache.catalina.core.StandardEngineValve.invoke(StandardEngineValve.java:87)
+	at org.apache.catalina.connector.CoyoteAdapter.service(CoyoteAdapter.java:342)
+	at org.apache.coyote.http11.Http11Processor.service(Http11Processor.java:800)
+	at org.apache.coyote.AbstractProcessorLight.process(AbstractProcessorLight.java:66)
+	at org.apache.coyote.AbstractProtocol$ConnectionHandler.process(AbstractProtocol.java:806)
+	at org.apache.tomcat.util.net.NioEndpoint$SocketProcessor.doRun(NioEndpoint.java:1498)
+	at org.apache.tomcat.util.net.SocketProcessorBase.run(SocketProcessorBase.java:49)
+	at java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1149)
+	at java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:624)
+	at org.apache.tomcat.util.threads.TaskThread$WrappingRunnable.run(TaskThread.java:61)
+	at java.lang.Thread.run(Thread.java:748)
+
+16-Oct-2018 20:25:17.646 SEVERE [http-nio-8080-exec-19] org.apache.catalina.core.StandardWrapperValve.invoke Servlet.service() for servlet [jsp] in context with path [/MuaBanNha] threw exception [An exception occurred processing JSP page [/product.jsp] at line [91]
+
+88:                 firstResult = (pages)* 4 - 4;
+89:                 maxResult = 4;
+90:             }
+91:             ArrayList<Product> list = ProductDAO.getListProductByNav(Long.parseLong(category_id) , firstResult, maxResult)  ;
+92:         %>
+93:         <div class="container">
+94:             <div class="content">
+
+
+Stacktrace:] with root cause
+ com.mysql.jdbc.exceptions.jdbc4.MySQLSyntaxErrorException: You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '-4 ,4' at line 1
+	at sun.reflect.NativeConstructorAccessorImpl.newInstance0(Native Method)
+	at sun.reflect.NativeConstructorAccessorImpl.newInstance(NativeConstructorAccessorImpl.java:62)
+	at sun.reflect.DelegatingConstructorAccessorImpl.newInstance(DelegatingConstructorAccessorImpl.java:45)
+	at java.lang.reflect.Constructor.newInstance(Constructor.java:423)
+	at com.mysql.jdbc.Util.handleNewInstance(Util.java:406)
+	at com.mysql.jdbc.Util.getInstance(Util.java:381)
+	at com.mysql.jdbc.SQLError.createSQLException(SQLError.java:1031)
+	at com.mysql.jdbc.SQLError.createSQLException(SQLError.java:957)
+	at com.mysql.jdbc.MysqlIO.checkErrorPacket(MysqlIO.java:3376)
+	at com.mysql.jdbc.MysqlIO.checkErrorPacket(MysqlIO.java:3308)
+	at com.mysql.jdbc.MysqlIO.sendCommand(MysqlIO.java:1837)
+	at com.mysql.jdbc.MysqlIO.sqlQueryDirect(MysqlIO.java:1961)
+	at com.mysql.jdbc.ConnectionImpl.execSQL(ConnectionImpl.java:2543)
+	at com.mysql.jdbc.PreparedStatement.executeInternal(PreparedStatement.java:1737)
+	at com.mysql.jdbc.PreparedStatement.executeQuery(PreparedStatement.java:1888)
+	at dao.ProductDAO.getListProductByNav(ProductDAO.java:25)
+	at org.apache.jsp.product_jsp._jspService(product_jsp.java:210)
+	at org.apache.jasper.runtime.HttpJspBase.service(HttpJspBase.java:70)
+	at javax.servlet.http.HttpServlet.service(HttpServlet.java:742)
+	at org.apache.jasper.servlet.JspServletWrapper.service(JspServletWrapper.java:457)
+	at org.apache.jasper.servlet.JspServlet.serviceJspFile(JspServlet.java:386)
+	at org.apache.jasper.servlet.JspServlet.service(JspServlet.java:330)
+	at javax.servlet.http.HttpServlet.service(HttpServlet.java:742)
+	at org.apache.catalina.core.ApplicationFilterChain.internalDoFilter(ApplicationFilterChain.java:231)
+	at org.apache.catalina.core.ApplicationFilterChain.doFilter(ApplicationFilterChain.java:166)
+	at org.apache.tomcat.websocket.server.WsFilter.doFilter(WsFilter.java:52)
+	at org.apache.catalina.core.ApplicationFilterChain.internalDoFilter(ApplicationFilterChain.java:193)
+	at org.apache.catalina.core.ApplicationFilterChain.doFilter(ApplicationFilterChain.java:166)
+	at org.apache.catalina.core.StandardWrapperValve.invoke(StandardWrapperValve.java:198)
+	at org.apache.catalina.core.StandardContextValve.invoke(StandardContextValve.java:96)
+	at org.apache.catalina.authenticator.AuthenticatorBase.invoke(AuthenticatorBase.java:493)
+	at org.apache.catalina.core.StandardHostValve.invoke(StandardHostValve.java:140)
+	at org.apache.catalina.valves.ErrorReportValve.invoke(ErrorReportValve.java:81)
+	at org.apache.catalina.valves.AbstractAccessLogValve.invoke(AbstractAccessLogValve.java:650)
+	at org.apache.catalina.core.StandardEngineValve.invoke(StandardEngineValve.java:87)
+	at org.apache.catalina.connector.CoyoteAdapter.service(CoyoteAdapter.java:342)
+	at org.apache.coyote.http11.Http11Processor.service(Http11Processor.java:800)
+	at org.apache.coyote.AbstractProcessorLight.process(AbstractProcessorLight.java:66)
+	at org.apache.coyote.AbstractProtocol$ConnectionHandler.process(AbstractProtocol.java:806)
+	at org.apache.tomcat.util.net.NioEndpoint$SocketProcessor.doRun(NioEndpoint.java:1498)
+	at org.apache.tomcat.util.net.SocketProcessorBase.run(SocketProcessorBase.java:49)
+	at java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1149)
+	at java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:624)
+	at org.apache.tomcat.util.threads.TaskThread$WrappingRunnable.run(TaskThread.java:61)
+	at java.lang.Thread.run(Thread.java:748)
+
+16-Oct-2018 20:25:25.794 SEVERE [http-nio-8080-exec-19] org.apache.catalina.core.StandardWrapperValve.invoke Servlet.service() for servlet [jsp] in context with path [/MuaBanNha] threw exception [An exception occurred processing JSP page [/product.jsp] at line [91]
+
+88:                 firstResult = (pages)* 4 - 4;
+89:                 maxResult = 4;
+90:             }
+91:             ArrayList<Product> list = ProductDAO.getListProductByNav(Long.parseLong(category_id) , firstResult, maxResult)  ;
+92:         %>
+93:         <div class="container">
+94:             <div class="content">
+
+
+Stacktrace:] with root cause
+ com.mysql.jdbc.exceptions.jdbc4.MySQLSyntaxErrorException: You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '-4 ,4' at line 1
+	at sun.reflect.NativeConstructorAccessorImpl.newInstance0(Native Method)
+	at sun.reflect.NativeConstructorAccessorImpl.newInstance(NativeConstructorAccessorImpl.java:62)
+	at sun.reflect.DelegatingConstructorAccessorImpl.newInstance(DelegatingConstructorAccessorImpl.java:45)
+	at java.lang.reflect.Constructor.newInstance(Constructor.java:423)
+	at com.mysql.jdbc.Util.handleNewInstance(Util.java:406)
+	at com.mysql.jdbc.Util.getInstance(Util.java:381)
+	at com.mysql.jdbc.SQLError.createSQLException(SQLError.java:1031)
+	at com.mysql.jdbc.SQLError.createSQLException(SQLError.java:957)
+	at com.mysql.jdbc.MysqlIO.checkErrorPacket(MysqlIO.java:3376)
+	at com.mysql.jdbc.MysqlIO.checkErrorPacket(MysqlIO.java:3308)
+	at com.mysql.jdbc.MysqlIO.sendCommand(MysqlIO.java:1837)
+	at com.mysql.jdbc.MysqlIO.sqlQueryDirect(MysqlIO.java:1961)
+	at com.mysql.jdbc.ConnectionImpl.execSQL(ConnectionImpl.java:2543)
+	at com.mysql.jdbc.PreparedStatement.executeInternal(PreparedStatement.java:1737)
+	at com.mysql.jdbc.PreparedStatement.executeQuery(PreparedStatement.java:1888)
+	at dao.ProductDAO.getListProductByNav(ProductDAO.java:25)
+	at org.apache.jsp.product_jsp._jspService(product_jsp.java:210)
+	at org.apache.jasper.runtime.HttpJspBase.service(HttpJspBase.java:70)
+	at javax.servlet.http.HttpServlet.service(HttpServlet.java:742)
+	at org.apache.jasper.servlet.JspServletWrapper.service(JspServletWrapper.java:457)
+	at org.apache.jasper.servlet.JspServlet.serviceJspFile(JspServlet.java:386)
+	at org.apache.jasper.servlet.JspServlet.service(JspServlet.java:330)
+	at javax.servlet.http.HttpServlet.service(HttpServlet.java:742)
+	at org.apache.catalina.core.ApplicationFilterChain.internalDoFilter(ApplicationFilterChain.java:231)
+	at org.apache.catalina.core.ApplicationFilterChain.doFilter(ApplicationFilterChain.java:166)
+	at org.apache.tomcat.websocket.server.WsFilter.doFilter(WsFilter.java:52)
+	at org.apache.catalina.core.ApplicationFilterChain.internalDoFilter(ApplicationFilterChain.java:193)
+	at org.apache.catalina.core.ApplicationFilterChain.doFilter(ApplicationFilterChain.java:166)
+	at org.apache.catalina.core.StandardWrapperValve.invoke(StandardWrapperValve.java:198)
+	at org.apache.catalina.core.StandardContextValve.invoke(StandardContextValve.java:96)
+	at org.apache.catalina.authenticator.AuthenticatorBase.invoke(AuthenticatorBase.java:493)
+	at org.apache.catalina.core.StandardHostValve.invoke(StandardHostValve.java:140)
+	at org.apache.catalina.valves.ErrorReportValve.invoke(ErrorReportValve.java:81)
+	at org.apache.catalina.valves.AbstractAccessLogValve.invoke(AbstractAccessLogValve.java:650)
+	at org.apache.catalina.core.StandardEngineValve.invoke(StandardEngineValve.java:87)
+	at org.apache.catalina.connector.CoyoteAdapter.service(CoyoteAdapter.java:342)
+	at org.apache.coyote.http11.Http11Processor.service(Http11Processor.java:800)
+	at org.apache.coyote.AbstractProcessorLight.process(AbstractProcessorLight.java:66)
+	at org.apache.coyote.AbstractProtocol$ConnectionHandler.process(AbstractProtocol.java:806)
+	at org.apache.tomcat.util.net.NioEndpoint$SocketProcessor.doRun(NioEndpoint.java:1498)
+	at org.apache.tomcat.util.net.SocketProcessorBase.run(SocketProcessorBase.java:49)
+	at java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1149)
+	at java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:624)
+	at org.apache.tomcat.util.threads.TaskThread$WrappingRunnable.run(TaskThread.java:61)
+	at java.lang.Thread.run(Thread.java:748)
+
+16-Oct-2018 20:28:28.110 SEVERE [http-nio-8080-exec-20] org.apache.catalina.core.StandardWrapperValve.invoke Servlet.service() for servlet [jsp] in context with path [/MuaBanNha] threw exception [javax.servlet.ServletException: com.mysql.jdbc.exceptions.jdbc4.MySQLSyntaxErrorException: You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '-4 ,4' at line 1] with root cause
+ com.mysql.jdbc.exceptions.jdbc4.MySQLSyntaxErrorException: You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '-4 ,4' at line 1
+	at sun.reflect.NativeConstructorAccessorImpl.newInstance0(Native Method)
+	at sun.reflect.NativeConstructorAccessorImpl.newInstance(NativeConstructorAccessorImpl.java:62)
+	at sun.reflect.DelegatingConstructorAccessorImpl.newInstance(DelegatingConstructorAccessorImpl.java:45)
+	at java.lang.reflect.Constructor.newInstance(Constructor.java:423)
+	at com.mysql.jdbc.Util.handleNewInstance(Util.java:406)
+	at com.mysql.jdbc.Util.getInstance(Util.java:381)
+	at com.mysql.jdbc.SQLError.createSQLException(SQLError.java:1031)
+	at com.mysql.jdbc.SQLError.createSQLException(SQLError.java:957)
+	at com.mysql.jdbc.MysqlIO.checkErrorPacket(MysqlIO.java:3376)
+	at com.mysql.jdbc.MysqlIO.checkErrorPacket(MysqlIO.java:3308)
+	at com.mysql.jdbc.MysqlIO.sendCommand(MysqlIO.java:1837)
+	at com.mysql.jdbc.MysqlIO.sqlQueryDirect(MysqlIO.java:1961)
+	at com.mysql.jdbc.ConnectionImpl.execSQL(ConnectionImpl.java:2543)
+	at com.mysql.jdbc.PreparedStatement.executeInternal(PreparedStatement.java:1737)
+	at com.mysql.jdbc.PreparedStatement.executeQuery(PreparedStatement.java:1888)
+	at dao.ProductDAO.getListProductByNav(ProductDAO.java:25)
+	at org.apache.jsp.product_jsp._jspService(product_jsp.java:210)
+	at org.apache.jasper.runtime.HttpJspBase.service(HttpJspBase.java:70)
+	at javax.servlet.http.HttpServlet.service(HttpServlet.java:742)
+	at org.apache.jasper.servlet.JspServletWrapper.service(JspServletWrapper.java:457)
+	at org.apache.jasper.servlet.JspServlet.serviceJspFile(JspServlet.java:386)
+	at org.apache.jasper.servlet.JspServlet.service(JspServlet.java:330)
+	at javax.servlet.http.HttpServlet.service(HttpServlet.java:742)
+	at org.apache.catalina.core.ApplicationFilterChain.internalDoFilter(ApplicationFilterChain.java:231)
+	at org.apache.catalina.core.ApplicationFilterChain.doFilter(ApplicationFilterChain.java:166)
+	at org.apache.tomcat.websocket.server.WsFilter.doFilter(WsFilter.java:52)
+	at org.apache.catalina.core.ApplicationFilterChain.internalDoFilter(ApplicationFilterChain.java:193)
+	at org.apache.catalina.core.ApplicationFilterChain.doFilter(ApplicationFilterChain.java:166)
+	at org.apache.catalina.core.StandardWrapperValve.invoke(StandardWrapperValve.java:198)
+	at org.apache.catalina.core.StandardContextValve.invoke(StandardContextValve.java:96)
+	at org.apache.catalina.authenticator.AuthenticatorBase.invoke(AuthenticatorBase.java:493)
+	at org.apache.catalina.core.StandardHostValve.invoke(StandardHostValve.java:140)
+	at org.apache.catalina.valves.ErrorReportValve.invoke(ErrorReportValve.java:81)
+	at org.apache.catalina.valves.AbstractAccessLogValve.invoke(AbstractAccessLogValve.java:650)
+	at org.apache.catalina.core.StandardEngineValve.invoke(StandardEngineValve.java:87)
+	at org.apache.catalina.connector.CoyoteAdapter.service(CoyoteAdapter.java:342)
+	at org.apache.coyote.http11.Http11Processor.service(Http11Processor.java:800)
+	at org.apache.coyote.AbstractProcessorLight.process(AbstractProcessorLight.java:66)
+	at org.apache.coyote.AbstractProtocol$ConnectionHandler.process(AbstractProtocol.java:806)
+	at org.apache.tomcat.util.net.NioEndpoint$SocketProcessor.doRun(NioEndpoint.java:1498)
+	at org.apache.tomcat.util.net.SocketProcessorBase.run(SocketProcessorBase.java:49)
+	at java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1149)
+	at java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:624)
+	at org.apache.tomcat.util.threads.TaskThread$WrappingRunnable.run(TaskThread.java:61)
+	at java.lang.Thread.run(Thread.java:748)
+
+16-Oct-2018 20:29:56.394 SEVERE [http-nio-8080-exec-27] org.apache.catalina.core.StandardWrapperValve.invoke Servlet.service() for servlet [jsp] in context with path [/MuaBanNha] threw exception [An exception occurred processing JSP page [/product.jsp] at line [91]
+
+88:                 firstResult = (pages)* 4 - 4;
+89:                 maxResult = 4;
+90:             }
+91:             ArrayList<Product> list = ProductDAO.getListProductByNav(Long.parseLong(category_id) , firstResult, maxResult)  ;
+92:         %>
+93:         <div class="container">
+94:             <div class="content">
+
+
+Stacktrace:] with root cause
+ com.mysql.jdbc.exceptions.jdbc4.MySQLSyntaxErrorException: You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '-4 ,4' at line 1
+	at sun.reflect.NativeConstructorAccessorImpl.newInstance0(Native Method)
+	at sun.reflect.NativeConstructorAccessorImpl.newInstance(NativeConstructorAccessorImpl.java:62)
+	at sun.reflect.DelegatingConstructorAccessorImpl.newInstance(DelegatingConstructorAccessorImpl.java:45)
+	at java.lang.reflect.Constructor.newInstance(Constructor.java:423)
+	at com.mysql.jdbc.Util.handleNewInstance(Util.java:406)
+	at com.mysql.jdbc.Util.getInstance(Util.java:381)
+	at com.mysql.jdbc.SQLError.createSQLException(SQLError.java:1031)
+	at com.mysql.jdbc.SQLError.createSQLException(SQLError.java:957)
+	at com.mysql.jdbc.MysqlIO.checkErrorPacket(MysqlIO.java:3376)
+	at com.mysql.jdbc.MysqlIO.checkErrorPacket(MysqlIO.java:3308)
+	at com.mysql.jdbc.MysqlIO.sendCommand(MysqlIO.java:1837)
+	at com.mysql.jdbc.MysqlIO.sqlQueryDirect(MysqlIO.java:1961)
+	at com.mysql.jdbc.ConnectionImpl.execSQL(ConnectionImpl.java:2543)
+	at com.mysql.jdbc.PreparedStatement.executeInternal(PreparedStatement.java:1737)
+	at com.mysql.jdbc.PreparedStatement.executeQuery(PreparedStatement.java:1888)
+	at dao.ProductDAO.getListProductByNav(ProductDAO.java:25)
+	at org.apache.jsp.product_jsp._jspService(product_jsp.java:210)
+	at org.apache.jasper.runtime.HttpJspBase.service(HttpJspBase.java:70)
+	at javax.servlet.http.HttpServlet.service(HttpServlet.java:742)
+	at org.apache.jasper.servlet.JspServletWrapper.service(JspServletWrapper.java:457)
+	at org.apache.jasper.servlet.JspServlet.serviceJspFile(JspServlet.java:386)
+	at org.apache.jasper.servlet.JspServlet.service(JspServlet.java:330)
+	at javax.servlet.http.HttpServlet.service(HttpServlet.java:742)
+	at org.apache.catalina.core.ApplicationFilterChain.internalDoFilter(ApplicationFilterChain.java:231)
+	at org.apache.catalina.core.ApplicationFilterChain.doFilter(ApplicationFilterChain.java:166)
+	at org.apache.tomcat.websocket.server.WsFilter.doFilter(WsFilter.java:52)
+	at org.apache.catalina.core.ApplicationFilterChain.internalDoFilter(ApplicationFilterChain.java:193)
+	at org.apache.catalina.core.ApplicationFilterChain.doFilter(ApplicationFilterChain.java:166)
+	at org.apache.catalina.core.StandardWrapperValve.invoke(StandardWrapperValve.java:198)
+	at org.apache.catalina.core.StandardContextValve.invoke(StandardContextValve.java:96)
+	at org.apache.catalina.authenticator.AuthenticatorBase.invoke(AuthenticatorBase.java:493)
+	at org.apache.catalina.core.StandardHostValve.invoke(StandardHostValve.java:140)
+	at org.apache.catalina.valves.ErrorReportValve.invoke(ErrorReportValve.java:81)
+	at org.apache.catalina.valves.AbstractAccessLogValve.invoke(AbstractAccessLogValve.java:650)
+	at org.apache.catalina.core.StandardEngineValve.invoke(StandardEngineValve.java:87)
+	at org.apache.catalina.connector.CoyoteAdapter.service(CoyoteAdapter.java:342)
+	at org.apache.coyote.http11.Http11Processor.service(Http11Processor.java:800)
+	at org.apache.coyote.AbstractProcessorLight.process(AbstractProcessorLight.java:66)
+	at org.apache.coyote.AbstractProtocol$ConnectionHandler.process(AbstractProtocol.java:806)
+	at org.apache.tomcat.util.net.NioEndpoint$SocketProcessor.doRun(NioEndpoint.java:1498)
+	at org.apache.tomcat.util.net.SocketProcessorBase.run(SocketProcessorBase.java:49)
+	at java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1149)
+	at java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:624)
+	at org.apache.tomcat.util.threads.TaskThread$WrappingRunnable.run(TaskThread.java:61)
+	at java.lang.Thread.run(Thread.java:748)
+
+16-Oct-2018 20:30:09.550 SEVERE [http-nio-8080-exec-33] org.apache.catalina.core.StandardWrapperValve.invoke Servlet.service() for servlet [jsp] in context with path [/MuaBanNha] threw exception [An exception occurred processing JSP page [/product.jsp] at line [91]
+
+88:                 firstResult = (pages)* 4 - 4;
+89:                 maxResult = 4;
+90:             }
+91:             ArrayList<Product> list = ProductDAO.getListProductByNav(Long.parseLong(category_id) , firstResult, maxResult)  ;
+92:         %>
+93:         <div class="container">
+94:             <div class="content">
+
+
+Stacktrace:] with root cause
+ com.mysql.jdbc.exceptions.jdbc4.MySQLSyntaxErrorException: You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '-4 ,4' at line 1
+	at sun.reflect.NativeConstructorAccessorImpl.newInstance0(Native Method)
+	at sun.reflect.NativeConstructorAccessorImpl.newInstance(NativeConstructorAccessorImpl.java:62)
+	at sun.reflect.DelegatingConstructorAccessorImpl.newInstance(DelegatingConstructorAccessorImpl.java:45)
+	at java.lang.reflect.Constructor.newInstance(Constructor.java:423)
+	at com.mysql.jdbc.Util.handleNewInstance(Util.java:406)
+	at com.mysql.jdbc.Util.getInstance(Util.java:381)
+	at com.mysql.jdbc.SQLError.createSQLException(SQLError.java:1031)
+	at com.mysql.jdbc.SQLError.createSQLException(SQLError.java:957)
+	at com.mysql.jdbc.MysqlIO.checkErrorPacket(MysqlIO.java:3376)
+	at com.mysql.jdbc.MysqlIO.checkErrorPacket(MysqlIO.java:3308)
+	at com.mysql.jdbc.MysqlIO.sendCommand(MysqlIO.java:1837)
+	at com.mysql.jdbc.MysqlIO.sqlQueryDirect(MysqlIO.java:1961)
+	at com.mysql.jdbc.ConnectionImpl.execSQL(ConnectionImpl.java:2543)
+	at com.mysql.jdbc.PreparedStatement.executeInternal(PreparedStatement.java:1737)
+	at com.mysql.jdbc.PreparedStatement.executeQuery(PreparedStatement.java:1888)
+	at dao.ProductDAO.getListProductByNav(ProductDAO.java:25)
+	at org.apache.jsp.product_jsp._jspService(product_jsp.java:210)
+	at org.apache.jasper.runtime.HttpJspBase.service(HttpJspBase.java:70)
+	at javax.servlet.http.HttpServlet.service(HttpServlet.java:742)
+	at org.apache.jasper.servlet.JspServletWrapper.service(JspServletWrapper.java:457)
+	at org.apache.jasper.servlet.JspServlet.serviceJspFile(JspServlet.java:386)
+	at org.apache.jasper.servlet.JspServlet.service(JspServlet.java:330)
+	at javax.servlet.http.HttpServlet.service(HttpServlet.java:742)
+	at org.apache.catalina.core.ApplicationFilterChain.internalDoFilter(ApplicationFilterChain.java:231)
+	at org.apache.catalina.core.ApplicationFilterChain.doFilter(ApplicationFilterChain.java:166)
+	at org.apache.tomcat.websocket.server.WsFilter.doFilter(WsFilter.java:52)
+	at org.apache.catalina.core.ApplicationFilterChain.internalDoFilter(ApplicationFilterChain.java:193)
+	at org.apache.catalina.core.ApplicationFilterChain.doFilter(ApplicationFilterChain.java:166)
+	at org.apache.catalina.core.StandardWrapperValve.invoke(StandardWrapperValve.java:198)
+	at org.apache.catalina.core.StandardContextValve.invoke(StandardContextValve.java:96)
+	at org.apache.catalina.authenticator.AuthenticatorBase.invoke(AuthenticatorBase.java:493)
+	at org.apache.catalina.core.StandardHostValve.invoke(StandardHostValve.java:140)
+	at org.apache.catalina.valves.ErrorReportValve.invoke(ErrorReportValve.java:81)
+	at org.apache.catalina.valves.AbstractAccessLogValve.invoke(AbstractAccessLogValve.java:650)
+	at org.apache.catalina.core.StandardEngineValve.invoke(StandardEngineValve.java:87)
+	at org.apache.catalina.connector.CoyoteAdapter.service(CoyoteAdapter.java:342)
+	at org.apache.coyote.http11.Http11Processor.service(Http11Processor.java:800)
+	at org.apache.coyote.AbstractProcessorLight.process(AbstractProcessorLight.java:66)
+	at org.apache.coyote.AbstractProtocol$ConnectionHandler.process(AbstractProtocol.java:806)
+	at org.apache.tomcat.util.net.NioEndpoint$SocketProcessor.doRun(NioEndpoint.java:1498)
+	at org.apache.tomcat.util.net.SocketProcessorBase.run(SocketProcessorBase.java:49)
+	at java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1149)
+	at java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:624)
+	at org.apache.tomcat.util.threads.TaskThread$WrappingRunnable.run(TaskThread.java:61)
+	at java.lang.Thread.run(Thread.java:748)
+
+16-Oct-2018 20:32:22.622 SEVERE [http-nio-8080-exec-37] org.apache.catalina.core.StandardWrapperValve.invoke Servlet.service() for servlet [jsp] in context with path [/MuaBanNha] threw exception [Unable to compile class for JSP: 
+
+An error occurred at line: [112] in the jsp file: [/product.jsp]
+Syntax error, insert "Finally" to complete TryStatement
+109:                         </div>
+110:                     </div>
+111:                     <%
+112:                         }
+113:                     %>                                   
+114:                     <div class="clearfix"></div>
+115:                 </div>
+
+
+An error occurred at line: [119] in the jsp file: [/product.jsp]
+category_id cannot be resolved to a variable
+116:             </div>
+117:             <ul class="start">
+118:                 <% int i=1 ;%>
+119:                 <li ><a href="product.jsp?category=<%=category_id%>&pages=<%=i%>"><i></i></a></li>
+120:                 <% for(i = 1;i<= (total/4)+1 ;i++){ %>
+121:                 <li class="arrow"><a href="product.jsp?category=<%=category_id%>&pages=<%=i%>"><%=i%></a></li>
+122:                 <% }%>
+
+
+An error occurred at line: [120] in the jsp file: [/product.jsp]
+total cannot be resolved to a variable
+117:             <ul class="start">
+118:                 <% int i=1 ;%>
+119:                 <li ><a href="product.jsp?category=<%=category_id%>&pages=<%=i%>"><i></i></a></li>
+120:                 <% for(i = 1;i<= (total/4)+1 ;i++){ %>
+121:                 <li class="arrow"><a href="product.jsp?category=<%=category_id%>&pages=<%=i%>"><%=i%></a></li>
+122:                 <% }%>
+123:                 <li ><a href="product.jsp?category=<%=category_id%>&pages=<%=i=(total/4)+1%>"><i  class="next"> </i></a></li>
+
+
+An error occurred at line: [121] in the jsp file: [/product.jsp]
+category_id cannot be resolved to a variable
+118:                 <% int i=1 ;%>
+119:                 <li ><a href="product.jsp?category=<%=category_id%>&pages=<%=i%>"><i></i></a></li>
+120:                 <% for(i = 1;i<= (total/4)+1 ;i++){ %>
+121:                 <li class="arrow"><a href="product.jsp?category=<%=category_id%>&pages=<%=i%>"><%=i%></a></li>
+122:                 <% }%>
+123:                 <li ><a href="product.jsp?category=<%=category_id%>&pages=<%=i=(total/4)+1%>"><i  class="next"> </i></a></li>
+124:                 
+
+
+An error occurred at line: [123] in the jsp file: [/product.jsp]
+category_id cannot be resolved to a variable
+120:                 <% for(i = 1;i<= (total/4)+1 ;i++){ %>
+121:                 <li class="arrow"><a href="product.jsp?category=<%=category_id%>&pages=<%=i%>"><%=i%></a></li>
+122:                 <% }%>
+123:                 <li ><a href="product.jsp?category=<%=category_id%>&pages=<%=i=(total/4)+1%>"><i  class="next"> </i></a></li>
+124:                 
+125:             </ul>
+126:         </div>
+
+
+An error occurred at line: [123] in the jsp file: [/product.jsp]
+total cannot be resolved to a variable
+120:                 <% for(i = 1;i<= (total/4)+1 ;i++){ %>
+121:                 <li class="arrow"><a href="product.jsp?category=<%=category_id%>&pages=<%=i%>"><%=i%></a></li>
+122:                 <% }%>
+123:                 <li ><a href="product.jsp?category=<%=category_id%>&pages=<%=i=(total/4)+1%>"><i  class="next"> </i></a></li>
+124:                 
+125:             </ul>
+126:         </div>
+
+
+An error occurred at line: [278] in the generated java file: [D:\Java\apache-tomcat-8.5.34\work\Catalina\localhost\MuaBanNha\org\apache\jsp\product_jsp.java]
+Syntax error on token "catch", Identifier expected
+
+An error occurred at line: [280] in the generated java file: [D:\Java\apache-tomcat-8.5.34\work\Catalina\localhost\MuaBanNha\org\apache\jsp\product_jsp.java]
+out cannot be resolved to a variable
+
+An error occurred at line: [280] in the generated java file: [D:\Java\apache-tomcat-8.5.34\work\Catalina\localhost\MuaBanNha\org\apache\jsp\product_jsp.java]
+_jspx_out cannot be resolved to a variable
+
+An error occurred at line: [281] in the generated java file: [D:\Java\apache-tomcat-8.5.34\work\Catalina\localhost\MuaBanNha\org\apache\jsp\product_jsp.java]
+out cannot be resolved to a variable
+
+An error occurred at line: [281] in the generated java file: [D:\Java\apache-tomcat-8.5.34\work\Catalina\localhost\MuaBanNha\org\apache\jsp\product_jsp.java]
+out cannot be resolved
+
+An error occurred at line: [283] in the generated java file: [D:\Java\apache-tomcat-8.5.34\work\Catalina\localhost\MuaBanNha\org\apache\jsp\product_jsp.java]
+response cannot be resolved
+
+An error occurred at line: [284] in the generated java file: [D:\Java\apache-tomcat-8.5.34\work\Catalina\localhost\MuaBanNha\org\apache\jsp\product_jsp.java]
+out cannot be resolved
+
+An error occurred at line: [286] in the generated java file: [D:\Java\apache-tomcat-8.5.34\work\Catalina\localhost\MuaBanNha\org\apache\jsp\product_jsp.java]
+out cannot be resolved
+
+An error occurred at line: [289] in the generated java file: [D:\Java\apache-tomcat-8.5.34\work\Catalina\localhost\MuaBanNha\org\apache\jsp\product_jsp.java]
+_jspx_page_context cannot be resolved to a variable
+
+An error occurred at line: [289] in the generated java file: [D:\Java\apache-tomcat-8.5.34\work\Catalina\localhost\MuaBanNha\org\apache\jsp\product_jsp.java]
+_jspx_page_context cannot be resolved
+
+An error occurred at line: [292] in the generated java file: [D:\Java\apache-tomcat-8.5.34\work\Catalina\localhost\MuaBanNha\org\apache\jsp\product_jsp.java]
+Syntax error on token "finally", { expected
+
+An error occurred at line: [293] in the generated java file: [D:\Java\apache-tomcat-8.5.34\work\Catalina\localhost\MuaBanNha\org\apache\jsp\product_jsp.java]
+_jspx_page_context cannot be resolved to a variable
+
+Stacktrace:] with root cause
+ org.apache.jasper.JasperException: Unable to compile class for JSP: 
+
+An error occurred at line: [112] in the jsp file: [/product.jsp]
+Syntax error, insert "Finally" to complete TryStatement
+109:                         </div>
+110:                     </div>
+111:                     <%
+112:                         }
+113:                     %>                                   
+114:                     <div class="clearfix"></div>
+115:                 </div>
+
+
+An error occurred at line: [119] in the jsp file: [/product.jsp]
+category_id cannot be resolved to a variable
+116:             </div>
+117:             <ul class="start">
+118:                 <% int i=1 ;%>
+119:                 <li ><a href="product.jsp?category=<%=category_id%>&pages=<%=i%>"><i></i></a></li>
+120:                 <% for(i = 1;i<= (total/4)+1 ;i++){ %>
+121:                 <li class="arrow"><a href="product.jsp?category=<%=category_id%>&pages=<%=i%>"><%=i%></a></li>
+122:                 <% }%>
+
+
+An error occurred at line: [120] in the jsp file: [/product.jsp]
+total cannot be resolved to a variable
+117:             <ul class="start">
+118:                 <% int i=1 ;%>
+119:                 <li ><a href="product.jsp?category=<%=category_id%>&pages=<%=i%>"><i></i></a></li>
+120:                 <% for(i = 1;i<= (total/4)+1 ;i++){ %>
+121:                 <li class="arrow"><a href="product.jsp?category=<%=category_id%>&pages=<%=i%>"><%=i%></a></li>
+122:                 <% }%>
+123:                 <li ><a href="product.jsp?category=<%=category_id%>&pages=<%=i=(total/4)+1%>"><i  class="next"> </i></a></li>
+
+
+An error occurred at line: [121] in the jsp file: [/product.jsp]
+category_id cannot be resolved to a variable
+118:                 <% int i=1 ;%>
+119:                 <li ><a href="product.jsp?category=<%=category_id%>&pages=<%=i%>"><i></i></a></li>
+120:                 <% for(i = 1;i<= (total/4)+1 ;i++){ %>
+121:                 <li class="arrow"><a href="product.jsp?category=<%=category_id%>&pages=<%=i%>"><%=i%></a></li>
+122:                 <% }%>
+123:                 <li ><a href="product.jsp?category=<%=category_id%>&pages=<%=i=(total/4)+1%>"><i  class="next"> </i></a></li>
+124:                 
+
+
+An error occurred at line: [123] in the jsp file: [/product.jsp]
+category_id cannot be resolved to a variable
+120:                 <% for(i = 1;i<= (total/4)+1 ;i++){ %>
+121:                 <li class="arrow"><a href="product.jsp?category=<%=category_id%>&pages=<%=i%>"><%=i%></a></li>
+122:                 <% }%>
+123:                 <li ><a href="product.jsp?category=<%=category_id%>&pages=<%=i=(total/4)+1%>"><i  class="next"> </i></a></li>
+124:                 
+125:             </ul>
+126:         </div>
+
+
+An error occurred at line: [123] in the jsp file: [/product.jsp]
+total cannot be resolved to a variable
+120:                 <% for(i = 1;i<= (total/4)+1 ;i++){ %>
+121:                 <li class="arrow"><a href="product.jsp?category=<%=category_id%>&pages=<%=i%>"><%=i%></a></li>
+122:                 <% }%>
+123:                 <li ><a href="product.jsp?category=<%=category_id%>&pages=<%=i=(total/4)+1%>"><i  class="next"> </i></a></li>
+124:                 
+125:             </ul>
+126:         </div>
+
+
+An error occurred at line: [278] in the generated java file: [D:\Java\apache-tomcat-8.5.34\work\Catalina\localhost\MuaBanNha\org\apache\jsp\product_jsp.java]
+Syntax error on token "catch", Identifier expected
+
+An error occurred at line: [280] in the generated java file: [D:\Java\apache-tomcat-8.5.34\work\Catalina\localhost\MuaBanNha\org\apache\jsp\product_jsp.java]
+out cannot be resolved to a variable
+
+An error occurred at line: [280] in the generated java file: [D:\Java\apache-tomcat-8.5.34\work\Catalina\localhost\MuaBanNha\org\apache\jsp\product_jsp.java]
+_jspx_out cannot be resolved to a variable
+
+An error occurred at line: [281] in the generated java file: [D:\Java\apache-tomcat-8.5.34\work\Catalina\localhost\MuaBanNha\org\apache\jsp\product_jsp.java]
+out cannot be resolved to a variable
+
+An error occurred at line: [281] in the generated java file: [D:\Java\apache-tomcat-8.5.34\work\Catalina\localhost\MuaBanNha\org\apache\jsp\product_jsp.java]
+out cannot be resolved
+
+An error occurred at line: [283] in the generated java file: [D:\Java\apache-tomcat-8.5.34\work\Catalina\localhost\MuaBanNha\org\apache\jsp\product_jsp.java]
+response cannot be resolved
+
+An error occurred at line: [284] in the generated java file: [D:\Java\apache-tomcat-8.5.34\work\Catalina\localhost\MuaBanNha\org\apache\jsp\product_jsp.java]
+out cannot be resolved
+
+An error occurred at line: [286] in the generated java file: [D:\Java\apache-tomcat-8.5.34\work\Catalina\localhost\MuaBanNha\org\apache\jsp\product_jsp.java]
+out cannot be resolved
+
+An error occurred at line: [289] in the generated java file: [D:\Java\apache-tomcat-8.5.34\work\Catalina\localhost\MuaBanNha\org\apache\jsp\product_jsp.java]
+_jspx_page_context cannot be resolved to a variable
+
+An error occurred at line: [289] in the generated java file: [D:\Java\apache-tomcat-8.5.34\work\Catalina\localhost\MuaBanNha\org\apache\jsp\product_jsp.java]
+_jspx_page_context cannot be resolved
+
+An error occurred at line: [292] in the generated java file: [D:\Java\apache-tomcat-8.5.34\work\Catalina\localhost\MuaBanNha\org\apache\jsp\product_jsp.java]
+Syntax error on token "finally", { expected
+
+An error occurred at line: [293] in the generated java file: [D:\Java\apache-tomcat-8.5.34\work\Catalina\localhost\MuaBanNha\org\apache\jsp\product_jsp.java]
+_jspx_page_context cannot be resolved to a variable
+
+Stacktrace:
+	at org.apache.jasper.compiler.DefaultErrorHandler.javacError(DefaultErrorHandler.java:102)
+	at org.apache.jasper.compiler.ErrorDispatcher.javacError(ErrorDispatcher.java:212)
+	at org.apache.jasper.compiler.JDTCompiler.generateClass(JDTCompiler.java:495)
+	at org.apache.jasper.compiler.Compiler.compile(Compiler.java:378)
+	at org.apache.jasper.compiler.Compiler.compile(Compiler.java:350)
+	at org.apache.jasper.compiler.Compiler.compile(Compiler.java:334)
+	at org.apache.jasper.JspCompilationContext.compile(JspCompilationContext.java:595)
+	at org.apache.jasper.servlet.JspServletWrapper.service(JspServletWrapper.java:382)
+	at org.apache.jasper.servlet.JspServlet.serviceJspFile(JspServlet.java:386)
+	at org.apache.jasper.servlet.JspServlet.service(JspServlet.java:330)
+	at javax.servlet.http.HttpServlet.service(HttpServlet.java:742)
+	at org.apache.catalina.core.ApplicationFilterChain.internalDoFilter(ApplicationFilterChain.java:231)
+	at org.apache.catalina.core.ApplicationFilterChain.doFilter(ApplicationFilterChain.java:166)
+	at org.apache.tomcat.websocket.server.WsFilter.doFilter(WsFilter.java:52)
+	at org.apache.catalina.core.ApplicationFilterChain.internalDoFilter(ApplicationFilterChain.java:193)
+	at org.apache.catalina.core.ApplicationFilterChain.doFilter(ApplicationFilterChain.java:166)
+	at org.apache.catalina.core.StandardWrapperValve.invoke(StandardWrapperValve.java:198)
+	at org.apache.catalina.core.StandardContextValve.invoke(StandardContextValve.java:96)
+	at org.apache.catalina.authenticator.AuthenticatorBase.invoke(AuthenticatorBase.java:493)
+	at org.apache.catalina.core.StandardHostValve.invoke(StandardHostValve.java:140)
+	at org.apache.catalina.valves.ErrorReportValve.invoke(ErrorReportValve.java:81)
+	at org.apache.catalina.valves.AbstractAccessLogValve.invoke(AbstractAccessLogValve.java:650)
+	at org.apache.catalina.core.StandardEngineValve.invoke(StandardEngineValve.java:87)
+	at org.apache.catalina.connector.CoyoteAdapter.service(CoyoteAdapter.java:342)
+	at org.apache.coyote.http11.Http11Processor.service(Http11Processor.java:800)
+	at org.apache.coyote.AbstractProcessorLight.process(AbstractProcessorLight.java:66)
+	at org.apache.coyote.AbstractProtocol$ConnectionHandler.process(AbstractProtocol.java:806)
+	at org.apache.tomcat.util.net.NioEndpoint$SocketProcessor.doRun(NioEndpoint.java:1498)
+	at org.apache.tomcat.util.net.SocketProcessorBase.run(SocketProcessorBase.java:49)
+	at java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1149)
+	at java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:624)
+	at org.apache.tomcat.util.threads.TaskThread$WrappingRunnable.run(TaskThread.java:61)
+	at java.lang.Thread.run(Thread.java:748)
+
+16-Oct-2018 20:33:06.314 SEVERE [http-nio-8080-exec-49] org.apache.catalina.core.StandardWrapperValve.invoke Servlet.service() for servlet [jsp] in context with path [/MuaBanNha] threw exception [Unable to compile class for JSP: 
+
+An error occurred at line: [112] in the jsp file: [/product.jsp]
+Syntax error, insert "Finally" to complete TryStatement
+109:                         </div>
+110:                     </div>
+111:                     <%
+112:                         }
+113:                     %>                                   
+114:                     <div class="clearfix"></div>
+115:                 </div>
+
+
+An error occurred at line: [119] in the jsp file: [/product.jsp]
+The method print(boolean) in the type JspWriter is not applicable for the arguments ()
+116:             </div>
+117:             <ul class="start">
+118:                 <% int i=1 ;%>
+119:                 <li ><a href="product.jsp?category=<%=%>&pages=<%=i%>"><i></i></a></li>
+120:                 
+121:                 <li class="arrow"><a href="product.jsp?category=&pages=<%=i%>"><%=i%></a></li>
+122:                 <% }%>
+
+
+An error occurred at line: [122] in the jsp file: [/product.jsp]
+Syntax error on token(s), misplaced construct(s)
+119:                 <li ><a href="product.jsp?category=<%=%>&pages=<%=i%>"><i></i></a></li>
+120:                 
+121:                 <li class="arrow"><a href="product.jsp?category=&pages=<%=i%>"><%=i%></a></li>
+122:                 <% }%>
+123:                 <li ><a href="product.jsp?category=&pages="><i  class="next"> </i></a></li>
+124:                 
+125:             </ul>
+
+
+An error occurred at line: [122] in the jsp file: [/product.jsp]
+Syntax error on token ""\n"", delete this token
+119:                 <li ><a href="product.jsp?category=<%=%>&pages=<%=i%>"><i></i></a></li>
+120:                 
+121:                 <li class="arrow"><a href="product.jsp?category=&pages=<%=i%>"><%=i%></a></li>
+122:                 <% }%>
+123:                 <li ><a href="product.jsp?category=&pages="><i  class="next"> </i></a></li>
+124:                 
+125:             </ul>
+
+
+An error occurred at line: [122] in the jsp file: [/product.jsp]
+Syntax error on token(s), misplaced construct(s)
+119:                 <li ><a href="product.jsp?category=<%=%>&pages=<%=i%>"><i></i></a></li>
+120:                 
+121:                 <li class="arrow"><a href="product.jsp?category=&pages=<%=i%>"><%=i%></a></li>
+122:                 <% }%>
+123:                 <li ><a href="product.jsp?category=&pages="><i  class="next"> </i></a></li>
+124:                 
+125:             </ul>
+
+
+An error occurred at line: [122] in the jsp file: [/product.jsp]
+Syntax error on token ""                <li ><a href=\"product.jsp?category=&pages=\"><i  class=\"next\"> </i></a></li>\n"", delete this token
+119:                 <li ><a href="product.jsp?category=<%=%>&pages=<%=i%>"><i></i></a></li>
+120:                 
+121:                 <li class="arrow"><a href="product.jsp?category=&pages=<%=i%>"><%=i%></a></li>
+122:                 <% }%>
+123:                 <li ><a href="product.jsp?category=&pages="><i  class="next"> </i></a></li>
+124:                 
+125:             </ul>
+
+
+An error occurred at line: [122] in the jsp file: [/product.jsp]
+Syntax error on token(s), misplaced construct(s)
+119:                 <li ><a href="product.jsp?category=<%=%>&pages=<%=i%>"><i></i></a></li>
+120:                 
+121:                 <li class="arrow"><a href="product.jsp?category=&pages=<%=i%>"><%=i%></a></li>
+122:                 <% }%>
+123:                 <li ><a href="product.jsp?category=&pages="><i  class="next"> </i></a></li>
+124:                 
+125:             </ul>
+
+
+An error occurred at line: [122] in the jsp file: [/product.jsp]
+Syntax error on token ""                \n"", delete this token
+119:                 <li ><a href="product.jsp?category=<%=%>&pages=<%=i%>"><i></i></a></li>
+120:                 
+121:                 <li class="arrow"><a href="product.jsp?category=&pages=<%=i%>"><%=i%></a></li>
+122:                 <% }%>
+123:                 <li ><a href="product.jsp?category=&pages="><i  class="next"> </i></a></li>
+124:                 
+125:             </ul>
+
+
+An error occurred at line: [122] in the jsp file: [/product.jsp]
+Syntax error on token(s), misplaced construct(s)
+119:                 <li ><a href="product.jsp?category=<%=%>&pages=<%=i%>"><i></i></a></li>
+120:                 
+121:                 <li class="arrow"><a href="product.jsp?category=&pages=<%=i%>"><%=i%></a></li>
+122:                 <% }%>
+123:                 <li ><a href="product.jsp?category=&pages="><i  class="next"> </i></a></li>
+124:                 
+125:             </ul>
+
+
+An error occurred at line: [122] in the jsp file: [/product.jsp]
+Syntax error on token ""            </ul>\n"", delete this token
+119:                 <li ><a href="product.jsp?category=<%=%>&pages=<%=i%>"><i></i></a></li>
+120:                 
+121:                 <li class="arrow"><a href="product.jsp?category=&pages=<%=i%>"><%=i%></a></li>
+122:                 <% }%>
+123:                 <li ><a href="product.jsp?category=&pages="><i  class="next"> </i></a></li>
+124:                 
+125:             </ul>
+
+
+An error occurred at line: [122] in the jsp file: [/product.jsp]
+Syntax error on token(s), misplaced construct(s)
+119:                 <li ><a href="product.jsp?category=<%=%>&pages=<%=i%>"><i></i></a></li>
+120:                 
+121:                 <li class="arrow"><a href="product.jsp?category=&pages=<%=i%>"><%=i%></a></li>
+122:                 <% }%>
+123:                 <li ><a href="product.jsp?category=&pages="><i  class="next"> </i></a></li>
+124:                 
+125:             </ul>
+
+
+An error occurred at line: [122] in the jsp file: [/product.jsp]
+Syntax error on token ""        </div>\n"", delete this token
+119:                 <li ><a href="product.jsp?category=<%=%>&pages=<%=i%>"><i></i></a></li>
+120:                 
+121:                 <li class="arrow"><a href="product.jsp?category=&pages=<%=i%>"><%=i%></a></li>
+122:                 <% }%>
+123:                 <li ><a href="product.jsp?category=&pages="><i  class="next"> </i></a></li>
+124:                 
+125:             </ul>
+
+
+An error occurred at line: [122] in the jsp file: [/product.jsp]
+Syntax error on token(s), misplaced construct(s)
+119:                 <li ><a href="product.jsp?category=<%=%>&pages=<%=i%>"><i></i></a></li>
+120:                 
+121:                 <li class="arrow"><a href="product.jsp?category=&pages=<%=i%>"><%=i%></a></li>
+122:                 <% }%>
+123:                 <li ><a href="product.jsp?category=&pages="><i  class="next"> </i></a></li>
+124:                 
+125:             </ul>
+
+
+An error occurred at line: [122] in the jsp file: [/product.jsp]
+Syntax error on token ""    </div>\n"", delete this token
+119:                 <li ><a href="product.jsp?category=<%=%>&pages=<%=i%>"><i></i></a></li>
+120:                 
+121:                 <li class="arrow"><a href="product.jsp?category=&pages=<%=i%>"><%=i%></a></li>
+122:                 <% }%>
+123:                 <li ><a href="product.jsp?category=&pages="><i  class="next"> </i></a></li>
+124:                 
+125:             </ul>
+
+
+An error occurred at line: [122] in the jsp file: [/product.jsp]
+Syntax error on token(s), misplaced construct(s)
+119:                 <li ><a href="product.jsp?category=<%=%>&pages=<%=i%>"><i></i></a></li>
+120:                 
+121:                 <li class="arrow"><a href="product.jsp?category=&pages=<%=i%>"><%=i%></a></li>
+122:                 <% }%>
+123:                 <li ><a href="product.jsp?category=&pages="><i  class="next"> </i></a></li>
+124:                 
+125:             </ul>
+
+
+An error occurred at line: [122] in the jsp file: [/product.jsp]
+Syntax error on token ""    <!---->\n"", delete this token
+119:                 <li ><a href="product.jsp?category=<%=%>&pages=<%=i%>"><i></i></a></li>
+120:                 
+121:                 <li class="arrow"><a href="product.jsp?category=&pages=<%=i%>"><%=i%></a></li>
+122:                 <% }%>
+123:                 <li ><a href="product.jsp?category=&pages="><i  class="next"> </i></a></li>
+124:                 
+125:             </ul>
+
+
+An error occurred at line: [122] in the jsp file: [/product.jsp]
+Syntax error on token(s), misplaced construct(s)
+119:                 <li ><a href="product.jsp?category=<%=%>&pages=<%=i%>"><i></i></a></li>
+120:                 
+121:                 <li class="arrow"><a href="product.jsp?category=&pages=<%=i%>"><%=i%></a></li>
+122:                 <% }%>
+123:                 <li ><a href="product.jsp?category=&pages="><i  class="next"> </i></a></li>
+124:                 
+125:             </ul>
+
+
+An error occurred at line: [122] in the jsp file: [/product.jsp]
+Syntax error on token ""\n"", delete this token
+119:                 <li ><a href="product.jsp?category=<%=%>&pages=<%=i%>"><i></i></a></li>
+120:                 
+121:                 <li class="arrow"><a href="product.jsp?category=&pages=<%=i%>"><%=i%></a></li>
+122:                 <% }%>
+123:                 <li ><a href="product.jsp?category=&pages="><i  class="next"> </i></a></li>
+124:                 
+125:             </ul>
+
+
+An error occurred at line: [122] in the jsp file: [/product.jsp]
+Syntax error on token(s), misplaced construct(s)
+119:                 <li ><a href="product.jsp?category=<%=%>&pages=<%=i%>"><i></i></a></li>
+120:                 
+121:                 <li class="arrow"><a href="product.jsp?category=&pages=<%=i%>"><%=i%></a></li>
+122:                 <% }%>
+123:                 <li ><a href="product.jsp?category=&pages="><i  class="next"> </i></a></li>
+124:                 
+125:             </ul>
+
+
+An error occurred at line: [122] in the jsp file: [/product.jsp]
+Syntax error on token ""    "", delete this token
+119:                 <li ><a href="product.jsp?category=<%=%>&pages=<%=i%>"><i></i></a></li>
+120:                 
+121:                 <li class="arrow"><a href="product.jsp?category=&pages=<%=i%>"><%=i%></a></li>
+122:                 <% }%>
+123:                 <li ><a href="product.jsp?category=&pages="><i  class="next"> </i></a></li>
+124:                 
+125:             </ul>
+
+
+An error occurred at line: [130] in the jsp file: [/product.jsp]
+Syntax error on token "(", delete this token
+127:     </div>
+128:     <!---->
+129: 
+130:     <jsp:include page="footer.jsp"></jsp:include>
+131: </body>
+132: </html>
+
+
+An error occurred at line: [130] in the jsp file: [/product.jsp]
+Syntax error on token ""footer.jsp"", invalid VariableDeclarator
+127:     </div>
+128:     <!---->
+129: 
+130:     <jsp:include page="footer.jsp"></jsp:include>
+131: </body>
+132: </html>
+
+
+An error occurred at line: [130] in the jsp file: [/product.jsp]
+Syntax error on tokens, VariableDeclarator expected instead
+127:     </div>
+128:     <!---->
+129: 
+130:     <jsp:include page="footer.jsp"></jsp:include>
+131: </body>
+132: </html>
+
+
+An error occurred at line: [130] in the jsp file: [/product.jsp]
+Syntax error on token(s), misplaced construct(s)
+127:     </div>
+128:     <!---->
+129: 
+130:     <jsp:include page="footer.jsp"></jsp:include>
+131: </body>
+132: </html>
+
+
+An error occurred at line: [130] in the jsp file: [/product.jsp]
+Syntax error on token ""\n"", delete this token
+127:     </div>
+128:     <!---->
+129: 
+130:     <jsp:include page="footer.jsp"></jsp:include>
+131: </body>
+132: </html>
+
+
+An error occurred at line: [130] in the jsp file: [/product.jsp]
+Syntax error on token(s), misplaced construct(s)
+127:     </div>
+128:     <!---->
+129: 
+130:     <jsp:include page="footer.jsp"></jsp:include>
+131: </body>
+132: </html>
+
+
+An error occurred at line: [130] in the jsp file: [/product.jsp]
+Syntax error on token ""</body>\n"", delete this token
+127:     </div>
+128:     <!---->
+129: 
+130:     <jsp:include page="footer.jsp"></jsp:include>
+131: </body>
+132: </html>
+
+
+An error occurred at line: [130] in the jsp file: [/product.jsp]
+Syntax error on token(s), misplaced construct(s)
+127:     </div>
+128:     <!---->
+129: 
+130:     <jsp:include page="footer.jsp"></jsp:include>
+131: </body>
+132: </html>
+
+
+An error occurred at line: [130] in the jsp file: [/product.jsp]
+Syntax error on token ""</html>\n"", delete this token
+127:     </div>
+128:     <!---->
+129: 
+130:     <jsp:include page="footer.jsp"></jsp:include>
+131: </body>
+132: </html>
+
+
+An error occurred at line: [270] in the generated java file: [D:\Java\apache-tomcat-8.5.34\work\Catalina\localhost\MuaBanNha\org\apache\jsp\product_jsp.java]
+Syntax error on token "catch", invalid AnnotationName
+
+An error occurred at line: [270] in the generated java file: [D:\Java\apache-tomcat-8.5.34\work\Catalina\localhost\MuaBanNha\org\apache\jsp\product_jsp.java]
+Syntax error on token(s), misplaced construct(s)
+
+An error occurred at line: [270] in the generated java file: [D:\Java\apache-tomcat-8.5.34\work\Catalina\localhost\MuaBanNha\org\apache\jsp\product_jsp.java]
+Syntax error, insert "enum Identifier" to complete EnumHeader
+
+An error occurred at line: [272] in the generated java file: [D:\Java\apache-tomcat-8.5.34\work\Catalina\localhost\MuaBanNha\org\apache\jsp\product_jsp.java]
+out cannot be resolved to a variable
+
+An error occurred at line: [272] in the generated java file: [D:\Java\apache-tomcat-8.5.34\work\Catalina\localhost\MuaBanNha\org\apache\jsp\product_jsp.java]
+_jspx_out cannot be resolved to a variable
+
+An error occurred at line: [273] in the generated java file: [D:\Java\apache-tomcat-8.5.34\work\Catalina\localhost\MuaBanNha\org\apache\jsp\product_jsp.java]
+out cannot be resolved to a variable
+
+An error occurred at line: [273] in the generated java file: [D:\Java\apache-tomcat-8.5.34\work\Catalina\localhost\MuaBanNha\org\apache\jsp\product_jsp.java]
+out cannot be resolved
+
+An error occurred at line: [275] in the generated java file: [D:\Java\apache-tomcat-8.5.34\work\Catalina\localhost\MuaBanNha\org\apache\jsp\product_jsp.java]
+response cannot be resolved
+
+An error occurred at line: [276] in the generated java file: [D:\Java\apache-tomcat-8.5.34\work\Catalina\localhost\MuaBanNha\org\apache\jsp\product_jsp.java]
+out cannot be resolved
+
+An error occurred at line: [278] in the generated java file: [D:\Java\apache-tomcat-8.5.34\work\Catalina\localhost\MuaBanNha\org\apache\jsp\product_jsp.java]
+out cannot be resolved
+
+An error occurred at line: [281] in the generated java file: [D:\Java\apache-tomcat-8.5.34\work\Catalina\localhost\MuaBanNha\org\apache\jsp\product_jsp.java]
+_jspx_page_context cannot be resolved to a variable
+
+An error occurred at line: [281] in the generated java file: [D:\Java\apache-tomcat-8.5.34\work\Catalina\localhost\MuaBanNha\org\apache\jsp\product_jsp.java]
+_jspx_page_context cannot be resolved
+
+An error occurred at line: [284] in the generated java file: [D:\Java\apache-tomcat-8.5.34\work\Catalina\localhost\MuaBanNha\org\apache\jsp\product_jsp.java]
+Syntax error on token "finally", invalid AnnotationTypeDeclarationHeader
+
+An error occurred at line: [284] in the generated java file: [D:\Java\apache-tomcat-8.5.34\work\Catalina\localhost\MuaBanNha\org\apache\jsp\product_jsp.java]
+Syntax error, insert "}" to complete AnnotationTypeBody
+
+An error occurred at line: [285] in the generated java file: [D:\Java\apache-tomcat-8.5.34\work\Catalina\localhost\MuaBanNha\org\apache\jsp\product_jsp.java]
+_jspx_page_context cannot be resolved to a variable
+
+Stacktrace:] with root cause
+ org.apache.jasper.JasperException: Unable to compile class for JSP: 
+
+An error occurred at line: [112] in the jsp file: [/product.jsp]
+Syntax error, insert "Finally" to complete TryStatement
+109:                         </div>
+110:                     </div>
+111:                     <%
+112:                         }
+113:                     %>                                   
+114:                     <div class="clearfix"></div>
+115:                 </div>
+
+
+An error occurred at line: [119] in the jsp file: [/product.jsp]
+The method print(boolean) in the type JspWriter is not applicable for the arguments ()
+116:             </div>
+117:             <ul class="start">
+118:                 <% int i=1 ;%>
+119:                 <li ><a href="product.jsp?category=<%=%>&pages=<%=i%>"><i></i></a></li>
+120:                 
+121:                 <li class="arrow"><a href="product.jsp?category=&pages=<%=i%>"><%=i%></a></li>
+122:                 <% }%>
+
+
+An error occurred at line: [122] in the jsp file: [/product.jsp]
+Syntax error on token(s), misplaced construct(s)
+119:                 <li ><a href="product.jsp?category=<%=%>&pages=<%=i%>"><i></i></a></li>
+120:                 
+121:                 <li class="arrow"><a href="product.jsp?category=&pages=<%=i%>"><%=i%></a></li>
+122:                 <% }%>
+123:                 <li ><a href="product.jsp?category=&pages="><i  class="next"> </i></a></li>
+124:                 
+125:             </ul>
+
+
+An error occurred at line: [122] in the jsp file: [/product.jsp]
+Syntax error on token ""\n"", delete this token
+119:                 <li ><a href="product.jsp?category=<%=%>&pages=<%=i%>"><i></i></a></li>
+120:                 
+121:                 <li class="arrow"><a href="product.jsp?category=&pages=<%=i%>"><%=i%></a></li>
+122:                 <% }%>
+123:                 <li ><a href="product.jsp?category=&pages="><i  class="next"> </i></a></li>
+124:                 
+125:             </ul>
+
+
+An error occurred at line: [122] in the jsp file: [/product.jsp]
+Syntax error on token(s), misplaced construct(s)
+119:                 <li ><a href="product.jsp?category=<%=%>&pages=<%=i%>"><i></i></a></li>
+120:                 
+121:                 <li class="arrow"><a href="product.jsp?category=&pages=<%=i%>"><%=i%></a></li>
+122:                 <% }%>
+123:                 <li ><a href="product.jsp?category=&pages="><i  class="next"> </i></a></li>
+124:                 
+125:             </ul>
+
+
+An error occurred at line: [122] in the jsp file: [/product.jsp]
+Syntax error on token ""                <li ><a href=\"product.jsp?category=&pages=\"><i  class=\"next\"> </i></a></li>\n"", delete this token
+119:                 <li ><a href="product.jsp?category=<%=%>&pages=<%=i%>"><i></i></a></li>
+120:                 
+121:                 <li class="arrow"><a href="product.jsp?category=&pages=<%=i%>"><%=i%></a></li>
+122:                 <% }%>
+123:                 <li ><a href="product.jsp?category=&pages="><i  class="next"> </i></a></li>
+124:                 
+125:             </ul>
+
+
+An error occurred at line: [122] in the jsp file: [/product.jsp]
+Syntax error on token(s), misplaced construct(s)
+119:                 <li ><a href="product.jsp?category=<%=%>&pages=<%=i%>"><i></i></a></li>
+120:                 
+121:                 <li class="arrow"><a href="product.jsp?category=&pages=<%=i%>"><%=i%></a></li>
+122:                 <% }%>
+123:                 <li ><a href="product.jsp?category=&pages="><i  class="next"> </i></a></li>
+124:                 
+125:             </ul>
+
+
+An error occurred at line: [122] in the jsp file: [/product.jsp]
+Syntax error on token ""                \n"", delete this token
+119:                 <li ><a href="product.jsp?category=<%=%>&pages=<%=i%>"><i></i></a></li>
+120:                 
+121:                 <li class="arrow"><a href="product.jsp?category=&pages=<%=i%>"><%=i%></a></li>
+122:                 <% }%>
+123:                 <li ><a href="product.jsp?category=&pages="><i  class="next"> </i></a></li>
+124:                 
+125:             </ul>
+
+
+An error occurred at line: [122] in the jsp file: [/product.jsp]
+Syntax error on token(s), misplaced construct(s)
+119:                 <li ><a href="product.jsp?category=<%=%>&pages=<%=i%>"><i></i></a></li>
+120:                 
+121:                 <li class="arrow"><a href="product.jsp?category=&pages=<%=i%>"><%=i%></a></li>
+122:                 <% }%>
+123:                 <li ><a href="product.jsp?category=&pages="><i  class="next"> </i></a></li>
+124:                 
+125:             </ul>
+
+
+An error occurred at line: [122] in the jsp file: [/product.jsp]
+Syntax error on token ""            </ul>\n"", delete this token
+119:                 <li ><a href="product.jsp?category=<%=%>&pages=<%=i%>"><i></i></a></li>
+120:                 
+121:                 <li class="arrow"><a href="product.jsp?category=&pages=<%=i%>"><%=i%></a></li>
+122:                 <% }%>
+123:                 <li ><a href="product.jsp?category=&pages="><i  class="next"> </i></a></li>
+124:                 
+125:             </ul>
+
+
+An error occurred at line: [122] in the jsp file: [/product.jsp]
+Syntax error on token(s), misplaced construct(s)
+119:                 <li ><a href="product.jsp?category=<%=%>&pages=<%=i%>"><i></i></a></li>
+120:                 
+121:                 <li class="arrow"><a href="product.jsp?category=&pages=<%=i%>"><%=i%></a></li>
+122:                 <% }%>
+123:                 <li ><a href="product.jsp?category=&pages="><i  class="next"> </i></a></li>
+124:                 
+125:             </ul>
+
+
+An error occurred at line: [122] in the jsp file: [/product.jsp]
+Syntax error on token ""        </div>\n"", delete this token
+119:                 <li ><a href="product.jsp?category=<%=%>&pages=<%=i%>"><i></i></a></li>
+120:                 
+121:                 <li class="arrow"><a href="product.jsp?category=&pages=<%=i%>"><%=i%></a></li>
+122:                 <% }%>
+123:                 <li ><a href="product.jsp?category=&pages="><i  class="next"> </i></a></li>
+124:                 
+125:             </ul>
+
+
+An error occurred at line: [122] in the jsp file: [/product.jsp]
+Syntax error on token(s), misplaced construct(s)
+119:                 <li ><a href="product.jsp?category=<%=%>&pages=<%=i%>"><i></i></a></li>
+120:                 
+121:                 <li class="arrow"><a href="product.jsp?category=&pages=<%=i%>"><%=i%></a></li>
+122:                 <% }%>
+123:                 <li ><a href="product.jsp?category=&pages="><i  class="next"> </i></a></li>
+124:                 
+125:             </ul>
+
+
+An error occurred at line: [122] in the jsp file: [/product.jsp]
+Syntax error on token ""    </div>\n"", delete this token
+119:                 <li ><a href="product.jsp?category=<%=%>&pages=<%=i%>"><i></i></a></li>
+120:                 
+121:                 <li class="arrow"><a href="product.jsp?category=&pages=<%=i%>"><%=i%></a></li>
+122:                 <% }%>
+123:                 <li ><a href="product.jsp?category=&pages="><i  class="next"> </i></a></li>
+124:                 
+125:             </ul>
+
+
+An error occurred at line: [122] in the jsp file: [/product.jsp]
+Syntax error on token(s), misplaced construct(s)
+119:                 <li ><a href="product.jsp?category=<%=%>&pages=<%=i%>"><i></i></a></li>
+120:                 
+121:                 <li class="arrow"><a href="product.jsp?category=&pages=<%=i%>"><%=i%></a></li>
+122:                 <% }%>
+123:                 <li ><a href="product.jsp?category=&pages="><i  class="next"> </i></a></li>
+124:                 
+125:             </ul>
+
+
+An error occurred at line: [122] in the jsp file: [/product.jsp]
+Syntax error on token ""    <!---->\n"", delete this token
+119:                 <li ><a href="product.jsp?category=<%=%>&pages=<%=i%>"><i></i></a></li>
+120:                 
+121:                 <li class="arrow"><a href="product.jsp?category=&pages=<%=i%>"><%=i%></a></li>
+122:                 <% }%>
+123:                 <li ><a href="product.jsp?category=&pages="><i  class="next"> </i></a></li>
+124:                 
+125:             </ul>
+
+
+An error occurred at line: [122] in the jsp file: [/product.jsp]
+Syntax error on token(s), misplaced construct(s)
+119:                 <li ><a href="product.jsp?category=<%=%>&pages=<%=i%>"><i></i></a></li>
+120:                 
+121:                 <li class="arrow"><a href="product.jsp?category=&pages=<%=i%>"><%=i%></a></li>
+122:                 <% }%>
+123:                 <li ><a href="product.jsp?category=&pages="><i  class="next"> </i></a></li>
+124:                 
+125:             </ul>
+
+
+An error occurred at line: [122] in the jsp file: [/product.jsp]
+Syntax error on token ""\n"", delete this token
+119:                 <li ><a href="product.jsp?category=<%=%>&pages=<%=i%>"><i></i></a></li>
+120:                 
+121:                 <li class="arrow"><a href="product.jsp?category=&pages=<%=i%>"><%=i%></a></li>
+122:                 <% }%>
+123:                 <li ><a href="product.jsp?category=&pages="><i  class="next"> </i></a></li>
+124:                 
+125:             </ul>
+
+
+An error occurred at line: [122] in the jsp file: [/product.jsp]
+Syntax error on token(s), misplaced construct(s)
+119:                 <li ><a href="product.jsp?category=<%=%>&pages=<%=i%>"><i></i></a></li>
+120:                 
+121:                 <li class="arrow"><a href="product.jsp?category=&pages=<%=i%>"><%=i%></a></li>
+122:                 <% }%>
+123:                 <li ><a href="product.jsp?category=&pages="><i  class="next"> </i></a></li>
+124:                 
+125:             </ul>
+
+
+An error occurred at line: [122] in the jsp file: [/product.jsp]
+Syntax error on token ""    "", delete this token
+119:                 <li ><a href="product.jsp?category=<%=%>&pages=<%=i%>"><i></i></a></li>
+120:                 
+121:                 <li class="arrow"><a href="product.jsp?category=&pages=<%=i%>"><%=i%></a></li>
+122:                 <% }%>
+123:                 <li ><a href="product.jsp?category=&pages="><i  class="next"> </i></a></li>
+124:                 
+125:             </ul>
+
+
+An error occurred at line: [130] in the jsp file: [/product.jsp]
+Syntax error on token "(", delete this token
+127:     </div>
+128:     <!---->
+129: 
+130:     <jsp:include page="footer.jsp"></jsp:include>
+131: </body>
+132: </html>
+
+
+An error occurred at line: [130] in the jsp file: [/product.jsp]
+Syntax error on token ""footer.jsp"", invalid VariableDeclarator
+127:     </div>
+128:     <!---->
+129: 
+130:     <jsp:include page="footer.jsp"></jsp:include>
+131: </body>
+132: </html>
+
+
+An error occurred at line: [130] in the jsp file: [/product.jsp]
+Syntax error on tokens, VariableDeclarator expected instead
+127:     </div>
+128:     <!---->
+129: 
+130:     <jsp:include page="footer.jsp"></jsp:include>
+131: </body>
+132: </html>
+
+
+An error occurred at line: [130] in the jsp file: [/product.jsp]
+Syntax error on token(s), misplaced construct(s)
+127:     </div>
+128:     <!---->
+129: 
+130:     <jsp:include page="footer.jsp"></jsp:include>
+131: </body>
+132: </html>
+
+
+An error occurred at line: [130] in the jsp file: [/product.jsp]
+Syntax error on token ""\n"", delete this token
+127:     </div>
+128:     <!---->
+129: 
+130:     <jsp:include page="footer.jsp"></jsp:include>
+131: </body>
+132: </html>
+
+
+An error occurred at line: [130] in the jsp file: [/product.jsp]
+Syntax error on token(s), misplaced construct(s)
+127:     </div>
+128:     <!---->
+129: 
+130:     <jsp:include page="footer.jsp"></jsp:include>
+131: </body>
+132: </html>
+
+
+An error occurred at line: [130] in the jsp file: [/product.jsp]
+Syntax error on token ""</body>\n"", delete this token
+127:     </div>
+128:     <!---->
+129: 
+130:     <jsp:include page="footer.jsp"></jsp:include>
+131: </body>
+132: </html>
+
+
+An error occurred at line: [130] in the jsp file: [/product.jsp]
+Syntax error on token(s), misplaced construct(s)
+127:     </div>
+128:     <!---->
+129: 
+130:     <jsp:include page="footer.jsp"></jsp:include>
+131: </body>
+132: </html>
+
+
+An error occurred at line: [130] in the jsp file: [/product.jsp]
+Syntax error on token ""</html>\n"", delete this token
+127:     </div>
+128:     <!---->
+129: 
+130:     <jsp:include page="footer.jsp"></jsp:include>
+131: </body>
+132: </html>
+
+
+An error occurred at line: [270] in the generated java file: [D:\Java\apache-tomcat-8.5.34\work\Catalina\localhost\MuaBanNha\org\apache\jsp\product_jsp.java]
+Syntax error on token "catch", invalid AnnotationName
+
+An error occurred at line: [270] in the generated java file: [D:\Java\apache-tomcat-8.5.34\work\Catalina\localhost\MuaBanNha\org\apache\jsp\product_jsp.java]
+Syntax error on token(s), misplaced construct(s)
+
+An error occurred at line: [270] in the generated java file: [D:\Java\apache-tomcat-8.5.34\work\Catalina\localhost\MuaBanNha\org\apache\jsp\product_jsp.java]
+Syntax error, insert "enum Identifier" to complete EnumHeader
+
+An error occurred at line: [272] in the generated java file: [D:\Java\apache-tomcat-8.5.34\work\Catalina\localhost\MuaBanNha\org\apache\jsp\product_jsp.java]
+out cannot be resolved to a variable
+
+An error occurred at line: [272] in the generated java file: [D:\Java\apache-tomcat-8.5.34\work\Catalina\localhost\MuaBanNha\org\apache\jsp\product_jsp.java]
+_jspx_out cannot be resolved to a variable
+
+An error occurred at line: [273] in the generated java file: [D:\Java\apache-tomcat-8.5.34\work\Catalina\localhost\MuaBanNha\org\apache\jsp\product_jsp.java]
+out cannot be resolved to a variable
+
+An error occurred at line: [273] in the generated java file: [D:\Java\apache-tomcat-8.5.34\work\Catalina\localhost\MuaBanNha\org\apache\jsp\product_jsp.java]
+out cannot be resolved
+
+An error occurred at line: [275] in the generated java file: [D:\Java\apache-tomcat-8.5.34\work\Catalina\localhost\MuaBanNha\org\apache\jsp\product_jsp.java]
+response cannot be resolved
+
+An error occurred at line: [276] in the generated java file: [D:\Java\apache-tomcat-8.5.34\work\Catalina\localhost\MuaBanNha\org\apache\jsp\product_jsp.java]
+out cannot be resolved
+
+An error occurred at line: [278] in the generated java file: [D:\Java\apache-tomcat-8.5.34\work\Catalina\localhost\MuaBanNha\org\apache\jsp\product_jsp.java]
+out cannot be resolved
+
+An error occurred at line: [281] in the generated java file: [D:\Java\apache-tomcat-8.5.34\work\Catalina\localhost\MuaBanNha\org\apache\jsp\product_jsp.java]
+_jspx_page_context cannot be resolved to a variable
+
+An error occurred at line: [281] in the generated java file: [D:\Java\apache-tomcat-8.5.34\work\Catalina\localhost\MuaBanNha\org\apache\jsp\product_jsp.java]
+_jspx_page_context cannot be resolved
+
+An error occurred at line: [284] in the generated java file: [D:\Java\apache-tomcat-8.5.34\work\Catalina\localhost\MuaBanNha\org\apache\jsp\product_jsp.java]
+Syntax error on token "finally", invalid AnnotationTypeDeclarationHeader
+
+An error occurred at line: [284] in the generated java file: [D:\Java\apache-tomcat-8.5.34\work\Catalina\localhost\MuaBanNha\org\apache\jsp\product_jsp.java]
+Syntax error, insert "}" to complete AnnotationTypeBody
+
+An error occurred at line: [285] in the generated java file: [D:\Java\apache-tomcat-8.5.34\work\Catalina\localhost\MuaBanNha\org\apache\jsp\product_jsp.java]
+_jspx_page_context cannot be resolved to a variable
+
+Stacktrace:
+	at org.apache.jasper.compiler.DefaultErrorHandler.javacError(DefaultErrorHandler.java:102)
+	at org.apache.jasper.compiler.ErrorDispatcher.javacError(ErrorDispatcher.java:212)
+	at org.apache.jasper.compiler.JDTCompiler.generateClass(JDTCompiler.java:495)
+	at org.apache.jasper.compiler.Compiler.compile(Compiler.java:378)
+	at org.apache.jasper.compiler.Compiler.compile(Compiler.java:350)
+	at org.apache.jasper.compiler.Compiler.compile(Compiler.java:334)
+	at org.apache.jasper.JspCompilationContext.compile(JspCompilationContext.java:595)
+	at org.apache.jasper.servlet.JspServletWrapper.service(JspServletWrapper.java:382)
+	at org.apache.jasper.servlet.JspServlet.serviceJspFile(JspServlet.java:386)
+	at org.apache.jasper.servlet.JspServlet.service(JspServlet.java:330)
+	at javax.servlet.http.HttpServlet.service(HttpServlet.java:742)
+	at org.apache.catalina.core.ApplicationFilterChain.internalDoFilter(ApplicationFilterChain.java:231)
+	at org.apache.catalina.core.ApplicationFilterChain.doFilter(ApplicationFilterChain.java:166)
+	at org.apache.tomcat.websocket.server.WsFilter.doFilter(WsFilter.java:52)
+	at org.apache.catalina.core.ApplicationFilterChain.internalDoFilter(ApplicationFilterChain.java:193)
+	at org.apache.catalina.core.ApplicationFilterChain.doFilter(ApplicationFilterChain.java:166)
+	at org.apache.catalina.core.StandardWrapperValve.invoke(StandardWrapperValve.java:198)
+	at org.apache.catalina.core.StandardContextValve.invoke(StandardContextValve.java:96)
+	at org.apache.catalina.authenticator.AuthenticatorBase.invoke(AuthenticatorBase.java:493)
+	at org.apache.catalina.core.StandardHostValve.invoke(StandardHostValve.java:140)
+	at org.apache.catalina.valves.ErrorReportValve.invoke(ErrorReportValve.java:81)
+	at org.apache.catalina.valves.AbstractAccessLogValve.invoke(AbstractAccessLogValve.java:650)
+	at org.apache.catalina.core.StandardEngineValve.invoke(StandardEngineValve.java:87)
+	at org.apache.catalina.connector.CoyoteAdapter.service(CoyoteAdapter.java:342)
+	at org.apache.coyote.http11.Http11Processor.service(Http11Processor.java:800)
+	at org.apache.coyote.AbstractProcessorLight.process(AbstractProcessorLight.java:66)
+	at org.apache.coyote.AbstractProtocol$ConnectionHandler.process(AbstractProtocol.java:806)
+	at org.apache.tomcat.util.net.NioEndpoint$SocketProcessor.doRun(NioEndpoint.java:1498)
+	at org.apache.tomcat.util.net.SocketProcessorBase.run(SocketProcessorBase.java:49)
+	at java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1149)
+	at java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:624)
+	at org.apache.tomcat.util.threads.TaskThread$WrappingRunnable.run(TaskThread.java:61)
+	at java.lang.Thread.run(Thread.java:748)
+
+16-Oct-2018 20:34:32.319 SEVERE [http-nio-8080-exec-50] org.apache.catalina.core.StandardWrapperValve.invoke Servlet.service() for servlet [jsp] in context with path [/MuaBanNha] threw exception [An exception occurred processing JSP page [/product.jsp] at line [91]
+
+88:                 firstResult = (pages)* 4 - 4;
+89:                 maxResult = 4;
+90:             }
+91:             ArrayList<Product> list = ProductDAO.getListProductByNav(Long.parseLong(category_id) , firstResult, maxResult)  ;
+92:         %>
+93:         <div class="container">
+94:             <div class="content">
+
+
+Stacktrace:] with root cause
+ com.mysql.jdbc.exceptions.jdbc4.MySQLSyntaxErrorException: You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '-4 ,4' at line 1
+	at sun.reflect.NativeConstructorAccessorImpl.newInstance0(Native Method)
+	at sun.reflect.NativeConstructorAccessorImpl.newInstance(NativeConstructorAccessorImpl.java:62)
+	at sun.reflect.DelegatingConstructorAccessorImpl.newInstance(DelegatingConstructorAccessorImpl.java:45)
+	at java.lang.reflect.Constructor.newInstance(Constructor.java:423)
+	at com.mysql.jdbc.Util.handleNewInstance(Util.java:406)
+	at com.mysql.jdbc.Util.getInstance(Util.java:381)
+	at com.mysql.jdbc.SQLError.createSQLException(SQLError.java:1031)
+	at com.mysql.jdbc.SQLError.createSQLException(SQLError.java:957)
+	at com.mysql.jdbc.MysqlIO.checkErrorPacket(MysqlIO.java:3376)
+	at com.mysql.jdbc.MysqlIO.checkErrorPacket(MysqlIO.java:3308)
+	at com.mysql.jdbc.MysqlIO.sendCommand(MysqlIO.java:1837)
+	at com.mysql.jdbc.MysqlIO.sqlQueryDirect(MysqlIO.java:1961)
+	at com.mysql.jdbc.ConnectionImpl.execSQL(ConnectionImpl.java:2543)
+	at com.mysql.jdbc.PreparedStatement.executeInternal(PreparedStatement.java:1737)
+	at com.mysql.jdbc.PreparedStatement.executeQuery(PreparedStatement.java:1888)
+	at dao.ProductDAO.getListProductByNav(ProductDAO.java:24)
+	at org.apache.jsp.product_jsp._jspService(product_jsp.java:210)
+	at org.apache.jasper.runtime.HttpJspBase.service(HttpJspBase.java:70)
+	at javax.servlet.http.HttpServlet.service(HttpServlet.java:742)
+	at org.apache.jasper.servlet.JspServletWrapper.service(JspServletWrapper.java:457)
+	at org.apache.jasper.servlet.JspServlet.serviceJspFile(JspServlet.java:386)
+	at org.apache.jasper.servlet.JspServlet.service(JspServlet.java:330)
+	at javax.servlet.http.HttpServlet.service(HttpServlet.java:742)
+	at org.apache.catalina.core.ApplicationFilterChain.internalDoFilter(ApplicationFilterChain.java:231)
+	at org.apache.catalina.core.ApplicationFilterChain.doFilter(ApplicationFilterChain.java:166)
+	at org.apache.tomcat.websocket.server.WsFilter.doFilter(WsFilter.java:52)
+	at org.apache.catalina.core.ApplicationFilterChain.internalDoFilter(ApplicationFilterChain.java:193)
+	at org.apache.catalina.core.ApplicationFilterChain.doFilter(ApplicationFilterChain.java:166)
+	at org.apache.catalina.core.StandardWrapperValve.invoke(StandardWrapperValve.java:198)
+	at org.apache.catalina.core.StandardContextValve.invoke(StandardContextValve.java:96)
+	at org.apache.catalina.authenticator.AuthenticatorBase.invoke(AuthenticatorBase.java:493)
+	at org.apache.catalina.core.StandardHostValve.invoke(StandardHostValve.java:140)
+	at org.apache.catalina.valves.ErrorReportValve.invoke(ErrorReportValve.java:81)
+	at org.apache.catalina.valves.AbstractAccessLogValve.invoke(AbstractAccessLogValve.java:650)
+	at org.apache.catalina.core.StandardEngineValve.invoke(StandardEngineValve.java:87)
+	at org.apache.catalina.connector.CoyoteAdapter.service(CoyoteAdapter.java:342)
+	at org.apache.coyote.http11.Http11Processor.service(Http11Processor.java:800)
+	at org.apache.coyote.AbstractProcessorLight.process(AbstractProcessorLight.java:66)
+	at org.apache.coyote.AbstractProtocol$ConnectionHandler.process(AbstractProtocol.java:806)
+	at org.apache.tomcat.util.net.NioEndpoint$SocketProcessor.doRun(NioEndpoint.java:1498)
+	at org.apache.tomcat.util.net.SocketProcessorBase.run(SocketProcessorBase.java:49)
+	at java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1149)
+	at java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:624)
+	at org.apache.tomcat.util.threads.TaskThread$WrappingRunnable.run(TaskThread.java:61)
+	at java.lang.Thread.run(Thread.java:748)
+
+16-Oct-2018 20:35:05.623 SEVERE [http-nio-8080-exec-51] org.apache.catalina.core.StandardWrapperValve.invoke Servlet.service() for servlet [jsp] in context with path [/MuaBanNha] threw exception [An exception occurred processing JSP page [/product.jsp] at line [91]
+
+88:                 firstResult = (pages)* 4 - 4;
+89:                 maxResult = 4;
+90:             }
+91:             ArrayList<Product> list = ProductDAO.getListProductByNav(Long.parseLong(category_id) , firstResult, maxResult)  ;
+92:         %>
+93:         <div class="container">
+94:             <div class="content">
+
+
+Stacktrace:] with root cause
+ com.mysql.jdbc.exceptions.jdbc4.MySQLSyntaxErrorException: You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '-4 ,4' at line 1
+	at sun.reflect.NativeConstructorAccessorImpl.newInstance0(Native Method)
+	at sun.reflect.NativeConstructorAccessorImpl.newInstance(NativeConstructorAccessorImpl.java:62)
+	at sun.reflect.DelegatingConstructorAccessorImpl.newInstance(DelegatingConstructorAccessorImpl.java:45)
+	at java.lang.reflect.Constructor.newInstance(Constructor.java:423)
+	at com.mysql.jdbc.Util.handleNewInstance(Util.java:406)
+	at com.mysql.jdbc.Util.getInstance(Util.java:381)
+	at com.mysql.jdbc.SQLError.createSQLException(SQLError.java:1031)
+	at com.mysql.jdbc.SQLError.createSQLException(SQLError.java:957)
+	at com.mysql.jdbc.MysqlIO.checkErrorPacket(MysqlIO.java:3376)
+	at com.mysql.jdbc.MysqlIO.checkErrorPacket(MysqlIO.java:3308)
+	at com.mysql.jdbc.MysqlIO.sendCommand(MysqlIO.java:1837)
+	at com.mysql.jdbc.MysqlIO.sqlQueryDirect(MysqlIO.java:1961)
+	at com.mysql.jdbc.ConnectionImpl.execSQL(ConnectionImpl.java:2543)
+	at com.mysql.jdbc.PreparedStatement.executeInternal(PreparedStatement.java:1737)
+	at com.mysql.jdbc.PreparedStatement.executeQuery(PreparedStatement.java:1888)
+	at dao.ProductDAO.getListProductByNav(ProductDAO.java:24)
+	at org.apache.jsp.product_jsp._jspService(product_jsp.java:210)
+	at org.apache.jasper.runtime.HttpJspBase.service(HttpJspBase.java:70)
+	at javax.servlet.http.HttpServlet.service(HttpServlet.java:742)
+	at org.apache.jasper.servlet.JspServletWrapper.service(JspServletWrapper.java:457)
+	at org.apache.jasper.servlet.JspServlet.serviceJspFile(JspServlet.java:386)
+	at org.apache.jasper.servlet.JspServlet.service(JspServlet.java:330)
+	at javax.servlet.http.HttpServlet.service(HttpServlet.java:742)
+	at org.apache.catalina.core.ApplicationFilterChain.internalDoFilter(ApplicationFilterChain.java:231)
+	at org.apache.catalina.core.ApplicationFilterChain.doFilter(ApplicationFilterChain.java:166)
+	at org.apache.tomcat.websocket.server.WsFilter.doFilter(WsFilter.java:52)
+	at org.apache.catalina.core.ApplicationFilterChain.internalDoFilter(ApplicationFilterChain.java:193)
+	at org.apache.catalina.core.ApplicationFilterChain.doFilter(ApplicationFilterChain.java:166)
+	at org.apache.catalina.core.StandardWrapperValve.invoke(StandardWrapperValve.java:198)
+	at org.apache.catalina.core.StandardContextValve.invoke(StandardContextValve.java:96)
+	at org.apache.catalina.authenticator.AuthenticatorBase.invoke(AuthenticatorBase.java:493)
+	at org.apache.catalina.core.StandardHostValve.invoke(StandardHostValve.java:140)
+	at org.apache.catalina.valves.ErrorReportValve.invoke(ErrorReportValve.java:81)
+	at org.apache.catalina.valves.AbstractAccessLogValve.invoke(AbstractAccessLogValve.java:650)
+	at org.apache.catalina.core.StandardEngineValve.invoke(StandardEngineValve.java:87)
+	at org.apache.catalina.connector.CoyoteAdapter.service(CoyoteAdapter.java:342)
+	at org.apache.coyote.http11.Http11Processor.service(Http11Processor.java:800)
+	at org.apache.coyote.AbstractProcessorLight.process(AbstractProcessorLight.java:66)
+	at org.apache.coyote.AbstractProtocol$ConnectionHandler.process(AbstractProtocol.java:806)
+	at org.apache.tomcat.util.net.NioEndpoint$SocketProcessor.doRun(NioEndpoint.java:1498)
+	at org.apache.tomcat.util.net.SocketProcessorBase.run(SocketProcessorBase.java:49)
+	at java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1149)
+	at java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:624)
+	at org.apache.tomcat.util.threads.TaskThread$WrappingRunnable.run(TaskThread.java:61)
+	at java.lang.Thread.run(Thread.java:748)
+
+16-Oct-2018 20:35:47.223 SEVERE [http-nio-8080-exec-47] org.apache.catalina.core.StandardWrapperValve.invoke Servlet.service() for servlet [jsp] in context with path [/MuaBanNha] threw exception [An exception occurred processing JSP page [/product.jsp] at line [91]
+
+88:                 firstResult = (pages)* 4 - 4;
+89:                 maxResult = 4;
+90:             }
+91:             ArrayList<Product> list = ProductDAO.getListProductByNav(Long.parseLong(category_id) , firstResult, maxResult)  ;
+92:         %>
+93:         <div class="container">
+94:             <div class="content">
+
+
+Stacktrace:] with root cause
+ com.mysql.jdbc.exceptions.jdbc4.MySQLSyntaxErrorException: You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '-4 ,4' at line 1
+	at sun.reflect.NativeConstructorAccessorImpl.newInstance0(Native Method)
+	at sun.reflect.NativeConstructorAccessorImpl.newInstance(NativeConstructorAccessorImpl.java:62)
+	at sun.reflect.DelegatingConstructorAccessorImpl.newInstance(DelegatingConstructorAccessorImpl.java:45)
+	at java.lang.reflect.Constructor.newInstance(Constructor.java:423)
+	at com.mysql.jdbc.Util.handleNewInstance(Util.java:406)
+	at com.mysql.jdbc.Util.getInstance(Util.java:381)
+	at com.mysql.jdbc.SQLError.createSQLException(SQLError.java:1031)
+	at com.mysql.jdbc.SQLError.createSQLException(SQLError.java:957)
+	at com.mysql.jdbc.MysqlIO.checkErrorPacket(MysqlIO.java:3376)
+	at com.mysql.jdbc.MysqlIO.checkErrorPacket(MysqlIO.java:3308)
+	at com.mysql.jdbc.MysqlIO.sendCommand(MysqlIO.java:1837)
+	at com.mysql.jdbc.MysqlIO.sqlQueryDirect(MysqlIO.java:1961)
+	at com.mysql.jdbc.ConnectionImpl.execSQL(ConnectionImpl.java:2543)
+	at com.mysql.jdbc.PreparedStatement.executeInternal(PreparedStatement.java:1737)
+	at com.mysql.jdbc.PreparedStatement.executeQuery(PreparedStatement.java:1888)
+	at dao.ProductDAO.getListProductByNav(ProductDAO.java:24)
+	at org.apache.jsp.product_jsp._jspService(product_jsp.java:210)
+	at org.apache.jasper.runtime.HttpJspBase.service(HttpJspBase.java:70)
+	at javax.servlet.http.HttpServlet.service(HttpServlet.java:742)
+	at org.apache.jasper.servlet.JspServletWrapper.service(JspServletWrapper.java:457)
+	at org.apache.jasper.servlet.JspServlet.serviceJspFile(JspServlet.java:386)
+	at org.apache.jasper.servlet.JspServlet.service(JspServlet.java:330)
+	at javax.servlet.http.HttpServlet.service(HttpServlet.java:742)
+	at org.apache.catalina.core.ApplicationFilterChain.internalDoFilter(ApplicationFilterChain.java:231)
+	at org.apache.catalina.core.ApplicationFilterChain.doFilter(ApplicationFilterChain.java:166)
+	at org.apache.tomcat.websocket.server.WsFilter.doFilter(WsFilter.java:52)
+	at org.apache.catalina.core.ApplicationFilterChain.internalDoFilter(ApplicationFilterChain.java:193)
+	at org.apache.catalina.core.ApplicationFilterChain.doFilter(ApplicationFilterChain.java:166)
+	at org.apache.catalina.core.StandardWrapperValve.invoke(StandardWrapperValve.java:198)
+	at org.apache.catalina.core.StandardContextValve.invoke(StandardContextValve.java:96)
+	at org.apache.catalina.authenticator.AuthenticatorBase.invoke(AuthenticatorBase.java:493)
+	at org.apache.catalina.core.StandardHostValve.invoke(StandardHostValve.java:140)
+	at org.apache.catalina.valves.ErrorReportValve.invoke(ErrorReportValve.java:81)
+	at org.apache.catalina.valves.AbstractAccessLogValve.invoke(AbstractAccessLogValve.java:650)
+	at org.apache.catalina.core.StandardEngineValve.invoke(StandardEngineValve.java:87)
+	at org.apache.catalina.connector.CoyoteAdapter.service(CoyoteAdapter.java:342)
+	at org.apache.coyote.http11.Http11Processor.service(Http11Processor.java:800)
+	at org.apache.coyote.AbstractProcessorLight.process(AbstractProcessorLight.java:66)
+	at org.apache.coyote.AbstractProtocol$ConnectionHandler.process(AbstractProtocol.java:806)
+	at org.apache.tomcat.util.net.NioEndpoint$SocketProcessor.doRun(NioEndpoint.java:1498)
+	at org.apache.tomcat.util.net.SocketProcessorBase.run(SocketProcessorBase.java:49)
+	at java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1149)
+	at java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:624)
+	at org.apache.tomcat.util.threads.TaskThread$WrappingRunnable.run(TaskThread.java:61)
+	at java.lang.Thread.run(Thread.java:748)
+
+16-Oct-2018 20:37:00.135 SEVERE [http-nio-8080-exec-53] org.apache.catalina.core.StandardWrapperValve.invoke Servlet.service() for servlet [jsp] in context with path [/MuaBanNha] threw exception [An exception occurred processing JSP page [/product.jsp] at line [91]
+
+88:                 firstResult = (pages)* 4 - 4;
+89:                 maxResult = 4;
+90:             }
+91:             ArrayList<Product> list = ProductDAO.getListProductByNav(Long.parseLong(category_id) , firstResult, maxResult)  ;
+92:         %>
+93:         <div class="container">
+94:             <div class="content">
+
+
+Stacktrace:] with root cause
+ com.mysql.jdbc.exceptions.jdbc4.MySQLSyntaxErrorException: You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '-4 ,4' at line 1
+	at sun.reflect.NativeConstructorAccessorImpl.newInstance0(Native Method)
+	at sun.reflect.NativeConstructorAccessorImpl.newInstance(NativeConstructorAccessorImpl.java:62)
+	at sun.reflect.DelegatingConstructorAccessorImpl.newInstance(DelegatingConstructorAccessorImpl.java:45)
+	at java.lang.reflect.Constructor.newInstance(Constructor.java:423)
+	at com.mysql.jdbc.Util.handleNewInstance(Util.java:406)
+	at com.mysql.jdbc.Util.getInstance(Util.java:381)
+	at com.mysql.jdbc.SQLError.createSQLException(SQLError.java:1031)
+	at com.mysql.jdbc.SQLError.createSQLException(SQLError.java:957)
+	at com.mysql.jdbc.MysqlIO.checkErrorPacket(MysqlIO.java:3376)
+	at com.mysql.jdbc.MysqlIO.checkErrorPacket(MysqlIO.java:3308)
+	at com.mysql.jdbc.MysqlIO.sendCommand(MysqlIO.java:1837)
+	at com.mysql.jdbc.MysqlIO.sqlQueryDirect(MysqlIO.java:1961)
+	at com.mysql.jdbc.ConnectionImpl.execSQL(ConnectionImpl.java:2543)
+	at com.mysql.jdbc.PreparedStatement.executeInternal(PreparedStatement.java:1737)
+	at com.mysql.jdbc.PreparedStatement.executeQuery(PreparedStatement.java:1888)
+	at dao.ProductDAO.getListProductByNav(ProductDAO.java:24)
+	at org.apache.jsp.product_jsp._jspService(product_jsp.java:210)
+	at org.apache.jasper.runtime.HttpJspBase.service(HttpJspBase.java:70)
+	at javax.servlet.http.HttpServlet.service(HttpServlet.java:742)
+	at org.apache.jasper.servlet.JspServletWrapper.service(JspServletWrapper.java:457)
+	at org.apache.jasper.servlet.JspServlet.serviceJspFile(JspServlet.java:386)
+	at org.apache.jasper.servlet.JspServlet.service(JspServlet.java:330)
+	at javax.servlet.http.HttpServlet.service(HttpServlet.java:742)
+	at org.apache.catalina.core.ApplicationFilterChain.internalDoFilter(ApplicationFilterChain.java:231)
+	at org.apache.catalina.core.ApplicationFilterChain.doFilter(ApplicationFilterChain.java:166)
+	at org.apache.tomcat.websocket.server.WsFilter.doFilter(WsFilter.java:52)
+	at org.apache.catalina.core.ApplicationFilterChain.internalDoFilter(ApplicationFilterChain.java:193)
+	at org.apache.catalina.core.ApplicationFilterChain.doFilter(ApplicationFilterChain.java:166)
+	at org.apache.catalina.core.StandardWrapperValve.invoke(StandardWrapperValve.java:198)
+	at org.apache.catalina.core.StandardContextValve.invoke(StandardContextValve.java:96)
+	at org.apache.catalina.authenticator.AuthenticatorBase.invoke(AuthenticatorBase.java:493)
+	at org.apache.catalina.core.StandardHostValve.invoke(StandardHostValve.java:140)
+	at org.apache.catalina.valves.ErrorReportValve.invoke(ErrorReportValve.java:81)
+	at org.apache.catalina.valves.AbstractAccessLogValve.invoke(AbstractAccessLogValve.java:650)
+	at org.apache.catalina.core.StandardEngineValve.invoke(StandardEngineValve.java:87)
+	at org.apache.catalina.connector.CoyoteAdapter.service(CoyoteAdapter.java:342)
+	at org.apache.coyote.http11.Http11Processor.service(Http11Processor.java:800)
+	at org.apache.coyote.AbstractProcessorLight.process(AbstractProcessorLight.java:66)
+	at org.apache.coyote.AbstractProtocol$ConnectionHandler.process(AbstractProtocol.java:806)
+	at org.apache.tomcat.util.net.NioEndpoint$SocketProcessor.doRun(NioEndpoint.java:1498)
+	at org.apache.tomcat.util.net.SocketProcessorBase.run(SocketProcessorBase.java:49)
+	at java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1149)
+	at java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:624)
+	at org.apache.tomcat.util.threads.TaskThread$WrappingRunnable.run(TaskThread.java:61)
+	at java.lang.Thread.run(Thread.java:748)
+
+16-Oct-2018 20:37:06.786 SEVERE [http-nio-8080-exec-49] org.apache.catalina.core.StandardWrapperValve.invoke Servlet.service() for servlet [jsp] in context with path [/MuaBanNha] threw exception [An exception occurred processing JSP page [/product.jsp] at line [91]
+
+88:                 firstResult = (pages)* 4 - 4;
+89:                 maxResult = 4;
+90:             }
+91:             ArrayList<Product> list = ProductDAO.getListProductByNav(Long.parseLong(category_id) , firstResult, maxResult)  ;
+92:         %>
+93:         <div class="container">
+94:             <div class="content">
+
+
+Stacktrace:] with root cause
+ com.mysql.jdbc.exceptions.jdbc4.MySQLSyntaxErrorException: You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '-4 ,4' at line 1
+	at sun.reflect.NativeConstructorAccessorImpl.newInstance0(Native Method)
+	at sun.reflect.NativeConstructorAccessorImpl.newInstance(NativeConstructorAccessorImpl.java:62)
+	at sun.reflect.DelegatingConstructorAccessorImpl.newInstance(DelegatingConstructorAccessorImpl.java:45)
+	at java.lang.reflect.Constructor.newInstance(Constructor.java:423)
+	at com.mysql.jdbc.Util.handleNewInstance(Util.java:406)
+	at com.mysql.jdbc.Util.getInstance(Util.java:381)
+	at com.mysql.jdbc.SQLError.createSQLException(SQLError.java:1031)
+	at com.mysql.jdbc.SQLError.createSQLException(SQLError.java:957)
+	at com.mysql.jdbc.MysqlIO.checkErrorPacket(MysqlIO.java:3376)
+	at com.mysql.jdbc.MysqlIO.checkErrorPacket(MysqlIO.java:3308)
+	at com.mysql.jdbc.MysqlIO.sendCommand(MysqlIO.java:1837)
+	at com.mysql.jdbc.MysqlIO.sqlQueryDirect(MysqlIO.java:1961)
+	at com.mysql.jdbc.ConnectionImpl.execSQL(ConnectionImpl.java:2543)
+	at com.mysql.jdbc.PreparedStatement.executeInternal(PreparedStatement.java:1737)
+	at com.mysql.jdbc.PreparedStatement.executeQuery(PreparedStatement.java:1888)
+	at dao.ProductDAO.getListProductByNav(ProductDAO.java:24)
+	at org.apache.jsp.product_jsp._jspService(product_jsp.java:210)
+	at org.apache.jasper.runtime.HttpJspBase.service(HttpJspBase.java:70)
+	at javax.servlet.http.HttpServlet.service(HttpServlet.java:742)
+	at org.apache.jasper.servlet.JspServletWrapper.service(JspServletWrapper.java:457)
+	at org.apache.jasper.servlet.JspServlet.serviceJspFile(JspServlet.java:386)
+	at org.apache.jasper.servlet.JspServlet.service(JspServlet.java:330)
+	at javax.servlet.http.HttpServlet.service(HttpServlet.java:742)
+	at org.apache.catalina.core.ApplicationFilterChain.internalDoFilter(ApplicationFilterChain.java:231)
+	at org.apache.catalina.core.ApplicationFilterChain.doFilter(ApplicationFilterChain.java:166)
+	at org.apache.tomcat.websocket.server.WsFilter.doFilter(WsFilter.java:52)
+	at org.apache.catalina.core.ApplicationFilterChain.internalDoFilter(ApplicationFilterChain.java:193)
+	at org.apache.catalina.core.ApplicationFilterChain.doFilter(ApplicationFilterChain.java:166)
+	at org.apache.catalina.core.StandardWrapperValve.invoke(StandardWrapperValve.java:198)
+	at org.apache.catalina.core.StandardContextValve.invoke(StandardContextValve.java:96)
+	at org.apache.catalina.authenticator.AuthenticatorBase.invoke(AuthenticatorBase.java:493)
+	at org.apache.catalina.core.StandardHostValve.invoke(StandardHostValve.java:140)
+	at org.apache.catalina.valves.ErrorReportValve.invoke(ErrorReportValve.java:81)
+	at org.apache.catalina.valves.AbstractAccessLogValve.invoke(AbstractAccessLogValve.java:650)
+	at org.apache.catalina.core.StandardEngineValve.invoke(StandardEngineValve.java:87)
+	at org.apache.catalina.connector.CoyoteAdapter.service(CoyoteAdapter.java:342)
+	at org.apache.coyote.http11.Http11Processor.service(Http11Processor.java:800)
+	at org.apache.coyote.AbstractProcessorLight.process(AbstractProcessorLight.java:66)
+	at org.apache.coyote.AbstractProtocol$ConnectionHandler.process(AbstractProtocol.java:806)
+	at org.apache.tomcat.util.net.NioEndpoint$SocketProcessor.doRun(NioEndpoint.java:1498)
+	at org.apache.tomcat.util.net.SocketProcessorBase.run(SocketProcessorBase.java:49)
+	at java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1149)
+	at java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:624)
+	at org.apache.tomcat.util.threads.TaskThread$WrappingRunnable.run(TaskThread.java:61)
+	at java.lang.Thread.run(Thread.java:748)
+
+16-Oct-2018 20:37:37.855 SEVERE [http-nio-8080-exec-47] org.apache.catalina.core.StandardWrapperValve.invoke Servlet.service() for servlet [jsp] in context with path [/MuaBanNha] threw exception [An exception occurred processing JSP page [/product.jsp] at line [91]
+
+88:                 firstResult = (pages)* 4 - 4;
+89:                 maxResult = 4;
+90:             }
+91:             ArrayList<Product> list = ProductDAO.getListProductByNav(Long.parseLong(category_id) , firstResult, maxResult)  ;
+92:         %>
+93:         <div class="container">
+94:             <div class="content">
+
+
+Stacktrace:] with root cause
+ com.mysql.jdbc.exceptions.jdbc4.MySQLSyntaxErrorException: You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '-4 ,4' at line 1
+	at sun.reflect.NativeConstructorAccessorImpl.newInstance0(Native Method)
+	at sun.reflect.NativeConstructorAccessorImpl.newInstance(NativeConstructorAccessorImpl.java:62)
+	at sun.reflect.DelegatingConstructorAccessorImpl.newInstance(DelegatingConstructorAccessorImpl.java:45)
+	at java.lang.reflect.Constructor.newInstance(Constructor.java:423)
+	at com.mysql.jdbc.Util.handleNewInstance(Util.java:406)
+	at com.mysql.jdbc.Util.getInstance(Util.java:381)
+	at com.mysql.jdbc.SQLError.createSQLException(SQLError.java:1031)
+	at com.mysql.jdbc.SQLError.createSQLException(SQLError.java:957)
+	at com.mysql.jdbc.MysqlIO.checkErrorPacket(MysqlIO.java:3376)
+	at com.mysql.jdbc.MysqlIO.checkErrorPacket(MysqlIO.java:3308)
+	at com.mysql.jdbc.MysqlIO.sendCommand(MysqlIO.java:1837)
+	at com.mysql.jdbc.MysqlIO.sqlQueryDirect(MysqlIO.java:1961)
+	at com.mysql.jdbc.ConnectionImpl.execSQL(ConnectionImpl.java:2543)
+	at com.mysql.jdbc.PreparedStatement.executeInternal(PreparedStatement.java:1737)
+	at com.mysql.jdbc.PreparedStatement.executeQuery(PreparedStatement.java:1888)
+	at dao.ProductDAO.getListProductByNav(ProductDAO.java:24)
+	at org.apache.jsp.product_jsp._jspService(product_jsp.java:210)
+	at org.apache.jasper.runtime.HttpJspBase.service(HttpJspBase.java:70)
+	at javax.servlet.http.HttpServlet.service(HttpServlet.java:742)
+	at org.apache.jasper.servlet.JspServletWrapper.service(JspServletWrapper.java:457)
+	at org.apache.jasper.servlet.JspServlet.serviceJspFile(JspServlet.java:386)
+	at org.apache.jasper.servlet.JspServlet.service(JspServlet.java:330)
+	at javax.servlet.http.HttpServlet.service(HttpServlet.java:742)
+	at org.apache.catalina.core.ApplicationFilterChain.internalDoFilter(ApplicationFilterChain.java:231)
+	at org.apache.catalina.core.ApplicationFilterChain.doFilter(ApplicationFilterChain.java:166)
+	at org.apache.tomcat.websocket.server.WsFilter.doFilter(WsFilter.java:52)
+	at org.apache.catalina.core.ApplicationFilterChain.internalDoFilter(ApplicationFilterChain.java:193)
+	at org.apache.catalina.core.ApplicationFilterChain.doFilter(ApplicationFilterChain.java:166)
+	at org.apache.catalina.core.StandardWrapperValve.invoke(StandardWrapperValve.java:198)
+	at org.apache.catalina.core.StandardContextValve.invoke(StandardContextValve.java:96)
+	at org.apache.catalina.authenticator.AuthenticatorBase.invoke(AuthenticatorBase.java:493)
+	at org.apache.catalina.core.StandardHostValve.invoke(StandardHostValve.java:140)
+	at org.apache.catalina.valves.ErrorReportValve.invoke(ErrorReportValve.java:81)
+	at org.apache.catalina.valves.AbstractAccessLogValve.invoke(AbstractAccessLogValve.java:650)
+	at org.apache.catalina.core.StandardEngineValve.invoke(StandardEngineValve.java:87)
+	at org.apache.catalina.connector.CoyoteAdapter.service(CoyoteAdapter.java:342)
+	at org.apache.coyote.http11.Http11Processor.service(Http11Processor.java:800)
+	at org.apache.coyote.AbstractProcessorLight.process(AbstractProcessorLight.java:66)
+	at org.apache.coyote.AbstractProtocol$ConnectionHandler.process(AbstractProtocol.java:806)
+	at org.apache.tomcat.util.net.NioEndpoint$SocketProcessor.doRun(NioEndpoint.java:1498)
+	at org.apache.tomcat.util.net.SocketProcessorBase.run(SocketProcessorBase.java:49)
+	at java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1149)
+	at java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:624)
+	at org.apache.tomcat.util.threads.TaskThread$WrappingRunnable.run(TaskThread.java:61)
+	at java.lang.Thread.run(Thread.java:748)
+
+16-Oct-2018 20:37:40.502 SEVERE [http-nio-8080-exec-55] org.apache.catalina.core.StandardWrapperValve.invoke Servlet.service() for servlet [jsp] in context with path [/MuaBanNha] threw exception [An exception occurred processing JSP page [/product.jsp] at line [91]
+
+88:                 firstResult = (pages)* 4 - 4;
+89:                 maxResult = 4;
+90:             }
+91:             ArrayList<Product> list = ProductDAO.getListProductByNav(Long.parseLong(category_id) , firstResult, maxResult)  ;
+92:         %>
+93:         <div class="container">
+94:             <div class="content">
+
+
+Stacktrace:] with root cause
+ com.mysql.jdbc.exceptions.jdbc4.MySQLSyntaxErrorException: You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '-4 ,4' at line 1
+	at sun.reflect.NativeConstructorAccessorImpl.newInstance0(Native Method)
+	at sun.reflect.NativeConstructorAccessorImpl.newInstance(NativeConstructorAccessorImpl.java:62)
+	at sun.reflect.DelegatingConstructorAccessorImpl.newInstance(DelegatingConstructorAccessorImpl.java:45)
+	at java.lang.reflect.Constructor.newInstance(Constructor.java:423)
+	at com.mysql.jdbc.Util.handleNewInstance(Util.java:406)
+	at com.mysql.jdbc.Util.getInstance(Util.java:381)
+	at com.mysql.jdbc.SQLError.createSQLException(SQLError.java:1031)
+	at com.mysql.jdbc.SQLError.createSQLException(SQLError.java:957)
+	at com.mysql.jdbc.MysqlIO.checkErrorPacket(MysqlIO.java:3376)
+	at com.mysql.jdbc.MysqlIO.checkErrorPacket(MysqlIO.java:3308)
+	at com.mysql.jdbc.MysqlIO.sendCommand(MysqlIO.java:1837)
+	at com.mysql.jdbc.MysqlIO.sqlQueryDirect(MysqlIO.java:1961)
+	at com.mysql.jdbc.ConnectionImpl.execSQL(ConnectionImpl.java:2543)
+	at com.mysql.jdbc.PreparedStatement.executeInternal(PreparedStatement.java:1737)
+	at com.mysql.jdbc.PreparedStatement.executeQuery(PreparedStatement.java:1888)
+	at dao.ProductDAO.getListProductByNav(ProductDAO.java:24)
+	at org.apache.jsp.product_jsp._jspService(product_jsp.java:210)
+	at org.apache.jasper.runtime.HttpJspBase.service(HttpJspBase.java:70)
+	at javax.servlet.http.HttpServlet.service(HttpServlet.java:742)
+	at org.apache.jasper.servlet.JspServletWrapper.service(JspServletWrapper.java:457)
+	at org.apache.jasper.servlet.JspServlet.serviceJspFile(JspServlet.java:386)
+	at org.apache.jasper.servlet.JspServlet.service(JspServlet.java:330)
+	at javax.servlet.http.HttpServlet.service(HttpServlet.java:742)
+	at org.apache.catalina.core.ApplicationFilterChain.internalDoFilter(ApplicationFilterChain.java:231)
+	at org.apache.catalina.core.ApplicationFilterChain.doFilter(ApplicationFilterChain.java:166)
+	at org.apache.tomcat.websocket.server.WsFilter.doFilter(WsFilter.java:52)
+	at org.apache.catalina.core.ApplicationFilterChain.internalDoFilter(ApplicationFilterChain.java:193)
+	at org.apache.catalina.core.ApplicationFilterChain.doFilter(ApplicationFilterChain.java:166)
+	at org.apache.catalina.core.StandardWrapperValve.invoke(StandardWrapperValve.java:198)
+	at org.apache.catalina.core.StandardContextValve.invoke(StandardContextValve.java:96)
+	at org.apache.catalina.authenticator.AuthenticatorBase.invoke(AuthenticatorBase.java:493)
+	at org.apache.catalina.core.StandardHostValve.invoke(StandardHostValve.java:140)
+	at org.apache.catalina.valves.ErrorReportValve.invoke(ErrorReportValve.java:81)
+	at org.apache.catalina.valves.AbstractAccessLogValve.invoke(AbstractAccessLogValve.java:650)
+	at org.apache.catalina.core.StandardEngineValve.invoke(StandardEngineValve.java:87)
+	at org.apache.catalina.connector.CoyoteAdapter.service(CoyoteAdapter.java:342)
+	at org.apache.coyote.http11.Http11Processor.service(Http11Processor.java:800)
+	at org.apache.coyote.AbstractProcessorLight.process(AbstractProcessorLight.java:66)
+	at org.apache.coyote.AbstractProtocol$ConnectionHandler.process(AbstractProtocol.java:806)
+	at org.apache.tomcat.util.net.NioEndpoint$SocketProcessor.doRun(NioEndpoint.java:1498)
+	at org.apache.tomcat.util.net.SocketProcessorBase.run(SocketProcessorBase.java:49)
+	at java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1149)
+	at java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:624)
+	at org.apache.tomcat.util.threads.TaskThread$WrappingRunnable.run(TaskThread.java:61)
+	at java.lang.Thread.run(Thread.java:748)
+
+16-Oct-2018 20:38:55.454 SEVERE [http-nio-8080-exec-48] org.apache.catalina.core.StandardWrapperValve.invoke Servlet.service() for servlet [jsp] in context with path [/MuaBanNha] threw exception [An exception occurred processing JSP page [/product.jsp] at line [91]
+
+88:                 firstResult = (pages)* 4 - 4;
+89:                 maxResult = 4;
+90:             }
+91:             ArrayList<Product> list = ProductDAO.getListProductByNav(Long.parseLong(category_id) , firstResult, maxResult)  ;
+92:         %>
+93:         <div class="container">
+94:             <div class="content">
+
+
+Stacktrace:] with root cause
+ com.mysql.jdbc.exceptions.jdbc4.MySQLSyntaxErrorException: You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '-4 ,4' at line 1
+	at sun.reflect.NativeConstructorAccessorImpl.newInstance0(Native Method)
+	at sun.reflect.NativeConstructorAccessorImpl.newInstance(NativeConstructorAccessorImpl.java:62)
+	at sun.reflect.DelegatingConstructorAccessorImpl.newInstance(DelegatingConstructorAccessorImpl.java:45)
+	at java.lang.reflect.Constructor.newInstance(Constructor.java:423)
+	at com.mysql.jdbc.Util.handleNewInstance(Util.java:406)
+	at com.mysql.jdbc.Util.getInstance(Util.java:381)
+	at com.mysql.jdbc.SQLError.createSQLException(SQLError.java:1031)
+	at com.mysql.jdbc.SQLError.createSQLException(SQLError.java:957)
+	at com.mysql.jdbc.MysqlIO.checkErrorPacket(MysqlIO.java:3376)
+	at com.mysql.jdbc.MysqlIO.checkErrorPacket(MysqlIO.java:3308)
+	at com.mysql.jdbc.MysqlIO.sendCommand(MysqlIO.java:1837)
+	at com.mysql.jdbc.MysqlIO.sqlQueryDirect(MysqlIO.java:1961)
+	at com.mysql.jdbc.ConnectionImpl.execSQL(ConnectionImpl.java:2543)
+	at com.mysql.jdbc.PreparedStatement.executeInternal(PreparedStatement.java:1737)
+	at com.mysql.jdbc.PreparedStatement.executeQuery(PreparedStatement.java:1888)
+	at dao.ProductDAO.getListProductByNav(ProductDAO.java:24)
+	at org.apache.jsp.product_jsp._jspService(product_jsp.java:210)
+	at org.apache.jasper.runtime.HttpJspBase.service(HttpJspBase.java:70)
+	at javax.servlet.http.HttpServlet.service(HttpServlet.java:742)
+	at org.apache.jasper.servlet.JspServletWrapper.service(JspServletWrapper.java:457)
+	at org.apache.jasper.servlet.JspServlet.serviceJspFile(JspServlet.java:386)
+	at org.apache.jasper.servlet.JspServlet.service(JspServlet.java:330)
+	at javax.servlet.http.HttpServlet.service(HttpServlet.java:742)
+	at org.apache.catalina.core.ApplicationFilterChain.internalDoFilter(ApplicationFilterChain.java:231)
+	at org.apache.catalina.core.ApplicationFilterChain.doFilter(ApplicationFilterChain.java:166)
+	at org.apache.tomcat.websocket.server.WsFilter.doFilter(WsFilter.java:52)
+	at org.apache.catalina.core.ApplicationFilterChain.internalDoFilter(ApplicationFilterChain.java:193)
+	at org.apache.catalina.core.ApplicationFilterChain.doFilter(ApplicationFilterChain.java:166)
+	at org.apache.catalina.core.StandardWrapperValve.invoke(StandardWrapperValve.java:198)
+	at org.apache.catalina.core.StandardContextValve.invoke(StandardContextValve.java:96)
+	at org.apache.catalina.authenticator.AuthenticatorBase.invoke(AuthenticatorBase.java:493)
+	at org.apache.catalina.core.StandardHostValve.invoke(StandardHostValve.java:140)
+	at org.apache.catalina.valves.ErrorReportValve.invoke(ErrorReportValve.java:81)
+	at org.apache.catalina.valves.AbstractAccessLogValve.invoke(AbstractAccessLogValve.java:650)
+	at org.apache.catalina.core.StandardEngineValve.invoke(StandardEngineValve.java:87)
+	at org.apache.catalina.connector.CoyoteAdapter.service(CoyoteAdapter.java:342)
+	at org.apache.coyote.http11.Http11Processor.service(Http11Processor.java:800)
+	at org.apache.coyote.AbstractProcessorLight.process(AbstractProcessorLight.java:66)
+	at org.apache.coyote.AbstractProtocol$ConnectionHandler.process(AbstractProtocol.java:806)
+	at org.apache.tomcat.util.net.NioEndpoint$SocketProcessor.doRun(NioEndpoint.java:1498)
+	at org.apache.tomcat.util.net.SocketProcessorBase.run(SocketProcessorBase.java:49)
+	at java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1149)
+	at java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:624)
+	at org.apache.tomcat.util.threads.TaskThread$WrappingRunnable.run(TaskThread.java:61)
+	at java.lang.Thread.run(Thread.java:748)
+
+16-Oct-2018 20:39:35.739 SEVERE [http-nio-8080-exec-53] org.apache.catalina.core.StandardWrapperValve.invoke Servlet.service() for servlet [jsp] in context with path [/MuaBanNha] threw exception [An exception occurred processing JSP page [/product.jsp] at line [91]
+
+88:                 firstResult = (pages)* 4 - 4;
+89:                 maxResult = 4;
+90:             }
+91:             ArrayList<Product> list = ProductDAO.getListProductByNav(Long.parseLong(category_id) , firstResult, maxResult)  ;
+92:         %>
+93:         <div class="container">
+94:             <div class="content">
+
+
+Stacktrace:] with root cause
+ com.mysql.jdbc.exceptions.jdbc4.MySQLSyntaxErrorException: You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '-4 ,4' at line 1
+	at sun.reflect.NativeConstructorAccessorImpl.newInstance0(Native Method)
+	at sun.reflect.NativeConstructorAccessorImpl.newInstance(NativeConstructorAccessorImpl.java:62)
+	at sun.reflect.DelegatingConstructorAccessorImpl.newInstance(DelegatingConstructorAccessorImpl.java:45)
+	at java.lang.reflect.Constructor.newInstance(Constructor.java:423)
+	at com.mysql.jdbc.Util.handleNewInstance(Util.java:406)
+	at com.mysql.jdbc.Util.getInstance(Util.java:381)
+	at com.mysql.jdbc.SQLError.createSQLException(SQLError.java:1031)
+	at com.mysql.jdbc.SQLError.createSQLException(SQLError.java:957)
+	at com.mysql.jdbc.MysqlIO.checkErrorPacket(MysqlIO.java:3376)
+	at com.mysql.jdbc.MysqlIO.checkErrorPacket(MysqlIO.java:3308)
+	at com.mysql.jdbc.MysqlIO.sendCommand(MysqlIO.java:1837)
+	at com.mysql.jdbc.MysqlIO.sqlQueryDirect(MysqlIO.java:1961)
+	at com.mysql.jdbc.ConnectionImpl.execSQL(ConnectionImpl.java:2543)
+	at com.mysql.jdbc.PreparedStatement.executeInternal(PreparedStatement.java:1737)
+	at com.mysql.jdbc.PreparedStatement.executeQuery(PreparedStatement.java:1888)
+	at dao.ProductDAO.getListProductByNav(ProductDAO.java:24)
+	at org.apache.jsp.product_jsp._jspService(product_jsp.java:210)
+	at org.apache.jasper.runtime.HttpJspBase.service(HttpJspBase.java:70)
+	at javax.servlet.http.HttpServlet.service(HttpServlet.java:742)
+	at org.apache.jasper.servlet.JspServletWrapper.service(JspServletWrapper.java:457)
+	at org.apache.jasper.servlet.JspServlet.serviceJspFile(JspServlet.java:386)
+	at org.apache.jasper.servlet.JspServlet.service(JspServlet.java:330)
+	at javax.servlet.http.HttpServlet.service(HttpServlet.java:742)
+	at org.apache.catalina.core.ApplicationFilterChain.internalDoFilter(ApplicationFilterChain.java:231)
+	at org.apache.catalina.core.ApplicationFilterChain.doFilter(ApplicationFilterChain.java:166)
+	at org.apache.tomcat.websocket.server.WsFilter.doFilter(WsFilter.java:52)
+	at org.apache.catalina.core.ApplicationFilterChain.internalDoFilter(ApplicationFilterChain.java:193)
+	at org.apache.catalina.core.ApplicationFilterChain.doFilter(ApplicationFilterChain.java:166)
+	at org.apache.catalina.core.StandardWrapperValve.invoke(StandardWrapperValve.java:198)
+	at org.apache.catalina.core.StandardContextValve.invoke(StandardContextValve.java:96)
+	at org.apache.catalina.authenticator.AuthenticatorBase.invoke(AuthenticatorBase.java:493)
+	at org.apache.catalina.core.StandardHostValve.invoke(StandardHostValve.java:140)
+	at org.apache.catalina.valves.ErrorReportValve.invoke(ErrorReportValve.java:81)
+	at org.apache.catalina.valves.AbstractAccessLogValve.invoke(AbstractAccessLogValve.java:650)
+	at org.apache.catalina.core.StandardEngineValve.invoke(StandardEngineValve.java:87)
+	at org.apache.catalina.connector.CoyoteAdapter.service(CoyoteAdapter.java:342)
+	at org.apache.coyote.http11.Http11Processor.service(Http11Processor.java:800)
+	at org.apache.coyote.AbstractProcessorLight.process(AbstractProcessorLight.java:66)
+	at org.apache.coyote.AbstractProtocol$ConnectionHandler.process(AbstractProtocol.java:806)
+	at org.apache.tomcat.util.net.NioEndpoint$SocketProcessor.doRun(NioEndpoint.java:1498)
+	at org.apache.tomcat.util.net.SocketProcessorBase.run(SocketProcessorBase.java:49)
+	at java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1149)
+	at java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:624)
+	at org.apache.tomcat.util.threads.TaskThread$WrappingRunnable.run(TaskThread.java:61)
+	at java.lang.Thread.run(Thread.java:748)
+

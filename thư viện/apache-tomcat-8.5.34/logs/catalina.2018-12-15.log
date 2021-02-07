@@ -1,0 +1,1075 @@
+15-Dec-2018 09:29:16.220 WARNING [http-nio-8081-exec-80] org.springframework.web.servlet.DispatcherServlet.noHandlerFound No mapping found for HTTP request with URI [/netbeans-tomcat-status-test] in DispatcherServlet with name 'dispatcher'
+15-Dec-2018 09:29:16.357 WARNING [http-nio-8081-exec-77] org.springframework.web.servlet.DispatcherServlet.noHandlerFound No mapping found for HTTP request with URI [/netbeans-tomcat-status-test] in DispatcherServlet with name 'dispatcher'
+15-Dec-2018 09:29:16.370 WARNING [http-nio-8081-exec-79] org.springframework.web.servlet.DispatcherServlet.noHandlerFound No mapping found for HTTP request with URI [/netbeans-tomcat-status-test] in DispatcherServlet with name 'dispatcher'
+15-Dec-2018 09:29:16.488 WARNING [http-nio-8081-exec-82] org.springframework.web.servlet.DispatcherServlet.noHandlerFound No mapping found for HTTP request with URI [/netbeans-tomcat-status-test] in DispatcherServlet with name 'dispatcher'
+15-Dec-2018 09:29:37.222 WARNING [http-nio-8081-exec-84] org.springframework.web.servlet.DispatcherServlet.noHandlerFound No mapping found for HTTP request with URI [/netbeans-tomcat-status-test] in DispatcherServlet with name 'dispatcher'
+15-Dec-2018 09:29:37.261 WARNING [http-nio-8081-exec-80] org.springframework.web.servlet.DispatcherServlet.noHandlerFound No mapping found for HTTP request with URI [/netbeans-tomcat-status-test] in DispatcherServlet with name 'dispatcher'
+15-Dec-2018 09:29:37.300 WARNING [http-nio-8081-exec-77] org.springframework.web.servlet.DispatcherServlet.noHandlerFound No mapping found for HTTP request with URI [/netbeans-tomcat-status-test] in DispatcherServlet with name 'dispatcher'
+15-Dec-2018 09:29:37.396 WARNING [http-nio-8081-exec-81] org.springframework.web.servlet.DispatcherServlet.noHandlerFound No mapping found for HTTP request with URI [/netbeans-tomcat-status-test] in DispatcherServlet with name 'dispatcher'
+15-Dec-2018 09:33:11.134 WARNING [http-nio-8081-exec-78] org.springframework.web.servlet.DispatcherServlet.noHandlerFound No mapping found for HTTP request with URI [/netbeans-tomcat-status-test] in DispatcherServlet with name 'dispatcher'
+15-Dec-2018 09:33:11.149 WARNING [http-nio-8081-exec-84] org.springframework.web.servlet.DispatcherServlet.noHandlerFound No mapping found for HTTP request with URI [/netbeans-tomcat-status-test] in DispatcherServlet with name 'dispatcher'
+15-Dec-2018 09:33:11.159 WARNING [http-nio-8081-exec-79] org.springframework.web.servlet.DispatcherServlet.noHandlerFound No mapping found for HTTP request with URI [/netbeans-tomcat-status-test] in DispatcherServlet with name 'dispatcher'
+15-Dec-2018 09:33:11.216 WARNING [http-nio-8081-exec-82] org.springframework.web.servlet.DispatcherServlet.noHandlerFound No mapping found for HTTP request with URI [/netbeans-tomcat-status-test] in DispatcherServlet with name 'dispatcher'
+15-Dec-2018 09:33:19.426 WARNING [http-nio-8081-exec-79] org.springframework.web.servlet.DispatcherServlet.noHandlerFound No mapping found for HTTP request with URI [/netbeans-tomcat-status-test] in DispatcherServlet with name 'dispatcher'
+15-Dec-2018 09:33:19.470 WARNING [http-nio-8081-exec-78] org.springframework.web.servlet.DispatcherServlet.noHandlerFound No mapping found for HTTP request with URI [/netbeans-tomcat-status-test] in DispatcherServlet with name 'dispatcher'
+15-Dec-2018 09:33:19.486 WARNING [http-nio-8081-exec-85] org.springframework.web.servlet.DispatcherServlet.noHandlerFound No mapping found for HTTP request with URI [/netbeans-tomcat-status-test] in DispatcherServlet with name 'dispatcher'
+15-Dec-2018 09:33:19.561 WARNING [http-nio-8081-exec-76] org.springframework.web.servlet.DispatcherServlet.noHandlerFound No mapping found for HTTP request with URI [/netbeans-tomcat-status-test] in DispatcherServlet with name 'dispatcher'
+15-Dec-2018 09:35:25.311 WARNING [http-nio-8081-exec-83] org.springframework.web.servlet.DispatcherServlet.noHandlerFound No mapping found for HTTP request with URI [/netbeans-tomcat-status-test] in DispatcherServlet with name 'dispatcher'
+15-Dec-2018 09:35:25.349 WARNING [http-nio-8081-exec-78] org.springframework.web.servlet.DispatcherServlet.noHandlerFound No mapping found for HTTP request with URI [/netbeans-tomcat-status-test] in DispatcherServlet with name 'dispatcher'
+15-Dec-2018 09:35:25.418 WARNING [http-nio-8081-exec-85] org.springframework.web.servlet.DispatcherServlet.noHandlerFound No mapping found for HTTP request with URI [/netbeans-tomcat-status-test] in DispatcherServlet with name 'dispatcher'
+15-Dec-2018 09:35:25.497 WARNING [http-nio-8081-exec-80] org.springframework.web.servlet.DispatcherServlet.noHandlerFound No mapping found for HTTP request with URI [/netbeans-tomcat-status-test] in DispatcherServlet with name 'dispatcher'
+15-Dec-2018 09:35:40.071 WARNING [http-nio-8081-exec-76] org.springframework.web.servlet.DispatcherServlet.noHandlerFound No mapping found for HTTP request with URI [/netbeans-tomcat-status-test] in DispatcherServlet with name 'dispatcher'
+15-Dec-2018 09:35:40.095 WARNING [http-nio-8081-exec-84] org.springframework.web.servlet.DispatcherServlet.noHandlerFound No mapping found for HTTP request with URI [/netbeans-tomcat-status-test] in DispatcherServlet with name 'dispatcher'
+15-Dec-2018 09:35:40.123 WARNING [http-nio-8081-exec-80] org.springframework.web.servlet.DispatcherServlet.noHandlerFound No mapping found for HTTP request with URI [/netbeans-tomcat-status-test] in DispatcherServlet with name 'dispatcher'
+15-Dec-2018 09:35:40.204 WARNING [http-nio-8081-exec-78] org.springframework.web.servlet.DispatcherServlet.noHandlerFound No mapping found for HTTP request with URI [/netbeans-tomcat-status-test] in DispatcherServlet with name 'dispatcher'
+15-Dec-2018 09:35:58.906 WARNING [http-nio-8081-exec-79] org.springframework.web.servlet.DispatcherServlet.noHandlerFound No mapping found for HTTP request with URI [/netbeans-tomcat-status-test] in DispatcherServlet with name 'dispatcher'
+15-Dec-2018 09:35:58.916 WARNING [http-nio-8081-exec-76] org.springframework.web.servlet.DispatcherServlet.noHandlerFound No mapping found for HTTP request with URI [/netbeans-tomcat-status-test] in DispatcherServlet with name 'dispatcher'
+15-Dec-2018 09:35:58.931 WARNING [http-nio-8081-exec-85] org.springframework.web.servlet.DispatcherServlet.noHandlerFound No mapping found for HTTP request with URI [/netbeans-tomcat-status-test] in DispatcherServlet with name 'dispatcher'
+15-Dec-2018 09:35:59.004 WARNING [http-nio-8081-exec-80] org.springframework.web.servlet.DispatcherServlet.noHandlerFound No mapping found for HTTP request with URI [/netbeans-tomcat-status-test] in DispatcherServlet with name 'dispatcher'
+15-Dec-2018 09:37:29.508 WARNING [http-nio-8081-exec-78] org.springframework.web.servlet.DispatcherServlet.noHandlerFound No mapping found for HTTP request with URI [/netbeans-tomcat-status-test] in DispatcherServlet with name 'dispatcher'
+15-Dec-2018 09:37:29.532 WARNING [http-nio-8081-exec-84] org.springframework.web.servlet.DispatcherServlet.noHandlerFound No mapping found for HTTP request with URI [/netbeans-tomcat-status-test] in DispatcherServlet with name 'dispatcher'
+15-Dec-2018 09:37:29.562 WARNING [http-nio-8081-exec-76] org.springframework.web.servlet.DispatcherServlet.noHandlerFound No mapping found for HTTP request with URI [/netbeans-tomcat-status-test] in DispatcherServlet with name 'dispatcher'
+15-Dec-2018 09:37:29.651 WARNING [http-nio-8081-exec-84] org.springframework.web.servlet.DispatcherServlet.noHandlerFound No mapping found for HTTP request with URI [/netbeans-tomcat-status-test] in DispatcherServlet with name 'dispatcher'
+15-Dec-2018 09:38:40.623 WARNING [http-nio-8081-exec-77] org.springframework.web.servlet.DispatcherServlet.noHandlerFound No mapping found for HTTP request with URI [/netbeans-tomcat-status-test] in DispatcherServlet with name 'dispatcher'
+15-Dec-2018 09:38:40.629 WARNING [http-nio-8081-exec-84] org.springframework.web.servlet.DispatcherServlet.noHandlerFound No mapping found for HTTP request with URI [/netbeans-tomcat-status-test] in DispatcherServlet with name 'dispatcher'
+15-Dec-2018 09:38:40.636 WARNING [http-nio-8081-exec-80] org.springframework.web.servlet.DispatcherServlet.noHandlerFound No mapping found for HTTP request with URI [/netbeans-tomcat-status-test] in DispatcherServlet with name 'dispatcher'
+15-Dec-2018 09:38:40.681 WARNING [http-nio-8081-exec-78] org.springframework.web.servlet.DispatcherServlet.noHandlerFound No mapping found for HTTP request with URI [/netbeans-tomcat-status-test] in DispatcherServlet with name 'dispatcher'
+15-Dec-2018 09:41:15.734 WARNING [http-nio-8081-exec-81] org.springframework.web.servlet.DispatcherServlet.noHandlerFound No mapping found for HTTP request with URI [/netbeans-tomcat-status-test] in DispatcherServlet with name 'dispatcher'
+15-Dec-2018 09:41:15.746 WARNING [http-nio-8081-exec-76] org.springframework.web.servlet.DispatcherServlet.noHandlerFound No mapping found for HTTP request with URI [/netbeans-tomcat-status-test] in DispatcherServlet with name 'dispatcher'
+15-Dec-2018 09:41:15.754 WARNING [http-nio-8081-exec-80] org.springframework.web.servlet.DispatcherServlet.noHandlerFound No mapping found for HTTP request with URI [/netbeans-tomcat-status-test] in DispatcherServlet with name 'dispatcher'
+15-Dec-2018 09:41:15.801 INFO [http-nio-8081-exec-79] org.apache.catalina.core.StandardContext.reload Reloading Context with name [/MuaBanNha] has started
+15-Dec-2018 09:41:15.815 WARNING [http-nio-8081-exec-79] org.apache.catalina.loader.WebappClassLoaderBase.clearReferencesJdbc The web application [MuaBanNha] registered the JDBC driver [com.mysql.jdbc.Driver] but failed to unregister it when the web application was stopped. To prevent a memory leak, the JDBC Driver has been forcibly unregistered.
+15-Dec-2018 09:41:15.816 WARNING [http-nio-8081-exec-79] org.apache.catalina.loader.WebappClassLoaderBase.clearReferencesThreads The web application [MuaBanNha] appears to have started a thread named [MySQL Statement Cancellation Timer] but has failed to stop it. This is very likely to create a memory leak. Stack trace of thread:
+ java.lang.Object.wait(Native Method)
+ java.lang.Object.wait(Object.java:502)
+ java.util.TimerThread.mainLoop(Timer.java:526)
+ java.util.TimerThread.run(Timer.java:505)
+15-Dec-2018 09:41:17.137 INFO [140] org.apache.jasper.servlet.TldScanner.scanJars At least one JAR was scanned for TLDs yet contained no TLDs. Enable debug logging for this logger for a complete list of JARs that were scanned but no TLDs were found in them. Skipping unneeded JARs during scanning can improve startup time and JSP compilation time.
+15-Dec-2018 09:41:17.155 INFO [140] org.apache.catalina.core.StandardContext.reload Reloading Context with name [/MuaBanNha] is completed
+15-Dec-2018 09:41:17.161 WARNING [http-nio-8081-exec-77] org.springframework.web.servlet.DispatcherServlet.noHandlerFound No mapping found for HTTP request with URI [/netbeans-tomcat-status-test] in DispatcherServlet with name 'dispatcher'
+15-Dec-2018 09:41:21.305 WARNING [143] org.springframework.web.servlet.DispatcherServlet.noHandlerFound No mapping found for HTTP request with URI [/netbeans-tomcat-status-test] in DispatcherServlet with name 'dispatcher'
+15-Dec-2018 09:41:21.318 WARNING [http-nio-8081-exec-76] org.springframework.web.servlet.DispatcherServlet.noHandlerFound No mapping found for HTTP request with URI [/netbeans-tomcat-status-test] in DispatcherServlet with name 'dispatcher'
+15-Dec-2018 09:41:21.332 WARNING [http-nio-8081-exec-82] org.springframework.web.servlet.DispatcherServlet.noHandlerFound No mapping found for HTTP request with URI [/netbeans-tomcat-status-test] in DispatcherServlet with name 'dispatcher'
+15-Dec-2018 09:41:21.380 INFO [http-nio-8081-exec-83] org.apache.catalina.core.StandardContext.reload Reloading Context with name [/MuaBanNha] has started
+15-Dec-2018 09:41:21.878 INFO [http-nio-8081-exec-83] org.apache.jasper.servlet.TldScanner.scanJars At least one JAR was scanned for TLDs yet contained no TLDs. Enable debug logging for this logger for a complete list of JARs that were scanned but no TLDs were found in them. Skipping unneeded JARs during scanning can improve startup time and JSP compilation time.
+15-Dec-2018 09:41:21.898 INFO [http-nio-8081-exec-83] org.apache.catalina.core.StandardContext.reload Reloading Context with name [/MuaBanNha] is completed
+15-Dec-2018 09:41:21.911 WARNING [http-nio-8081-exec-84] org.springframework.web.servlet.DispatcherServlet.noHandlerFound No mapping found for HTTP request with URI [/netbeans-tomcat-status-test] in DispatcherServlet with name 'dispatcher'
+15-Dec-2018 09:41:29.453 INFO [Finalizer] org.apache.catalina.loader.WebappClassLoaderBase.checkStateForResourceLoading Illegal access: this web application instance has been stopped already. Could not load [com.mysql.jdbc.profiler.ProfileEventSink]. The following stack trace is thrown for debugging purposes as well as to attempt to terminate the thread which caused the illegal access.
+ java.lang.IllegalStateException: Illegal access: this web application instance has been stopped already. Could not load [com.mysql.jdbc.profiler.ProfileEventSink]. The following stack trace is thrown for debugging purposes as well as to attempt to terminate the thread which caused the illegal access.
+	at org.apache.catalina.loader.WebappClassLoaderBase.checkStateForResourceLoading(WebappClassLoaderBase.java:1329)
+	at org.apache.catalina.loader.WebappClassLoaderBase.checkStateForClassLoading(WebappClassLoaderBase.java:1317)
+	at org.apache.catalina.loader.WebappClassLoaderBase.loadClass(WebappClassLoaderBase.java:1176)
+	at org.apache.catalina.loader.WebappClassLoaderBase.loadClass(WebappClassLoaderBase.java:1137)
+	at com.mysql.jdbc.ConnectionImpl.realClose(ConnectionImpl.java:4235)
+	at com.mysql.jdbc.ConnectionImpl.cleanup(ConnectionImpl.java:1257)
+	at com.mysql.jdbc.ConnectionImpl.finalize(ConnectionImpl.java:2663)
+	at java.lang.System$2.invokeFinalize(System.java:1270)
+	at java.lang.ref.Finalizer.runFinalizer(Finalizer.java:98)
+	at java.lang.ref.Finalizer.access$100(Finalizer.java:34)
+	at java.lang.ref.Finalizer$FinalizerThread.run(Finalizer.java:213)
+
+15-Dec-2018 09:41:29.474 INFO [Finalizer] org.apache.catalina.loader.WebappClassLoaderBase.checkStateForResourceLoading Illegal access: this web application instance has been stopped already. Could not load [com.mysql.jdbc.SQLError]. The following stack trace is thrown for debugging purposes as well as to attempt to terminate the thread which caused the illegal access.
+ java.lang.IllegalStateException: Illegal access: this web application instance has been stopped already. Could not load [com.mysql.jdbc.SQLError]. The following stack trace is thrown for debugging purposes as well as to attempt to terminate the thread which caused the illegal access.
+	at org.apache.catalina.loader.WebappClassLoaderBase.checkStateForResourceLoading(WebappClassLoaderBase.java:1329)
+	at org.apache.catalina.loader.WebappClassLoaderBase.checkStateForClassLoading(WebappClassLoaderBase.java:1317)
+	at org.apache.catalina.loader.WebappClassLoaderBase.loadClass(WebappClassLoaderBase.java:1176)
+	at org.apache.catalina.loader.WebappClassLoaderBase.loadClass(WebappClassLoaderBase.java:1137)
+	at com.mysql.jdbc.MysqlIO.send(MysqlIO.java:3134)
+	at com.mysql.jdbc.MysqlIO.quit(MysqlIO.java:1616)
+	at com.mysql.jdbc.ConnectionImpl.realClose(ConnectionImpl.java:4223)
+	at com.mysql.jdbc.ConnectionImpl.cleanup(ConnectionImpl.java:1257)
+	at com.mysql.jdbc.ConnectionImpl.finalize(ConnectionImpl.java:2663)
+	at java.lang.System$2.invokeFinalize(System.java:1270)
+	at java.lang.ref.Finalizer.runFinalizer(Finalizer.java:98)
+	at java.lang.ref.Finalizer.access$100(Finalizer.java:34)
+	at java.lang.ref.Finalizer$FinalizerThread.run(Finalizer.java:213)
+
+15-Dec-2018 09:41:29.475 INFO [Finalizer] org.apache.catalina.loader.WebappClassLoaderBase.checkStateForResourceLoading Illegal access: this web application instance has been stopped already. Could not load [com.mysql.jdbc.profiler.ProfileEventSink]. The following stack trace is thrown for debugging purposes as well as to attempt to terminate the thread which caused the illegal access.
+ java.lang.IllegalStateException: Illegal access: this web application instance has been stopped already. Could not load [com.mysql.jdbc.profiler.ProfileEventSink]. The following stack trace is thrown for debugging purposes as well as to attempt to terminate the thread which caused the illegal access.
+	at org.apache.catalina.loader.WebappClassLoaderBase.checkStateForResourceLoading(WebappClassLoaderBase.java:1329)
+	at org.apache.catalina.loader.WebappClassLoaderBase.checkStateForClassLoading(WebappClassLoaderBase.java:1317)
+	at org.apache.catalina.loader.WebappClassLoaderBase.loadClass(WebappClassLoaderBase.java:1176)
+	at org.apache.catalina.loader.WebappClassLoaderBase.loadClass(WebappClassLoaderBase.java:1137)
+	at com.mysql.jdbc.ConnectionImpl.realClose(ConnectionImpl.java:4235)
+	at com.mysql.jdbc.ConnectionImpl.cleanup(ConnectionImpl.java:1257)
+	at com.mysql.jdbc.ConnectionImpl.finalize(ConnectionImpl.java:2663)
+	at java.lang.System$2.invokeFinalize(System.java:1270)
+	at java.lang.ref.Finalizer.runFinalizer(Finalizer.java:98)
+	at java.lang.ref.Finalizer.access$100(Finalizer.java:34)
+	at java.lang.ref.Finalizer$FinalizerThread.run(Finalizer.java:213)
+
+15-Dec-2018 09:41:29.741 INFO [Finalizer] org.apache.catalina.loader.WebappClassLoaderBase.checkStateForResourceLoading Illegal access: this web application instance has been stopped already. Could not load [com.mysql.jdbc.SQLError]. The following stack trace is thrown for debugging purposes as well as to attempt to terminate the thread which caused the illegal access.
+ java.lang.IllegalStateException: Illegal access: this web application instance has been stopped already. Could not load [com.mysql.jdbc.SQLError]. The following stack trace is thrown for debugging purposes as well as to attempt to terminate the thread which caused the illegal access.
+	at org.apache.catalina.loader.WebappClassLoaderBase.checkStateForResourceLoading(WebappClassLoaderBase.java:1329)
+	at org.apache.catalina.loader.WebappClassLoaderBase.checkStateForClassLoading(WebappClassLoaderBase.java:1317)
+	at org.apache.catalina.loader.WebappClassLoaderBase.loadClass(WebappClassLoaderBase.java:1176)
+	at org.apache.catalina.loader.WebappClassLoaderBase.loadClass(WebappClassLoaderBase.java:1137)
+	at com.mysql.jdbc.MysqlIO.send(MysqlIO.java:3134)
+	at com.mysql.jdbc.MysqlIO.quit(MysqlIO.java:1616)
+	at com.mysql.jdbc.ConnectionImpl.realClose(ConnectionImpl.java:4223)
+	at com.mysql.jdbc.ConnectionImpl.cleanup(ConnectionImpl.java:1257)
+	at com.mysql.jdbc.ConnectionImpl.finalize(ConnectionImpl.java:2663)
+	at java.lang.System$2.invokeFinalize(System.java:1270)
+	at java.lang.ref.Finalizer.runFinalizer(Finalizer.java:98)
+	at java.lang.ref.Finalizer.access$100(Finalizer.java:34)
+	at java.lang.ref.Finalizer$FinalizerThread.run(Finalizer.java:213)
+
+15-Dec-2018 09:41:36.188 WARNING [http-nio-8081-exec-86] org.springframework.web.servlet.DispatcherServlet.noHandlerFound No mapping found for HTTP request with URI [/netbeans-tomcat-status-test] in DispatcherServlet with name 'dispatcher'
+15-Dec-2018 09:41:36.199 WARNING [http-nio-8081-exec-85] org.springframework.web.servlet.DispatcherServlet.noHandlerFound No mapping found for HTTP request with URI [/netbeans-tomcat-status-test] in DispatcherServlet with name 'dispatcher'
+15-Dec-2018 09:41:36.208 WARNING [http-nio-8081-exec-84] org.springframework.web.servlet.DispatcherServlet.noHandlerFound No mapping found for HTTP request with URI [/netbeans-tomcat-status-test] in DispatcherServlet with name 'dispatcher'
+15-Dec-2018 09:41:36.278 INFO [http-nio-8081-exec-88] org.apache.catalina.core.StandardContext.reload Reloading Context with name [/MuaBanNha] has started
+15-Dec-2018 09:41:36.297 WARNING [http-nio-8081-exec-88] org.apache.catalina.loader.WebappClassLoaderBase.clearReferencesJdbc The web application [MuaBanNha] registered the JDBC driver [com.mysql.jdbc.Driver] but failed to unregister it when the web application was stopped. To prevent a memory leak, the JDBC Driver has been forcibly unregistered.
+15-Dec-2018 09:41:36.299 WARNING [http-nio-8081-exec-88] org.apache.catalina.loader.WebappClassLoaderBase.clearReferencesThreads The web application [MuaBanNha] appears to have started a thread named [MySQL Statement Cancellation Timer] but has failed to stop it. This is very likely to create a memory leak. Stack trace of thread:
+ java.lang.Object.wait(Native Method)
+ java.lang.Object.wait(Object.java:502)
+ java.util.TimerThread.mainLoop(Timer.java:526)
+ java.util.TimerThread.run(Timer.java:505)
+15-Dec-2018 09:41:36.929 INFO [http-nio-8081-exec-88] org.apache.jasper.servlet.TldScanner.scanJars At least one JAR was scanned for TLDs yet contained no TLDs. Enable debug logging for this logger for a complete list of JARs that were scanned but no TLDs were found in them. Skipping unneeded JARs during scanning can improve startup time and JSP compilation time.
+15-Dec-2018 09:41:36.975 INFO [http-nio-8081-exec-88] org.apache.catalina.core.StandardContext.reload Reloading Context with name [/MuaBanNha] is completed
+15-Dec-2018 09:41:37.368 WARNING [136] org.springframework.web.servlet.DispatcherServlet.noHandlerFound No mapping found for HTTP request with URI [/netbeans-tomcat-status-test] in DispatcherServlet with name 'dispatcher'
+15-Dec-2018 09:42:02.735 WARNING [145] org.springframework.web.servlet.DispatcherServlet.noHandlerFound No mapping found for HTTP request with URI [/netbeans-tomcat-status-test] in DispatcherServlet with name 'dispatcher'
+15-Dec-2018 09:42:02.758 WARNING [http-nio-8081-exec-90] org.springframework.web.servlet.DispatcherServlet.noHandlerFound No mapping found for HTTP request with URI [/netbeans-tomcat-status-test] in DispatcherServlet with name 'dispatcher'
+15-Dec-2018 09:42:02.764 WARNING [http-nio-8081-exec-87] org.springframework.web.servlet.DispatcherServlet.noHandlerFound No mapping found for HTTP request with URI [/netbeans-tomcat-status-test] in DispatcherServlet with name 'dispatcher'
+15-Dec-2018 09:42:02.813 INFO [http-nio-8081-exec-80] org.apache.catalina.core.StandardContext.reload Reloading Context with name [/MuaBanNha] has started
+15-Dec-2018 09:42:03.177 INFO [http-nio-8081-exec-80] org.apache.jasper.servlet.TldScanner.scanJars At least one JAR was scanned for TLDs yet contained no TLDs. Enable debug logging for this logger for a complete list of JARs that were scanned but no TLDs were found in them. Skipping unneeded JARs during scanning can improve startup time and JSP compilation time.
+15-Dec-2018 09:42:03.197 INFO [http-nio-8081-exec-80] org.apache.catalina.core.StandardContext.reload Reloading Context with name [/MuaBanNha] is completed
+15-Dec-2018 09:42:03.219 WARNING [http-nio-8081-exec-88] org.springframework.web.servlet.DispatcherServlet.noHandlerFound No mapping found for HTTP request with URI [/netbeans-tomcat-status-test] in DispatcherServlet with name 'dispatcher'
+15-Dec-2018 09:46:54.999 WARNING [http-nio-8081-exec-94] org.springframework.web.servlet.DispatcherServlet.noHandlerFound No mapping found for HTTP request with URI [/netbeans-tomcat-status-test] in DispatcherServlet with name 'dispatcher'
+15-Dec-2018 09:46:55.034 WARNING [http-nio-8081-exec-97] org.springframework.web.servlet.DispatcherServlet.noHandlerFound No mapping found for HTTP request with URI [/netbeans-tomcat-status-test] in DispatcherServlet with name 'dispatcher'
+15-Dec-2018 09:46:55.044 WARNING [http-nio-8081-exec-100] org.springframework.web.servlet.DispatcherServlet.noHandlerFound No mapping found for HTTP request with URI [/netbeans-tomcat-status-test] in DispatcherServlet with name 'dispatcher'
+15-Dec-2018 09:46:55.111 INFO [http-nio-8081-exec-93] org.apache.catalina.core.StandardContext.reload Reloading Context with name [/MuaBanNha] has started
+15-Dec-2018 09:46:55.124 WARNING [http-nio-8081-exec-93] org.apache.catalina.loader.WebappClassLoaderBase.clearReferencesJdbc The web application [MuaBanNha] registered the JDBC driver [com.mysql.jdbc.Driver] but failed to unregister it when the web application was stopped. To prevent a memory leak, the JDBC Driver has been forcibly unregistered.
+15-Dec-2018 09:46:55.125 WARNING [http-nio-8081-exec-93] org.apache.catalina.loader.WebappClassLoaderBase.clearReferencesThreads The web application [MuaBanNha] appears to have started a thread named [MySQL Statement Cancellation Timer] but has failed to stop it. This is very likely to create a memory leak. Stack trace of thread:
+ java.lang.Object.wait(Native Method)
+ java.lang.Object.wait(Object.java:502)
+ java.util.TimerThread.mainLoop(Timer.java:526)
+ java.util.TimerThread.run(Timer.java:505)
+15-Dec-2018 09:46:55.603 INFO [http-nio-8081-exec-93] org.apache.jasper.servlet.TldScanner.scanJars At least one JAR was scanned for TLDs yet contained no TLDs. Enable debug logging for this logger for a complete list of JARs that were scanned but no TLDs were found in them. Skipping unneeded JARs during scanning can improve startup time and JSP compilation time.
+15-Dec-2018 09:46:55.633 INFO [http-nio-8081-exec-93] org.apache.catalina.core.StandardContext.reload Reloading Context with name [/MuaBanNha] is completed
+15-Dec-2018 09:46:55.839 WARNING [http-nio-8081-exec-96] org.springframework.web.servlet.DispatcherServlet.noHandlerFound No mapping found for HTTP request with URI [/netbeans-tomcat-status-test] in DispatcherServlet with name 'dispatcher'
+15-Dec-2018 09:47:01.075 WARNING [166] org.springframework.web.servlet.DispatcherServlet.noHandlerFound No mapping found for HTTP request with URI [/netbeans-tomcat-status-test] in DispatcherServlet with name 'dispatcher'
+15-Dec-2018 09:47:01.088 WARNING [http-nio-8081-exec-95] org.springframework.web.servlet.DispatcherServlet.noHandlerFound No mapping found for HTTP request with URI [/netbeans-tomcat-status-test] in DispatcherServlet with name 'dispatcher'
+15-Dec-2018 09:47:01.121 WARNING [http-nio-8081-exec-76] org.springframework.web.servlet.DispatcherServlet.noHandlerFound No mapping found for HTTP request with URI [/netbeans-tomcat-status-test] in DispatcherServlet with name 'dispatcher'
+15-Dec-2018 09:47:01.195 INFO [http-nio-8081-exec-100] org.apache.catalina.core.StandardContext.reload Reloading Context with name [/MuaBanNha] has started
+15-Dec-2018 09:47:01.745 INFO [http-nio-8081-exec-100] org.apache.jasper.servlet.TldScanner.scanJars At least one JAR was scanned for TLDs yet contained no TLDs. Enable debug logging for this logger for a complete list of JARs that were scanned but no TLDs were found in them. Skipping unneeded JARs during scanning can improve startup time and JSP compilation time.
+15-Dec-2018 09:47:01.774 INFO [http-nio-8081-exec-100] org.apache.catalina.core.StandardContext.reload Reloading Context with name [/MuaBanNha] is completed
+15-Dec-2018 09:47:01.808 WARNING [http-nio-8081-exec-93] org.springframework.web.servlet.DispatcherServlet.noHandlerFound No mapping found for HTTP request with URI [/netbeans-tomcat-status-test] in DispatcherServlet with name 'dispatcher'
+15-Dec-2018 09:47:48.812 WARNING [http-nio-8081-exec-98] org.springframework.web.servlet.DispatcherServlet.noHandlerFound No mapping found for HTTP request with URI [/netbeans-tomcat-status-test] in DispatcherServlet with name 'dispatcher'
+15-Dec-2018 09:47:48.823 WARNING [http-nio-8081-exec-101] org.springframework.web.servlet.DispatcherServlet.noHandlerFound No mapping found for HTTP request with URI [/netbeans-tomcat-status-test] in DispatcherServlet with name 'dispatcher'
+15-Dec-2018 09:47:48.829 WARNING [http-nio-8081-exec-97] org.springframework.web.servlet.DispatcherServlet.noHandlerFound No mapping found for HTTP request with URI [/netbeans-tomcat-status-test] in DispatcherServlet with name 'dispatcher'
+15-Dec-2018 09:47:48.886 INFO [http-nio-8081-exec-102] org.apache.catalina.core.StandardContext.reload Reloading Context with name [/MuaBanNha] has started
+15-Dec-2018 09:47:49.204 INFO [http-nio-8081-exec-102] org.apache.jasper.servlet.TldScanner.scanJars At least one JAR was scanned for TLDs yet contained no TLDs. Enable debug logging for this logger for a complete list of JARs that were scanned but no TLDs were found in them. Skipping unneeded JARs during scanning can improve startup time and JSP compilation time.
+15-Dec-2018 09:47:49.218 INFO [http-nio-8081-exec-102] org.apache.catalina.core.StandardContext.reload Reloading Context with name [/MuaBanNha] is completed
+15-Dec-2018 09:47:49.221 WARNING [http-nio-8081-exec-99] org.springframework.web.servlet.DispatcherServlet.noHandlerFound No mapping found for HTTP request with URI [/netbeans-tomcat-status-test] in DispatcherServlet with name 'dispatcher'
+15-Dec-2018 09:51:36.580 WARNING [http-nio-8081-exec-97] org.springframework.web.servlet.DispatcherServlet.noHandlerFound No mapping found for HTTP request with URI [/netbeans-tomcat-status-test] in DispatcherServlet with name 'dispatcher'
+15-Dec-2018 09:51:36.590 WARNING [http-nio-8081-exec-101] org.springframework.web.servlet.DispatcherServlet.noHandlerFound No mapping found for HTTP request with URI [/netbeans-tomcat-status-test] in DispatcherServlet with name 'dispatcher'
+15-Dec-2018 09:51:36.608 WARNING [http-nio-8081-exec-76] org.springframework.web.servlet.DispatcherServlet.noHandlerFound No mapping found for HTTP request with URI [/netbeans-tomcat-status-test] in DispatcherServlet with name 'dispatcher'
+15-Dec-2018 09:51:36.655 INFO [http-nio-8081-exec-99] org.apache.catalina.core.StandardContext.reload Reloading Context with name [/MuaBanNha] has started
+15-Dec-2018 09:51:37.037 INFO [http-nio-8081-exec-99] org.apache.jasper.servlet.TldScanner.scanJars At least one JAR was scanned for TLDs yet contained no TLDs. Enable debug logging for this logger for a complete list of JARs that were scanned but no TLDs were found in them. Skipping unneeded JARs during scanning can improve startup time and JSP compilation time.
+15-Dec-2018 09:51:37.058 INFO [http-nio-8081-exec-99] org.apache.catalina.core.StandardContext.reload Reloading Context with name [/MuaBanNha] is completed
+15-Dec-2018 09:51:37.064 WARNING [http-nio-8081-exec-106] org.springframework.web.servlet.DispatcherServlet.noHandlerFound No mapping found for HTTP request with URI [/netbeans-tomcat-status-test] in DispatcherServlet with name 'dispatcher'
+15-Dec-2018 09:51:49.796 WARNING [http-nio-8081-exec-95] org.springframework.web.servlet.DispatcherServlet.noHandlerFound No mapping found for HTTP request with URI [/netbeans-tomcat-status-test] in DispatcherServlet with name 'dispatcher'
+15-Dec-2018 09:51:49.803 WARNING [http-nio-8081-exec-76] org.springframework.web.servlet.DispatcherServlet.noHandlerFound No mapping found for HTTP request with URI [/netbeans-tomcat-status-test] in DispatcherServlet with name 'dispatcher'
+15-Dec-2018 09:51:49.810 WARNING [http-nio-8081-exec-101] org.springframework.web.servlet.DispatcherServlet.noHandlerFound No mapping found for HTTP request with URI [/netbeans-tomcat-status-test] in DispatcherServlet with name 'dispatcher'
+15-Dec-2018 09:51:49.856 INFO [http-nio-8081-exec-108] org.apache.catalina.core.StandardContext.reload Reloading Context with name [/MuaBanNha] has started
+15-Dec-2018 09:51:50.171 INFO [http-nio-8081-exec-108] org.apache.jasper.servlet.TldScanner.scanJars At least one JAR was scanned for TLDs yet contained no TLDs. Enable debug logging for this logger for a complete list of JARs that were scanned but no TLDs were found in them. Skipping unneeded JARs during scanning can improve startup time and JSP compilation time.
+15-Dec-2018 09:51:50.195 INFO [http-nio-8081-exec-108] org.apache.catalina.core.StandardContext.reload Reloading Context with name [/MuaBanNha] is completed
+15-Dec-2018 09:51:50.199 WARNING [http-nio-8081-exec-105] org.springframework.web.servlet.DispatcherServlet.noHandlerFound No mapping found for HTTP request with URI [/netbeans-tomcat-status-test] in DispatcherServlet with name 'dispatcher'
+15-Dec-2018 09:51:56.790 WARNING [http-nio-8081-exec-106] org.springframework.web.servlet.DispatcherServlet.noHandlerFound No mapping found for HTTP request with URI [/netbeans-tomcat-status-test] in DispatcherServlet with name 'dispatcher'
+15-Dec-2018 09:51:56.797 WARNING [http-nio-8081-exec-101] org.springframework.web.servlet.DispatcherServlet.noHandlerFound No mapping found for HTTP request with URI [/netbeans-tomcat-status-test] in DispatcherServlet with name 'dispatcher'
+15-Dec-2018 09:51:56.804 WARNING [http-nio-8081-exec-76] org.springframework.web.servlet.DispatcherServlet.noHandlerFound No mapping found for HTTP request with URI [/netbeans-tomcat-status-test] in DispatcherServlet with name 'dispatcher'
+15-Dec-2018 09:51:56.852 INFO [http-nio-8081-exec-107] org.apache.catalina.core.StandardContext.reload Reloading Context with name [/MuaBanNha] has started
+15-Dec-2018 09:51:57.182 INFO [http-nio-8081-exec-107] org.apache.jasper.servlet.TldScanner.scanJars At least one JAR was scanned for TLDs yet contained no TLDs. Enable debug logging for this logger for a complete list of JARs that were scanned but no TLDs were found in them. Skipping unneeded JARs during scanning can improve startup time and JSP compilation time.
+15-Dec-2018 09:51:57.200 INFO [http-nio-8081-exec-107] org.apache.catalina.core.StandardContext.reload Reloading Context with name [/MuaBanNha] is completed
+15-Dec-2018 09:51:57.248 WARNING [http-nio-8081-exec-105] org.springframework.web.servlet.DispatcherServlet.noHandlerFound No mapping found for HTTP request with URI [/netbeans-tomcat-status-test] in DispatcherServlet with name 'dispatcher'
+15-Dec-2018 09:52:24.817 WARNING [189] org.springframework.web.servlet.DispatcherServlet.noHandlerFound No mapping found for HTTP request with URI [/netbeans-tomcat-status-test] in DispatcherServlet with name 'dispatcher'
+15-Dec-2018 09:52:24.830 WARNING [http-nio-8081-exec-99] org.springframework.web.servlet.DispatcherServlet.noHandlerFound No mapping found for HTTP request with URI [/netbeans-tomcat-status-test] in DispatcherServlet with name 'dispatcher'
+15-Dec-2018 09:52:24.839 WARNING [http-nio-8081-exec-108] org.springframework.web.servlet.DispatcherServlet.noHandlerFound No mapping found for HTTP request with URI [/netbeans-tomcat-status-test] in DispatcherServlet with name 'dispatcher'
+15-Dec-2018 09:52:24.906 INFO [http-nio-8081-exec-101] org.apache.catalina.core.StandardContext.reload Reloading Context with name [/MuaBanNha] has started
+15-Dec-2018 09:52:25.354 INFO [Finalizer] org.apache.catalina.loader.WebappClassLoaderBase.checkStateForResourceLoading Illegal access: this web application instance has been stopped already. Could not load [com.mysql.jdbc.profiler.ProfileEventSink]. The following stack trace is thrown for debugging purposes as well as to attempt to terminate the thread which caused the illegal access.
+ java.lang.IllegalStateException: Illegal access: this web application instance has been stopped already. Could not load [com.mysql.jdbc.profiler.ProfileEventSink]. The following stack trace is thrown for debugging purposes as well as to attempt to terminate the thread which caused the illegal access.
+	at org.apache.catalina.loader.WebappClassLoaderBase.checkStateForResourceLoading(WebappClassLoaderBase.java:1329)
+	at org.apache.catalina.loader.WebappClassLoaderBase.checkStateForClassLoading(WebappClassLoaderBase.java:1317)
+	at org.apache.catalina.loader.WebappClassLoaderBase.loadClass(WebappClassLoaderBase.java:1176)
+	at org.apache.catalina.loader.WebappClassLoaderBase.loadClass(WebappClassLoaderBase.java:1137)
+	at com.mysql.jdbc.ConnectionImpl.realClose(ConnectionImpl.java:4235)
+	at com.mysql.jdbc.ConnectionImpl.cleanup(ConnectionImpl.java:1257)
+	at com.mysql.jdbc.ConnectionImpl.finalize(ConnectionImpl.java:2663)
+	at java.lang.System$2.invokeFinalize(System.java:1270)
+	at java.lang.ref.Finalizer.runFinalizer(Finalizer.java:98)
+	at java.lang.ref.Finalizer.access$100(Finalizer.java:34)
+	at java.lang.ref.Finalizer$FinalizerThread.run(Finalizer.java:213)
+
+15-Dec-2018 09:52:25.359 INFO [Finalizer] org.apache.catalina.loader.WebappClassLoaderBase.checkStateForResourceLoading Illegal access: this web application instance has been stopped already. Could not load [com.mysql.jdbc.profiler.ProfileEventSink]. The following stack trace is thrown for debugging purposes as well as to attempt to terminate the thread which caused the illegal access.
+ java.lang.IllegalStateException: Illegal access: this web application instance has been stopped already. Could not load [com.mysql.jdbc.profiler.ProfileEventSink]. The following stack trace is thrown for debugging purposes as well as to attempt to terminate the thread which caused the illegal access.
+	at org.apache.catalina.loader.WebappClassLoaderBase.checkStateForResourceLoading(WebappClassLoaderBase.java:1329)
+	at org.apache.catalina.loader.WebappClassLoaderBase.checkStateForClassLoading(WebappClassLoaderBase.java:1317)
+	at org.apache.catalina.loader.WebappClassLoaderBase.loadClass(WebappClassLoaderBase.java:1176)
+	at org.apache.catalina.loader.WebappClassLoaderBase.loadClass(WebappClassLoaderBase.java:1137)
+	at com.mysql.jdbc.ConnectionImpl.realClose(ConnectionImpl.java:4235)
+	at com.mysql.jdbc.ConnectionImpl.cleanup(ConnectionImpl.java:1257)
+	at com.mysql.jdbc.ConnectionImpl.finalize(ConnectionImpl.java:2663)
+	at java.lang.System$2.invokeFinalize(System.java:1270)
+	at java.lang.ref.Finalizer.runFinalizer(Finalizer.java:98)
+	at java.lang.ref.Finalizer.access$100(Finalizer.java:34)
+	at java.lang.ref.Finalizer$FinalizerThread.run(Finalizer.java:213)
+
+15-Dec-2018 09:52:25.486 INFO [http-nio-8081-exec-101] org.apache.jasper.servlet.TldScanner.scanJars At least one JAR was scanned for TLDs yet contained no TLDs. Enable debug logging for this logger for a complete list of JARs that were scanned but no TLDs were found in them. Skipping unneeded JARs during scanning can improve startup time and JSP compilation time.
+15-Dec-2018 09:52:25.504 INFO [http-nio-8081-exec-101] org.apache.catalina.core.StandardContext.reload Reloading Context with name [/MuaBanNha] is completed
+15-Dec-2018 09:52:25.573 WARNING [http-nio-8081-exec-105] org.springframework.web.servlet.DispatcherServlet.noHandlerFound No mapping found for HTTP request with URI [/netbeans-tomcat-status-test] in DispatcherServlet with name 'dispatcher'
+15-Dec-2018 09:52:26.090 WARNING [http-nio-8081-exec-104] org.springframework.web.servlet.DispatcherServlet.noHandlerFound No mapping found for HTTP request with URI [/netbeans-tomcat-status-test] in DispatcherServlet with name 'dispatcher'
+15-Dec-2018 09:52:26.097 WARNING [http-nio-8081-exec-109] org.springframework.web.servlet.DispatcherServlet.noHandlerFound No mapping found for HTTP request with URI [/netbeans-tomcat-status-test] in DispatcherServlet with name 'dispatcher'
+15-Dec-2018 09:52:26.145 INFO [http-nio-8081-exec-76] org.apache.catalina.core.StandardContext.reload Reloading Context with name [/MuaBanNha] has started
+15-Dec-2018 09:52:26.504 INFO [http-nio-8081-exec-76] org.apache.jasper.servlet.TldScanner.scanJars At least one JAR was scanned for TLDs yet contained no TLDs. Enable debug logging for this logger for a complete list of JARs that were scanned but no TLDs were found in them. Skipping unneeded JARs during scanning can improve startup time and JSP compilation time.
+15-Dec-2018 09:52:26.517 INFO [http-nio-8081-exec-76] org.apache.catalina.core.StandardContext.reload Reloading Context with name [/MuaBanNha] is completed
+15-Dec-2018 09:52:26.520 WARNING [http-nio-8081-exec-104] org.springframework.web.servlet.DispatcherServlet.noHandlerFound No mapping found for HTTP request with URI [/netbeans-tomcat-status-test] in DispatcherServlet with name 'dispatcher'
+15-Dec-2018 09:52:33.035 WARNING [191] org.springframework.web.servlet.DispatcherServlet.noHandlerFound No mapping found for HTTP request with URI [/netbeans-tomcat-status-test] in DispatcherServlet with name 'dispatcher'
+15-Dec-2018 09:52:33.053 WARNING [http-nio-8081-exec-107] org.springframework.web.servlet.DispatcherServlet.noHandlerFound No mapping found for HTTP request with URI [/netbeans-tomcat-status-test] in DispatcherServlet with name 'dispatcher'
+15-Dec-2018 09:52:33.060 WARNING [http-nio-8081-exec-101] org.springframework.web.servlet.DispatcherServlet.noHandlerFound No mapping found for HTTP request with URI [/netbeans-tomcat-status-test] in DispatcherServlet with name 'dispatcher'
+15-Dec-2018 09:52:33.106 INFO [http-nio-8081-exec-102] org.apache.catalina.core.StandardContext.reload Reloading Context with name [/MuaBanNha] has started
+15-Dec-2018 09:52:33.418 INFO [http-nio-8081-exec-102] org.apache.jasper.servlet.TldScanner.scanJars At least one JAR was scanned for TLDs yet contained no TLDs. Enable debug logging for this logger for a complete list of JARs that were scanned but no TLDs were found in them. Skipping unneeded JARs during scanning can improve startup time and JSP compilation time.
+15-Dec-2018 09:52:33.430 INFO [http-nio-8081-exec-102] org.apache.catalina.core.StandardContext.reload Reloading Context with name [/MuaBanNha] is completed
+15-Dec-2018 09:52:33.434 WARNING [http-nio-8081-exec-113] org.springframework.web.servlet.DispatcherServlet.noHandlerFound No mapping found for HTTP request with URI [/netbeans-tomcat-status-test] in DispatcherServlet with name 'dispatcher'
+15-Dec-2018 09:52:33.442 WARNING [http-nio-8081-exec-105] org.springframework.web.servlet.DispatcherServlet.noHandlerFound No mapping found for HTTP request with URI [/netbeans-tomcat-status-test] in DispatcherServlet with name 'dispatcher'
+15-Dec-2018 09:52:33.448 WARNING [http-nio-8081-exec-111] org.springframework.web.servlet.DispatcherServlet.noHandlerFound No mapping found for HTTP request with URI [/netbeans-tomcat-status-test] in DispatcherServlet with name 'dispatcher'
+15-Dec-2018 09:52:33.478 INFO [http-nio-8081-exec-101] org.apache.catalina.core.StandardContext.reload Reloading Context with name [/MuaBanNha] has started
+15-Dec-2018 09:52:33.788 INFO [http-nio-8081-exec-101] org.apache.jasper.servlet.TldScanner.scanJars At least one JAR was scanned for TLDs yet contained no TLDs. Enable debug logging for this logger for a complete list of JARs that were scanned but no TLDs were found in them. Skipping unneeded JARs during scanning can improve startup time and JSP compilation time.
+15-Dec-2018 09:52:33.808 INFO [http-nio-8081-exec-101] org.apache.catalina.core.StandardContext.reload Reloading Context with name [/MuaBanNha] is completed
+15-Dec-2018 09:52:33.848 WARNING [http-nio-8081-exec-102] org.springframework.web.servlet.DispatcherServlet.noHandlerFound No mapping found for HTTP request with URI [/netbeans-tomcat-status-test] in DispatcherServlet with name 'dispatcher'
+15-Dec-2018 09:53:42.504 WARNING [http-nio-8081-exec-114] org.springframework.web.servlet.DispatcherServlet.noHandlerFound No mapping found for HTTP request with URI [/netbeans-tomcat-status-test] in DispatcherServlet with name 'dispatcher'
+15-Dec-2018 09:53:42.511 WARNING [http-nio-8081-exec-76] org.springframework.web.servlet.DispatcherServlet.noHandlerFound No mapping found for HTTP request with URI [/netbeans-tomcat-status-test] in DispatcherServlet with name 'dispatcher'
+15-Dec-2018 09:53:42.516 WARNING [http-nio-8081-exec-102] org.springframework.web.servlet.DispatcherServlet.noHandlerFound No mapping found for HTTP request with URI [/netbeans-tomcat-status-test] in DispatcherServlet with name 'dispatcher'
+15-Dec-2018 09:53:42.563 INFO [http-nio-8081-exec-115] org.apache.catalina.core.StandardContext.reload Reloading Context with name [/MuaBanNha] has started
+15-Dec-2018 09:53:42.836 INFO [http-nio-8081-exec-115] org.apache.jasper.servlet.TldScanner.scanJars At least one JAR was scanned for TLDs yet contained no TLDs. Enable debug logging for this logger for a complete list of JARs that were scanned but no TLDs were found in them. Skipping unneeded JARs during scanning can improve startup time and JSP compilation time.
+15-Dec-2018 09:53:42.851 INFO [http-nio-8081-exec-115] org.apache.catalina.core.StandardContext.reload Reloading Context with name [/MuaBanNha] is completed
+15-Dec-2018 09:53:42.857 WARNING [http-nio-8081-exec-105] org.springframework.web.servlet.DispatcherServlet.noHandlerFound No mapping found for HTTP request with URI [/netbeans-tomcat-status-test] in DispatcherServlet with name 'dispatcher'
+15-Dec-2018 09:54:49.036 WARNING [http-nio-8081-exec-101] org.springframework.web.servlet.DispatcherServlet.noHandlerFound No mapping found for HTTP request with URI [/netbeans-tomcat-status-test] in DispatcherServlet with name 'dispatcher'
+15-Dec-2018 09:54:49.043 WARNING [http-nio-8081-exec-113] org.springframework.web.servlet.DispatcherServlet.noHandlerFound No mapping found for HTTP request with URI [/netbeans-tomcat-status-test] in DispatcherServlet with name 'dispatcher'
+15-Dec-2018 09:54:49.053 WARNING [http-nio-8081-exec-105] org.springframework.web.servlet.DispatcherServlet.noHandlerFound No mapping found for HTTP request with URI [/netbeans-tomcat-status-test] in DispatcherServlet with name 'dispatcher'
+15-Dec-2018 09:54:49.105 INFO [http-nio-8081-exec-109] org.apache.catalina.core.StandardContext.reload Reloading Context with name [/MuaBanNha] has started
+15-Dec-2018 09:54:49.510 INFO [http-nio-8081-exec-109] org.apache.jasper.servlet.TldScanner.scanJars At least one JAR was scanned for TLDs yet contained no TLDs. Enable debug logging for this logger for a complete list of JARs that were scanned but no TLDs were found in them. Skipping unneeded JARs during scanning can improve startup time and JSP compilation time.
+15-Dec-2018 09:54:49.537 INFO [http-nio-8081-exec-109] org.apache.catalina.core.StandardContext.reload Reloading Context with name [/MuaBanNha] is completed
+15-Dec-2018 09:54:49.552 WARNING [http-nio-8081-exec-105] org.springframework.web.servlet.DispatcherServlet.noHandlerFound No mapping found for HTTP request with URI [/netbeans-tomcat-status-test] in DispatcherServlet with name 'dispatcher'
+15-Dec-2018 09:54:58.826 WARNING [http-nio-8081-exec-76] org.springframework.web.servlet.DispatcherServlet.noHandlerFound No mapping found for HTTP request with URI [/netbeans-tomcat-status-test] in DispatcherServlet with name 'dispatcher'
+15-Dec-2018 09:54:58.832 WARNING [http-nio-8081-exec-117] org.springframework.web.servlet.DispatcherServlet.noHandlerFound No mapping found for HTTP request with URI [/netbeans-tomcat-status-test] in DispatcherServlet with name 'dispatcher'
+15-Dec-2018 09:54:58.839 WARNING [http-nio-8081-exec-105] org.springframework.web.servlet.DispatcherServlet.noHandlerFound No mapping found for HTTP request with URI [/netbeans-tomcat-status-test] in DispatcherServlet with name 'dispatcher'
+15-Dec-2018 09:54:58.881 INFO [http-nio-8081-exec-102] org.apache.catalina.core.StandardContext.reload Reloading Context with name [/MuaBanNha] has started
+15-Dec-2018 09:54:59.228 INFO [http-nio-8081-exec-102] org.apache.jasper.servlet.TldScanner.scanJars At least one JAR was scanned for TLDs yet contained no TLDs. Enable debug logging for this logger for a complete list of JARs that were scanned but no TLDs were found in them. Skipping unneeded JARs during scanning can improve startup time and JSP compilation time.
+15-Dec-2018 09:54:59.244 INFO [http-nio-8081-exec-102] org.apache.catalina.core.StandardContext.reload Reloading Context with name [/MuaBanNha] is completed
+15-Dec-2018 09:54:59.250 WARNING [http-nio-8081-exec-105] org.springframework.web.servlet.DispatcherServlet.noHandlerFound No mapping found for HTTP request with URI [/netbeans-tomcat-status-test] in DispatcherServlet with name 'dispatcher'
+15-Dec-2018 09:55:03.292 WARNING [187] org.springframework.web.servlet.DispatcherServlet.noHandlerFound No mapping found for HTTP request with URI [/netbeans-tomcat-status-test] in DispatcherServlet with name 'dispatcher'
+15-Dec-2018 09:55:03.299 WARNING [http-nio-8081-exec-116] org.springframework.web.servlet.DispatcherServlet.noHandlerFound No mapping found for HTTP request with URI [/netbeans-tomcat-status-test] in DispatcherServlet with name 'dispatcher'
+15-Dec-2018 09:55:03.306 WARNING [http-nio-8081-exec-115] org.springframework.web.servlet.DispatcherServlet.noHandlerFound No mapping found for HTTP request with URI [/netbeans-tomcat-status-test] in DispatcherServlet with name 'dispatcher'
+15-Dec-2018 09:55:03.358 INFO [http-nio-8081-exec-117] org.apache.catalina.core.StandardContext.reload Reloading Context with name [/MuaBanNha] has started
+15-Dec-2018 09:55:04.161 INFO [http-nio-8081-exec-117] org.apache.jasper.servlet.TldScanner.scanJars At least one JAR was scanned for TLDs yet contained no TLDs. Enable debug logging for this logger for a complete list of JARs that were scanned but no TLDs were found in them. Skipping unneeded JARs during scanning can improve startup time and JSP compilation time.
+15-Dec-2018 09:55:04.235 INFO [http-nio-8081-exec-117] org.apache.catalina.core.StandardContext.reload Reloading Context with name [/MuaBanNha] is completed
+15-Dec-2018 09:55:04.246 WARNING [http-nio-8081-exec-114] org.springframework.web.servlet.DispatcherServlet.noHandlerFound No mapping found for HTTP request with URI [/netbeans-tomcat-status-test] in DispatcherServlet with name 'dispatcher'
+15-Dec-2018 09:55:06.560 WARNING [http-nio-8081-exec-118] org.springframework.web.servlet.DispatcherServlet.noHandlerFound No mapping found for HTTP request with URI [/netbeans-tomcat-status-test] in DispatcherServlet with name 'dispatcher'
+15-Dec-2018 09:55:06.567 WARNING [http-nio-8081-exec-102] org.springframework.web.servlet.DispatcherServlet.noHandlerFound No mapping found for HTTP request with URI [/netbeans-tomcat-status-test] in DispatcherServlet with name 'dispatcher'
+15-Dec-2018 09:55:06.573 WARNING [http-nio-8081-exec-114] org.springframework.web.servlet.DispatcherServlet.noHandlerFound No mapping found for HTTP request with URI [/netbeans-tomcat-status-test] in DispatcherServlet with name 'dispatcher'
+15-Dec-2018 09:55:06.607 INFO [http-nio-8081-exec-109] org.apache.catalina.core.StandardContext.reload Reloading Context with name [/MuaBanNha] has started
+15-Dec-2018 09:55:06.912 INFO [http-nio-8081-exec-109] org.apache.jasper.servlet.TldScanner.scanJars At least one JAR was scanned for TLDs yet contained no TLDs. Enable debug logging for this logger for a complete list of JARs that were scanned but no TLDs were found in them. Skipping unneeded JARs during scanning can improve startup time and JSP compilation time.
+15-Dec-2018 09:55:06.932 INFO [http-nio-8081-exec-109] org.apache.catalina.core.StandardContext.reload Reloading Context with name [/MuaBanNha] is completed
+15-Dec-2018 09:55:06.944 WARNING [http-nio-8081-exec-119] org.springframework.web.servlet.DispatcherServlet.noHandlerFound No mapping found for HTTP request with URI [/netbeans-tomcat-status-test] in DispatcherServlet with name 'dispatcher'
+15-Dec-2018 09:55:09.197 WARNING [http-nio-8081-exec-115] org.springframework.web.servlet.DispatcherServlet.noHandlerFound No mapping found for HTTP request with URI [/netbeans-tomcat-status-test] in DispatcherServlet with name 'dispatcher'
+15-Dec-2018 09:55:09.203 WARNING [http-nio-8081-exec-116] org.springframework.web.servlet.DispatcherServlet.noHandlerFound No mapping found for HTTP request with URI [/netbeans-tomcat-status-test] in DispatcherServlet with name 'dispatcher'
+15-Dec-2018 09:55:09.215 WARNING [http-nio-8081-exec-105] org.springframework.web.servlet.DispatcherServlet.noHandlerFound No mapping found for HTTP request with URI [/netbeans-tomcat-status-test] in DispatcherServlet with name 'dispatcher'
+15-Dec-2018 09:55:09.291 INFO [http-nio-8081-exec-120] org.apache.catalina.core.StandardContext.reload Reloading Context with name [/MuaBanNha] has started
+15-Dec-2018 09:55:09.741 INFO [http-nio-8081-exec-120] org.apache.jasper.servlet.TldScanner.scanJars At least one JAR was scanned for TLDs yet contained no TLDs. Enable debug logging for this logger for a complete list of JARs that were scanned but no TLDs were found in them. Skipping unneeded JARs during scanning can improve startup time and JSP compilation time.
+15-Dec-2018 09:55:09.759 INFO [http-nio-8081-exec-120] org.apache.catalina.core.StandardContext.reload Reloading Context with name [/MuaBanNha] is completed
+15-Dec-2018 09:55:09.769 WARNING [http-nio-8081-exec-102] org.springframework.web.servlet.DispatcherServlet.noHandlerFound No mapping found for HTTP request with URI [/netbeans-tomcat-status-test] in DispatcherServlet with name 'dispatcher'
+15-Dec-2018 09:55:24.075 WARNING [197] org.springframework.web.servlet.DispatcherServlet.noHandlerFound No mapping found for HTTP request with URI [/netbeans-tomcat-status-test] in DispatcherServlet with name 'dispatcher'
+15-Dec-2018 09:55:24.088 WARNING [http-nio-8081-exec-109] org.springframework.web.servlet.DispatcherServlet.noHandlerFound No mapping found for HTTP request with URI [/netbeans-tomcat-status-test] in DispatcherServlet with name 'dispatcher'
+15-Dec-2018 09:55:24.098 WARNING [http-nio-8081-exec-102] org.springframework.web.servlet.DispatcherServlet.noHandlerFound No mapping found for HTTP request with URI [/netbeans-tomcat-status-test] in DispatcherServlet with name 'dispatcher'
+15-Dec-2018 09:55:24.179 INFO [http-nio-8081-exec-113] org.apache.catalina.core.StandardContext.reload Reloading Context with name [/MuaBanNha] has started
+15-Dec-2018 09:55:24.597 INFO [http-nio-8081-exec-113] org.apache.jasper.servlet.TldScanner.scanJars At least one JAR was scanned for TLDs yet contained no TLDs. Enable debug logging for this logger for a complete list of JARs that were scanned but no TLDs were found in them. Skipping unneeded JARs during scanning can improve startup time and JSP compilation time.
+15-Dec-2018 09:55:24.614 INFO [http-nio-8081-exec-113] org.apache.catalina.core.StandardContext.reload Reloading Context with name [/MuaBanNha] is completed
+15-Dec-2018 09:55:24.619 WARNING [http-nio-8081-exec-105] org.springframework.web.servlet.DispatcherServlet.noHandlerFound No mapping found for HTTP request with URI [/netbeans-tomcat-status-test] in DispatcherServlet with name 'dispatcher'
+15-Dec-2018 09:55:38.912 WARNING [http-nio-8081-exec-119] org.springframework.web.servlet.DispatcherServlet.noHandlerFound No mapping found for HTTP request with URI [/netbeans-tomcat-status-test] in DispatcherServlet with name 'dispatcher'
+15-Dec-2018 09:55:38.922 WARNING [http-nio-8081-exec-117] org.springframework.web.servlet.DispatcherServlet.noHandlerFound No mapping found for HTTP request with URI [/netbeans-tomcat-status-test] in DispatcherServlet with name 'dispatcher'
+15-Dec-2018 09:55:38.931 WARNING [http-nio-8081-exec-122] org.springframework.web.servlet.DispatcherServlet.noHandlerFound No mapping found for HTTP request with URI [/netbeans-tomcat-status-test] in DispatcherServlet with name 'dispatcher'
+15-Dec-2018 09:55:38.986 INFO [http-nio-8081-exec-102] org.apache.catalina.core.StandardContext.reload Reloading Context with name [/MuaBanNha] has started
+15-Dec-2018 09:55:39.374 INFO [http-nio-8081-exec-102] org.apache.jasper.servlet.TldScanner.scanJars At least one JAR was scanned for TLDs yet contained no TLDs. Enable debug logging for this logger for a complete list of JARs that were scanned but no TLDs were found in them. Skipping unneeded JARs during scanning can improve startup time and JSP compilation time.
+15-Dec-2018 09:55:39.393 INFO [http-nio-8081-exec-102] org.apache.catalina.core.StandardContext.reload Reloading Context with name [/MuaBanNha] is completed
+15-Dec-2018 09:55:39.407 WARNING [http-nio-8081-exec-105] org.springframework.web.servlet.DispatcherServlet.noHandlerFound No mapping found for HTTP request with URI [/netbeans-tomcat-status-test] in DispatcherServlet with name 'dispatcher'
+15-Dec-2018 09:55:49.191 WARNING [http-nio-8081-exec-109] org.springframework.web.servlet.DispatcherServlet.noHandlerFound No mapping found for HTTP request with URI [/netbeans-tomcat-status-test] in DispatcherServlet with name 'dispatcher'
+15-Dec-2018 09:55:49.197 WARNING [http-nio-8081-exec-117] org.springframework.web.servlet.DispatcherServlet.noHandlerFound No mapping found for HTTP request with URI [/netbeans-tomcat-status-test] in DispatcherServlet with name 'dispatcher'
+15-Dec-2018 09:55:49.204 WARNING [http-nio-8081-exec-114] org.springframework.web.servlet.DispatcherServlet.noHandlerFound No mapping found for HTTP request with URI [/netbeans-tomcat-status-test] in DispatcherServlet with name 'dispatcher'
+15-Dec-2018 09:55:49.262 INFO [http-nio-8081-exec-122] org.apache.catalina.core.StandardContext.reload Reloading Context with name [/MuaBanNha] has started
+15-Dec-2018 09:55:49.584 INFO [http-nio-8081-exec-122] org.apache.jasper.servlet.TldScanner.scanJars At least one JAR was scanned for TLDs yet contained no TLDs. Enable debug logging for this logger for a complete list of JARs that were scanned but no TLDs were found in them. Skipping unneeded JARs during scanning can improve startup time and JSP compilation time.
+15-Dec-2018 09:55:49.602 INFO [http-nio-8081-exec-122] org.apache.catalina.core.StandardContext.reload Reloading Context with name [/MuaBanNha] is completed
+15-Dec-2018 09:55:49.613 WARNING [http-nio-8081-exec-105] org.springframework.web.servlet.DispatcherServlet.noHandlerFound No mapping found for HTTP request with URI [/netbeans-tomcat-status-test] in DispatcherServlet with name 'dispatcher'
+15-Dec-2018 09:55:54.407 WARNING [http-nio-8081-exec-114] org.springframework.web.servlet.DispatcherServlet.noHandlerFound No mapping found for HTTP request with URI [/netbeans-tomcat-status-test] in DispatcherServlet with name 'dispatcher'
+15-Dec-2018 09:55:54.421 WARNING [http-nio-8081-exec-120] org.springframework.web.servlet.DispatcherServlet.noHandlerFound No mapping found for HTTP request with URI [/netbeans-tomcat-status-test] in DispatcherServlet with name 'dispatcher'
+15-Dec-2018 09:55:54.430 WARNING [http-nio-8081-exec-123] org.springframework.web.servlet.DispatcherServlet.noHandlerFound No mapping found for HTTP request with URI [/netbeans-tomcat-status-test] in DispatcherServlet with name 'dispatcher'
+15-Dec-2018 09:55:54.489 INFO [http-nio-8081-exec-117] org.apache.catalina.core.StandardContext.reload Reloading Context with name [/MuaBanNha] has started
+15-Dec-2018 09:55:54.966 INFO [http-nio-8081-exec-117] org.apache.jasper.servlet.TldScanner.scanJars At least one JAR was scanned for TLDs yet contained no TLDs. Enable debug logging for this logger for a complete list of JARs that were scanned but no TLDs were found in them. Skipping unneeded JARs during scanning can improve startup time and JSP compilation time.
+15-Dec-2018 09:55:54.996 INFO [http-nio-8081-exec-117] org.apache.catalina.core.StandardContext.reload Reloading Context with name [/MuaBanNha] is completed
+15-Dec-2018 09:55:55.016 WARNING [http-nio-8081-exec-113] org.springframework.web.servlet.DispatcherServlet.noHandlerFound No mapping found for HTTP request with URI [/netbeans-tomcat-status-test] in DispatcherServlet with name 'dispatcher'
+15-Dec-2018 09:56:13.385 WARNING [178] org.springframework.web.servlet.DispatcherServlet.noHandlerFound No mapping found for HTTP request with URI [/netbeans-tomcat-status-test] in DispatcherServlet with name 'dispatcher'
+15-Dec-2018 09:56:13.394 WARNING [http-nio-8081-exec-122] org.springframework.web.servlet.DispatcherServlet.noHandlerFound No mapping found for HTTP request with URI [/netbeans-tomcat-status-test] in DispatcherServlet with name 'dispatcher'
+15-Dec-2018 09:56:13.412 WARNING [http-nio-8081-exec-120] org.springframework.web.servlet.DispatcherServlet.noHandlerFound No mapping found for HTTP request with URI [/netbeans-tomcat-status-test] in DispatcherServlet with name 'dispatcher'
+15-Dec-2018 09:56:13.458 INFO [http-nio-8081-exec-105] org.apache.catalina.core.StandardContext.reload Reloading Context with name [/MuaBanNha] has started
+15-Dec-2018 09:56:13.758 INFO [http-nio-8081-exec-105] org.apache.jasper.servlet.TldScanner.scanJars At least one JAR was scanned for TLDs yet contained no TLDs. Enable debug logging for this logger for a complete list of JARs that were scanned but no TLDs were found in them. Skipping unneeded JARs during scanning can improve startup time and JSP compilation time.
+15-Dec-2018 09:56:13.771 INFO [http-nio-8081-exec-105] org.apache.catalina.core.StandardContext.reload Reloading Context with name [/MuaBanNha] is completed
+15-Dec-2018 09:56:13.776 WARNING [http-nio-8081-exec-126] org.springframework.web.servlet.DispatcherServlet.noHandlerFound No mapping found for HTTP request with URI [/netbeans-tomcat-status-test] in DispatcherServlet with name 'dispatcher'
+15-Dec-2018 09:56:57.860 WARNING [http-nio-8081-exec-124] org.springframework.web.servlet.DispatcherServlet.noHandlerFound No mapping found for HTTP request with URI [/netbeans-tomcat-status-test] in DispatcherServlet with name 'dispatcher'
+15-Dec-2018 09:56:57.868 WARNING [http-nio-8081-exec-120] org.springframework.web.servlet.DispatcherServlet.noHandlerFound No mapping found for HTTP request with URI [/netbeans-tomcat-status-test] in DispatcherServlet with name 'dispatcher'
+15-Dec-2018 09:56:57.873 WARNING [http-nio-8081-exec-122] org.springframework.web.servlet.DispatcherServlet.noHandlerFound No mapping found for HTTP request with URI [/netbeans-tomcat-status-test] in DispatcherServlet with name 'dispatcher'
+15-Dec-2018 09:56:57.918 INFO [http-nio-8081-exec-117] org.apache.catalina.core.StandardContext.reload Reloading Context with name [/MuaBanNha] has started
+15-Dec-2018 09:56:58.246 INFO [http-nio-8081-exec-117] org.apache.jasper.servlet.TldScanner.scanJars At least one JAR was scanned for TLDs yet contained no TLDs. Enable debug logging for this logger for a complete list of JARs that were scanned but no TLDs were found in them. Skipping unneeded JARs during scanning can improve startup time and JSP compilation time.
+15-Dec-2018 09:56:58.259 INFO [http-nio-8081-exec-117] org.apache.catalina.core.StandardContext.reload Reloading Context with name [/MuaBanNha] is completed
+15-Dec-2018 09:56:58.263 WARNING [http-nio-8081-exec-121] org.springframework.web.servlet.DispatcherServlet.noHandlerFound No mapping found for HTTP request with URI [/netbeans-tomcat-status-test] in DispatcherServlet with name 'dispatcher'
+15-Dec-2018 09:57:12.833 WARNING [http-nio-8081-exec-126] org.springframework.web.servlet.DispatcherServlet.noHandlerFound No mapping found for HTTP request with URI [/netbeans-tomcat-status-test] in DispatcherServlet with name 'dispatcher'
+15-Dec-2018 09:57:12.840 WARNING [http-nio-8081-exec-127] org.springframework.web.servlet.DispatcherServlet.noHandlerFound No mapping found for HTTP request with URI [/netbeans-tomcat-status-test] in DispatcherServlet with name 'dispatcher'
+15-Dec-2018 09:57:12.848 WARNING [http-nio-8081-exec-120] org.springframework.web.servlet.DispatcherServlet.noHandlerFound No mapping found for HTTP request with URI [/netbeans-tomcat-status-test] in DispatcherServlet with name 'dispatcher'
+15-Dec-2018 09:57:12.924 INFO [http-nio-8081-exec-113] org.apache.catalina.core.StandardContext.reload Reloading Context with name [/MuaBanNha] has started
+15-Dec-2018 09:57:13.319 INFO [http-nio-8081-exec-113] org.apache.jasper.servlet.TldScanner.scanJars At least one JAR was scanned for TLDs yet contained no TLDs. Enable debug logging for this logger for a complete list of JARs that were scanned but no TLDs were found in them. Skipping unneeded JARs during scanning can improve startup time and JSP compilation time.
+15-Dec-2018 09:57:13.330 INFO [http-nio-8081-exec-113] org.apache.catalina.core.StandardContext.reload Reloading Context with name [/MuaBanNha] is completed
+15-Dec-2018 09:57:13.345 WARNING [http-nio-8081-exec-117] org.springframework.web.servlet.DispatcherServlet.noHandlerFound No mapping found for HTTP request with URI [/netbeans-tomcat-status-test] in DispatcherServlet with name 'dispatcher'
+15-Dec-2018 09:57:24.527 WARNING [http-nio-8081-exec-120] org.springframework.web.servlet.DispatcherServlet.noHandlerFound No mapping found for HTTP request with URI [/netbeans-tomcat-status-test] in DispatcherServlet with name 'dispatcher'
+15-Dec-2018 09:57:24.534 WARNING [http-nio-8081-exec-127] org.springframework.web.servlet.DispatcherServlet.noHandlerFound No mapping found for HTTP request with URI [/netbeans-tomcat-status-test] in DispatcherServlet with name 'dispatcher'
+15-Dec-2018 09:57:24.541 WARNING [http-nio-8081-exec-121] org.springframework.web.servlet.DispatcherServlet.noHandlerFound No mapping found for HTTP request with URI [/netbeans-tomcat-status-test] in DispatcherServlet with name 'dispatcher'
+15-Dec-2018 09:57:24.588 INFO [http-nio-8081-exec-122] org.apache.catalina.core.StandardContext.reload Reloading Context with name [/MuaBanNha] has started
+15-Dec-2018 09:57:25.008 INFO [http-nio-8081-exec-122] org.apache.jasper.servlet.TldScanner.scanJars At least one JAR was scanned for TLDs yet contained no TLDs. Enable debug logging for this logger for a complete list of JARs that were scanned but no TLDs were found in them. Skipping unneeded JARs during scanning can improve startup time and JSP compilation time.
+15-Dec-2018 09:57:25.025 INFO [http-nio-8081-exec-122] org.apache.catalina.core.StandardContext.reload Reloading Context with name [/MuaBanNha] is completed
+15-Dec-2018 09:57:25.029 WARNING [http-nio-8081-exec-117] org.springframework.web.servlet.DispatcherServlet.noHandlerFound No mapping found for HTTP request with URI [/netbeans-tomcat-status-test] in DispatcherServlet with name 'dispatcher'
+15-Dec-2018 09:57:27.980 WARNING [http-nio-8081-exec-129] org.springframework.web.servlet.DispatcherServlet.noHandlerFound No mapping found for HTTP request with URI [/netbeans-tomcat-status-test] in DispatcherServlet with name 'dispatcher'
+15-Dec-2018 09:57:27.987 WARNING [http-nio-8081-exec-123] org.springframework.web.servlet.DispatcherServlet.noHandlerFound No mapping found for HTTP request with URI [/netbeans-tomcat-status-test] in DispatcherServlet with name 'dispatcher'
+15-Dec-2018 09:57:27.993 WARNING [http-nio-8081-exec-121] org.springframework.web.servlet.DispatcherServlet.noHandlerFound No mapping found for HTTP request with URI [/netbeans-tomcat-status-test] in DispatcherServlet with name 'dispatcher'
+15-Dec-2018 09:57:28.030 INFO [http-nio-8081-exec-105] org.apache.catalina.core.StandardContext.reload Reloading Context with name [/MuaBanNha] has started
+15-Dec-2018 09:57:28.359 INFO [http-nio-8081-exec-105] org.apache.jasper.servlet.TldScanner.scanJars At least one JAR was scanned for TLDs yet contained no TLDs. Enable debug logging for this logger for a complete list of JARs that were scanned but no TLDs were found in them. Skipping unneeded JARs during scanning can improve startup time and JSP compilation time.
+15-Dec-2018 09:57:28.375 INFO [http-nio-8081-exec-105] org.apache.catalina.core.StandardContext.reload Reloading Context with name [/MuaBanNha] is completed
+15-Dec-2018 09:57:28.415 WARNING [http-nio-8081-exec-117] org.springframework.web.servlet.DispatcherServlet.noHandlerFound No mapping found for HTTP request with URI [/netbeans-tomcat-status-test] in DispatcherServlet with name 'dispatcher'
+15-Dec-2018 09:58:00.977 WARNING [http-nio-8081-exec-122] org.springframework.web.servlet.DispatcherServlet.noHandlerFound No mapping found for HTTP request with URI [/netbeans-tomcat-status-test] in DispatcherServlet with name 'dispatcher'
+15-Dec-2018 09:58:00.984 WARNING [http-nio-8081-exec-127] org.springframework.web.servlet.DispatcherServlet.noHandlerFound No mapping found for HTTP request with URI [/netbeans-tomcat-status-test] in DispatcherServlet with name 'dispatcher'
+15-Dec-2018 09:58:00.990 WARNING [http-nio-8081-exec-121] org.springframework.web.servlet.DispatcherServlet.noHandlerFound No mapping found for HTTP request with URI [/netbeans-tomcat-status-test] in DispatcherServlet with name 'dispatcher'
+15-Dec-2018 09:58:01.036 INFO [http-nio-8081-exec-130] org.apache.catalina.core.StandardContext.reload Reloading Context with name [/MuaBanNha] has started
+15-Dec-2018 09:58:01.324 INFO [http-nio-8081-exec-130] org.apache.jasper.servlet.TldScanner.scanJars At least one JAR was scanned for TLDs yet contained no TLDs. Enable debug logging for this logger for a complete list of JARs that were scanned but no TLDs were found in them. Skipping unneeded JARs during scanning can improve startup time and JSP compilation time.
+15-Dec-2018 09:58:01.350 INFO [http-nio-8081-exec-130] org.apache.catalina.core.StandardContext.reload Reloading Context with name [/MuaBanNha] is completed
+15-Dec-2018 09:58:01.443 WARNING [http-nio-8081-exec-105] org.springframework.web.servlet.DispatcherServlet.noHandlerFound No mapping found for HTTP request with URI [/netbeans-tomcat-status-test] in DispatcherServlet with name 'dispatcher'
+15-Dec-2018 09:58:20.874 WARNING [http-nio-8081-exec-127] org.springframework.web.servlet.DispatcherServlet.noHandlerFound No mapping found for HTTP request with URI [/netbeans-tomcat-status-test] in DispatcherServlet with name 'dispatcher'
+15-Dec-2018 09:58:20.899 WARNING [http-nio-8081-exec-128] org.springframework.web.servlet.DispatcherServlet.noHandlerFound No mapping found for HTTP request with URI [/netbeans-tomcat-status-test] in DispatcherServlet with name 'dispatcher'
+15-Dec-2018 09:58:20.906 WARNING [http-nio-8081-exec-113] org.springframework.web.servlet.DispatcherServlet.noHandlerFound No mapping found for HTTP request with URI [/netbeans-tomcat-status-test] in DispatcherServlet with name 'dispatcher'
+15-Dec-2018 09:58:20.944 INFO [http-nio-8081-exec-125] org.apache.catalina.core.StandardContext.reload Reloading Context with name [/MuaBanNha] has started
+15-Dec-2018 09:58:21.217 INFO [http-nio-8081-exec-125] org.apache.jasper.servlet.TldScanner.scanJars At least one JAR was scanned for TLDs yet contained no TLDs. Enable debug logging for this logger for a complete list of JARs that were scanned but no TLDs were found in them. Skipping unneeded JARs during scanning can improve startup time and JSP compilation time.
+15-Dec-2018 09:58:21.231 INFO [http-nio-8081-exec-125] org.apache.catalina.core.StandardContext.reload Reloading Context with name [/MuaBanNha] is completed
+15-Dec-2018 09:58:21.234 WARNING [http-nio-8081-exec-105] org.springframework.web.servlet.DispatcherServlet.noHandlerFound No mapping found for HTTP request with URI [/netbeans-tomcat-status-test] in DispatcherServlet with name 'dispatcher'
+15-Dec-2018 09:58:21.239 WARNING [http-nio-8081-exec-123] org.springframework.web.servlet.DispatcherServlet.noHandlerFound No mapping found for HTTP request with URI [/netbeans-tomcat-status-test] in DispatcherServlet with name 'dispatcher'
+15-Dec-2018 09:58:21.245 WARNING [http-nio-8081-exec-132] org.springframework.web.servlet.DispatcherServlet.noHandlerFound No mapping found for HTTP request with URI [/netbeans-tomcat-status-test] in DispatcherServlet with name 'dispatcher'
+15-Dec-2018 09:58:21.285 INFO [http-nio-8081-exec-131] org.apache.catalina.core.StandardContext.reload Reloading Context with name [/MuaBanNha] has started
+15-Dec-2018 09:58:21.560 INFO [http-nio-8081-exec-131] org.apache.jasper.servlet.TldScanner.scanJars At least one JAR was scanned for TLDs yet contained no TLDs. Enable debug logging for this logger for a complete list of JARs that were scanned but no TLDs were found in them. Skipping unneeded JARs during scanning can improve startup time and JSP compilation time.
+15-Dec-2018 09:58:21.575 INFO [http-nio-8081-exec-131] org.apache.catalina.core.StandardContext.reload Reloading Context with name [/MuaBanNha] is completed
+15-Dec-2018 09:58:21.580 WARNING [http-nio-8081-exec-105] org.springframework.web.servlet.DispatcherServlet.noHandlerFound No mapping found for HTTP request with URI [/netbeans-tomcat-status-test] in DispatcherServlet with name 'dispatcher'
+15-Dec-2018 09:58:32.393 WARNING [http-nio-8081-exec-130] org.springframework.web.servlet.DispatcherServlet.noHandlerFound No mapping found for HTTP request with URI [/netbeans-tomcat-status-test] in DispatcherServlet with name 'dispatcher'
+15-Dec-2018 09:58:32.400 WARNING [http-nio-8081-exec-121] org.springframework.web.servlet.DispatcherServlet.noHandlerFound No mapping found for HTTP request with URI [/netbeans-tomcat-status-test] in DispatcherServlet with name 'dispatcher'
+15-Dec-2018 09:58:32.407 WARNING [http-nio-8081-exec-128] org.springframework.web.servlet.DispatcherServlet.noHandlerFound No mapping found for HTTP request with URI [/netbeans-tomcat-status-test] in DispatcherServlet with name 'dispatcher'
+15-Dec-2018 09:58:32.460 INFO [http-nio-8081-exec-117] org.apache.catalina.core.StandardContext.reload Reloading Context with name [/MuaBanNha] has started
+15-Dec-2018 09:58:32.914 INFO [http-nio-8081-exec-117] org.apache.jasper.servlet.TldScanner.scanJars At least one JAR was scanned for TLDs yet contained no TLDs. Enable debug logging for this logger for a complete list of JARs that were scanned but no TLDs were found in them. Skipping unneeded JARs during scanning can improve startup time and JSP compilation time.
+15-Dec-2018 09:58:32.952 INFO [http-nio-8081-exec-117] org.apache.catalina.core.StandardContext.reload Reloading Context with name [/MuaBanNha] is completed
+15-Dec-2018 09:58:33.046 WARNING [http-nio-8081-exec-105] org.springframework.web.servlet.DispatcherServlet.noHandlerFound No mapping found for HTTP request with URI [/netbeans-tomcat-status-test] in DispatcherServlet with name 'dispatcher'
+15-Dec-2018 09:58:38.323 WARNING [214] org.springframework.web.servlet.DispatcherServlet.noHandlerFound No mapping found for HTTP request with URI [/netbeans-tomcat-status-test] in DispatcherServlet with name 'dispatcher'
+15-Dec-2018 09:58:38.340 WARNING [http-nio-8081-exec-132] org.springframework.web.servlet.DispatcherServlet.noHandlerFound No mapping found for HTTP request with URI [/netbeans-tomcat-status-test] in DispatcherServlet with name 'dispatcher'
+15-Dec-2018 09:58:38.360 WARNING [http-nio-8081-exec-105] org.springframework.web.servlet.DispatcherServlet.noHandlerFound No mapping found for HTTP request with URI [/netbeans-tomcat-status-test] in DispatcherServlet with name 'dispatcher'
+15-Dec-2018 09:58:38.410 INFO [http-nio-8081-exec-125] org.apache.catalina.core.StandardContext.reload Reloading Context with name [/MuaBanNha] has started
+15-Dec-2018 09:58:38.863 INFO [http-nio-8081-exec-125] org.apache.jasper.servlet.TldScanner.scanJars At least one JAR was scanned for TLDs yet contained no TLDs. Enable debug logging for this logger for a complete list of JARs that were scanned but no TLDs were found in them. Skipping unneeded JARs during scanning can improve startup time and JSP compilation time.
+15-Dec-2018 09:58:38.879 INFO [http-nio-8081-exec-125] org.apache.catalina.core.StandardContext.reload Reloading Context with name [/MuaBanNha] is completed
+15-Dec-2018 09:58:38.901 WARNING [http-nio-8081-exec-117] org.springframework.web.servlet.DispatcherServlet.noHandlerFound No mapping found for HTTP request with URI [/netbeans-tomcat-status-test] in DispatcherServlet with name 'dispatcher'
+15-Dec-2018 09:58:42.015 WARNING [http-nio-8081-exec-132] org.springframework.web.servlet.DispatcherServlet.noHandlerFound No mapping found for HTTP request with URI [/netbeans-tomcat-status-test] in DispatcherServlet with name 'dispatcher'
+15-Dec-2018 09:58:42.022 WARNING [http-nio-8081-exec-134] org.springframework.web.servlet.DispatcherServlet.noHandlerFound No mapping found for HTTP request with URI [/netbeans-tomcat-status-test] in DispatcherServlet with name 'dispatcher'
+15-Dec-2018 09:58:42.029 WARNING [http-nio-8081-exec-121] org.springframework.web.servlet.DispatcherServlet.noHandlerFound No mapping found for HTTP request with URI [/netbeans-tomcat-status-test] in DispatcherServlet with name 'dispatcher'
+15-Dec-2018 09:58:42.072 INFO [http-nio-8081-exec-113] org.apache.catalina.core.StandardContext.reload Reloading Context with name [/MuaBanNha] has started
+15-Dec-2018 09:58:42.476 INFO [http-nio-8081-exec-113] org.apache.jasper.servlet.TldScanner.scanJars At least one JAR was scanned for TLDs yet contained no TLDs. Enable debug logging for this logger for a complete list of JARs that were scanned but no TLDs were found in them. Skipping unneeded JARs during scanning can improve startup time and JSP compilation time.
+15-Dec-2018 09:58:42.496 INFO [http-nio-8081-exec-113] org.apache.catalina.core.StandardContext.reload Reloading Context with name [/MuaBanNha] is completed
+15-Dec-2018 09:58:42.500 WARNING [http-nio-8081-exec-105] org.springframework.web.servlet.DispatcherServlet.noHandlerFound No mapping found for HTTP request with URI [/netbeans-tomcat-status-test] in DispatcherServlet with name 'dispatcher'
+15-Dec-2018 09:58:44.490 WARNING [http-nio-8081-exec-135] org.springframework.web.servlet.DispatcherServlet.noHandlerFound No mapping found for HTTP request with URI [/netbeans-tomcat-status-test] in DispatcherServlet with name 'dispatcher'
+15-Dec-2018 09:58:44.498 WARNING [http-nio-8081-exec-128] org.springframework.web.servlet.DispatcherServlet.noHandlerFound No mapping found for HTTP request with URI [/netbeans-tomcat-status-test] in DispatcherServlet with name 'dispatcher'
+15-Dec-2018 09:58:44.556 INFO [http-nio-8081-exec-134] org.apache.catalina.core.StandardContext.reload Reloading Context with name [/MuaBanNha] has started
+15-Dec-2018 09:58:44.971 INFO [http-nio-8081-exec-134] org.apache.jasper.servlet.TldScanner.scanJars At least one JAR was scanned for TLDs yet contained no TLDs. Enable debug logging for this logger for a complete list of JARs that were scanned but no TLDs were found in them. Skipping unneeded JARs during scanning can improve startup time and JSP compilation time.
+15-Dec-2018 09:58:44.983 INFO [http-nio-8081-exec-134] org.apache.catalina.core.StandardContext.reload Reloading Context with name [/MuaBanNha] is completed
+15-Dec-2018 09:58:44.986 WARNING [http-nio-8081-exec-105] org.springframework.web.servlet.DispatcherServlet.noHandlerFound No mapping found for HTTP request with URI [/netbeans-tomcat-status-test] in DispatcherServlet with name 'dispatcher'
+15-Dec-2018 09:58:46.350 WARNING [209] org.springframework.web.servlet.DispatcherServlet.noHandlerFound No mapping found for HTTP request with URI [/netbeans-tomcat-status-test] in DispatcherServlet with name 'dispatcher'
+15-Dec-2018 09:58:46.359 WARNING [http-nio-8081-exec-123] org.springframework.web.servlet.DispatcherServlet.noHandlerFound No mapping found for HTTP request with URI [/netbeans-tomcat-status-test] in DispatcherServlet with name 'dispatcher'
+15-Dec-2018 09:58:46.402 INFO [http-nio-8081-exec-125] org.apache.catalina.core.StandardContext.reload Reloading Context with name [/MuaBanNha] has started
+15-Dec-2018 09:58:46.699 INFO [http-nio-8081-exec-125] org.apache.jasper.servlet.TldScanner.scanJars At least one JAR was scanned for TLDs yet contained no TLDs. Enable debug logging for this logger for a complete list of JARs that were scanned but no TLDs were found in them. Skipping unneeded JARs during scanning can improve startup time and JSP compilation time.
+15-Dec-2018 09:58:46.712 INFO [http-nio-8081-exec-125] org.apache.catalina.core.StandardContext.reload Reloading Context with name [/MuaBanNha] is completed
+15-Dec-2018 09:58:46.818 WARNING [http-nio-8081-exec-105] org.springframework.web.servlet.DispatcherServlet.noHandlerFound No mapping found for HTTP request with URI [/netbeans-tomcat-status-test] in DispatcherServlet with name 'dispatcher'
+15-Dec-2018 09:59:08.664 WARNING [http-nio-8081-exec-123] org.springframework.web.servlet.DispatcherServlet.noHandlerFound No mapping found for HTTP request with URI [/netbeans-tomcat-status-test] in DispatcherServlet with name 'dispatcher'
+15-Dec-2018 09:59:08.673 WARNING [http-nio-8081-exec-136] org.springframework.web.servlet.DispatcherServlet.noHandlerFound No mapping found for HTTP request with URI [/netbeans-tomcat-status-test] in DispatcherServlet with name 'dispatcher'
+15-Dec-2018 09:59:08.681 WARNING [http-nio-8081-exec-113] org.springframework.web.servlet.DispatcherServlet.noHandlerFound No mapping found for HTTP request with URI [/netbeans-tomcat-status-test] in DispatcherServlet with name 'dispatcher'
+15-Dec-2018 09:59:08.820 INFO [http-nio-8081-exec-117] org.apache.catalina.core.StandardContext.reload Reloading Context with name [/MuaBanNha] has started
+15-Dec-2018 09:59:09.147 INFO [http-nio-8081-exec-117] org.apache.jasper.servlet.TldScanner.scanJars At least one JAR was scanned for TLDs yet contained no TLDs. Enable debug logging for this logger for a complete list of JARs that were scanned but no TLDs were found in them. Skipping unneeded JARs during scanning can improve startup time and JSP compilation time.
+15-Dec-2018 09:59:09.161 INFO [http-nio-8081-exec-117] org.apache.catalina.core.StandardContext.reload Reloading Context with name [/MuaBanNha] is completed
+15-Dec-2018 09:59:09.165 WARNING [http-nio-8081-exec-131] org.springframework.web.servlet.DispatcherServlet.noHandlerFound No mapping found for HTTP request with URI [/netbeans-tomcat-status-test] in DispatcherServlet with name 'dispatcher'
+15-Dec-2018 09:59:13.117 WARNING [215] org.springframework.web.servlet.DispatcherServlet.noHandlerFound No mapping found for HTTP request with URI [/netbeans-tomcat-status-test] in DispatcherServlet with name 'dispatcher'
+15-Dec-2018 09:59:13.130 WARNING [http-nio-8081-exec-136] org.springframework.web.servlet.DispatcherServlet.noHandlerFound No mapping found for HTTP request with URI [/netbeans-tomcat-status-test] in DispatcherServlet with name 'dispatcher'
+15-Dec-2018 09:59:13.137 WARNING [http-nio-8081-exec-138] org.springframework.web.servlet.DispatcherServlet.noHandlerFound No mapping found for HTTP request with URI [/netbeans-tomcat-status-test] in DispatcherServlet with name 'dispatcher'
+15-Dec-2018 09:59:13.194 INFO [http-nio-8081-exec-121] org.apache.catalina.core.StandardContext.reload Reloading Context with name [/MuaBanNha] has started
+15-Dec-2018 09:59:13.627 INFO [http-nio-8081-exec-121] org.apache.jasper.servlet.TldScanner.scanJars At least one JAR was scanned for TLDs yet contained no TLDs. Enable debug logging for this logger for a complete list of JARs that were scanned but no TLDs were found in them. Skipping unneeded JARs during scanning can improve startup time and JSP compilation time.
+15-Dec-2018 09:59:13.648 INFO [http-nio-8081-exec-121] org.apache.catalina.core.StandardContext.reload Reloading Context with name [/MuaBanNha] is completed
+15-Dec-2018 09:59:13.653 WARNING [http-nio-8081-exec-138] org.springframework.web.servlet.DispatcherServlet.noHandlerFound No mapping found for HTTP request with URI [/netbeans-tomcat-status-test] in DispatcherServlet with name 'dispatcher'
+15-Dec-2018 10:00:00.051 WARNING [http-nio-8081-exec-113] org.springframework.web.servlet.DispatcherServlet.noHandlerFound No mapping found for HTTP request with URI [/netbeans-tomcat-status-test] in DispatcherServlet with name 'dispatcher'
+15-Dec-2018 10:00:00.057 WARNING [http-nio-8081-exec-136] org.springframework.web.servlet.DispatcherServlet.noHandlerFound No mapping found for HTTP request with URI [/netbeans-tomcat-status-test] in DispatcherServlet with name 'dispatcher'
+15-Dec-2018 10:00:00.065 WARNING [http-nio-8081-exec-139] org.springframework.web.servlet.DispatcherServlet.noHandlerFound No mapping found for HTTP request with URI [/netbeans-tomcat-status-test] in DispatcherServlet with name 'dispatcher'
+15-Dec-2018 10:00:00.108 INFO [http-nio-8081-exec-117] org.apache.catalina.core.StandardContext.reload Reloading Context with name [/MuaBanNha] has started
+15-Dec-2018 10:00:00.494 INFO [http-nio-8081-exec-117] org.apache.jasper.servlet.TldScanner.scanJars At least one JAR was scanned for TLDs yet contained no TLDs. Enable debug logging for this logger for a complete list of JARs that were scanned but no TLDs were found in them. Skipping unneeded JARs during scanning can improve startup time and JSP compilation time.
+15-Dec-2018 10:00:00.513 INFO [http-nio-8081-exec-117] org.apache.catalina.core.StandardContext.reload Reloading Context with name [/MuaBanNha] is completed
+15-Dec-2018 10:00:00.517 WARNING [http-nio-8081-exec-138] org.springframework.web.servlet.DispatcherServlet.noHandlerFound No mapping found for HTTP request with URI [/netbeans-tomcat-status-test] in DispatcherServlet with name 'dispatcher'
+15-Dec-2018 10:00:06.081 WARNING [http-nio-8081-exec-131] org.springframework.web.servlet.DispatcherServlet.noHandlerFound No mapping found for HTTP request with URI [/netbeans-tomcat-status-test] in DispatcherServlet with name 'dispatcher'
+15-Dec-2018 10:00:06.088 WARNING [http-nio-8081-exec-121] org.springframework.web.servlet.DispatcherServlet.noHandlerFound No mapping found for HTTP request with URI [/netbeans-tomcat-status-test] in DispatcherServlet with name 'dispatcher'
+15-Dec-2018 10:00:06.100 WARNING [http-nio-8081-exec-136] org.springframework.web.servlet.DispatcherServlet.noHandlerFound No mapping found for HTTP request with URI [/netbeans-tomcat-status-test] in DispatcherServlet with name 'dispatcher'
+15-Dec-2018 10:00:06.149 INFO [http-nio-8081-exec-137] org.apache.catalina.core.StandardContext.reload Reloading Context with name [/MuaBanNha] has started
+15-Dec-2018 10:00:06.511 INFO [http-nio-8081-exec-137] org.apache.jasper.servlet.TldScanner.scanJars At least one JAR was scanned for TLDs yet contained no TLDs. Enable debug logging for this logger for a complete list of JARs that were scanned but no TLDs were found in them. Skipping unneeded JARs during scanning can improve startup time and JSP compilation time.
+15-Dec-2018 10:00:06.530 INFO [http-nio-8081-exec-137] org.apache.catalina.core.StandardContext.reload Reloading Context with name [/MuaBanNha] is completed
+15-Dec-2018 10:00:06.540 WARNING [http-nio-8081-exec-140] org.springframework.web.servlet.DispatcherServlet.noHandlerFound No mapping found for HTTP request with URI [/netbeans-tomcat-status-test] in DispatcherServlet with name 'dispatcher'
+15-Dec-2018 10:00:15.736 WARNING [206] org.springframework.web.servlet.DispatcherServlet.noHandlerFound No mapping found for HTTP request with URI [/netbeans-tomcat-status-test] in DispatcherServlet with name 'dispatcher'
+15-Dec-2018 10:00:15.750 WARNING [http-nio-8081-exec-105] org.springframework.web.servlet.DispatcherServlet.noHandlerFound No mapping found for HTTP request with URI [/netbeans-tomcat-status-test] in DispatcherServlet with name 'dispatcher'
+15-Dec-2018 10:00:15.766 WARNING [http-nio-8081-exec-141] org.springframework.web.servlet.DispatcherServlet.noHandlerFound No mapping found for HTTP request with URI [/netbeans-tomcat-status-test] in DispatcherServlet with name 'dispatcher'
+15-Dec-2018 10:00:15.836 INFO [http-nio-8081-exec-142] org.apache.catalina.core.StandardContext.reload Reloading Context with name [/MuaBanNha] has started
+15-Dec-2018 10:00:16.147 INFO [http-nio-8081-exec-142] org.apache.jasper.servlet.TldScanner.scanJars At least one JAR was scanned for TLDs yet contained no TLDs. Enable debug logging for this logger for a complete list of JARs that were scanned but no TLDs were found in them. Skipping unneeded JARs during scanning can improve startup time and JSP compilation time.
+15-Dec-2018 10:00:16.159 INFO [http-nio-8081-exec-142] org.apache.catalina.core.StandardContext.reload Reloading Context with name [/MuaBanNha] is completed
+15-Dec-2018 10:00:16.167 WARNING [http-nio-8081-exec-140] org.springframework.web.servlet.DispatcherServlet.noHandlerFound No mapping found for HTTP request with URI [/netbeans-tomcat-status-test] in DispatcherServlet with name 'dispatcher'
+15-Dec-2018 10:00:19.455 WARNING [http-nio-8081-exec-121] org.springframework.web.servlet.DispatcherServlet.noHandlerFound No mapping found for HTTP request with URI [/netbeans-tomcat-status-test] in DispatcherServlet with name 'dispatcher'
+15-Dec-2018 10:00:19.472 WARNING [http-nio-8081-exec-105] org.springframework.web.servlet.DispatcherServlet.noHandlerFound No mapping found for HTTP request with URI [/netbeans-tomcat-status-test] in DispatcherServlet with name 'dispatcher'
+15-Dec-2018 10:00:19.498 WARNING [http-nio-8081-exec-141] org.springframework.web.servlet.DispatcherServlet.noHandlerFound No mapping found for HTTP request with URI [/netbeans-tomcat-status-test] in DispatcherServlet with name 'dispatcher'
+15-Dec-2018 10:00:19.541 INFO [http-nio-8081-exec-143] org.apache.catalina.core.StandardContext.reload Reloading Context with name [/MuaBanNha] has started
+15-Dec-2018 10:00:19.820 INFO [http-nio-8081-exec-143] org.apache.jasper.servlet.TldScanner.scanJars At least one JAR was scanned for TLDs yet contained no TLDs. Enable debug logging for this logger for a complete list of JARs that were scanned but no TLDs were found in them. Skipping unneeded JARs during scanning can improve startup time and JSP compilation time.
+15-Dec-2018 10:00:19.831 INFO [http-nio-8081-exec-143] org.apache.catalina.core.StandardContext.reload Reloading Context with name [/MuaBanNha] is completed
+15-Dec-2018 10:00:19.834 WARNING [http-nio-8081-exec-138] org.springframework.web.servlet.DispatcherServlet.noHandlerFound No mapping found for HTTP request with URI [/netbeans-tomcat-status-test] in DispatcherServlet with name 'dispatcher'
+15-Dec-2018 10:00:23.747 WARNING [221] org.springframework.web.servlet.DispatcherServlet.noHandlerFound No mapping found for HTTP request with URI [/netbeans-tomcat-status-test] in DispatcherServlet with name 'dispatcher'
+15-Dec-2018 10:00:23.815 WARNING [http-nio-8081-exec-117] org.springframework.web.servlet.DispatcherServlet.noHandlerFound No mapping found for HTTP request with URI [/netbeans-tomcat-status-test] in DispatcherServlet with name 'dispatcher'
+15-Dec-2018 10:00:23.855 WARNING [http-nio-8081-exec-142] org.springframework.web.servlet.DispatcherServlet.noHandlerFound No mapping found for HTTP request with URI [/netbeans-tomcat-status-test] in DispatcherServlet with name 'dispatcher'
+15-Dec-2018 10:00:23.901 INFO [http-nio-8081-exec-137] org.apache.catalina.core.StandardContext.reload Reloading Context with name [/MuaBanNha] has started
+15-Dec-2018 10:00:24.373 INFO [http-nio-8081-exec-137] org.apache.jasper.servlet.TldScanner.scanJars At least one JAR was scanned for TLDs yet contained no TLDs. Enable debug logging for this logger for a complete list of JARs that were scanned but no TLDs were found in them. Skipping unneeded JARs during scanning can improve startup time and JSP compilation time.
+15-Dec-2018 10:00:24.387 INFO [http-nio-8081-exec-137] org.apache.catalina.core.StandardContext.reload Reloading Context with name [/MuaBanNha] is completed
+15-Dec-2018 10:00:24.391 WARNING [http-nio-8081-exec-141] org.springframework.web.servlet.DispatcherServlet.noHandlerFound No mapping found for HTTP request with URI [/netbeans-tomcat-status-test] in DispatcherServlet with name 'dispatcher'
+15-Dec-2018 10:00:50.215 WARNING [223] org.springframework.web.servlet.DispatcherServlet.noHandlerFound No mapping found for HTTP request with URI [/netbeans-tomcat-status-test] in DispatcherServlet with name 'dispatcher'
+15-Dec-2018 10:00:50.225 WARNING [http-nio-8081-exec-137] org.springframework.web.servlet.DispatcherServlet.noHandlerFound No mapping found for HTTP request with URI [/netbeans-tomcat-status-test] in DispatcherServlet with name 'dispatcher'
+15-Dec-2018 10:00:50.235 WARNING [http-nio-8081-exec-139] org.springframework.web.servlet.DispatcherServlet.noHandlerFound No mapping found for HTTP request with URI [/netbeans-tomcat-status-test] in DispatcherServlet with name 'dispatcher'
+15-Dec-2018 10:00:50.284 INFO [http-nio-8081-exec-105] org.apache.catalina.core.StandardContext.reload Reloading Context with name [/MuaBanNha] has started
+15-Dec-2018 10:00:50.288 WARNING [http-nio-8081-exec-105] org.apache.catalina.loader.WebappClassLoaderBase.clearReferencesJdbc The web application [MuaBanNha] registered the JDBC driver [com.mysql.jdbc.Driver] but failed to unregister it when the web application was stopped. To prevent a memory leak, the JDBC Driver has been forcibly unregistered.
+15-Dec-2018 10:00:50.290 WARNING [http-nio-8081-exec-105] org.apache.catalina.loader.WebappClassLoaderBase.clearReferencesThreads The web application [MuaBanNha] appears to have started a thread named [MySQL Statement Cancellation Timer] but has failed to stop it. This is very likely to create a memory leak. Stack trace of thread:
+ java.lang.Object.wait(Native Method)
+ java.lang.Object.wait(Object.java:502)
+ java.util.TimerThread.mainLoop(Timer.java:526)
+ java.util.TimerThread.run(Timer.java:505)
+15-Dec-2018 10:00:50.861 INFO [http-nio-8081-exec-105] org.apache.jasper.servlet.TldScanner.scanJars At least one JAR was scanned for TLDs yet contained no TLDs. Enable debug logging for this logger for a complete list of JARs that were scanned but no TLDs were found in them. Skipping unneeded JARs during scanning can improve startup time and JSP compilation time.
+15-Dec-2018 10:00:50.898 INFO [http-nio-8081-exec-105] org.apache.catalina.core.StandardContext.reload Reloading Context with name [/MuaBanNha] is completed
+15-Dec-2018 10:00:50.906 WARNING [http-nio-8081-exec-141] org.springframework.web.servlet.DispatcherServlet.noHandlerFound No mapping found for HTTP request with URI [/netbeans-tomcat-status-test] in DispatcherServlet with name 'dispatcher'
+15-Dec-2018 10:01:05.183 WARNING [http-nio-8081-exec-141] org.springframework.web.servlet.DispatcherServlet.noHandlerFound No mapping found for HTTP request with URI [/netbeans-tomcat-status-test] in DispatcherServlet with name 'dispatcher'
+15-Dec-2018 10:01:05.192 WARNING [http-nio-8081-exec-150] org.springframework.web.servlet.DispatcherServlet.noHandlerFound No mapping found for HTTP request with URI [/netbeans-tomcat-status-test] in DispatcherServlet with name 'dispatcher'
+15-Dec-2018 10:01:05.198 WARNING [http-nio-8081-exec-152] org.springframework.web.servlet.DispatcherServlet.noHandlerFound No mapping found for HTTP request with URI [/netbeans-tomcat-status-test] in DispatcherServlet with name 'dispatcher'
+15-Dec-2018 10:01:05.251 INFO [http-nio-8081-exec-137] org.apache.catalina.core.StandardContext.reload Reloading Context with name [/MuaBanNha] has started
+15-Dec-2018 10:01:05.255 WARNING [http-nio-8081-exec-137] org.apache.catalina.loader.WebappClassLoaderBase.clearReferencesJdbc The web application [MuaBanNha] registered the JDBC driver [com.mysql.jdbc.Driver] but failed to unregister it when the web application was stopped. To prevent a memory leak, the JDBC Driver has been forcibly unregistered.
+15-Dec-2018 10:01:05.264 WARNING [http-nio-8081-exec-137] org.apache.catalina.loader.WebappClassLoaderBase.clearReferencesThreads The web application [MuaBanNha] appears to have started a thread named [MySQL Statement Cancellation Timer] but has failed to stop it. This is very likely to create a memory leak. Stack trace of thread:
+ java.lang.Object.wait(Native Method)
+ java.lang.Object.wait(Object.java:502)
+ java.util.TimerThread.mainLoop(Timer.java:526)
+ java.util.TimerThread.run(Timer.java:505)
+15-Dec-2018 10:01:05.698 INFO [http-nio-8081-exec-137] org.apache.jasper.servlet.TldScanner.scanJars At least one JAR was scanned for TLDs yet contained no TLDs. Enable debug logging for this logger for a complete list of JARs that were scanned but no TLDs were found in them. Skipping unneeded JARs during scanning can improve startup time and JSP compilation time.
+15-Dec-2018 10:01:05.716 INFO [http-nio-8081-exec-137] org.apache.catalina.core.StandardContext.reload Reloading Context with name [/MuaBanNha] is completed
+15-Dec-2018 10:01:05.724 WARNING [http-nio-8081-exec-148] org.springframework.web.servlet.DispatcherServlet.noHandlerFound No mapping found for HTTP request with URI [/netbeans-tomcat-status-test] in DispatcherServlet with name 'dispatcher'
+15-Dec-2018 10:01:11.638 WARNING [http-nio-8081-exec-152] org.springframework.web.servlet.DispatcherServlet.noHandlerFound No mapping found for HTTP request with URI [/netbeans-tomcat-status-test] in DispatcherServlet with name 'dispatcher'
+15-Dec-2018 10:01:11.645 WARNING [http-nio-8081-exec-143] org.springframework.web.servlet.DispatcherServlet.noHandlerFound No mapping found for HTTP request with URI [/netbeans-tomcat-status-test] in DispatcherServlet with name 'dispatcher'
+15-Dec-2018 10:01:11.651 WARNING [http-nio-8081-exec-153] org.springframework.web.servlet.DispatcherServlet.noHandlerFound No mapping found for HTTP request with URI [/netbeans-tomcat-status-test] in DispatcherServlet with name 'dispatcher'
+15-Dec-2018 10:01:11.700 INFO [http-nio-8081-exec-150] org.apache.catalina.core.StandardContext.reload Reloading Context with name [/MuaBanNha] has started
+15-Dec-2018 10:01:12.121 INFO [http-nio-8081-exec-150] org.apache.jasper.servlet.TldScanner.scanJars At least one JAR was scanned for TLDs yet contained no TLDs. Enable debug logging for this logger for a complete list of JARs that were scanned but no TLDs were found in them. Skipping unneeded JARs during scanning can improve startup time and JSP compilation time.
+15-Dec-2018 10:01:12.139 INFO [http-nio-8081-exec-150] org.apache.catalina.core.StandardContext.reload Reloading Context with name [/MuaBanNha] is completed
+15-Dec-2018 10:01:12.160 WARNING [http-nio-8081-exec-148] org.springframework.web.servlet.DispatcherServlet.noHandlerFound No mapping found for HTTP request with URI [/netbeans-tomcat-status-test] in DispatcherServlet with name 'dispatcher'
+15-Dec-2018 10:01:51.175 WARNING [http-nio-8081-exec-153] org.springframework.web.servlet.DispatcherServlet.noHandlerFound No mapping found for HTTP request with URI [/netbeans-tomcat-status-test] in DispatcherServlet with name 'dispatcher'
+15-Dec-2018 10:01:51.181 WARNING [http-nio-8081-exec-139] org.springframework.web.servlet.DispatcherServlet.noHandlerFound No mapping found for HTTP request with URI [/netbeans-tomcat-status-test] in DispatcherServlet with name 'dispatcher'
+15-Dec-2018 10:01:51.188 WARNING [http-nio-8081-exec-137] org.springframework.web.servlet.DispatcherServlet.noHandlerFound No mapping found for HTTP request with URI [/netbeans-tomcat-status-test] in DispatcherServlet with name 'dispatcher'
+15-Dec-2018 10:01:51.229 INFO [http-nio-8081-exec-154] org.apache.catalina.core.StandardContext.reload Reloading Context with name [/MuaBanNha] has started
+15-Dec-2018 10:01:51.556 INFO [http-nio-8081-exec-154] org.apache.jasper.servlet.TldScanner.scanJars At least one JAR was scanned for TLDs yet contained no TLDs. Enable debug logging for this logger for a complete list of JARs that were scanned but no TLDs were found in them. Skipping unneeded JARs during scanning can improve startup time and JSP compilation time.
+15-Dec-2018 10:01:51.575 INFO [http-nio-8081-exec-154] org.apache.catalina.core.StandardContext.reload Reloading Context with name [/MuaBanNha] is completed
+15-Dec-2018 10:01:51.580 WARNING [http-nio-8081-exec-155] org.springframework.web.servlet.DispatcherServlet.noHandlerFound No mapping found for HTTP request with URI [/netbeans-tomcat-status-test] in DispatcherServlet with name 'dispatcher'
+15-Dec-2018 11:37:18.804 WARNING [234] org.springframework.web.servlet.DispatcherServlet.noHandlerFound No mapping found for HTTP request with URI [/netbeans-tomcat-status-test] in DispatcherServlet with name 'dispatcher'
+15-Dec-2018 11:37:18.811 WARNING [http-nio-8081-exec-156] org.springframework.web.servlet.DispatcherServlet.noHandlerFound No mapping found for HTTP request with URI [/netbeans-tomcat-status-test] in DispatcherServlet with name 'dispatcher'
+15-Dec-2018 11:37:18.818 WARNING [http-nio-8081-exec-159] org.springframework.web.servlet.DispatcherServlet.noHandlerFound No mapping found for HTTP request with URI [/netbeans-tomcat-status-test] in DispatcherServlet with name 'dispatcher'
+15-Dec-2018 11:37:18.856 INFO [http-nio-8081-exec-148] org.apache.catalina.core.StandardContext.reload Reloading Context with name [/MuaBanNha] has started
+15-Dec-2018 11:37:18.860 WARNING [http-nio-8081-exec-148] org.apache.catalina.loader.WebappClassLoaderBase.clearReferencesJdbc The web application [MuaBanNha] registered the JDBC driver [com.mysql.jdbc.Driver] but failed to unregister it when the web application was stopped. To prevent a memory leak, the JDBC Driver has been forcibly unregistered.
+15-Dec-2018 11:37:18.864 WARNING [http-nio-8081-exec-148] org.apache.catalina.loader.WebappClassLoaderBase.clearReferencesThreads The web application [MuaBanNha] appears to have started a thread named [MySQL Statement Cancellation Timer] but has failed to stop it. This is very likely to create a memory leak. Stack trace of thread:
+ java.lang.Object.wait(Native Method)
+ java.lang.Object.wait(Object.java:502)
+ java.util.TimerThread.mainLoop(Timer.java:526)
+ java.util.TimerThread.run(Timer.java:505)
+15-Dec-2018 11:37:19.200 INFO [http-nio-8081-exec-148] org.apache.jasper.servlet.TldScanner.scanJars At least one JAR was scanned for TLDs yet contained no TLDs. Enable debug logging for this logger for a complete list of JARs that were scanned but no TLDs were found in them. Skipping unneeded JARs during scanning can improve startup time and JSP compilation time.
+15-Dec-2018 11:37:19.218 INFO [http-nio-8081-exec-148] org.apache.catalina.core.StandardContext.reload Reloading Context with name [/MuaBanNha] is completed
+15-Dec-2018 11:37:19.246 WARNING [http-nio-8081-exec-139] org.springframework.web.servlet.DispatcherServlet.noHandlerFound No mapping found for HTTP request with URI [/netbeans-tomcat-status-test] in DispatcherServlet with name 'dispatcher'
+15-Dec-2018 11:37:20.897 WARNING [http-nio-8081-exec-147] org.springframework.web.servlet.DispatcherServlet.noHandlerFound No mapping found for HTTP request with URI [/netbeans-tomcat-status-test] in DispatcherServlet with name 'dispatcher'
+15-Dec-2018 11:37:20.903 WARNING [http-nio-8081-exec-148] org.springframework.web.servlet.DispatcherServlet.noHandlerFound No mapping found for HTTP request with URI [/netbeans-tomcat-status-test] in DispatcherServlet with name 'dispatcher'
+15-Dec-2018 11:37:20.941 INFO [http-nio-8081-exec-161] org.apache.catalina.core.StandardContext.reload Reloading Context with name [/MuaBanNha] has started
+15-Dec-2018 11:37:21.593 INFO [http-nio-8081-exec-161] org.apache.jasper.servlet.TldScanner.scanJars At least one JAR was scanned for TLDs yet contained no TLDs. Enable debug logging for this logger for a complete list of JARs that were scanned but no TLDs were found in them. Skipping unneeded JARs during scanning can improve startup time and JSP compilation time.
+15-Dec-2018 11:37:21.610 INFO [http-nio-8081-exec-161] org.apache.catalina.core.StandardContext.reload Reloading Context with name [/MuaBanNha] is completed
+15-Dec-2018 11:37:21.619 WARNING [http-nio-8081-exec-148] org.springframework.web.servlet.DispatcherServlet.noHandlerFound No mapping found for HTTP request with URI [/netbeans-tomcat-status-test] in DispatcherServlet with name 'dispatcher'
+15-Dec-2018 11:38:05.766 WARNING [http-nio-8081-exec-164] org.springframework.web.servlet.DispatcherServlet.noHandlerFound No mapping found for HTTP request with URI [/netbeans-tomcat-status-test] in DispatcherServlet with name 'dispatcher'
+15-Dec-2018 11:38:05.772 WARNING [http-nio-8081-exec-157] org.springframework.web.servlet.DispatcherServlet.noHandlerFound No mapping found for HTTP request with URI [/netbeans-tomcat-status-test] in DispatcherServlet with name 'dispatcher'
+15-Dec-2018 11:38:05.778 WARNING [http-nio-8081-exec-166] org.springframework.web.servlet.DispatcherServlet.noHandlerFound No mapping found for HTTP request with URI [/netbeans-tomcat-status-test] in DispatcherServlet with name 'dispatcher'
+15-Dec-2018 11:38:05.819 INFO [http-nio-8081-exec-162] org.apache.catalina.core.StandardContext.reload Reloading Context with name [/MuaBanNha] has started
+15-Dec-2018 11:38:05.824 WARNING [http-nio-8081-exec-162] org.apache.catalina.loader.WebappClassLoaderBase.clearReferencesJdbc The web application [MuaBanNha] registered the JDBC driver [com.mysql.jdbc.Driver] but failed to unregister it when the web application was stopped. To prevent a memory leak, the JDBC Driver has been forcibly unregistered.
+15-Dec-2018 11:38:05.825 WARNING [http-nio-8081-exec-162] org.apache.catalina.loader.WebappClassLoaderBase.clearReferencesThreads The web application [MuaBanNha] appears to have started a thread named [MySQL Statement Cancellation Timer] but has failed to stop it. This is very likely to create a memory leak. Stack trace of thread:
+ java.lang.Object.wait(Native Method)
+ java.lang.Object.wait(Object.java:502)
+ java.util.TimerThread.mainLoop(Timer.java:526)
+ java.util.TimerThread.run(Timer.java:505)
+15-Dec-2018 11:38:06.031 INFO [Finalizer] org.apache.catalina.loader.WebappClassLoaderBase.checkStateForResourceLoading Illegal access: this web application instance has been stopped already. Could not load [com.mysql.jdbc.SQLError]. The following stack trace is thrown for debugging purposes as well as to attempt to terminate the thread which caused the illegal access.
+ java.lang.IllegalStateException: Illegal access: this web application instance has been stopped already. Could not load [com.mysql.jdbc.SQLError]. The following stack trace is thrown for debugging purposes as well as to attempt to terminate the thread which caused the illegal access.
+	at org.apache.catalina.loader.WebappClassLoaderBase.checkStateForResourceLoading(WebappClassLoaderBase.java:1329)
+	at org.apache.catalina.loader.WebappClassLoaderBase.checkStateForClassLoading(WebappClassLoaderBase.java:1317)
+	at org.apache.catalina.loader.WebappClassLoaderBase.loadClass(WebappClassLoaderBase.java:1176)
+	at org.apache.catalina.loader.WebappClassLoaderBase.loadClass(WebappClassLoaderBase.java:1137)
+	at com.mysql.jdbc.MysqlIO.send(MysqlIO.java:3134)
+	at com.mysql.jdbc.MysqlIO.quit(MysqlIO.java:1616)
+	at com.mysql.jdbc.ConnectionImpl.realClose(ConnectionImpl.java:4223)
+	at com.mysql.jdbc.ConnectionImpl.cleanup(ConnectionImpl.java:1257)
+	at com.mysql.jdbc.ConnectionImpl.finalize(ConnectionImpl.java:2663)
+	at java.lang.System$2.invokeFinalize(System.java:1270)
+	at java.lang.ref.Finalizer.runFinalizer(Finalizer.java:98)
+	at java.lang.ref.Finalizer.access$100(Finalizer.java:34)
+	at java.lang.ref.Finalizer$FinalizerThread.run(Finalizer.java:213)
+
+15-Dec-2018 11:38:06.032 INFO [Finalizer] org.apache.catalina.loader.WebappClassLoaderBase.checkStateForResourceLoading Illegal access: this web application instance has been stopped already. Could not load [com.mysql.jdbc.profiler.ProfileEventSink]. The following stack trace is thrown for debugging purposes as well as to attempt to terminate the thread which caused the illegal access.
+ java.lang.IllegalStateException: Illegal access: this web application instance has been stopped already. Could not load [com.mysql.jdbc.profiler.ProfileEventSink]. The following stack trace is thrown for debugging purposes as well as to attempt to terminate the thread which caused the illegal access.
+	at org.apache.catalina.loader.WebappClassLoaderBase.checkStateForResourceLoading(WebappClassLoaderBase.java:1329)
+	at org.apache.catalina.loader.WebappClassLoaderBase.checkStateForClassLoading(WebappClassLoaderBase.java:1317)
+	at org.apache.catalina.loader.WebappClassLoaderBase.loadClass(WebappClassLoaderBase.java:1176)
+	at org.apache.catalina.loader.WebappClassLoaderBase.loadClass(WebappClassLoaderBase.java:1137)
+	at com.mysql.jdbc.ConnectionImpl.realClose(ConnectionImpl.java:4235)
+	at com.mysql.jdbc.ConnectionImpl.cleanup(ConnectionImpl.java:1257)
+	at com.mysql.jdbc.ConnectionImpl.finalize(ConnectionImpl.java:2663)
+	at java.lang.System$2.invokeFinalize(System.java:1270)
+	at java.lang.ref.Finalizer.runFinalizer(Finalizer.java:98)
+	at java.lang.ref.Finalizer.access$100(Finalizer.java:34)
+	at java.lang.ref.Finalizer$FinalizerThread.run(Finalizer.java:213)
+
+15-Dec-2018 11:38:06.036 INFO [Finalizer] org.apache.catalina.loader.WebappClassLoaderBase.checkStateForResourceLoading Illegal access: this web application instance has been stopped already. Could not load [com.mysql.jdbc.SQLError]. The following stack trace is thrown for debugging purposes as well as to attempt to terminate the thread which caused the illegal access.
+ java.lang.IllegalStateException: Illegal access: this web application instance has been stopped already. Could not load [com.mysql.jdbc.SQLError]. The following stack trace is thrown for debugging purposes as well as to attempt to terminate the thread which caused the illegal access.
+	at org.apache.catalina.loader.WebappClassLoaderBase.checkStateForResourceLoading(WebappClassLoaderBase.java:1329)
+	at org.apache.catalina.loader.WebappClassLoaderBase.checkStateForClassLoading(WebappClassLoaderBase.java:1317)
+	at org.apache.catalina.loader.WebappClassLoaderBase.loadClass(WebappClassLoaderBase.java:1176)
+	at org.apache.catalina.loader.WebappClassLoaderBase.loadClass(WebappClassLoaderBase.java:1137)
+	at com.mysql.jdbc.MysqlIO.send(MysqlIO.java:3134)
+	at com.mysql.jdbc.MysqlIO.quit(MysqlIO.java:1616)
+	at com.mysql.jdbc.ConnectionImpl.realClose(ConnectionImpl.java:4223)
+	at com.mysql.jdbc.ConnectionImpl.cleanup(ConnectionImpl.java:1257)
+	at com.mysql.jdbc.ConnectionImpl.finalize(ConnectionImpl.java:2663)
+	at java.lang.System$2.invokeFinalize(System.java:1270)
+	at java.lang.ref.Finalizer.runFinalizer(Finalizer.java:98)
+	at java.lang.ref.Finalizer.access$100(Finalizer.java:34)
+	at java.lang.ref.Finalizer$FinalizerThread.run(Finalizer.java:213)
+
+15-Dec-2018 11:38:06.040 INFO [Finalizer] org.apache.catalina.loader.WebappClassLoaderBase.checkStateForResourceLoading Illegal access: this web application instance has been stopped already. Could not load [com.mysql.jdbc.profiler.ProfileEventSink]. The following stack trace is thrown for debugging purposes as well as to attempt to terminate the thread which caused the illegal access.
+ java.lang.IllegalStateException: Illegal access: this web application instance has been stopped already. Could not load [com.mysql.jdbc.profiler.ProfileEventSink]. The following stack trace is thrown for debugging purposes as well as to attempt to terminate the thread which caused the illegal access.
+	at org.apache.catalina.loader.WebappClassLoaderBase.checkStateForResourceLoading(WebappClassLoaderBase.java:1329)
+	at org.apache.catalina.loader.WebappClassLoaderBase.checkStateForClassLoading(WebappClassLoaderBase.java:1317)
+	at org.apache.catalina.loader.WebappClassLoaderBase.loadClass(WebappClassLoaderBase.java:1176)
+	at org.apache.catalina.loader.WebappClassLoaderBase.loadClass(WebappClassLoaderBase.java:1137)
+	at com.mysql.jdbc.ConnectionImpl.realClose(ConnectionImpl.java:4235)
+	at com.mysql.jdbc.ConnectionImpl.cleanup(ConnectionImpl.java:1257)
+	at com.mysql.jdbc.ConnectionImpl.finalize(ConnectionImpl.java:2663)
+	at java.lang.System$2.invokeFinalize(System.java:1270)
+	at java.lang.ref.Finalizer.runFinalizer(Finalizer.java:98)
+	at java.lang.ref.Finalizer.access$100(Finalizer.java:34)
+	at java.lang.ref.Finalizer$FinalizerThread.run(Finalizer.java:213)
+
+15-Dec-2018 11:38:06.048 INFO [Finalizer] org.apache.catalina.loader.WebappClassLoaderBase.checkStateForResourceLoading Illegal access: this web application instance has been stopped already. Could not load [com.mysql.jdbc.SQLError]. The following stack trace is thrown for debugging purposes as well as to attempt to terminate the thread which caused the illegal access.
+ java.lang.IllegalStateException: Illegal access: this web application instance has been stopped already. Could not load [com.mysql.jdbc.SQLError]. The following stack trace is thrown for debugging purposes as well as to attempt to terminate the thread which caused the illegal access.
+	at org.apache.catalina.loader.WebappClassLoaderBase.checkStateForResourceLoading(WebappClassLoaderBase.java:1329)
+	at org.apache.catalina.loader.WebappClassLoaderBase.checkStateForClassLoading(WebappClassLoaderBase.java:1317)
+	at org.apache.catalina.loader.WebappClassLoaderBase.loadClass(WebappClassLoaderBase.java:1176)
+	at org.apache.catalina.loader.WebappClassLoaderBase.loadClass(WebappClassLoaderBase.java:1137)
+	at com.mysql.jdbc.MysqlIO.send(MysqlIO.java:3134)
+	at com.mysql.jdbc.MysqlIO.quit(MysqlIO.java:1616)
+	at com.mysql.jdbc.ConnectionImpl.realClose(ConnectionImpl.java:4223)
+	at com.mysql.jdbc.ConnectionImpl.cleanup(ConnectionImpl.java:1257)
+	at com.mysql.jdbc.ConnectionImpl.finalize(ConnectionImpl.java:2663)
+	at java.lang.System$2.invokeFinalize(System.java:1270)
+	at java.lang.ref.Finalizer.runFinalizer(Finalizer.java:98)
+	at java.lang.ref.Finalizer.access$100(Finalizer.java:34)
+	at java.lang.ref.Finalizer$FinalizerThread.run(Finalizer.java:213)
+
+15-Dec-2018 11:38:06.049 INFO [Finalizer] org.apache.catalina.loader.WebappClassLoaderBase.checkStateForResourceLoading Illegal access: this web application instance has been stopped already. Could not load [com.mysql.jdbc.profiler.ProfileEventSink]. The following stack trace is thrown for debugging purposes as well as to attempt to terminate the thread which caused the illegal access.
+ java.lang.IllegalStateException: Illegal access: this web application instance has been stopped already. Could not load [com.mysql.jdbc.profiler.ProfileEventSink]. The following stack trace is thrown for debugging purposes as well as to attempt to terminate the thread which caused the illegal access.
+	at org.apache.catalina.loader.WebappClassLoaderBase.checkStateForResourceLoading(WebappClassLoaderBase.java:1329)
+	at org.apache.catalina.loader.WebappClassLoaderBase.checkStateForClassLoading(WebappClassLoaderBase.java:1317)
+	at org.apache.catalina.loader.WebappClassLoaderBase.loadClass(WebappClassLoaderBase.java:1176)
+	at org.apache.catalina.loader.WebappClassLoaderBase.loadClass(WebappClassLoaderBase.java:1137)
+	at com.mysql.jdbc.ConnectionImpl.realClose(ConnectionImpl.java:4235)
+	at com.mysql.jdbc.ConnectionImpl.cleanup(ConnectionImpl.java:1257)
+	at com.mysql.jdbc.ConnectionImpl.finalize(ConnectionImpl.java:2663)
+	at java.lang.System$2.invokeFinalize(System.java:1270)
+	at java.lang.ref.Finalizer.runFinalizer(Finalizer.java:98)
+	at java.lang.ref.Finalizer.access$100(Finalizer.java:34)
+	at java.lang.ref.Finalizer$FinalizerThread.run(Finalizer.java:213)
+
+15-Dec-2018 11:38:06.276 INFO [Finalizer] org.apache.catalina.loader.WebappClassLoaderBase.checkStateForResourceLoading Illegal access: this web application instance has been stopped already. Could not load [com.mysql.jdbc.profiler.ProfileEventSink]. The following stack trace is thrown for debugging purposes as well as to attempt to terminate the thread which caused the illegal access.
+ java.lang.IllegalStateException: Illegal access: this web application instance has been stopped already. Could not load [com.mysql.jdbc.profiler.ProfileEventSink]. The following stack trace is thrown for debugging purposes as well as to attempt to terminate the thread which caused the illegal access.
+	at org.apache.catalina.loader.WebappClassLoaderBase.checkStateForResourceLoading(WebappClassLoaderBase.java:1329)
+	at org.apache.catalina.loader.WebappClassLoaderBase.checkStateForClassLoading(WebappClassLoaderBase.java:1317)
+	at org.apache.catalina.loader.WebappClassLoaderBase.loadClass(WebappClassLoaderBase.java:1176)
+	at org.apache.catalina.loader.WebappClassLoaderBase.loadClass(WebappClassLoaderBase.java:1137)
+	at com.mysql.jdbc.ConnectionImpl.realClose(ConnectionImpl.java:4235)
+	at com.mysql.jdbc.ConnectionImpl.cleanup(ConnectionImpl.java:1257)
+	at com.mysql.jdbc.ConnectionImpl.finalize(ConnectionImpl.java:2663)
+	at java.lang.System$2.invokeFinalize(System.java:1270)
+	at java.lang.ref.Finalizer.runFinalizer(Finalizer.java:98)
+	at java.lang.ref.Finalizer.access$100(Finalizer.java:34)
+	at java.lang.ref.Finalizer$FinalizerThread.run(Finalizer.java:213)
+
+15-Dec-2018 11:38:06.449 INFO [http-nio-8081-exec-162] org.apache.jasper.servlet.TldScanner.scanJars At least one JAR was scanned for TLDs yet contained no TLDs. Enable debug logging for this logger for a complete list of JARs that were scanned but no TLDs were found in them. Skipping unneeded JARs during scanning can improve startup time and JSP compilation time.
+15-Dec-2018 11:38:06.469 INFO [http-nio-8081-exec-162] org.apache.catalina.core.StandardContext.reload Reloading Context with name [/MuaBanNha] is completed
+15-Dec-2018 11:38:06.613 WARNING [http-nio-8081-exec-165] org.springframework.web.servlet.DispatcherServlet.noHandlerFound No mapping found for HTTP request with URI [/netbeans-tomcat-status-test] in DispatcherServlet with name 'dispatcher'
+15-Dec-2018 11:38:28.609 WARNING [220] org.springframework.web.servlet.DispatcherServlet.noHandlerFound No mapping found for HTTP request with URI [/netbeans-tomcat-status-test] in DispatcherServlet with name 'dispatcher'
+15-Dec-2018 11:38:28.640 WARNING [http-nio-8081-exec-164] org.springframework.web.servlet.DispatcherServlet.noHandlerFound No mapping found for HTTP request with URI [/netbeans-tomcat-status-test] in DispatcherServlet with name 'dispatcher'
+15-Dec-2018 11:38:28.662 WARNING [http-nio-8081-exec-160] org.springframework.web.servlet.DispatcherServlet.noHandlerFound No mapping found for HTTP request with URI [/netbeans-tomcat-status-test] in DispatcherServlet with name 'dispatcher'
+15-Dec-2018 11:38:28.766 INFO [http-nio-8081-exec-163] org.apache.catalina.core.StandardContext.reload Reloading Context with name [/MuaBanNha] has started
+15-Dec-2018 11:38:29.224 INFO [http-nio-8081-exec-163] org.apache.jasper.servlet.TldScanner.scanJars At least one JAR was scanned for TLDs yet contained no TLDs. Enable debug logging for this logger for a complete list of JARs that were scanned but no TLDs were found in them. Skipping unneeded JARs during scanning can improve startup time and JSP compilation time.
+15-Dec-2018 11:38:29.240 INFO [http-nio-8081-exec-163] org.apache.catalina.core.StandardContext.reload Reloading Context with name [/MuaBanNha] is completed
+15-Dec-2018 11:38:29.284 WARNING [http-nio-8081-exec-166] org.springframework.web.servlet.DispatcherServlet.noHandlerFound No mapping found for HTTP request with URI [/netbeans-tomcat-status-test] in DispatcherServlet with name 'dispatcher'
+15-Dec-2018 11:38:37.187 WARNING [http-nio-8081-exec-167] org.springframework.web.servlet.DispatcherServlet.noHandlerFound No mapping found for HTTP request with URI [/netbeans-tomcat-status-test] in DispatcherServlet with name 'dispatcher'
+15-Dec-2018 11:38:37.207 WARNING [http-nio-8081-exec-165] org.springframework.web.servlet.DispatcherServlet.noHandlerFound No mapping found for HTTP request with URI [/netbeans-tomcat-status-test] in DispatcherServlet with name 'dispatcher'
+15-Dec-2018 11:38:37.214 WARNING [http-nio-8081-exec-162] org.springframework.web.servlet.DispatcherServlet.noHandlerFound No mapping found for HTTP request with URI [/netbeans-tomcat-status-test] in DispatcherServlet with name 'dispatcher'
+15-Dec-2018 11:38:37.290 INFO [http-nio-8081-exec-164] org.apache.catalina.core.StandardContext.reload Reloading Context with name [/MuaBanNha] has started
+15-Dec-2018 11:38:37.295 WARNING [http-nio-8081-exec-164] org.apache.catalina.loader.WebappClassLoaderBase.clearReferencesJdbc The web application [MuaBanNha] registered the JDBC driver [com.mysql.jdbc.Driver] but failed to unregister it when the web application was stopped. To prevent a memory leak, the JDBC Driver has been forcibly unregistered.
+15-Dec-2018 11:38:37.300 WARNING [http-nio-8081-exec-164] org.apache.catalina.loader.WebappClassLoaderBase.clearReferencesThreads The web application [MuaBanNha] appears to have started a thread named [MySQL Statement Cancellation Timer] but has failed to stop it. This is very likely to create a memory leak. Stack trace of thread:
+ java.lang.Object.wait(Native Method)
+ java.lang.Object.wait(Object.java:502)
+ java.util.TimerThread.mainLoop(Timer.java:526)
+ java.util.TimerThread.run(Timer.java:505)
+15-Dec-2018 11:38:37.807 INFO [http-nio-8081-exec-164] org.apache.jasper.servlet.TldScanner.scanJars At least one JAR was scanned for TLDs yet contained no TLDs. Enable debug logging for this logger for a complete list of JARs that were scanned but no TLDs were found in them. Skipping unneeded JARs during scanning can improve startup time and JSP compilation time.
+15-Dec-2018 11:38:37.828 INFO [http-nio-8081-exec-164] org.apache.catalina.core.StandardContext.reload Reloading Context with name [/MuaBanNha] is completed
+15-Dec-2018 11:38:37.832 WARNING [http-nio-8081-exec-165] org.springframework.web.servlet.DispatcherServlet.noHandlerFound No mapping found for HTTP request with URI [/netbeans-tomcat-status-test] in DispatcherServlet with name 'dispatcher'
+15-Dec-2018 11:39:00.287 WARNING [256] org.springframework.web.servlet.DispatcherServlet.noHandlerFound No mapping found for HTTP request with URI [/netbeans-tomcat-status-test] in DispatcherServlet with name 'dispatcher'
+15-Dec-2018 11:39:00.303 WARNING [http-nio-8081-exec-171] org.springframework.web.servlet.DispatcherServlet.noHandlerFound No mapping found for HTTP request with URI [/netbeans-tomcat-status-test] in DispatcherServlet with name 'dispatcher'
+15-Dec-2018 11:39:00.311 WARNING [http-nio-8081-exec-166] org.springframework.web.servlet.DispatcherServlet.noHandlerFound No mapping found for HTTP request with URI [/netbeans-tomcat-status-test] in DispatcherServlet with name 'dispatcher'
+15-Dec-2018 11:39:00.355 INFO [http-nio-8081-exec-170] org.apache.catalina.core.StandardContext.reload Reloading Context with name [/MuaBanNha] has started
+15-Dec-2018 11:39:00.812 INFO [http-nio-8081-exec-170] org.apache.jasper.servlet.TldScanner.scanJars At least one JAR was scanned for TLDs yet contained no TLDs. Enable debug logging for this logger for a complete list of JARs that were scanned but no TLDs were found in them. Skipping unneeded JARs during scanning can improve startup time and JSP compilation time.
+15-Dec-2018 11:39:00.836 INFO [http-nio-8081-exec-170] org.apache.catalina.core.StandardContext.reload Reloading Context with name [/MuaBanNha] is completed
+15-Dec-2018 11:39:00.848 WARNING [http-nio-8081-exec-163] org.springframework.web.servlet.DispatcherServlet.noHandlerFound No mapping found for HTTP request with URI [/netbeans-tomcat-status-test] in DispatcherServlet with name 'dispatcher'
+15-Dec-2018 11:39:18.941 WARNING [245] org.springframework.web.servlet.DispatcherServlet.noHandlerFound No mapping found for HTTP request with URI [/netbeans-tomcat-status-test] in DispatcherServlet with name 'dispatcher'
+15-Dec-2018 11:39:18.948 WARNING [http-nio-8081-exec-166] org.springframework.web.servlet.DispatcherServlet.noHandlerFound No mapping found for HTTP request with URI [/netbeans-tomcat-status-test] in DispatcherServlet with name 'dispatcher'
+15-Dec-2018 11:39:18.961 WARNING [http-nio-8081-exec-172] org.springframework.web.servlet.DispatcherServlet.noHandlerFound No mapping found for HTTP request with URI [/netbeans-tomcat-status-test] in DispatcherServlet with name 'dispatcher'
+15-Dec-2018 11:39:19.006 INFO [http-nio-8081-exec-164] org.apache.catalina.core.StandardContext.reload Reloading Context with name [/MuaBanNha] has started
+15-Dec-2018 11:39:19.346 INFO [http-nio-8081-exec-164] org.apache.jasper.servlet.TldScanner.scanJars At least one JAR was scanned for TLDs yet contained no TLDs. Enable debug logging for this logger for a complete list of JARs that were scanned but no TLDs were found in them. Skipping unneeded JARs during scanning can improve startup time and JSP compilation time.
+15-Dec-2018 11:39:19.363 INFO [http-nio-8081-exec-164] org.apache.catalina.core.StandardContext.reload Reloading Context with name [/MuaBanNha] is completed
+15-Dec-2018 11:39:19.366 WARNING [http-nio-8081-exec-173] org.springframework.web.servlet.DispatcherServlet.noHandlerFound No mapping found for HTTP request with URI [/netbeans-tomcat-status-test] in DispatcherServlet with name 'dispatcher'
+15-Dec-2018 11:39:20.191 WARNING [252] org.springframework.web.servlet.DispatcherServlet.noHandlerFound No mapping found for HTTP request with URI [/netbeans-tomcat-status-test] in DispatcherServlet with name 'dispatcher'
+15-Dec-2018 11:39:20.202 WARNING [http-nio-8081-exec-170] org.springframework.web.servlet.DispatcherServlet.noHandlerFound No mapping found for HTTP request with URI [/netbeans-tomcat-status-test] in DispatcherServlet with name 'dispatcher'
+15-Dec-2018 11:39:20.242 INFO [http-nio-8081-exec-157] org.apache.catalina.core.StandardContext.reload Reloading Context with name [/MuaBanNha] has started
+15-Dec-2018 11:39:20.588 INFO [http-nio-8081-exec-157] org.apache.jasper.servlet.TldScanner.scanJars At least one JAR was scanned for TLDs yet contained no TLDs. Enable debug logging for this logger for a complete list of JARs that were scanned but no TLDs were found in them. Skipping unneeded JARs during scanning can improve startup time and JSP compilation time.
+15-Dec-2018 11:39:20.609 INFO [http-nio-8081-exec-157] org.apache.catalina.core.StandardContext.reload Reloading Context with name [/MuaBanNha] is completed
+15-Dec-2018 11:39:20.629 WARNING [http-nio-8081-exec-173] org.springframework.web.servlet.DispatcherServlet.noHandlerFound No mapping found for HTTP request with URI [/netbeans-tomcat-status-test] in DispatcherServlet with name 'dispatcher'
+15-Dec-2018 11:39:46.860 WARNING [http-nio-8081-exec-173] org.springframework.web.servlet.DispatcherServlet.noHandlerFound No mapping found for HTTP request with URI [/netbeans-tomcat-status-test] in DispatcherServlet with name 'dispatcher'
+15-Dec-2018 11:39:46.872 WARNING [http-nio-8081-exec-176] org.springframework.web.servlet.DispatcherServlet.noHandlerFound No mapping found for HTTP request with URI [/netbeans-tomcat-status-test] in DispatcherServlet with name 'dispatcher'
+15-Dec-2018 11:39:46.878 WARNING [http-nio-8081-exec-170] org.springframework.web.servlet.DispatcherServlet.noHandlerFound No mapping found for HTTP request with URI [/netbeans-tomcat-status-test] in DispatcherServlet with name 'dispatcher'
+15-Dec-2018 11:39:46.926 INFO [http-nio-8081-exec-177] org.apache.catalina.core.StandardContext.reload Reloading Context with name [/MuaBanNha] has started
+15-Dec-2018 11:39:46.931 WARNING [http-nio-8081-exec-177] org.apache.catalina.loader.WebappClassLoaderBase.clearReferencesJdbc The web application [MuaBanNha] registered the JDBC driver [com.mysql.jdbc.Driver] but failed to unregister it when the web application was stopped. To prevent a memory leak, the JDBC Driver has been forcibly unregistered.
+15-Dec-2018 11:39:46.932 WARNING [http-nio-8081-exec-177] org.apache.catalina.loader.WebappClassLoaderBase.clearReferencesThreads The web application [MuaBanNha] appears to have started a thread named [MySQL Statement Cancellation Timer] but has failed to stop it. This is very likely to create a memory leak. Stack trace of thread:
+ java.lang.Object.wait(Native Method)
+ java.lang.Object.wait(Object.java:502)
+ java.util.TimerThread.mainLoop(Timer.java:526)
+ java.util.TimerThread.run(Timer.java:505)
+15-Dec-2018 11:39:47.257 INFO [http-nio-8081-exec-177] org.apache.jasper.servlet.TldScanner.scanJars At least one JAR was scanned for TLDs yet contained no TLDs. Enable debug logging for this logger for a complete list of JARs that were scanned but no TLDs were found in them. Skipping unneeded JARs during scanning can improve startup time and JSP compilation time.
+15-Dec-2018 11:39:47.274 INFO [http-nio-8081-exec-177] org.apache.catalina.core.StandardContext.reload Reloading Context with name [/MuaBanNha] is completed
+15-Dec-2018 11:39:47.278 WARNING [http-nio-8081-exec-164] org.springframework.web.servlet.DispatcherServlet.noHandlerFound No mapping found for HTTP request with URI [/netbeans-tomcat-status-test] in DispatcherServlet with name 'dispatcher'
+15-Dec-2018 11:39:48.546 WARNING [261] org.springframework.web.servlet.DispatcherServlet.noHandlerFound No mapping found for HTTP request with URI [/netbeans-tomcat-status-test] in DispatcherServlet with name 'dispatcher'
+15-Dec-2018 11:39:48.554 WARNING [http-nio-8081-exec-179] org.springframework.web.servlet.DispatcherServlet.noHandlerFound No mapping found for HTTP request with URI [/netbeans-tomcat-status-test] in DispatcherServlet with name 'dispatcher'
+15-Dec-2018 11:39:48.618 INFO [http-nio-8081-exec-175] org.apache.catalina.core.StandardContext.reload Reloading Context with name [/MuaBanNha] has started
+15-Dec-2018 11:39:48.893 INFO [Finalizer] org.apache.catalina.loader.WebappClassLoaderBase.checkStateForResourceLoading Illegal access: this web application instance has been stopped already. Could not load [com.mysql.jdbc.profiler.ProfileEventSink]. The following stack trace is thrown for debugging purposes as well as to attempt to terminate the thread which caused the illegal access.
+ java.lang.IllegalStateException: Illegal access: this web application instance has been stopped already. Could not load [com.mysql.jdbc.profiler.ProfileEventSink]. The following stack trace is thrown for debugging purposes as well as to attempt to terminate the thread which caused the illegal access.
+	at org.apache.catalina.loader.WebappClassLoaderBase.checkStateForResourceLoading(WebappClassLoaderBase.java:1329)
+	at org.apache.catalina.loader.WebappClassLoaderBase.checkStateForClassLoading(WebappClassLoaderBase.java:1317)
+	at org.apache.catalina.loader.WebappClassLoaderBase.loadClass(WebappClassLoaderBase.java:1176)
+	at org.apache.catalina.loader.WebappClassLoaderBase.loadClass(WebappClassLoaderBase.java:1137)
+	at com.mysql.jdbc.ConnectionImpl.realClose(ConnectionImpl.java:4235)
+	at com.mysql.jdbc.ConnectionImpl.cleanup(ConnectionImpl.java:1257)
+	at com.mysql.jdbc.ConnectionImpl.finalize(ConnectionImpl.java:2663)
+	at java.lang.System$2.invokeFinalize(System.java:1270)
+	at java.lang.ref.Finalizer.runFinalizer(Finalizer.java:98)
+	at java.lang.ref.Finalizer.access$100(Finalizer.java:34)
+	at java.lang.ref.Finalizer$FinalizerThread.run(Finalizer.java:213)
+
+15-Dec-2018 11:39:48.931 INFO [Finalizer] org.apache.catalina.loader.WebappClassLoaderBase.checkStateForResourceLoading Illegal access: this web application instance has been stopped already. Could not load [com.mysql.jdbc.profiler.ProfileEventSink]. The following stack trace is thrown for debugging purposes as well as to attempt to terminate the thread which caused the illegal access.
+ java.lang.IllegalStateException: Illegal access: this web application instance has been stopped already. Could not load [com.mysql.jdbc.profiler.ProfileEventSink]. The following stack trace is thrown for debugging purposes as well as to attempt to terminate the thread which caused the illegal access.
+	at org.apache.catalina.loader.WebappClassLoaderBase.checkStateForResourceLoading(WebappClassLoaderBase.java:1329)
+	at org.apache.catalina.loader.WebappClassLoaderBase.checkStateForClassLoading(WebappClassLoaderBase.java:1317)
+	at org.apache.catalina.loader.WebappClassLoaderBase.loadClass(WebappClassLoaderBase.java:1176)
+	at org.apache.catalina.loader.WebappClassLoaderBase.loadClass(WebappClassLoaderBase.java:1137)
+	at com.mysql.jdbc.ConnectionImpl.realClose(ConnectionImpl.java:4235)
+	at com.mysql.jdbc.ConnectionImpl.cleanup(ConnectionImpl.java:1257)
+	at com.mysql.jdbc.ConnectionImpl.finalize(ConnectionImpl.java:2663)
+	at java.lang.System$2.invokeFinalize(System.java:1270)
+	at java.lang.ref.Finalizer.runFinalizer(Finalizer.java:98)
+	at java.lang.ref.Finalizer.access$100(Finalizer.java:34)
+	at java.lang.ref.Finalizer$FinalizerThread.run(Finalizer.java:213)
+
+15-Dec-2018 11:39:49.329 INFO [http-nio-8081-exec-175] org.apache.jasper.servlet.TldScanner.scanJars At least one JAR was scanned for TLDs yet contained no TLDs. Enable debug logging for this logger for a complete list of JARs that were scanned but no TLDs were found in them. Skipping unneeded JARs during scanning can improve startup time and JSP compilation time.
+15-Dec-2018 11:39:49.345 INFO [http-nio-8081-exec-175] org.apache.catalina.core.StandardContext.reload Reloading Context with name [/MuaBanNha] is completed
+15-Dec-2018 11:39:49.349 WARNING [http-nio-8081-exec-165] org.springframework.web.servlet.DispatcherServlet.noHandlerFound No mapping found for HTTP request with URI [/netbeans-tomcat-status-test] in DispatcherServlet with name 'dispatcher'
+15-Dec-2018 11:41:33.855 WARNING [http-nio-8081-exec-183] org.springframework.web.servlet.DispatcherServlet.noHandlerFound No mapping found for HTTP request with URI [/netbeans-tomcat-status-test] in DispatcherServlet with name 'dispatcher'
+15-Dec-2018 11:41:33.864 WARNING [http-nio-8081-exec-185] org.springframework.web.servlet.DispatcherServlet.noHandlerFound No mapping found for HTTP request with URI [/netbeans-tomcat-status-test] in DispatcherServlet with name 'dispatcher'
+15-Dec-2018 11:41:33.880 WARNING [http-nio-8081-exec-189] org.springframework.web.servlet.DispatcherServlet.noHandlerFound No mapping found for HTTP request with URI [/netbeans-tomcat-status-test] in DispatcherServlet with name 'dispatcher'
+15-Dec-2018 11:41:33.953 INFO [http-nio-8081-exec-187] org.apache.catalina.core.StandardContext.reload Reloading Context with name [/MuaBanNha] has started
+15-Dec-2018 11:41:33.961 WARNING [http-nio-8081-exec-187] org.apache.catalina.loader.WebappClassLoaderBase.clearReferencesJdbc The web application [MuaBanNha] registered the JDBC driver [com.mysql.jdbc.Driver] but failed to unregister it when the web application was stopped. To prevent a memory leak, the JDBC Driver has been forcibly unregistered.
+15-Dec-2018 11:41:33.964 WARNING [http-nio-8081-exec-187] org.apache.catalina.loader.WebappClassLoaderBase.clearReferencesThreads The web application [MuaBanNha] appears to have started a thread named [MySQL Statement Cancellation Timer] but has failed to stop it. This is very likely to create a memory leak. Stack trace of thread:
+ java.lang.Object.wait(Native Method)
+ java.lang.Object.wait(Object.java:502)
+ java.util.TimerThread.mainLoop(Timer.java:526)
+ java.util.TimerThread.run(Timer.java:505)
+15-Dec-2018 11:41:34.459 INFO [http-nio-8081-exec-187] org.apache.jasper.servlet.TldScanner.scanJars At least one JAR was scanned for TLDs yet contained no TLDs. Enable debug logging for this logger for a complete list of JARs that were scanned but no TLDs were found in them. Skipping unneeded JARs during scanning can improve startup time and JSP compilation time.
+15-Dec-2018 11:41:34.477 INFO [http-nio-8081-exec-187] org.apache.catalina.core.StandardContext.reload Reloading Context with name [/MuaBanNha] is completed
+15-Dec-2018 11:41:34.484 WARNING [http-nio-8081-exec-189] org.springframework.web.servlet.DispatcherServlet.noHandlerFound No mapping found for HTTP request with URI [/netbeans-tomcat-status-test] in DispatcherServlet with name 'dispatcher'
+15-Dec-2018 11:42:53.695 WARNING [http-nio-8081-exec-192] org.springframework.web.servlet.DispatcherServlet.noHandlerFound No mapping found for HTTP request with URI [/netbeans-tomcat-status-test] in DispatcherServlet with name 'dispatcher'
+15-Dec-2018 11:42:53.707 WARNING [http-nio-8081-exec-195] org.springframework.web.servlet.DispatcherServlet.noHandlerFound No mapping found for HTTP request with URI [/netbeans-tomcat-status-test] in DispatcherServlet with name 'dispatcher'
+15-Dec-2018 11:42:53.715 WARNING [http-nio-8081-exec-197] org.springframework.web.servlet.DispatcherServlet.noHandlerFound No mapping found for HTTP request with URI [/netbeans-tomcat-status-test] in DispatcherServlet with name 'dispatcher'
+15-Dec-2018 11:42:53.791 INFO [http-nio-8081-exec-193] org.apache.catalina.core.StandardContext.reload Reloading Context with name [/MuaBanNha] has started
+15-Dec-2018 11:42:53.798 WARNING [http-nio-8081-exec-193] org.apache.catalina.loader.WebappClassLoaderBase.clearReferencesJdbc The web application [MuaBanNha] registered the JDBC driver [com.mysql.jdbc.Driver] but failed to unregister it when the web application was stopped. To prevent a memory leak, the JDBC Driver has been forcibly unregistered.
+15-Dec-2018 11:42:53.799 WARNING [http-nio-8081-exec-193] org.apache.catalina.loader.WebappClassLoaderBase.clearReferencesThreads The web application [MuaBanNha] appears to have started a thread named [MySQL Statement Cancellation Timer] but has failed to stop it. This is very likely to create a memory leak. Stack trace of thread:
+ java.lang.Object.wait(Native Method)
+ java.lang.Object.wait(Object.java:502)
+ java.util.TimerThread.mainLoop(Timer.java:526)
+ java.util.TimerThread.run(Timer.java:505)
+15-Dec-2018 11:42:54.143 INFO [http-nio-8081-exec-193] org.apache.jasper.servlet.TldScanner.scanJars At least one JAR was scanned for TLDs yet contained no TLDs. Enable debug logging for this logger for a complete list of JARs that were scanned but no TLDs were found in them. Skipping unneeded JARs during scanning can improve startup time and JSP compilation time.
+15-Dec-2018 11:42:54.160 INFO [http-nio-8081-exec-193] org.apache.catalina.core.StandardContext.reload Reloading Context with name [/MuaBanNha] is completed
+15-Dec-2018 11:42:54.170 WARNING [http-nio-8081-exec-200] org.springframework.web.servlet.DispatcherServlet.noHandlerFound No mapping found for HTTP request with URI [/netbeans-tomcat-status-test] in DispatcherServlet with name 'dispatcher'
+15-Dec-2018 11:42:57.099 WARNING [http-nio-8081-exec-192] org.springframework.web.servlet.DispatcherServlet.noHandlerFound No mapping found for HTTP request with URI [/netbeans-tomcat-status-test] in DispatcherServlet with name 'dispatcher'
+15-Dec-2018 11:42:57.106 WARNING [http-nio-8081-exec-195] org.springframework.web.servlet.DispatcherServlet.noHandlerFound No mapping found for HTTP request with URI [/netbeans-tomcat-status-test] in DispatcherServlet with name 'dispatcher'
+15-Dec-2018 11:42:57.112 WARNING [http-nio-8081-exec-196] org.springframework.web.servlet.DispatcherServlet.noHandlerFound No mapping found for HTTP request with URI [/netbeans-tomcat-status-test] in DispatcherServlet with name 'dispatcher'
+15-Dec-2018 11:42:57.159 INFO [http-nio-8081-exec-194] org.apache.catalina.core.StandardContext.reload Reloading Context with name [/MuaBanNha] has started
+15-Dec-2018 11:42:57.559 INFO [http-nio-8081-exec-194] org.apache.jasper.servlet.TldScanner.scanJars At least one JAR was scanned for TLDs yet contained no TLDs. Enable debug logging for this logger for a complete list of JARs that were scanned but no TLDs were found in them. Skipping unneeded JARs during scanning can improve startup time and JSP compilation time.
+15-Dec-2018 11:42:57.578 INFO [http-nio-8081-exec-194] org.apache.catalina.core.StandardContext.reload Reloading Context with name [/MuaBanNha] is completed
+15-Dec-2018 11:42:57.583 WARNING [http-nio-8081-exec-201] org.springframework.web.servlet.DispatcherServlet.noHandlerFound No mapping found for HTTP request with URI [/netbeans-tomcat-status-test] in DispatcherServlet with name 'dispatcher'
+15-Dec-2018 11:43:06.493 WARNING [287] org.springframework.web.servlet.DispatcherServlet.noHandlerFound No mapping found for HTTP request with URI [/netbeans-tomcat-status-test] in DispatcherServlet with name 'dispatcher'
+15-Dec-2018 11:43:06.526 WARNING [http-nio-8081-exec-197] org.springframework.web.servlet.DispatcherServlet.noHandlerFound No mapping found for HTTP request with URI [/netbeans-tomcat-status-test] in DispatcherServlet with name 'dispatcher'
+15-Dec-2018 11:43:06.546 WARNING [http-nio-8081-exec-191] org.springframework.web.servlet.DispatcherServlet.noHandlerFound No mapping found for HTTP request with URI [/netbeans-tomcat-status-test] in DispatcherServlet with name 'dispatcher'
+15-Dec-2018 11:43:06.607 INFO [http-nio-8081-exec-193] org.apache.catalina.core.StandardContext.reload Reloading Context with name [/MuaBanNha] has started
+15-Dec-2018 11:43:07.117 INFO [http-nio-8081-exec-193] org.apache.jasper.servlet.TldScanner.scanJars At least one JAR was scanned for TLDs yet contained no TLDs. Enable debug logging for this logger for a complete list of JARs that were scanned but no TLDs were found in them. Skipping unneeded JARs during scanning can improve startup time and JSP compilation time.
+15-Dec-2018 11:43:07.135 INFO [http-nio-8081-exec-193] org.apache.catalina.core.StandardContext.reload Reloading Context with name [/MuaBanNha] is completed
+15-Dec-2018 11:43:07.145 WARNING [http-nio-8081-exec-199] org.springframework.web.servlet.DispatcherServlet.noHandlerFound No mapping found for HTTP request with URI [/netbeans-tomcat-status-test] in DispatcherServlet with name 'dispatcher'
+15-Dec-2018 11:43:20.275 WARNING [286] org.springframework.web.servlet.DispatcherServlet.noHandlerFound No mapping found for HTTP request with URI [/netbeans-tomcat-status-test] in DispatcherServlet with name 'dispatcher'
+15-Dec-2018 11:43:20.300 WARNING [http-nio-8081-exec-197] org.springframework.web.servlet.DispatcherServlet.noHandlerFound No mapping found for HTTP request with URI [/netbeans-tomcat-status-test] in DispatcherServlet with name 'dispatcher'
+15-Dec-2018 11:43:20.309 WARNING [http-nio-8081-exec-191] org.springframework.web.servlet.DispatcherServlet.noHandlerFound No mapping found for HTTP request with URI [/netbeans-tomcat-status-test] in DispatcherServlet with name 'dispatcher'
+15-Dec-2018 11:43:20.359 INFO [http-nio-8081-exec-200] org.apache.catalina.core.StandardContext.reload Reloading Context with name [/MuaBanNha] has started
+15-Dec-2018 11:43:20.770 INFO [http-nio-8081-exec-200] org.apache.jasper.servlet.TldScanner.scanJars At least one JAR was scanned for TLDs yet contained no TLDs. Enable debug logging for this logger for a complete list of JARs that were scanned but no TLDs were found in them. Skipping unneeded JARs during scanning can improve startup time and JSP compilation time.
+15-Dec-2018 11:43:20.793 INFO [http-nio-8081-exec-200] org.apache.catalina.core.StandardContext.reload Reloading Context with name [/MuaBanNha] is completed
+15-Dec-2018 11:43:20.810 WARNING [http-nio-8081-exec-193] org.springframework.web.servlet.DispatcherServlet.noHandlerFound No mapping found for HTTP request with URI [/netbeans-tomcat-status-test] in DispatcherServlet with name 'dispatcher'
+15-Dec-2018 11:43:50.807 WARNING [http-nio-8081-exec-201] org.springframework.web.servlet.DispatcherServlet.noHandlerFound No mapping found for HTTP request with URI [/netbeans-tomcat-status-test] in DispatcherServlet with name 'dispatcher'
+15-Dec-2018 11:43:50.818 WARNING [http-nio-8081-exec-199] org.springframework.web.servlet.DispatcherServlet.noHandlerFound No mapping found for HTTP request with URI [/netbeans-tomcat-status-test] in DispatcherServlet with name 'dispatcher'
+15-Dec-2018 11:43:50.828 WARNING [http-nio-8081-exec-202] org.springframework.web.servlet.DispatcherServlet.noHandlerFound No mapping found for HTTP request with URI [/netbeans-tomcat-status-test] in DispatcherServlet with name 'dispatcher'
+15-Dec-2018 11:43:50.890 INFO [http-nio-8081-exec-197] org.apache.catalina.core.StandardContext.reload Reloading Context with name [/MuaBanNha] has started
+15-Dec-2018 11:43:51.040 INFO [Finalizer] org.apache.catalina.loader.WebappClassLoaderBase.checkStateForResourceLoading Illegal access: this web application instance has been stopped already. Could not load [com.mysql.jdbc.SQLError]. The following stack trace is thrown for debugging purposes as well as to attempt to terminate the thread which caused the illegal access.
+ java.lang.IllegalStateException: Illegal access: this web application instance has been stopped already. Could not load [com.mysql.jdbc.SQLError]. The following stack trace is thrown for debugging purposes as well as to attempt to terminate the thread which caused the illegal access.
+	at org.apache.catalina.loader.WebappClassLoaderBase.checkStateForResourceLoading(WebappClassLoaderBase.java:1329)
+	at org.apache.catalina.loader.WebappClassLoaderBase.checkStateForClassLoading(WebappClassLoaderBase.java:1317)
+	at org.apache.catalina.loader.WebappClassLoaderBase.loadClass(WebappClassLoaderBase.java:1176)
+	at org.apache.catalina.loader.WebappClassLoaderBase.loadClass(WebappClassLoaderBase.java:1137)
+	at com.mysql.jdbc.MysqlIO.send(MysqlIO.java:3134)
+	at com.mysql.jdbc.MysqlIO.quit(MysqlIO.java:1616)
+	at com.mysql.jdbc.ConnectionImpl.realClose(ConnectionImpl.java:4223)
+	at com.mysql.jdbc.ConnectionImpl.cleanup(ConnectionImpl.java:1257)
+	at com.mysql.jdbc.ConnectionImpl.finalize(ConnectionImpl.java:2663)
+	at java.lang.System$2.invokeFinalize(System.java:1270)
+	at java.lang.ref.Finalizer.runFinalizer(Finalizer.java:98)
+	at java.lang.ref.Finalizer.access$100(Finalizer.java:34)
+	at java.lang.ref.Finalizer$FinalizerThread.run(Finalizer.java:213)
+
+15-Dec-2018 11:43:51.041 INFO [Finalizer] org.apache.catalina.loader.WebappClassLoaderBase.checkStateForResourceLoading Illegal access: this web application instance has been stopped already. Could not load [com.mysql.jdbc.profiler.ProfileEventSink]. The following stack trace is thrown for debugging purposes as well as to attempt to terminate the thread which caused the illegal access.
+ java.lang.IllegalStateException: Illegal access: this web application instance has been stopped already. Could not load [com.mysql.jdbc.profiler.ProfileEventSink]. The following stack trace is thrown for debugging purposes as well as to attempt to terminate the thread which caused the illegal access.
+	at org.apache.catalina.loader.WebappClassLoaderBase.checkStateForResourceLoading(WebappClassLoaderBase.java:1329)
+	at org.apache.catalina.loader.WebappClassLoaderBase.checkStateForClassLoading(WebappClassLoaderBase.java:1317)
+	at org.apache.catalina.loader.WebappClassLoaderBase.loadClass(WebappClassLoaderBase.java:1176)
+	at org.apache.catalina.loader.WebappClassLoaderBase.loadClass(WebappClassLoaderBase.java:1137)
+	at com.mysql.jdbc.ConnectionImpl.realClose(ConnectionImpl.java:4235)
+	at com.mysql.jdbc.ConnectionImpl.cleanup(ConnectionImpl.java:1257)
+	at com.mysql.jdbc.ConnectionImpl.finalize(ConnectionImpl.java:2663)
+	at java.lang.System$2.invokeFinalize(System.java:1270)
+	at java.lang.ref.Finalizer.runFinalizer(Finalizer.java:98)
+	at java.lang.ref.Finalizer.access$100(Finalizer.java:34)
+	at java.lang.ref.Finalizer$FinalizerThread.run(Finalizer.java:213)
+
+15-Dec-2018 11:43:51.100 INFO [Finalizer] org.apache.catalina.loader.WebappClassLoaderBase.checkStateForResourceLoading Illegal access: this web application instance has been stopped already. Could not load [com.mysql.jdbc.SQLError]. The following stack trace is thrown for debugging purposes as well as to attempt to terminate the thread which caused the illegal access.
+ java.lang.IllegalStateException: Illegal access: this web application instance has been stopped already. Could not load [com.mysql.jdbc.SQLError]. The following stack trace is thrown for debugging purposes as well as to attempt to terminate the thread which caused the illegal access.
+	at org.apache.catalina.loader.WebappClassLoaderBase.checkStateForResourceLoading(WebappClassLoaderBase.java:1329)
+	at org.apache.catalina.loader.WebappClassLoaderBase.checkStateForClassLoading(WebappClassLoaderBase.java:1317)
+	at org.apache.catalina.loader.WebappClassLoaderBase.loadClass(WebappClassLoaderBase.java:1176)
+	at org.apache.catalina.loader.WebappClassLoaderBase.loadClass(WebappClassLoaderBase.java:1137)
+	at com.mysql.jdbc.MysqlIO.send(MysqlIO.java:3134)
+	at com.mysql.jdbc.MysqlIO.quit(MysqlIO.java:1616)
+	at com.mysql.jdbc.ConnectionImpl.realClose(ConnectionImpl.java:4223)
+	at com.mysql.jdbc.ConnectionImpl.cleanup(ConnectionImpl.java:1257)
+	at com.mysql.jdbc.ConnectionImpl.finalize(ConnectionImpl.java:2663)
+	at java.lang.System$2.invokeFinalize(System.java:1270)
+	at java.lang.ref.Finalizer.runFinalizer(Finalizer.java:98)
+	at java.lang.ref.Finalizer.access$100(Finalizer.java:34)
+	at java.lang.ref.Finalizer$FinalizerThread.run(Finalizer.java:213)
+
+15-Dec-2018 11:43:51.100 INFO [Finalizer] org.apache.catalina.loader.WebappClassLoaderBase.checkStateForResourceLoading Illegal access: this web application instance has been stopped already. Could not load [com.mysql.jdbc.profiler.ProfileEventSink]. The following stack trace is thrown for debugging purposes as well as to attempt to terminate the thread which caused the illegal access.
+ java.lang.IllegalStateException: Illegal access: this web application instance has been stopped already. Could not load [com.mysql.jdbc.profiler.ProfileEventSink]. The following stack trace is thrown for debugging purposes as well as to attempt to terminate the thread which caused the illegal access.
+	at org.apache.catalina.loader.WebappClassLoaderBase.checkStateForResourceLoading(WebappClassLoaderBase.java:1329)
+	at org.apache.catalina.loader.WebappClassLoaderBase.checkStateForClassLoading(WebappClassLoaderBase.java:1317)
+	at org.apache.catalina.loader.WebappClassLoaderBase.loadClass(WebappClassLoaderBase.java:1176)
+	at org.apache.catalina.loader.WebappClassLoaderBase.loadClass(WebappClassLoaderBase.java:1137)
+	at com.mysql.jdbc.ConnectionImpl.realClose(ConnectionImpl.java:4235)
+	at com.mysql.jdbc.ConnectionImpl.cleanup(ConnectionImpl.java:1257)
+	at com.mysql.jdbc.ConnectionImpl.finalize(ConnectionImpl.java:2663)
+	at java.lang.System$2.invokeFinalize(System.java:1270)
+	at java.lang.ref.Finalizer.runFinalizer(Finalizer.java:98)
+	at java.lang.ref.Finalizer.access$100(Finalizer.java:34)
+	at java.lang.ref.Finalizer$FinalizerThread.run(Finalizer.java:213)
+
+15-Dec-2018 11:43:51.594 INFO [http-nio-8081-exec-197] org.apache.jasper.servlet.TldScanner.scanJars At least one JAR was scanned for TLDs yet contained no TLDs. Enable debug logging for this logger for a complete list of JARs that were scanned but no TLDs were found in them. Skipping unneeded JARs during scanning can improve startup time and JSP compilation time.
+15-Dec-2018 11:43:51.607 INFO [http-nio-8081-exec-197] org.apache.catalina.core.StandardContext.reload Reloading Context with name [/MuaBanNha] is completed
+15-Dec-2018 11:43:51.612 WARNING [http-nio-8081-exec-200] org.springframework.web.servlet.DispatcherServlet.noHandlerFound No mapping found for HTTP request with URI [/netbeans-tomcat-status-test] in DispatcherServlet with name 'dispatcher'
+15-Dec-2018 11:44:08.779 WARNING [http-nio-8081-exec-207] org.springframework.web.servlet.DispatcherServlet.noHandlerFound No mapping found for HTTP request with URI [/netbeans-tomcat-status-test] in DispatcherServlet with name 'dispatcher'
+15-Dec-2018 11:44:08.792 WARNING [http-nio-8081-exec-211] org.springframework.web.servlet.DispatcherServlet.noHandlerFound No mapping found for HTTP request with URI [/netbeans-tomcat-status-test] in DispatcherServlet with name 'dispatcher'
+15-Dec-2018 11:44:08.801 WARNING [http-nio-8081-exec-203] org.springframework.web.servlet.DispatcherServlet.noHandlerFound No mapping found for HTTP request with URI [/netbeans-tomcat-status-test] in DispatcherServlet with name 'dispatcher'
+15-Dec-2018 11:44:08.861 INFO [http-nio-8081-exec-210] org.apache.catalina.core.StandardContext.reload Reloading Context with name [/MuaBanNha] has started
+15-Dec-2018 11:44:08.866 WARNING [http-nio-8081-exec-210] org.apache.catalina.loader.WebappClassLoaderBase.clearReferencesJdbc The web application [MuaBanNha] registered the JDBC driver [com.mysql.jdbc.Driver] but failed to unregister it when the web application was stopped. To prevent a memory leak, the JDBC Driver has been forcibly unregistered.
+15-Dec-2018 11:44:08.867 WARNING [http-nio-8081-exec-210] org.apache.catalina.loader.WebappClassLoaderBase.clearReferencesThreads The web application [MuaBanNha] appears to have started a thread named [MySQL Statement Cancellation Timer] but has failed to stop it. This is very likely to create a memory leak. Stack trace of thread:
+ java.lang.Object.wait(Native Method)
+ java.lang.Object.wait(Object.java:502)
+ java.util.TimerThread.mainLoop(Timer.java:526)
+ java.util.TimerThread.run(Timer.java:505)
+15-Dec-2018 11:44:09.258 INFO [http-nio-8081-exec-210] org.apache.jasper.servlet.TldScanner.scanJars At least one JAR was scanned for TLDs yet contained no TLDs. Enable debug logging for this logger for a complete list of JARs that were scanned but no TLDs were found in them. Skipping unneeded JARs during scanning can improve startup time and JSP compilation time.
+15-Dec-2018 11:44:09.278 INFO [http-nio-8081-exec-210] org.apache.catalina.core.StandardContext.reload Reloading Context with name [/MuaBanNha] is completed
+15-Dec-2018 11:44:09.290 WARNING [http-nio-8081-exec-208] org.springframework.web.servlet.DispatcherServlet.noHandlerFound No mapping found for HTTP request with URI [/netbeans-tomcat-status-test] in DispatcherServlet with name 'dispatcher'
+15-Dec-2018 11:44:15.998 WARNING [http-nio-8081-exec-207] org.springframework.web.servlet.DispatcherServlet.noHandlerFound No mapping found for HTTP request with URI [/netbeans-tomcat-status-test] in DispatcherServlet with name 'dispatcher'
+15-Dec-2018 11:44:16.005 WARNING [http-nio-8081-exec-209] org.springframework.web.servlet.DispatcherServlet.noHandlerFound No mapping found for HTTP request with URI [/netbeans-tomcat-status-test] in DispatcherServlet with name 'dispatcher'
+15-Dec-2018 11:44:16.015 WARNING [http-nio-8081-exec-212] org.springframework.web.servlet.DispatcherServlet.noHandlerFound No mapping found for HTTP request with URI [/netbeans-tomcat-status-test] in DispatcherServlet with name 'dispatcher'
+15-Dec-2018 11:44:16.068 INFO [http-nio-8081-exec-193] org.apache.catalina.core.StandardContext.reload Reloading Context with name [/MuaBanNha] has started
+15-Dec-2018 11:44:16.072 WARNING [http-nio-8081-exec-193] org.apache.catalina.loader.WebappClassLoaderBase.clearReferencesJdbc The web application [MuaBanNha] registered the JDBC driver [com.mysql.jdbc.Driver] but failed to unregister it when the web application was stopped. To prevent a memory leak, the JDBC Driver has been forcibly unregistered.
+15-Dec-2018 11:44:16.074 WARNING [http-nio-8081-exec-193] org.apache.catalina.loader.WebappClassLoaderBase.clearReferencesThreads The web application [MuaBanNha] appears to have started a thread named [MySQL Statement Cancellation Timer] but has failed to stop it. This is very likely to create a memory leak. Stack trace of thread:
+ java.lang.Object.wait(Native Method)
+ java.lang.Object.wait(Object.java:502)
+ java.util.TimerThread.mainLoop(Timer.java:526)
+ java.util.TimerThread.run(Timer.java:505)
+15-Dec-2018 11:44:16.630 INFO [http-nio-8081-exec-193] org.apache.jasper.servlet.TldScanner.scanJars At least one JAR was scanned for TLDs yet contained no TLDs. Enable debug logging for this logger for a complete list of JARs that were scanned but no TLDs were found in them. Skipping unneeded JARs during scanning can improve startup time and JSP compilation time.
+15-Dec-2018 11:44:16.652 INFO [http-nio-8081-exec-193] org.apache.catalina.core.StandardContext.reload Reloading Context with name [/MuaBanNha] is completed
+15-Dec-2018 11:44:16.672 WARNING [http-nio-8081-exec-208] org.springframework.web.servlet.DispatcherServlet.noHandlerFound No mapping found for HTTP request with URI [/netbeans-tomcat-status-test] in DispatcherServlet with name 'dispatcher'
+15-Dec-2018 11:44:48.727 INFO [Finalizer] org.apache.catalina.loader.WebappClassLoaderBase.checkStateForResourceLoading Illegal access: this web application instance has been stopped already. Could not load [com.mysql.jdbc.SQLError]. The following stack trace is thrown for debugging purposes as well as to attempt to terminate the thread which caused the illegal access.
+ java.lang.IllegalStateException: Illegal access: this web application instance has been stopped already. Could not load [com.mysql.jdbc.SQLError]. The following stack trace is thrown for debugging purposes as well as to attempt to terminate the thread which caused the illegal access.
+	at org.apache.catalina.loader.WebappClassLoaderBase.checkStateForResourceLoading(WebappClassLoaderBase.java:1329)
+	at org.apache.catalina.loader.WebappClassLoaderBase.checkStateForClassLoading(WebappClassLoaderBase.java:1317)
+	at org.apache.catalina.loader.WebappClassLoaderBase.loadClass(WebappClassLoaderBase.java:1176)
+	at org.apache.catalina.loader.WebappClassLoaderBase.loadClass(WebappClassLoaderBase.java:1137)
+	at com.mysql.jdbc.MysqlIO.send(MysqlIO.java:3134)
+	at com.mysql.jdbc.MysqlIO.quit(MysqlIO.java:1616)
+	at com.mysql.jdbc.ConnectionImpl.realClose(ConnectionImpl.java:4223)
+	at com.mysql.jdbc.ConnectionImpl.cleanup(ConnectionImpl.java:1257)
+	at com.mysql.jdbc.ConnectionImpl.finalize(ConnectionImpl.java:2663)
+	at java.lang.System$2.invokeFinalize(System.java:1270)
+	at java.lang.ref.Finalizer.runFinalizer(Finalizer.java:98)
+	at java.lang.ref.Finalizer.access$100(Finalizer.java:34)
+	at java.lang.ref.Finalizer$FinalizerThread.run(Finalizer.java:213)
+
+15-Dec-2018 11:44:48.728 INFO [Finalizer] org.apache.catalina.loader.WebappClassLoaderBase.checkStateForResourceLoading Illegal access: this web application instance has been stopped already. Could not load [com.mysql.jdbc.profiler.ProfileEventSink]. The following stack trace is thrown for debugging purposes as well as to attempt to terminate the thread which caused the illegal access.
+ java.lang.IllegalStateException: Illegal access: this web application instance has been stopped already. Could not load [com.mysql.jdbc.profiler.ProfileEventSink]. The following stack trace is thrown for debugging purposes as well as to attempt to terminate the thread which caused the illegal access.
+	at org.apache.catalina.loader.WebappClassLoaderBase.checkStateForResourceLoading(WebappClassLoaderBase.java:1329)
+	at org.apache.catalina.loader.WebappClassLoaderBase.checkStateForClassLoading(WebappClassLoaderBase.java:1317)
+	at org.apache.catalina.loader.WebappClassLoaderBase.loadClass(WebappClassLoaderBase.java:1176)
+	at org.apache.catalina.loader.WebappClassLoaderBase.loadClass(WebappClassLoaderBase.java:1137)
+	at com.mysql.jdbc.ConnectionImpl.realClose(ConnectionImpl.java:4235)
+	at com.mysql.jdbc.ConnectionImpl.cleanup(ConnectionImpl.java:1257)
+	at com.mysql.jdbc.ConnectionImpl.finalize(ConnectionImpl.java:2663)
+	at java.lang.System$2.invokeFinalize(System.java:1270)
+	at java.lang.ref.Finalizer.runFinalizer(Finalizer.java:98)
+	at java.lang.ref.Finalizer.access$100(Finalizer.java:34)
+	at java.lang.ref.Finalizer$FinalizerThread.run(Finalizer.java:213)
+
+15-Dec-2018 11:44:48.756 INFO [Finalizer] org.apache.catalina.loader.WebappClassLoaderBase.checkStateForResourceLoading Illegal access: this web application instance has been stopped already. Could not load [com.mysql.jdbc.SQLError]. The following stack trace is thrown for debugging purposes as well as to attempt to terminate the thread which caused the illegal access.
+ java.lang.IllegalStateException: Illegal access: this web application instance has been stopped already. Could not load [com.mysql.jdbc.SQLError]. The following stack trace is thrown for debugging purposes as well as to attempt to terminate the thread which caused the illegal access.
+	at org.apache.catalina.loader.WebappClassLoaderBase.checkStateForResourceLoading(WebappClassLoaderBase.java:1329)
+	at org.apache.catalina.loader.WebappClassLoaderBase.checkStateForClassLoading(WebappClassLoaderBase.java:1317)
+	at org.apache.catalina.loader.WebappClassLoaderBase.loadClass(WebappClassLoaderBase.java:1176)
+	at org.apache.catalina.loader.WebappClassLoaderBase.loadClass(WebappClassLoaderBase.java:1137)
+	at com.mysql.jdbc.MysqlIO.send(MysqlIO.java:3134)
+	at com.mysql.jdbc.MysqlIO.quit(MysqlIO.java:1616)
+	at com.mysql.jdbc.ConnectionImpl.realClose(ConnectionImpl.java:4223)
+	at com.mysql.jdbc.ConnectionImpl.cleanup(ConnectionImpl.java:1257)
+	at com.mysql.jdbc.ConnectionImpl.finalize(ConnectionImpl.java:2663)
+	at java.lang.System$2.invokeFinalize(System.java:1270)
+	at java.lang.ref.Finalizer.runFinalizer(Finalizer.java:98)
+	at java.lang.ref.Finalizer.access$100(Finalizer.java:34)
+	at java.lang.ref.Finalizer$FinalizerThread.run(Finalizer.java:213)
+
+15-Dec-2018 11:44:48.825 INFO [Finalizer] org.apache.catalina.loader.WebappClassLoaderBase.checkStateForResourceLoading Illegal access: this web application instance has been stopped already. Could not load [com.mysql.jdbc.profiler.ProfileEventSink]. The following stack trace is thrown for debugging purposes as well as to attempt to terminate the thread which caused the illegal access.
+ java.lang.IllegalStateException: Illegal access: this web application instance has been stopped already. Could not load [com.mysql.jdbc.profiler.ProfileEventSink]. The following stack trace is thrown for debugging purposes as well as to attempt to terminate the thread which caused the illegal access.
+	at org.apache.catalina.loader.WebappClassLoaderBase.checkStateForResourceLoading(WebappClassLoaderBase.java:1329)
+	at org.apache.catalina.loader.WebappClassLoaderBase.checkStateForClassLoading(WebappClassLoaderBase.java:1317)
+	at org.apache.catalina.loader.WebappClassLoaderBase.loadClass(WebappClassLoaderBase.java:1176)
+	at org.apache.catalina.loader.WebappClassLoaderBase.loadClass(WebappClassLoaderBase.java:1137)
+	at com.mysql.jdbc.ConnectionImpl.realClose(ConnectionImpl.java:4235)
+	at com.mysql.jdbc.ConnectionImpl.cleanup(ConnectionImpl.java:1257)
+	at com.mysql.jdbc.ConnectionImpl.finalize(ConnectionImpl.java:2663)
+	at java.lang.System$2.invokeFinalize(System.java:1270)
+	at java.lang.ref.Finalizer.runFinalizer(Finalizer.java:98)
+	at java.lang.ref.Finalizer.access$100(Finalizer.java:34)
+	at java.lang.ref.Finalizer$FinalizerThread.run(Finalizer.java:213)
+
+15-Dec-2018 11:45:33.927 WARNING [http-nio-8081-exec-215] org.springframework.web.servlet.DispatcherServlet.noHandlerFound No mapping found for HTTP request with URI [/netbeans-tomcat-status-test] in DispatcherServlet with name 'dispatcher'
+15-Dec-2018 11:45:33.937 WARNING [http-nio-8081-exec-209] org.springframework.web.servlet.DispatcherServlet.noHandlerFound No mapping found for HTTP request with URI [/netbeans-tomcat-status-test] in DispatcherServlet with name 'dispatcher'
+15-Dec-2018 11:45:33.943 WARNING [http-nio-8081-exec-219] org.springframework.web.servlet.DispatcherServlet.noHandlerFound No mapping found for HTTP request with URI [/netbeans-tomcat-status-test] in DispatcherServlet with name 'dispatcher'
+15-Dec-2018 11:45:34.022 INFO [http-nio-8081-exec-214] org.apache.catalina.core.StandardContext.reload Reloading Context with name [/MuaBanNha] has started
+15-Dec-2018 11:45:34.030 WARNING [http-nio-8081-exec-214] org.apache.catalina.loader.WebappClassLoaderBase.clearReferencesJdbc The web application [MuaBanNha] registered the JDBC driver [com.mysql.jdbc.Driver] but failed to unregister it when the web application was stopped. To prevent a memory leak, the JDBC Driver has been forcibly unregistered.
+15-Dec-2018 11:45:34.031 WARNING [http-nio-8081-exec-214] org.apache.catalina.loader.WebappClassLoaderBase.clearReferencesThreads The web application [MuaBanNha] appears to have started a thread named [MySQL Statement Cancellation Timer] but has failed to stop it. This is very likely to create a memory leak. Stack trace of thread:
+ java.lang.Object.wait(Native Method)
+ java.lang.Object.wait(Object.java:502)
+ java.util.TimerThread.mainLoop(Timer.java:526)
+ java.util.TimerThread.run(Timer.java:505)
+15-Dec-2018 11:45:34.390 INFO [http-nio-8081-exec-214] org.apache.jasper.servlet.TldScanner.scanJars At least one JAR was scanned for TLDs yet contained no TLDs. Enable debug logging for this logger for a complete list of JARs that were scanned but no TLDs were found in them. Skipping unneeded JARs during scanning can improve startup time and JSP compilation time.
+15-Dec-2018 11:45:34.403 INFO [http-nio-8081-exec-214] org.apache.catalina.core.StandardContext.reload Reloading Context with name [/MuaBanNha] is completed
+15-Dec-2018 11:45:34.412 WARNING [http-nio-8081-exec-216] org.springframework.web.servlet.DispatcherServlet.noHandlerFound No mapping found for HTTP request with URI [/netbeans-tomcat-status-test] in DispatcherServlet with name 'dispatcher'
+15-Dec-2018 11:45:45.881 WARNING [http-nio-8081-exec-220] org.springframework.web.servlet.DispatcherServlet.noHandlerFound No mapping found for HTTP request with URI [/netbeans-tomcat-status-test] in DispatcherServlet with name 'dispatcher'
+15-Dec-2018 11:45:45.896 WARNING [http-nio-8081-exec-219] org.springframework.web.servlet.DispatcherServlet.noHandlerFound No mapping found for HTTP request with URI [/netbeans-tomcat-status-test] in DispatcherServlet with name 'dispatcher'
+15-Dec-2018 11:45:45.910 WARNING [http-nio-8081-exec-201] org.springframework.web.servlet.DispatcherServlet.noHandlerFound No mapping found for HTTP request with URI [/netbeans-tomcat-status-test] in DispatcherServlet with name 'dispatcher'
+15-Dec-2018 11:45:45.965 INFO [http-nio-8081-exec-219] org.apache.catalina.core.StandardContext.reload Reloading Context with name [/MuaBanNha] has started
+15-Dec-2018 11:45:46.433 INFO [http-nio-8081-exec-219] org.apache.jasper.servlet.TldScanner.scanJars At least one JAR was scanned for TLDs yet contained no TLDs. Enable debug logging for this logger for a complete list of JARs that were scanned but no TLDs were found in them. Skipping unneeded JARs during scanning can improve startup time and JSP compilation time.
+15-Dec-2018 11:45:46.451 INFO [http-nio-8081-exec-219] org.apache.catalina.core.StandardContext.reload Reloading Context with name [/MuaBanNha] is completed
+15-Dec-2018 11:45:46.602 WARNING [http-nio-8081-exec-216] org.springframework.web.servlet.DispatcherServlet.noHandlerFound No mapping found for HTTP request with URI [/netbeans-tomcat-status-test] in DispatcherServlet with name 'dispatcher'
+15-Dec-2018 11:46:03.870 WARNING [313] org.springframework.web.servlet.DispatcherServlet.noHandlerFound No mapping found for HTTP request with URI [/netbeans-tomcat-status-test] in DispatcherServlet with name 'dispatcher'
+15-Dec-2018 11:46:03.888 WARNING [http-nio-8081-exec-211] org.springframework.web.servlet.DispatcherServlet.noHandlerFound No mapping found for HTTP request with URI [/netbeans-tomcat-status-test] in DispatcherServlet with name 'dispatcher'
+15-Dec-2018 11:46:03.893 WARNING [http-nio-8081-exec-217] org.springframework.web.servlet.DispatcherServlet.noHandlerFound No mapping found for HTTP request with URI [/netbeans-tomcat-status-test] in DispatcherServlet with name 'dispatcher'
+15-Dec-2018 11:46:03.932 INFO [http-nio-8081-exec-214] org.apache.catalina.core.StandardContext.reload Reloading Context with name [/MuaBanNha] has started
+15-Dec-2018 11:46:04.273 INFO [http-nio-8081-exec-214] org.apache.jasper.servlet.TldScanner.scanJars At least one JAR was scanned for TLDs yet contained no TLDs. Enable debug logging for this logger for a complete list of JARs that were scanned but no TLDs were found in them. Skipping unneeded JARs during scanning can improve startup time and JSP compilation time.
+15-Dec-2018 11:46:04.292 INFO [http-nio-8081-exec-214] org.apache.catalina.core.StandardContext.reload Reloading Context with name [/MuaBanNha] is completed
+15-Dec-2018 11:46:04.296 WARNING [http-nio-8081-exec-221] org.springframework.web.servlet.DispatcherServlet.noHandlerFound No mapping found for HTTP request with URI [/netbeans-tomcat-status-test] in DispatcherServlet with name 'dispatcher'
+15-Dec-2018 11:49:10.232 WARNING [http-nio-8081-exec-227] org.springframework.web.servlet.DispatcherServlet.noHandlerFound No mapping found for HTTP request with URI [/netbeans-tomcat-status-test] in DispatcherServlet with name 'dispatcher'
+15-Dec-2018 11:49:10.240 WARNING [http-nio-8081-exec-229] org.springframework.web.servlet.DispatcherServlet.noHandlerFound No mapping found for HTTP request with URI [/netbeans-tomcat-status-test] in DispatcherServlet with name 'dispatcher'
+15-Dec-2018 11:49:10.247 WARNING [http-nio-8081-exec-230] org.springframework.web.servlet.DispatcherServlet.noHandlerFound No mapping found for HTTP request with URI [/netbeans-tomcat-status-test] in DispatcherServlet with name 'dispatcher'
+15-Dec-2018 11:49:10.299 INFO [http-nio-8081-exec-232] org.apache.catalina.core.StandardContext.reload Reloading Context with name [/MuaBanNha] has started
+15-Dec-2018 11:49:10.305 WARNING [http-nio-8081-exec-232] org.apache.catalina.loader.WebappClassLoaderBase.clearReferencesJdbc The web application [MuaBanNha] registered the JDBC driver [com.mysql.jdbc.Driver] but failed to unregister it when the web application was stopped. To prevent a memory leak, the JDBC Driver has been forcibly unregistered.
+15-Dec-2018 11:49:10.306 WARNING [http-nio-8081-exec-232] org.apache.catalina.loader.WebappClassLoaderBase.clearReferencesThreads The web application [MuaBanNha] appears to have started a thread named [MySQL Statement Cancellation Timer] but has failed to stop it. This is very likely to create a memory leak. Stack trace of thread:
+ java.lang.Object.wait(Native Method)
+ java.lang.Object.wait(Object.java:502)
+ java.util.TimerThread.mainLoop(Timer.java:526)
+ java.util.TimerThread.run(Timer.java:505)
+15-Dec-2018 11:49:10.689 INFO [http-nio-8081-exec-232] org.apache.jasper.servlet.TldScanner.scanJars At least one JAR was scanned for TLDs yet contained no TLDs. Enable debug logging for this logger for a complete list of JARs that were scanned but no TLDs were found in them. Skipping unneeded JARs during scanning can improve startup time and JSP compilation time.
+15-Dec-2018 11:49:10.707 INFO [http-nio-8081-exec-232] org.apache.catalina.core.StandardContext.reload Reloading Context with name [/MuaBanNha] is completed
+15-Dec-2018 11:49:10.711 WARNING [http-nio-8081-exec-228] org.springframework.web.servlet.DispatcherServlet.noHandlerFound No mapping found for HTTP request with URI [/netbeans-tomcat-status-test] in DispatcherServlet with name 'dispatcher'
+15-Dec-2018 11:49:28.132 WARNING [http-nio-8081-exec-226] org.springframework.web.servlet.DispatcherServlet.noHandlerFound No mapping found for HTTP request with URI [/netbeans-tomcat-status-test] in DispatcherServlet with name 'dispatcher'
+15-Dec-2018 11:49:28.139 WARNING [http-nio-8081-exec-235] org.springframework.web.servlet.DispatcherServlet.noHandlerFound No mapping found for HTTP request with URI [/netbeans-tomcat-status-test] in DispatcherServlet with name 'dispatcher'
+15-Dec-2018 11:49:28.146 WARNING [http-nio-8081-exec-223] org.springframework.web.servlet.DispatcherServlet.noHandlerFound No mapping found for HTTP request with URI [/netbeans-tomcat-status-test] in DispatcherServlet with name 'dispatcher'
+15-Dec-2018 11:49:28.210 INFO [http-nio-8081-exec-233] org.apache.catalina.core.StandardContext.reload Reloading Context with name [/MuaBanNha] has started
+15-Dec-2018 11:49:28.215 WARNING [http-nio-8081-exec-233] org.apache.catalina.loader.WebappClassLoaderBase.clearReferencesJdbc The web application [MuaBanNha] registered the JDBC driver [com.mysql.jdbc.Driver] but failed to unregister it when the web application was stopped. To prevent a memory leak, the JDBC Driver has been forcibly unregistered.
+15-Dec-2018 11:49:28.217 WARNING [http-nio-8081-exec-233] org.apache.catalina.loader.WebappClassLoaderBase.clearReferencesThreads The web application [MuaBanNha] appears to have started a thread named [MySQL Statement Cancellation Timer] but has failed to stop it. This is very likely to create a memory leak. Stack trace of thread:
+ java.lang.Object.wait(Native Method)
+ java.lang.Object.wait(Object.java:502)
+ java.util.TimerThread.mainLoop(Timer.java:526)
+ java.util.TimerThread.run(Timer.java:505)
+15-Dec-2018 11:49:28.789 INFO [http-nio-8081-exec-233] org.apache.jasper.servlet.TldScanner.scanJars At least one JAR was scanned for TLDs yet contained no TLDs. Enable debug logging for this logger for a complete list of JARs that were scanned but no TLDs were found in them. Skipping unneeded JARs during scanning can improve startup time and JSP compilation time.
+15-Dec-2018 11:49:28.803 INFO [Finalizer] org.apache.catalina.loader.WebappClassLoaderBase.checkStateForResourceLoading Illegal access: this web application instance has been stopped already. Could not load [com.mysql.jdbc.profiler.ProfileEventSink]. The following stack trace is thrown for debugging purposes as well as to attempt to terminate the thread which caused the illegal access.
+ java.lang.IllegalStateException: Illegal access: this web application instance has been stopped already. Could not load [com.mysql.jdbc.profiler.ProfileEventSink]. The following stack trace is thrown for debugging purposes as well as to attempt to terminate the thread which caused the illegal access.
+	at org.apache.catalina.loader.WebappClassLoaderBase.checkStateForResourceLoading(WebappClassLoaderBase.java:1329)
+	at org.apache.catalina.loader.WebappClassLoaderBase.checkStateForClassLoading(WebappClassLoaderBase.java:1317)
+	at org.apache.catalina.loader.WebappClassLoaderBase.loadClass(WebappClassLoaderBase.java:1176)
+	at org.apache.catalina.loader.WebappClassLoaderBase.loadClass(WebappClassLoaderBase.java:1137)
+	at com.mysql.jdbc.ConnectionImpl.realClose(ConnectionImpl.java:4235)
+	at com.mysql.jdbc.ConnectionImpl.cleanup(ConnectionImpl.java:1257)
+	at com.mysql.jdbc.ConnectionImpl.finalize(ConnectionImpl.java:2663)
+	at java.lang.System$2.invokeFinalize(System.java:1270)
+	at java.lang.ref.Finalizer.runFinalizer(Finalizer.java:98)
+	at java.lang.ref.Finalizer.access$100(Finalizer.java:34)
+	at java.lang.ref.Finalizer$FinalizerThread.run(Finalizer.java:213)
+
+15-Dec-2018 11:49:28.813 INFO [http-nio-8081-exec-233] org.apache.catalina.core.StandardContext.reload Reloading Context with name [/MuaBanNha] is completed
+15-Dec-2018 11:49:28.833 INFO [Finalizer] org.apache.catalina.loader.WebappClassLoaderBase.checkStateForResourceLoading Illegal access: this web application instance has been stopped already. Could not load [com.mysql.jdbc.profiler.ProfileEventSink]. The following stack trace is thrown for debugging purposes as well as to attempt to terminate the thread which caused the illegal access.
+ java.lang.IllegalStateException: Illegal access: this web application instance has been stopped already. Could not load [com.mysql.jdbc.profiler.ProfileEventSink]. The following stack trace is thrown for debugging purposes as well as to attempt to terminate the thread which caused the illegal access.
+	at org.apache.catalina.loader.WebappClassLoaderBase.checkStateForResourceLoading(WebappClassLoaderBase.java:1329)
+	at org.apache.catalina.loader.WebappClassLoaderBase.checkStateForClassLoading(WebappClassLoaderBase.java:1317)
+	at org.apache.catalina.loader.WebappClassLoaderBase.loadClass(WebappClassLoaderBase.java:1176)
+	at org.apache.catalina.loader.WebappClassLoaderBase.loadClass(WebappClassLoaderBase.java:1137)
+	at com.mysql.jdbc.ConnectionImpl.realClose(ConnectionImpl.java:4235)
+	at com.mysql.jdbc.ConnectionImpl.cleanup(ConnectionImpl.java:1257)
+	at com.mysql.jdbc.ConnectionImpl.finalize(ConnectionImpl.java:2663)
+	at java.lang.System$2.invokeFinalize(System.java:1270)
+	at java.lang.ref.Finalizer.runFinalizer(Finalizer.java:98)
+	at java.lang.ref.Finalizer.access$100(Finalizer.java:34)
+	at java.lang.ref.Finalizer$FinalizerThread.run(Finalizer.java:213)
+
+15-Dec-2018 11:49:28.975 WARNING [http-nio-8081-exec-223] org.springframework.web.servlet.DispatcherServlet.noHandlerFound No mapping found for HTTP request with URI [/netbeans-tomcat-status-test] in DispatcherServlet with name 'dispatcher'
+15-Dec-2018 13:54:16.675 WARNING [http-nio-8081-exec-242] org.springframework.web.servlet.DispatcherServlet.noHandlerFound No mapping found for HTTP request with URI [/netbeans-tomcat-status-test] in DispatcherServlet with name 'dispatcher'
+15-Dec-2018 13:54:16.884 WARNING [http-nio-8081-exec-239] org.springframework.web.servlet.DispatcherServlet.noHandlerFound No mapping found for HTTP request with URI [/netbeans-tomcat-status-test] in DispatcherServlet with name 'dispatcher'
+15-Dec-2018 13:54:16.906 WARNING [http-nio-8081-exec-247] org.springframework.web.servlet.DispatcherServlet.noHandlerFound No mapping found for HTTP request with URI [/netbeans-tomcat-status-test] in DispatcherServlet with name 'dispatcher'
+15-Dec-2018 13:54:17.008 WARNING [http-nio-8081-exec-239] org.springframework.web.servlet.DispatcherServlet.noHandlerFound No mapping found for HTTP request with URI [/netbeans-tomcat-status-test] in DispatcherServlet with name 'dispatcher'
+15-Dec-2018 13:54:35.882 WARNING [http-nio-8081-exec-246] org.springframework.web.servlet.DispatcherServlet.noHandlerFound No mapping found for HTTP request with URI [/netbeans-tomcat-status-test] in DispatcherServlet with name 'dispatcher'
+15-Dec-2018 13:54:35.914 WARNING [http-nio-8081-exec-242] org.springframework.web.servlet.DispatcherServlet.noHandlerFound No mapping found for HTTP request with URI [/netbeans-tomcat-status-test] in DispatcherServlet with name 'dispatcher'
+15-Dec-2018 13:54:35.970 WARNING [http-nio-8081-exec-243] org.springframework.web.servlet.DispatcherServlet.noHandlerFound No mapping found for HTTP request with URI [/netbeans-tomcat-status-test] in DispatcherServlet with name 'dispatcher'
+15-Dec-2018 13:54:36.117 WARNING [http-nio-8081-exec-242] org.springframework.web.servlet.DispatcherServlet.noHandlerFound No mapping found for HTTP request with URI [/netbeans-tomcat-status-test] in DispatcherServlet with name 'dispatcher'
+15-Dec-2018 13:55:06.441 WARNING [http-nio-8081-exec-244] org.springframework.web.servlet.DispatcherServlet.noHandlerFound No mapping found for HTTP request with URI [/netbeans-tomcat-status-test] in DispatcherServlet with name 'dispatcher'
+15-Dec-2018 13:55:06.548 WARNING [http-nio-8081-exec-247] org.springframework.web.servlet.DispatcherServlet.noHandlerFound No mapping found for HTTP request with URI [/netbeans-tomcat-status-test] in DispatcherServlet with name 'dispatcher'
+15-Dec-2018 13:55:06.573 WARNING [http-nio-8081-exec-240] org.springframework.web.servlet.DispatcherServlet.noHandlerFound No mapping found for HTTP request with URI [/netbeans-tomcat-status-test] in DispatcherServlet with name 'dispatcher'
+15-Dec-2018 13:55:06.731 WARNING [http-nio-8081-exec-246] org.springframework.web.servlet.DispatcherServlet.noHandlerFound No mapping found for HTTP request with URI [/netbeans-tomcat-status-test] in DispatcherServlet with name 'dispatcher'
+15-Dec-2018 13:55:10.306 WARNING [http-nio-8081-exec-241] org.springframework.web.servlet.DispatcherServlet.noHandlerFound No mapping found for HTTP request with URI [/netbeans-tomcat-status-test] in DispatcherServlet with name 'dispatcher'
+15-Dec-2018 13:55:10.312 WARNING [http-nio-8081-exec-244] org.springframework.web.servlet.DispatcherServlet.noHandlerFound No mapping found for HTTP request with URI [/netbeans-tomcat-status-test] in DispatcherServlet with name 'dispatcher'
+15-Dec-2018 13:55:10.319 WARNING [http-nio-8081-exec-248] org.springframework.web.servlet.DispatcherServlet.noHandlerFound No mapping found for HTTP request with URI [/netbeans-tomcat-status-test] in DispatcherServlet with name 'dispatcher'
+15-Dec-2018 13:55:10.360 WARNING [http-nio-8081-exec-243] org.springframework.web.servlet.DispatcherServlet.noHandlerFound No mapping found for HTTP request with URI [/netbeans-tomcat-status-test] in DispatcherServlet with name 'dispatcher'
+15-Dec-2018 13:55:22.115 WARNING [http-nio-8081-exec-247] org.springframework.web.servlet.DispatcherServlet.noHandlerFound No mapping found for HTTP request with URI [/netbeans-tomcat-status-test] in DispatcherServlet with name 'dispatcher'
+15-Dec-2018 13:55:22.132 WARNING [http-nio-8081-exec-241] org.springframework.web.servlet.DispatcherServlet.noHandlerFound No mapping found for HTTP request with URI [/netbeans-tomcat-status-test] in DispatcherServlet with name 'dispatcher'
+15-Dec-2018 13:55:22.277 WARNING [http-nio-8081-exec-246] org.springframework.web.servlet.DispatcherServlet.noHandlerFound No mapping found for HTTP request with URI [/netbeans-tomcat-status-test] in DispatcherServlet with name 'dispatcher'
+15-Dec-2018 13:55:22.435 WARNING [http-nio-8081-exec-242] org.springframework.web.servlet.DispatcherServlet.noHandlerFound No mapping found for HTTP request with URI [/netbeans-tomcat-status-test] in DispatcherServlet with name 'dispatcher'
+15-Dec-2018 13:55:26.961 WARNING [http-nio-8081-exec-243] org.springframework.web.servlet.DispatcherServlet.noHandlerFound No mapping found for HTTP request with URI [/netbeans-tomcat-status-test] in DispatcherServlet with name 'dispatcher'
+15-Dec-2018 13:55:27.265 WARNING [http-nio-8081-exec-245] org.springframework.web.servlet.DispatcherServlet.noHandlerFound No mapping found for HTTP request with URI [/netbeans-tomcat-status-test] in DispatcherServlet with name 'dispatcher'
+15-Dec-2018 13:55:27.434 WARNING [http-nio-8081-exec-241] org.springframework.web.servlet.DispatcherServlet.noHandlerFound No mapping found for HTTP request with URI [/netbeans-tomcat-status-test] in DispatcherServlet with name 'dispatcher'
+15-Dec-2018 13:55:27.548 WARNING [http-nio-8081-exec-247] org.springframework.web.servlet.DispatcherServlet.noHandlerFound No mapping found for HTTP request with URI [/netbeans-tomcat-status-test] in DispatcherServlet with name 'dispatcher'
+15-Dec-2018 13:55:50.019 WARNING [http-nio-8081-exec-240] org.springframework.web.servlet.DispatcherServlet.noHandlerFound No mapping found for HTTP request with URI [/netbeans-tomcat-status-test] in DispatcherServlet with name 'dispatcher'
+15-Dec-2018 13:55:50.048 WARNING [http-nio-8081-exec-243] org.springframework.web.servlet.DispatcherServlet.noHandlerFound No mapping found for HTTP request with URI [/netbeans-tomcat-status-test] in DispatcherServlet with name 'dispatcher'
+15-Dec-2018 13:55:50.058 WARNING [http-nio-8081-exec-245] org.springframework.web.servlet.DispatcherServlet.noHandlerFound No mapping found for HTTP request with URI [/netbeans-tomcat-status-test] in DispatcherServlet with name 'dispatcher'
+15-Dec-2018 13:55:50.273 INFO [http-nio-8081-exec-239] org.apache.catalina.core.StandardContext.reload Reloading Context with name [/WebApplication3] has started
+15-Dec-2018 13:55:50.461 INFO [341] org.apache.catalina.core.StandardContext.reload Reloading Context with name [/WebApplication3] is completed
+15-Dec-2018 13:55:50.485 WARNING [http-nio-8081-exec-246] org.springframework.web.servlet.DispatcherServlet.noHandlerFound No mapping found for HTTP request with URI [/netbeans-tomcat-status-test] in DispatcherServlet with name 'dispatcher'
+15-Dec-2018 13:55:53.086 WARNING [344] org.springframework.web.servlet.DispatcherServlet.noHandlerFound No mapping found for HTTP request with URI [/netbeans-tomcat-status-test] in DispatcherServlet with name 'dispatcher'
+15-Dec-2018 13:55:53.093 WARNING [http-nio-8081-exec-240] org.springframework.web.servlet.DispatcherServlet.noHandlerFound No mapping found for HTTP request with URI [/netbeans-tomcat-status-test] in DispatcherServlet with name 'dispatcher'
+15-Dec-2018 13:55:53.099 WARNING [http-nio-8081-exec-248] org.springframework.web.servlet.DispatcherServlet.noHandlerFound No mapping found for HTTP request with URI [/netbeans-tomcat-status-test] in DispatcherServlet with name 'dispatcher'
+15-Dec-2018 13:55:53.174 INFO [http-nio-8081-exec-244] org.apache.catalina.core.StandardContext.reload Reloading Context with name [/WebApplication3] has started
+15-Dec-2018 13:55:53.224 INFO [http-nio-8081-exec-244] org.apache.catalina.core.StandardContext.reload Reloading Context with name [/WebApplication3] is completed
+15-Dec-2018 13:55:53.227 WARNING [http-nio-8081-exec-248] org.springframework.web.servlet.DispatcherServlet.noHandlerFound No mapping found for HTTP request with URI [/netbeans-tomcat-status-test] in DispatcherServlet with name 'dispatcher'
+15-Dec-2018 13:56:08.671 WARNING [http-nio-8081-exec-246] org.springframework.web.servlet.DispatcherServlet.noHandlerFound No mapping found for HTTP request with URI [/netbeans-tomcat-status-test] in DispatcherServlet with name 'dispatcher'
+15-Dec-2018 13:56:08.677 WARNING [http-nio-8081-exec-247] org.springframework.web.servlet.DispatcherServlet.noHandlerFound No mapping found for HTTP request with URI [/netbeans-tomcat-status-test] in DispatcherServlet with name 'dispatcher'
+15-Dec-2018 13:56:08.684 WARNING [http-nio-8081-exec-240] org.springframework.web.servlet.DispatcherServlet.noHandlerFound No mapping found for HTTP request with URI [/netbeans-tomcat-status-test] in DispatcherServlet with name 'dispatcher'
+15-Dec-2018 13:56:08.779 INFO [http-nio-8081-exec-241] org.apache.catalina.core.StandardContext.reload Reloading Context with name [/WebApplication3] has started
+15-Dec-2018 13:56:08.838 INFO [http-nio-8081-exec-241] org.apache.catalina.core.StandardContext.reload Reloading Context with name [/WebApplication3] is completed
+15-Dec-2018 13:56:08.846 WARNING [http-nio-8081-exec-249] org.springframework.web.servlet.DispatcherServlet.noHandlerFound No mapping found for HTTP request with URI [/netbeans-tomcat-status-test] in DispatcherServlet with name 'dispatcher'
+15-Dec-2018 13:57:11.453 WARNING [351] org.springframework.web.servlet.DispatcherServlet.noHandlerFound No mapping found for HTTP request with URI [/netbeans-tomcat-status-test] in DispatcherServlet with name 'dispatcher'
+15-Dec-2018 13:57:11.494 WARNING [http-nio-8081-exec-250] org.springframework.web.servlet.DispatcherServlet.noHandlerFound No mapping found for HTTP request with URI [/netbeans-tomcat-status-test] in DispatcherServlet with name 'dispatcher'
+15-Dec-2018 13:57:11.528 WARNING [http-nio-8081-exec-249] org.springframework.web.servlet.DispatcherServlet.noHandlerFound No mapping found for HTTP request with URI [/netbeans-tomcat-status-test] in DispatcherServlet with name 'dispatcher'
+15-Dec-2018 13:57:11.592 INFO [http-nio-8081-exec-252] org.apache.catalina.core.StandardContext.reload Reloading Context with name [/WebApplication3] has started
+15-Dec-2018 13:57:11.677 INFO [http-nio-8081-exec-252] org.apache.catalina.core.StandardContext.reload Reloading Context with name [/WebApplication3] is completed
+15-Dec-2018 13:57:11.764 WARNING [http-nio-8081-exec-241] org.springframework.web.servlet.DispatcherServlet.noHandlerFound No mapping found for HTTP request with URI [/netbeans-tomcat-status-test] in DispatcherServlet with name 'dispatcher'
+15-Dec-2018 13:57:12.892 WARNING [http-nio-8081-exec-253] org.springframework.web.servlet.DispatcherServlet.noHandlerFound No mapping found for HTTP request with URI [/netbeans-tomcat-status-test] in DispatcherServlet with name 'dispatcher'
+15-Dec-2018 13:57:12.928 WARNING [http-nio-8081-exec-249] org.springframework.web.servlet.DispatcherServlet.noHandlerFound No mapping found for HTTP request with URI [/netbeans-tomcat-status-test] in DispatcherServlet with name 'dispatcher'
+15-Dec-2018 13:57:12.968 INFO [http-nio-8081-exec-240] org.apache.catalina.core.StandardContext.reload Reloading Context with name [/WebApplication3] has started
+15-Dec-2018 13:57:13.023 INFO [http-nio-8081-exec-240] org.apache.catalina.core.StandardContext.reload Reloading Context with name [/WebApplication3] is completed
+15-Dec-2018 13:57:13.032 WARNING [http-nio-8081-exec-249] org.springframework.web.servlet.DispatcherServlet.noHandlerFound No mapping found for HTTP request with URI [/netbeans-tomcat-status-test] in DispatcherServlet with name 'dispatcher'
+15-Dec-2018 13:59:49.591 WARNING [http-nio-8081-exec-255] org.springframework.web.servlet.DispatcherServlet.noHandlerFound No mapping found for HTTP request with URI [/netbeans-tomcat-status-test] in DispatcherServlet with name 'dispatcher'
+15-Dec-2018 13:59:49.628 WARNING [http-nio-8081-exec-256] org.springframework.web.servlet.DispatcherServlet.noHandlerFound No mapping found for HTTP request with URI [/netbeans-tomcat-status-test] in DispatcherServlet with name 'dispatcher'
+15-Dec-2018 13:59:49.638 WARNING [http-nio-8081-exec-241] org.springframework.web.servlet.DispatcherServlet.noHandlerFound No mapping found for HTTP request with URI [/netbeans-tomcat-status-test] in DispatcherServlet with name 'dispatcher'
+15-Dec-2018 13:59:49.677 INFO [http-nio-8081-exec-257] org.apache.catalina.core.StandardContext.reload Reloading Context with name [/WebApplication3] has started
+15-Dec-2018 13:59:49.744 INFO [http-nio-8081-exec-257] org.apache.catalina.core.StandardContext.reload Reloading Context with name [/WebApplication3] is completed
+15-Dec-2018 13:59:49.748 WARNING [http-nio-8081-exec-241] org.springframework.web.servlet.DispatcherServlet.noHandlerFound No mapping found for HTTP request with URI [/netbeans-tomcat-status-test] in DispatcherServlet with name 'dispatcher'
+15-Dec-2018 17:19:25.253 WARNING [http-nio-8081-exec-258] org.springframework.web.servlet.DispatcherServlet.noHandlerFound No mapping found for HTTP request with URI [/netbeans-tomcat-status-test] in DispatcherServlet with name 'dispatcher'
+15-Dec-2018 17:19:25.264 WARNING [http-nio-8081-exec-262] org.springframework.web.servlet.DispatcherServlet.noHandlerFound No mapping found for HTTP request with URI [/netbeans-tomcat-status-test] in DispatcherServlet with name 'dispatcher'
+15-Dec-2018 17:19:25.271 WARNING [http-nio-8081-exec-266] org.springframework.web.servlet.DispatcherServlet.noHandlerFound No mapping found for HTTP request with URI [/netbeans-tomcat-status-test] in DispatcherServlet with name 'dispatcher'
+15-Dec-2018 17:19:25.278 WARNING [http-nio-8081-exec-259] org.springframework.web.servlet.DispatcherServlet.noHandlerFound No mapping found for HTTP request with URI [/netbeans-tomcat-status-test] in DispatcherServlet with name 'dispatcher'
+15-Dec-2018 17:19:30.036 INFO [http-nio-8081-exec-264] org.apache.catalina.core.StandardContext.reload Reloading Context with name [/WebApplication3] has started
+15-Dec-2018 17:19:30.179 INFO [386] org.apache.catalina.core.StandardContext.reload Reloading Context with name [/WebApplication3] is completed
+15-Dec-2018 17:19:42.843 WARNING [http-nio-8081-exec-267] org.springframework.web.servlet.DispatcherServlet.noHandlerFound No mapping found for HTTP request with URI [/netbeans-tomcat-status-test] in DispatcherServlet with name 'dispatcher'
+15-Dec-2018 17:19:42.849 WARNING [http-nio-8081-exec-260] org.springframework.web.servlet.DispatcherServlet.noHandlerFound No mapping found for HTTP request with URI [/netbeans-tomcat-status-test] in DispatcherServlet with name 'dispatcher'
+15-Dec-2018 17:19:42.855 WARNING [http-nio-8081-exec-270] org.springframework.web.servlet.DispatcherServlet.noHandlerFound No mapping found for HTTP request with URI [/netbeans-tomcat-status-test] in DispatcherServlet with name 'dispatcher'
+15-Dec-2018 17:19:42.891 INFO [http-nio-8081-exec-261] org.apache.catalina.core.StandardContext.reload Reloading Context with name [/WebApplication3] has started
+15-Dec-2018 17:19:42.980 INFO [http-nio-8081-exec-261] org.apache.catalina.core.StandardContext.reload Reloading Context with name [/WebApplication3] is completed
+15-Dec-2018 17:19:42.988 WARNING [http-nio-8081-exec-272] org.springframework.web.servlet.DispatcherServlet.noHandlerFound No mapping found for HTTP request with URI [/netbeans-tomcat-status-test] in DispatcherServlet with name 'dispatcher'
+15-Dec-2018 17:21:57.082 WARNING [http-nio-8081-exec-279] org.springframework.web.servlet.DispatcherServlet.noHandlerFound No mapping found for HTTP request with URI [/netbeans-tomcat-status-test] in DispatcherServlet with name 'dispatcher'
+15-Dec-2018 17:21:57.105 WARNING [http-nio-8081-exec-280] org.springframework.web.servlet.DispatcherServlet.noHandlerFound No mapping found for HTTP request with URI [/netbeans-tomcat-status-test] in DispatcherServlet with name 'dispatcher'
+15-Dec-2018 17:21:57.113 WARNING [http-nio-8081-exec-278] org.springframework.web.servlet.DispatcherServlet.noHandlerFound No mapping found for HTTP request with URI [/netbeans-tomcat-status-test] in DispatcherServlet with name 'dispatcher'
+15-Dec-2018 17:21:57.235 INFO [http-nio-8081-exec-275] org.apache.catalina.core.StandardContext.reload Reloading Context with name [/WebApplication3] has started
+15-Dec-2018 17:21:57.391 INFO [400] org.apache.catalina.core.StandardContext.reload Reloading Context with name [/WebApplication3] is completed
+15-Dec-2018 17:21:57.459 WARNING [http-nio-8081-exec-280] org.springframework.web.servlet.DispatcherServlet.noHandlerFound No mapping found for HTTP request with URI [/netbeans-tomcat-status-test] in DispatcherServlet with name 'dispatcher'
+15-Dec-2018 17:21:58.489 WARNING [403] org.springframework.web.servlet.DispatcherServlet.noHandlerFound No mapping found for HTTP request with URI [/netbeans-tomcat-status-test] in DispatcherServlet with name 'dispatcher'
+15-Dec-2018 17:21:58.661 WARNING [http-nio-8081-exec-282] org.springframework.web.servlet.DispatcherServlet.noHandlerFound No mapping found for HTTP request with URI [/netbeans-tomcat-status-test] in DispatcherServlet with name 'dispatcher'
+15-Dec-2018 17:21:58.738 INFO [http-nio-8081-exec-279] org.apache.catalina.core.StandardContext.reload Reloading Context with name [/WebApplication3] has started
+15-Dec-2018 17:21:58.829 INFO [http-nio-8081-exec-279] org.apache.catalina.core.StandardContext.reload Reloading Context with name [/WebApplication3] is completed
+15-Dec-2018 17:21:58.865 WARNING [http-nio-8081-exec-274] org.springframework.web.servlet.DispatcherServlet.noHandlerFound No mapping found for HTTP request with URI [/netbeans-tomcat-status-test] in DispatcherServlet with name 'dispatcher'
+15-Dec-2018 17:22:07.274 WARNING [http-nio-8081-exec-283] org.springframework.web.servlet.DispatcherServlet.noHandlerFound No mapping found for HTTP request with URI [/netbeans-tomcat-status-test] in DispatcherServlet with name 'dispatcher'
+15-Dec-2018 17:22:07.280 WARNING [http-nio-8081-exec-282] org.springframework.web.servlet.DispatcherServlet.noHandlerFound No mapping found for HTTP request with URI [/netbeans-tomcat-status-test] in DispatcherServlet with name 'dispatcher'
+15-Dec-2018 17:22:07.289 WARNING [http-nio-8081-exec-280] org.springframework.web.servlet.DispatcherServlet.noHandlerFound No mapping found for HTTP request with URI [/netbeans-tomcat-status-test] in DispatcherServlet with name 'dispatcher'
+15-Dec-2018 17:22:07.328 WARNING [http-nio-8081-exec-278] org.springframework.web.servlet.DispatcherServlet.noHandlerFound No mapping found for HTTP request with URI [/netbeans-tomcat-status-test] in DispatcherServlet with name 'dispatcher'

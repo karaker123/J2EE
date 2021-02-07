@@ -1,0 +1,144 @@
+29-Oct-2018 08:17:18.947 INFO [http-nio-8080-exec-333] org.apache.catalina.core.StandardContext.reload Reloading Context with name [/WebApplication3] has started
+29-Oct-2018 08:17:19.906 INFO [527] org.apache.catalina.core.StandardContext.reload Reloading Context with name [/WebApplication3] is completed
+29-Oct-2018 08:17:20.774 INFO [http-nio-8080-exec-335] org.apache.catalina.core.StandardContext.reload Reloading Context with name [/WebApplication3] has started
+29-Oct-2018 08:17:21.121 INFO [http-nio-8080-exec-335] org.apache.catalina.core.StandardContext.reload Reloading Context with name [/WebApplication3] is completed
+29-Oct-2018 08:22:22.198 INFO [http-nio-8080-exec-339] org.apache.catalina.core.StandardContext.reload Reloading Context with name [/WebApplication3] has started
+29-Oct-2018 08:22:23.041 INFO [537] org.apache.catalina.core.StandardContext.reload Reloading Context with name [/WebApplication3] is completed
+29-Oct-2018 08:22:51.106 INFO [http-nio-8080-exec-338] org.apache.catalina.core.StandardContext.reload Reloading Context with name [/WebApplication3] has started
+29-Oct-2018 08:22:51.418 INFO [http-nio-8080-exec-338] org.apache.catalina.core.StandardContext.reload Reloading Context with name [/WebApplication3] is completed
+29-Oct-2018 08:36:20.003 INFO [http-nio-8080-exec-346] org.apache.catalina.core.StandardContext.reload Reloading Context with name [/WebApplication3] has started
+29-Oct-2018 08:36:20.414 INFO [http-nio-8080-exec-346] org.apache.catalina.core.StandardContext.reload Reloading Context with name [/WebApplication3] is completed
+29-Oct-2018 08:38:55.713 INFO [http-nio-8080-exec-358] org.apache.catalina.core.StandardContext.reload Reloading Context with name [/WebApplication3] has started
+29-Oct-2018 08:38:56.619 INFO [http-nio-8080-exec-358] org.apache.catalina.core.StandardContext.reload Reloading Context with name [/WebApplication3] is completed
+29-Oct-2018 08:39:04.921 INFO [http-nio-8080-exec-349] org.apache.catalina.core.StandardContext.reload Reloading Context with name [/WebApplication3] has started
+29-Oct-2018 08:39:05.424 INFO [http-nio-8080-exec-349] org.apache.catalina.core.StandardContext.reload Reloading Context with name [/WebApplication3] is completed
+29-Oct-2018 08:39:37.945 INFO [http-nio-8080-exec-351] org.apache.catalina.core.StandardContext.reload Reloading Context with name [/WebApplication3] has started
+29-Oct-2018 08:39:38.687 INFO [http-nio-8080-exec-351] org.apache.catalina.core.StandardContext.reload Reloading Context with name [/WebApplication3] is completed
+29-Oct-2018 08:39:38.804 INFO [http-nio-8080-exec-360] org.apache.catalina.core.StandardContext.reload Reloading Context with name [/WebApplication3] has started
+29-Oct-2018 08:39:39.192 INFO [http-nio-8080-exec-360] org.apache.catalina.core.StandardContext.reload Reloading Context with name [/WebApplication3] is completed
+29-Oct-2018 08:41:10.225 INFO [http-nio-8080-exec-363] org.apache.catalina.core.StandardContext.reload Reloading Context with name [/WebApplication3] has started
+29-Oct-2018 08:41:10.663 INFO [http-nio-8080-exec-363] org.apache.catalina.core.StandardContext.reload Reloading Context with name [/WebApplication3] is completed
+29-Oct-2018 08:41:34.402 INFO [http-nio-8080-exec-351] org.apache.catalina.core.StandardContext.reload Reloading Context with name [/WebApplication3] has started
+29-Oct-2018 08:41:35.193 INFO [http-nio-8080-exec-351] org.apache.catalina.core.StandardContext.reload Reloading Context with name [/WebApplication3] is completed
+29-Oct-2018 08:41:39.993 INFO [http-nio-8080-exec-363] org.apache.catalina.core.StandardContext.reload Reloading Context with name [/WebApplication3] has started
+29-Oct-2018 08:41:40.354 INFO [http-nio-8080-exec-363] org.apache.catalina.core.StandardContext.reload Reloading Context with name [/WebApplication3] is completed
+29-Oct-2018 08:41:52.688 INFO [http-nio-8080-exec-350] org.apache.catalina.core.StandardContext.reload Reloading Context with name [/WebApplication3] has started
+29-Oct-2018 08:41:53.028 INFO [http-nio-8080-exec-350] org.apache.catalina.core.StandardContext.reload Reloading Context with name [/WebApplication3] is completed
+29-Oct-2018 08:45:42.506 INFO [http-nio-8080-exec-361] org.apache.catalina.core.StandardContext.reload Reloading Context with name [/WebApplication3] has started
+29-Oct-2018 08:45:42.898 INFO [http-nio-8080-exec-361] org.apache.catalina.core.StandardContext.reload Reloading Context with name [/WebApplication3] is completed
+29-Oct-2018 08:46:05.521 INFO [http-nio-8080-exec-371] org.apache.catalina.core.StandardContext.reload Reloading Context with name [/WebApplication3] has started
+29-Oct-2018 08:46:05.925 INFO [http-nio-8080-exec-371] org.apache.catalina.core.StandardContext.reload Reloading Context with name [/WebApplication3] is completed
+29-Oct-2018 08:46:08.480 INFO [http-nio-8080-exec-369] org.apache.catalina.core.StandardContext.reload Reloading Context with name [/WebApplication3] has started
+29-Oct-2018 08:46:09.190 INFO [http-nio-8080-exec-369] org.apache.catalina.core.StandardContext.reload Reloading Context with name [/WebApplication3] is completed
+29-Oct-2018 08:46:24.435 INFO [http-nio-8080-exec-373] org.apache.catalina.core.StandardContext.reload Reloading Context with name [/WebApplication3] has started
+29-Oct-2018 08:46:24.809 INFO [http-nio-8080-exec-373] org.apache.catalina.core.StandardContext.reload Reloading Context with name [/WebApplication3] is completed
+29-Oct-2018 08:46:30.483 INFO [http-nio-8080-exec-372] org.apache.catalina.core.StandardContext.reload Reloading Context with name [/WebApplication3] has started
+29-Oct-2018 08:46:30.739 INFO [http-nio-8080-exec-372] org.apache.catalina.core.StandardContext.reload Reloading Context with name [/WebApplication3] is completed
+29-Oct-2018 08:46:34.028 INFO [http-nio-8080-exec-350] org.apache.catalina.core.StandardContext.reload Reloading Context with name [/WebApplication3] has started
+29-Oct-2018 08:46:34.388 INFO [http-nio-8080-exec-350] org.apache.catalina.core.StandardContext.reload Reloading Context with name [/WebApplication3] is completed
+29-Oct-2018 08:46:39.834 INFO [http-nio-8080-exec-377] org.apache.catalina.core.StandardContext.reload Reloading Context with name [/WebApplication3] has started
+29-Oct-2018 08:46:40.286 INFO [http-nio-8080-exec-377] org.apache.catalina.core.StandardContext.reload Reloading Context with name [/WebApplication3] is completed
+29-Oct-2018 08:46:49.663 INFO [http-nio-8080-exec-369] org.apache.catalina.core.StandardContext.reload Reloading Context with name [/WebApplication3] has started
+29-Oct-2018 08:46:49.838 INFO [http-nio-8080-exec-369] org.apache.catalina.core.StandardContext.reload Reloading Context with name [/WebApplication3] is completed
+29-Oct-2018 08:50:44.596 INFO [http-nio-8080-exec-383] org.apache.catalina.core.StandardContext.reload Reloading Context with name [/WebApplication3] has started
+29-Oct-2018 08:50:44.861 INFO [http-nio-8080-exec-383] org.apache.catalina.core.StandardContext.reload Reloading Context with name [/WebApplication3] is completed
+29-Oct-2018 08:50:51.235 INFO [http-nio-8080-exec-379] org.apache.catalina.core.StandardContext.reload Reloading Context with name [/WebApplication3] has started
+29-Oct-2018 08:50:51.705 INFO [http-nio-8080-exec-379] org.apache.catalina.core.StandardContext.reload Reloading Context with name [/WebApplication3] is completed
+29-Oct-2018 08:51:18.173 INFO [http-nio-8080-exec-350] org.apache.catalina.core.StandardContext.reload Reloading Context with name [/WebApplication3] has started
+29-Oct-2018 08:51:18.500 INFO [http-nio-8080-exec-350] org.apache.catalina.core.StandardContext.reload Reloading Context with name [/WebApplication3] is completed
+29-Oct-2018 08:54:16.917 INFO [http-nio-8080-exec-381] org.apache.catalina.core.StandardContext.reload Reloading Context with name [/WebApplication3] has started
+29-Oct-2018 08:54:17.415 INFO [http-nio-8080-exec-381] org.apache.catalina.core.StandardContext.reload Reloading Context with name [/WebApplication3] is completed
+29-Oct-2018 08:55:08.704 INFO [http-nio-8080-exec-386] org.apache.catalina.core.StandardContext.reload Reloading Context with name [/WebApplication3] has started
+29-Oct-2018 08:55:08.938 INFO [http-nio-8080-exec-386] org.apache.catalina.core.StandardContext.reload Reloading Context with name [/WebApplication3] is completed
+29-Oct-2018 08:55:42.513 INFO [http-nio-8080-exec-383] org.apache.catalina.core.StandardContext.reload Reloading Context with name [/WebApplication3] has started
+29-Oct-2018 08:55:42.958 INFO [http-nio-8080-exec-383] org.apache.catalina.core.StandardContext.reload Reloading Context with name [/WebApplication3] is completed
+29-Oct-2018 09:09:02.412 INFO [http-nio-8080-exec-398] org.apache.catalina.core.StandardContext.reload Reloading Context with name [/WebApplication3] has started
+29-Oct-2018 09:09:02.643 INFO [http-nio-8080-exec-398] org.apache.catalina.core.StandardContext.reload Reloading Context with name [/WebApplication3] is completed
+29-Oct-2018 10:29:42.210 INFO [http-nio-8080-exec-408] org.apache.catalina.core.StandardContext.reload Reloading Context with name [/MuaBanNha] has started
+29-Oct-2018 10:29:42.556 WARNING [http-nio-8080-exec-408] org.apache.catalina.loader.WebappClassLoaderBase.clearReferencesJdbc The web application [MuaBanNha] registered the JDBC driver [com.mysql.jdbc.Driver] but failed to unregister it when the web application was stopped. To prevent a memory leak, the JDBC Driver has been forcibly unregistered.
+29-Oct-2018 10:29:42.866 WARNING [http-nio-8080-exec-408] org.apache.catalina.loader.WebappClassLoaderBase.clearReferencesThreads The web application [MuaBanNha] appears to have started a thread named [MySQL Statement Cancellation Timer] but has failed to stop it. This is very likely to create a memory leak. Stack trace of thread:
+ java.lang.Object.wait(Native Method)
+ java.lang.Object.wait(Object.java:502)
+ java.util.TimerThread.mainLoop(Timer.java:526)
+ java.util.TimerThread.run(Timer.java:505)
+29-Oct-2018 10:29:48.503 INFO [http-nio-8080-exec-408] org.apache.jasper.servlet.TldScanner.scanJars At least one JAR was scanned for TLDs yet contained no TLDs. Enable debug logging for this logger for a complete list of JARs that were scanned but no TLDs were found in them. Skipping unneeded JARs during scanning can improve startup time and JSP compilation time.
+29-Oct-2018 10:29:48.553 INFO [http-nio-8080-exec-408] org.apache.catalina.core.StandardContext.reload Reloading Context with name [/MuaBanNha] is completed
+29-Oct-2018 10:29:48.665 INFO [http-nio-8080-exec-407] org.apache.catalina.core.StandardContext.reload Reloading Context with name [/MuaBanNha] has started
+29-Oct-2018 10:29:51.069 INFO [http-nio-8080-exec-407] org.apache.jasper.servlet.TldScanner.scanJars At least one JAR was scanned for TLDs yet contained no TLDs. Enable debug logging for this logger for a complete list of JARs that were scanned but no TLDs were found in them. Skipping unneeded JARs during scanning can improve startup time and JSP compilation time.
+29-Oct-2018 10:29:51.081 INFO [http-nio-8080-exec-407] org.apache.catalina.core.StandardContext.reload Reloading Context with name [/MuaBanNha] is completed
+29-Oct-2018 10:30:59.287 INFO [http-nio-8080-exec-401] org.apache.catalina.core.StandardContext.reload Reloading Context with name [/MuaBanNha] has started
+29-Oct-2018 10:31:00.059 INFO [http-nio-8080-exec-401] org.apache.jasper.servlet.TldScanner.scanJars At least one JAR was scanned for TLDs yet contained no TLDs. Enable debug logging for this logger for a complete list of JARs that were scanned but no TLDs were found in them. Skipping unneeded JARs during scanning can improve startup time and JSP compilation time.
+29-Oct-2018 10:31:00.072 INFO [http-nio-8080-exec-401] org.apache.catalina.core.StandardContext.reload Reloading Context with name [/MuaBanNha] is completed
+29-Oct-2018 10:43:26.370 INFO [http-nio-8080-exec-418] org.apache.catalina.core.StandardContext.reload Reloading Context with name [/MuaBanNha] has started
+29-Oct-2018 10:43:28.651 INFO [http-nio-8080-exec-418] org.apache.jasper.servlet.TldScanner.scanJars At least one JAR was scanned for TLDs yet contained no TLDs. Enable debug logging for this logger for a complete list of JARs that were scanned but no TLDs were found in them. Skipping unneeded JARs during scanning can improve startup time and JSP compilation time.
+29-Oct-2018 10:43:28.665 INFO [664] org.apache.catalina.core.StandardContext.reload Reloading Context with name [/MuaBanNha] is completed
+29-Oct-2018 10:43:28.739 INFO [http-nio-8080-exec-420] org.apache.catalina.core.StandardContext.reload Reloading Context with name [/MuaBanNha] has started
+29-Oct-2018 10:43:29.781 INFO [http-nio-8080-exec-420] org.apache.jasper.servlet.TldScanner.scanJars At least one JAR was scanned for TLDs yet contained no TLDs. Enable debug logging for this logger for a complete list of JARs that were scanned but no TLDs were found in them. Skipping unneeded JARs during scanning can improve startup time and JSP compilation time.
+29-Oct-2018 10:43:29.799 INFO [667] org.apache.catalina.core.StandardContext.reload Reloading Context with name [/MuaBanNha] is completed
+29-Oct-2018 10:43:31.012 INFO [http-nio-8080-exec-426] org.apache.catalina.core.StandardContext.reload Reloading Context with name [/MuaBanNha] has started
+29-Oct-2018 10:43:32.878 INFO [http-nio-8080-exec-426] org.apache.jasper.servlet.TldScanner.scanJars At least one JAR was scanned for TLDs yet contained no TLDs. Enable debug logging for this logger for a complete list of JARs that were scanned but no TLDs were found in them. Skipping unneeded JARs during scanning can improve startup time and JSP compilation time.
+29-Oct-2018 10:43:32.889 INFO [679] org.apache.catalina.core.StandardContext.reload Reloading Context with name [/MuaBanNha] is completed
+29-Oct-2018 10:43:33.033 INFO [http-nio-8080-exec-424] org.apache.catalina.core.StandardContext.reload Reloading Context with name [/MuaBanNha] has started
+29-Oct-2018 10:43:33.467 INFO [http-nio-8080-exec-424] org.apache.jasper.servlet.TldScanner.scanJars At least one JAR was scanned for TLDs yet contained no TLDs. Enable debug logging for this logger for a complete list of JARs that were scanned but no TLDs were found in them. Skipping unneeded JARs during scanning can improve startup time and JSP compilation time.
+29-Oct-2018 10:43:33.483 INFO [http-nio-8080-exec-424] org.apache.catalina.core.StandardContext.reload Reloading Context with name [/MuaBanNha] is completed
+29-Oct-2018 10:43:51.048 INFO [http-nio-8080-exec-417] org.apache.catalina.core.StandardContext.reload Reloading Context with name [/MuaBanNha] has started
+29-Oct-2018 10:43:51.658 INFO [http-nio-8080-exec-417] org.apache.jasper.servlet.TldScanner.scanJars At least one JAR was scanned for TLDs yet contained no TLDs. Enable debug logging for this logger for a complete list of JARs that were scanned but no TLDs were found in them. Skipping unneeded JARs during scanning can improve startup time and JSP compilation time.
+29-Oct-2018 10:43:51.669 INFO [http-nio-8080-exec-417] org.apache.catalina.core.StandardContext.reload Reloading Context with name [/MuaBanNha] is completed
+29-Oct-2018 10:43:51.829 INFO [http-nio-8080-exec-427] org.apache.catalina.core.StandardContext.reload Reloading Context with name [/MuaBanNha] has started
+29-Oct-2018 10:43:54.212 INFO [http-nio-8080-exec-427] org.apache.jasper.servlet.TldScanner.scanJars At least one JAR was scanned for TLDs yet contained no TLDs. Enable debug logging for this logger for a complete list of JARs that were scanned but no TLDs were found in them. Skipping unneeded JARs during scanning can improve startup time and JSP compilation time.
+29-Oct-2018 10:43:54.233 INFO [http-nio-8080-exec-427] org.apache.catalina.core.StandardContext.reload Reloading Context with name [/MuaBanNha] is completed
+29-Oct-2018 10:45:08.976 INFO [http-nio-8080-exec-422] org.apache.catalina.core.StandardContext.reload Reloading Context with name [/MuaBanNha] has started
+29-Oct-2018 10:45:09.364 INFO [http-nio-8080-exec-422] org.apache.jasper.servlet.TldScanner.scanJars At least one JAR was scanned for TLDs yet contained no TLDs. Enable debug logging for this logger for a complete list of JARs that were scanned but no TLDs were found in them. Skipping unneeded JARs during scanning can improve startup time and JSP compilation time.
+29-Oct-2018 10:45:09.374 INFO [http-nio-8080-exec-422] org.apache.catalina.core.StandardContext.reload Reloading Context with name [/MuaBanNha] is completed
+29-Oct-2018 10:52:20.365 INFO [http-nio-8080-exec-437] org.apache.catalina.core.StandardContext.reload Reloading Context with name [/MuaBanNha] has started
+29-Oct-2018 10:52:20.919 INFO [http-nio-8080-exec-437] org.apache.jasper.servlet.TldScanner.scanJars At least one JAR was scanned for TLDs yet contained no TLDs. Enable debug logging for this logger for a complete list of JARs that were scanned but no TLDs were found in them. Skipping unneeded JARs during scanning can improve startup time and JSP compilation time.
+29-Oct-2018 10:52:20.933 INFO [http-nio-8080-exec-437] org.apache.catalina.core.StandardContext.reload Reloading Context with name [/MuaBanNha] is completed
+29-Oct-2018 10:54:14.013 INFO [http-nio-8080-exec-442] org.apache.catalina.core.StandardContext.reload Reloading Context with name [/MuaBanNha] has started
+29-Oct-2018 10:54:14.550 INFO [http-nio-8080-exec-442] org.apache.jasper.servlet.TldScanner.scanJars At least one JAR was scanned for TLDs yet contained no TLDs. Enable debug logging for this logger for a complete list of JARs that were scanned but no TLDs were found in them. Skipping unneeded JARs during scanning can improve startup time and JSP compilation time.
+29-Oct-2018 10:54:14.561 INFO [http-nio-8080-exec-442] org.apache.catalina.core.StandardContext.reload Reloading Context with name [/MuaBanNha] is completed
+29-Oct-2018 10:55:34.439 INFO [http-nio-8080-exec-439] org.apache.catalina.core.StandardContext.reload Reloading Context with name [/MuaBanNha] has started
+29-Oct-2018 10:55:34.881 INFO [http-nio-8080-exec-439] org.apache.jasper.servlet.TldScanner.scanJars At least one JAR was scanned for TLDs yet contained no TLDs. Enable debug logging for this logger for a complete list of JARs that were scanned but no TLDs were found in them. Skipping unneeded JARs during scanning can improve startup time and JSP compilation time.
+29-Oct-2018 10:55:34.892 INFO [http-nio-8080-exec-439] org.apache.catalina.core.StandardContext.reload Reloading Context with name [/MuaBanNha] is completed
+29-Oct-2018 10:55:57.684 INFO [http-nio-8080-exec-437] org.apache.catalina.core.StandardContext.reload Reloading Context with name [/MuaBanNha] has started
+29-Oct-2018 10:55:57.921 INFO [http-nio-8080-exec-437] org.apache.jasper.servlet.TldScanner.scanJars At least one JAR was scanned for TLDs yet contained no TLDs. Enable debug logging for this logger for a complete list of JARs that were scanned but no TLDs were found in them. Skipping unneeded JARs during scanning can improve startup time and JSP compilation time.
+29-Oct-2018 10:55:57.933 INFO [http-nio-8080-exec-437] org.apache.catalina.core.StandardContext.reload Reloading Context with name [/MuaBanNha] is completed
+29-Oct-2018 10:58:50.808 INFO [http-nio-8080-exec-449] org.apache.catalina.core.StandardContext.reload Reloading Context with name [/MuaBanNha] has started
+29-Oct-2018 10:58:51.140 INFO [http-nio-8080-exec-449] org.apache.jasper.servlet.TldScanner.scanJars At least one JAR was scanned for TLDs yet contained no TLDs. Enable debug logging for this logger for a complete list of JARs that were scanned but no TLDs were found in them. Skipping unneeded JARs during scanning can improve startup time and JSP compilation time.
+29-Oct-2018 10:58:51.152 INFO [http-nio-8080-exec-449] org.apache.catalina.core.StandardContext.reload Reloading Context with name [/MuaBanNha] is completed
+29-Oct-2018 10:59:00.188 INFO [http-nio-8080-exec-437] org.apache.catalina.core.StandardContext.reload Reloading Context with name [/MuaBanNha] has started
+29-Oct-2018 10:59:00.364 INFO [http-nio-8080-exec-437] org.apache.jasper.servlet.TldScanner.scanJars At least one JAR was scanned for TLDs yet contained no TLDs. Enable debug logging for this logger for a complete list of JARs that were scanned but no TLDs were found in them. Skipping unneeded JARs during scanning can improve startup time and JSP compilation time.
+29-Oct-2018 10:59:00.374 INFO [http-nio-8080-exec-437] org.apache.catalina.core.StandardContext.reload Reloading Context with name [/MuaBanNha] is completed
+29-Oct-2018 11:00:48.969 INFO [http-nio-8080-exec-440] org.apache.catalina.core.StandardContext.reload Reloading Context with name [/MuaBanNha] has started
+29-Oct-2018 11:00:49.525 INFO [http-nio-8080-exec-440] org.apache.jasper.servlet.TldScanner.scanJars At least one JAR was scanned for TLDs yet contained no TLDs. Enable debug logging for this logger for a complete list of JARs that were scanned but no TLDs were found in them. Skipping unneeded JARs during scanning can improve startup time and JSP compilation time.
+29-Oct-2018 11:00:49.548 INFO [http-nio-8080-exec-440] org.apache.catalina.core.StandardContext.reload Reloading Context with name [/MuaBanNha] is completed
+29-Oct-2018 11:28:37.786 INFO [http-nio-8080-exec-457] org.apache.catalina.core.StandardContext.reload Reloading Context with name [/MuaBanNha] has started
+29-Oct-2018 11:28:38.144 INFO [http-nio-8080-exec-457] org.apache.jasper.servlet.TldScanner.scanJars At least one JAR was scanned for TLDs yet contained no TLDs. Enable debug logging for this logger for a complete list of JARs that were scanned but no TLDs were found in them. Skipping unneeded JARs during scanning can improve startup time and JSP compilation time.
+29-Oct-2018 11:28:38.154 INFO [http-nio-8080-exec-457] org.apache.catalina.core.StandardContext.reload Reloading Context with name [/MuaBanNha] is completed
+29-Oct-2018 11:39:31.061 INFO [http-nio-8080-exec-466] org.apache.catalina.core.StandardContext.reload Reloading Context with name [/MuaBanNha] has started
+29-Oct-2018 11:39:31.380 INFO [http-nio-8080-exec-466] org.apache.jasper.servlet.TldScanner.scanJars At least one JAR was scanned for TLDs yet contained no TLDs. Enable debug logging for this logger for a complete list of JARs that were scanned but no TLDs were found in them. Skipping unneeded JARs during scanning can improve startup time and JSP compilation time.
+29-Oct-2018 11:39:31.403 INFO [http-nio-8080-exec-466] org.apache.catalina.core.StandardContext.reload Reloading Context with name [/MuaBanNha] is completed
+29-Oct-2018 11:39:31.447 INFO [http-nio-8080-exec-465] org.apache.catalina.core.StandardContext.reload Reloading Context with name [/MuaBanNha] has started
+29-Oct-2018 11:39:31.874 INFO [http-nio-8080-exec-465] org.apache.jasper.servlet.TldScanner.scanJars At least one JAR was scanned for TLDs yet contained no TLDs. Enable debug logging for this logger for a complete list of JARs that were scanned but no TLDs were found in them. Skipping unneeded JARs during scanning can improve startup time and JSP compilation time.
+29-Oct-2018 11:39:31.894 INFO [http-nio-8080-exec-465] org.apache.catalina.core.StandardContext.reload Reloading Context with name [/MuaBanNha] is completed
+29-Oct-2018 14:37:53.948 INFO [http-nio-8080-exec-478] org.apache.catalina.core.StandardContext.reload Reloading Context with name [/WebApplication3] has started
+29-Oct-2018 14:37:54.072 INFO [http-nio-8080-exec-478] org.apache.catalina.core.StandardContext.reload Reloading Context with name [/WebApplication3] is completed
+29-Oct-2018 14:37:54.853 INFO [http-nio-8080-exec-477] org.apache.catalina.core.StandardContext.reload Reloading Context with name [/WebApplication3] has started
+29-Oct-2018 14:37:54.981 INFO [http-nio-8080-exec-477] org.apache.catalina.core.StandardContext.reload Reloading Context with name [/WebApplication3] is completed
+29-Oct-2018 14:38:32.606 INFO [http-nio-8080-exec-479] org.apache.catalina.core.StandardContext.reload Reloading Context with name [/WebApplication3] has started
+29-Oct-2018 14:38:32.701 INFO [http-nio-8080-exec-479] org.apache.catalina.core.StandardContext.reload Reloading Context with name [/WebApplication3] is completed
+29-Oct-2018 14:53:02.946 INFO [http-nio-8080-exec-487] org.apache.catalina.core.StandardContext.reload Reloading Context with name [/WebApplication3] has started
+29-Oct-2018 14:53:03.024 INFO [http-nio-8080-exec-487] org.apache.catalina.core.StandardContext.reload Reloading Context with name [/WebApplication3] is completed
+29-Oct-2018 14:53:07.744 INFO [http-nio-8080-exec-486] org.apache.catalina.core.StandardContext.reload Reloading Context with name [/WebApplication3] has started
+29-Oct-2018 14:53:07.791 INFO [http-nio-8080-exec-486] org.apache.catalina.core.StandardContext.reload Reloading Context with name [/WebApplication3] is completed
+29-Oct-2018 14:53:44.899 INFO [http-nio-8080-exec-492] org.apache.catalina.core.StandardContext.reload Reloading Context with name [/WebApplication3] has started
+29-Oct-2018 14:53:44.946 INFO [http-nio-8080-exec-492] org.apache.catalina.core.StandardContext.reload Reloading Context with name [/WebApplication3] is completed
+29-Oct-2018 14:53:56.107 INFO [http-nio-8080-exec-489] org.apache.catalina.core.StandardContext.reload Reloading Context with name [/WebApplication3] has started
+29-Oct-2018 14:53:56.185 INFO [http-nio-8080-exec-489] org.apache.catalina.core.StandardContext.reload Reloading Context with name [/WebApplication3] is completed
+29-Oct-2018 14:54:17.542 INFO [http-nio-8080-exec-495] org.apache.catalina.core.StandardContext.reload Reloading Context with name [/WebApplication3] has started
+29-Oct-2018 14:54:17.604 INFO [http-nio-8080-exec-495] org.apache.catalina.core.StandardContext.reload Reloading Context with name [/WebApplication3] is completed
+29-Oct-2018 14:55:06.564 INFO [http-nio-8080-exec-485] org.apache.catalina.core.StandardContext.reload Reloading Context with name [/WebApplication3] has started
+29-Oct-2018 14:55:06.644 INFO [http-nio-8080-exec-485] org.apache.catalina.core.StandardContext.reload Reloading Context with name [/WebApplication3] is completed
+29-Oct-2018 14:55:06.772 INFO [http-nio-8080-exec-484] org.apache.catalina.core.StandardContext.reload Reloading Context with name [/WebApplication3] has started
+29-Oct-2018 14:55:06.834 INFO [http-nio-8080-exec-484] org.apache.catalina.core.StandardContext.reload Reloading Context with name [/WebApplication3] is completed
+29-Oct-2018 14:55:08.877 INFO [http-nio-8080-exec-485] org.apache.catalina.core.StandardContext.reload Reloading Context with name [/WebApplication3] has started
+29-Oct-2018 14:55:08.924 INFO [http-nio-8080-exec-485] org.apache.catalina.core.StandardContext.reload Reloading Context with name [/WebApplication3] is completed

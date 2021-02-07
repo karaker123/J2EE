@@ -1,0 +1,910 @@
+18-Oct-2018 07:12:44.157 INFO [http-nio-8080-exec-106] org.apache.catalina.core.StandardContext.reload Reloading Context with name [/WebApplication1] has started
+18-Oct-2018 07:12:44.414 INFO [http-nio-8080-exec-106] org.apache.jasper.servlet.TldScanner.scanJars At least one JAR was scanned for TLDs yet contained no TLDs. Enable debug logging for this logger for a complete list of JARs that were scanned but no TLDs were found in them. Skipping unneeded JARs during scanning can improve startup time and JSP compilation time.
+18-Oct-2018 07:12:44.418 INFO [196] org.apache.catalina.core.StandardContext.reload Reloading Context with name [/WebApplication1] is completed
+18-Oct-2018 07:12:56.831 INFO [http-nio-8080-exec-105] org.apache.catalina.core.StandardContext.reload Reloading Context with name [/WebApplication1] has started
+18-Oct-2018 07:12:56.966 INFO [http-nio-8080-exec-105] org.apache.jasper.servlet.TldScanner.scanJars At least one JAR was scanned for TLDs yet contained no TLDs. Enable debug logging for this logger for a complete list of JARs that were scanned but no TLDs were found in them. Skipping unneeded JARs during scanning can improve startup time and JSP compilation time.
+18-Oct-2018 07:12:56.969 INFO [http-nio-8080-exec-105] org.apache.catalina.core.StandardContext.reload Reloading Context with name [/WebApplication1] is completed
+18-Oct-2018 07:17:31.395 INFO [http-nio-8080-exec-115] org.apache.catalina.core.StandardContext.reload Reloading Context with name [/WebApplication1] has started
+18-Oct-2018 07:17:31.576 INFO [http-nio-8080-exec-115] org.apache.jasper.servlet.TldScanner.scanJars At least one JAR was scanned for TLDs yet contained no TLDs. Enable debug logging for this logger for a complete list of JARs that were scanned but no TLDs were found in them. Skipping unneeded JARs during scanning can improve startup time and JSP compilation time.
+18-Oct-2018 07:17:31.578 INFO [http-nio-8080-exec-115] org.apache.catalina.core.StandardContext.reload Reloading Context with name [/WebApplication1] is completed
+18-Oct-2018 07:19:07.475 INFO [http-nio-8080-exec-118] org.apache.catalina.core.StandardContext.reload Reloading Context with name [/WebApplication1] has started
+18-Oct-2018 07:19:07.727 INFO [http-nio-8080-exec-118] org.apache.jasper.servlet.TldScanner.scanJars At least one JAR was scanned for TLDs yet contained no TLDs. Enable debug logging for this logger for a complete list of JARs that were scanned but no TLDs were found in them. Skipping unneeded JARs during scanning can improve startup time and JSP compilation time.
+18-Oct-2018 07:19:07.731 INFO [http-nio-8080-exec-118] org.apache.catalina.core.StandardContext.reload Reloading Context with name [/WebApplication1] is completed
+18-Oct-2018 07:19:35.140 INFO [http-nio-8080-exec-105] org.apache.catalina.core.StandardContext.reload Reloading Context with name [/WebApplication1] has started
+18-Oct-2018 07:19:35.322 INFO [http-nio-8080-exec-105] org.apache.jasper.servlet.TldScanner.scanJars At least one JAR was scanned for TLDs yet contained no TLDs. Enable debug logging for this logger for a complete list of JARs that were scanned but no TLDs were found in them. Skipping unneeded JARs during scanning can improve startup time and JSP compilation time.
+18-Oct-2018 07:19:35.324 INFO [http-nio-8080-exec-105] org.apache.catalina.core.StandardContext.reload Reloading Context with name [/WebApplication1] is completed
+18-Oct-2018 07:23:01.371 INFO [http-nio-8080-exec-123] org.apache.catalina.core.StandardContext.reload Reloading Context with name [/WebApplication1] has started
+18-Oct-2018 07:23:01.591 INFO [http-nio-8080-exec-123] org.apache.jasper.servlet.TldScanner.scanJars At least one JAR was scanned for TLDs yet contained no TLDs. Enable debug logging for this logger for a complete list of JARs that were scanned but no TLDs were found in them. Skipping unneeded JARs during scanning can improve startup time and JSP compilation time.
+18-Oct-2018 07:23:01.594 INFO [http-nio-8080-exec-123] org.apache.catalina.core.StandardContext.reload Reloading Context with name [/WebApplication1] is completed
+18-Oct-2018 07:23:13.364 INFO [http-nio-8080-exec-120] org.apache.catalina.core.StandardContext.reload Reloading Context with name [/WebApplication1] has started
+18-Oct-2018 07:23:13.489 INFO [http-nio-8080-exec-120] org.apache.jasper.servlet.TldScanner.scanJars At least one JAR was scanned for TLDs yet contained no TLDs. Enable debug logging for this logger for a complete list of JARs that were scanned but no TLDs were found in them. Skipping unneeded JARs during scanning can improve startup time and JSP compilation time.
+18-Oct-2018 07:23:13.493 INFO [http-nio-8080-exec-120] org.apache.catalina.core.StandardContext.reload Reloading Context with name [/WebApplication1] is completed
+18-Oct-2018 07:24:24.940 INFO [http-nio-8080-exec-120] org.apache.catalina.core.StandardContext.reload Reloading Context with name [/WebApplication1] has started
+18-Oct-2018 07:24:25.133 INFO [http-nio-8080-exec-120] org.apache.jasper.servlet.TldScanner.scanJars At least one JAR was scanned for TLDs yet contained no TLDs. Enable debug logging for this logger for a complete list of JARs that were scanned but no TLDs were found in them. Skipping unneeded JARs during scanning can improve startup time and JSP compilation time.
+18-Oct-2018 07:24:25.136 INFO [http-nio-8080-exec-120] org.apache.catalina.core.StandardContext.reload Reloading Context with name [/WebApplication1] is completed
+18-Oct-2018 07:26:06.342 INFO [http-nio-8080-exec-128] org.apache.catalina.core.StandardContext.reload Reloading Context with name [/WebApplication1] has started
+18-Oct-2018 07:26:06.535 INFO [http-nio-8080-exec-128] org.apache.jasper.servlet.TldScanner.scanJars At least one JAR was scanned for TLDs yet contained no TLDs. Enable debug logging for this logger for a complete list of JARs that were scanned but no TLDs were found in them. Skipping unneeded JARs during scanning can improve startup time and JSP compilation time.
+18-Oct-2018 07:26:06.538 INFO [http-nio-8080-exec-128] org.apache.catalina.core.StandardContext.reload Reloading Context with name [/WebApplication1] is completed
+18-Oct-2018 07:27:10.587 INFO [http-nio-8080-exec-130] org.apache.catalina.core.StandardContext.reload Reloading Context with name [/WebApplication1] has started
+18-Oct-2018 07:27:10.881 INFO [http-nio-8080-exec-130] org.apache.jasper.servlet.TldScanner.scanJars At least one JAR was scanned for TLDs yet contained no TLDs. Enable debug logging for this logger for a complete list of JARs that were scanned but no TLDs were found in them. Skipping unneeded JARs during scanning can improve startup time and JSP compilation time.
+18-Oct-2018 07:27:10.885 INFO [http-nio-8080-exec-130] org.apache.catalina.core.StandardContext.reload Reloading Context with name [/WebApplication1] is completed
+18-Oct-2018 07:27:13.869 INFO [http-nio-8080-exec-127] org.apache.catalina.core.StandardContext.reload Reloading Context with name [/WebApplication1] has started
+18-Oct-2018 07:27:13.986 INFO [http-nio-8080-exec-127] org.apache.jasper.servlet.TldScanner.scanJars At least one JAR was scanned for TLDs yet contained no TLDs. Enable debug logging for this logger for a complete list of JARs that were scanned but no TLDs were found in them. Skipping unneeded JARs during scanning can improve startup time and JSP compilation time.
+18-Oct-2018 07:27:13.989 INFO [http-nio-8080-exec-127] org.apache.catalina.core.StandardContext.reload Reloading Context with name [/WebApplication1] is completed
+18-Oct-2018 07:27:25.506 INFO [http-nio-8080-exec-129] org.apache.catalina.core.StandardContext.reload Reloading Context with name [/WebApplication1] has started
+18-Oct-2018 07:27:25.640 INFO [http-nio-8080-exec-129] org.apache.jasper.servlet.TldScanner.scanJars At least one JAR was scanned for TLDs yet contained no TLDs. Enable debug logging for this logger for a complete list of JARs that were scanned but no TLDs were found in them. Skipping unneeded JARs during scanning can improve startup time and JSP compilation time.
+18-Oct-2018 07:27:25.644 INFO [http-nio-8080-exec-129] org.apache.catalina.core.StandardContext.reload Reloading Context with name [/WebApplication1] is completed
+18-Oct-2018 07:27:37.946 INFO [http-nio-8080-exec-124] org.apache.catalina.core.StandardContext.reload Reloading Context with name [/WebApplication1] has started
+18-Oct-2018 07:27:38.059 INFO [http-nio-8080-exec-124] org.apache.jasper.servlet.TldScanner.scanJars At least one JAR was scanned for TLDs yet contained no TLDs. Enable debug logging for this logger for a complete list of JARs that were scanned but no TLDs were found in them. Skipping unneeded JARs during scanning can improve startup time and JSP compilation time.
+18-Oct-2018 07:27:38.061 INFO [http-nio-8080-exec-124] org.apache.catalina.core.StandardContext.reload Reloading Context with name [/WebApplication1] is completed
+18-Oct-2018 07:30:06.975 INFO [http-nio-8080-exec-139] org.apache.catalina.core.StandardContext.reload Reloading Context with name [/WebApplication1] has started
+18-Oct-2018 07:30:07.036 WARNING [http-nio-8080-exec-139] org.apache.catalina.loader.WebappClassLoaderBase.clearReferencesJdbc The web application [WebApplication1] registered the JDBC driver [com.mysql.jdbc.Driver] but failed to unregister it when the web application was stopped. To prevent a memory leak, the JDBC Driver has been forcibly unregistered.
+18-Oct-2018 07:30:07.037 WARNING [http-nio-8080-exec-139] org.apache.catalina.loader.WebappClassLoaderBase.clearReferencesThreads The web application [WebApplication1] appears to have started a thread named [MySQL Statement Cancellation Timer] but has failed to stop it. This is very likely to create a memory leak. Stack trace of thread:
+ java.lang.Object.wait(Native Method)
+ java.lang.Object.wait(Object.java:502)
+ java.util.TimerThread.mainLoop(Timer.java:526)
+ java.util.TimerThread.run(Timer.java:505)
+18-Oct-2018 07:30:07.248 INFO [http-nio-8080-exec-139] org.apache.jasper.servlet.TldScanner.scanJars At least one JAR was scanned for TLDs yet contained no TLDs. Enable debug logging for this logger for a complete list of JARs that were scanned but no TLDs were found in them. Skipping unneeded JARs during scanning can improve startup time and JSP compilation time.
+18-Oct-2018 07:30:07.257 INFO [http-nio-8080-exec-139] org.apache.catalina.core.StandardContext.reload Reloading Context with name [/WebApplication1] is completed
+18-Oct-2018 07:30:11.407 INFO [http-nio-8080-exec-136] org.apache.catalina.core.StandardContext.reload Reloading Context with name [/WebApplication1] has started
+18-Oct-2018 07:30:11.623 INFO [http-nio-8080-exec-136] org.apache.jasper.servlet.TldScanner.scanJars At least one JAR was scanned for TLDs yet contained no TLDs. Enable debug logging for this logger for a complete list of JARs that were scanned but no TLDs were found in them. Skipping unneeded JARs during scanning can improve startup time and JSP compilation time.
+18-Oct-2018 07:30:11.705 INFO [http-nio-8080-exec-136] org.apache.catalina.core.StandardContext.reload Reloading Context with name [/WebApplication1] is completed
+18-Oct-2018 07:30:32.892 INFO [http-nio-8080-exec-138] org.apache.catalina.core.StandardContext.reload Reloading Context with name [/WebApplication1] has started
+18-Oct-2018 07:30:33.078 INFO [http-nio-8080-exec-138] org.apache.jasper.servlet.TldScanner.scanJars At least one JAR was scanned for TLDs yet contained no TLDs. Enable debug logging for this logger for a complete list of JARs that were scanned but no TLDs were found in them. Skipping unneeded JARs during scanning can improve startup time and JSP compilation time.
+18-Oct-2018 07:30:33.082 INFO [http-nio-8080-exec-138] org.apache.catalina.core.StandardContext.reload Reloading Context with name [/WebApplication1] is completed
+18-Oct-2018 07:33:32.984 INFO [http-nio-8080-exec-149] org.apache.catalina.core.StandardContext.reload Reloading Context with name [/WebApplication1] has started
+18-Oct-2018 07:33:32.992 WARNING [http-nio-8080-exec-149] org.apache.catalina.loader.WebappClassLoaderBase.clearReferencesJdbc The web application [WebApplication1] registered the JDBC driver [com.mysql.jdbc.Driver] but failed to unregister it when the web application was stopped. To prevent a memory leak, the JDBC Driver has been forcibly unregistered.
+18-Oct-2018 07:33:32.996 WARNING [http-nio-8080-exec-149] org.apache.catalina.loader.WebappClassLoaderBase.clearReferencesThreads The web application [WebApplication1] appears to have started a thread named [MySQL Statement Cancellation Timer] but has failed to stop it. This is very likely to create a memory leak. Stack trace of thread:
+ java.lang.Object.wait(Native Method)
+ java.lang.Object.wait(Object.java:502)
+ java.util.TimerThread.mainLoop(Timer.java:526)
+ java.util.TimerThread.run(Timer.java:505)
+18-Oct-2018 07:33:33.183 INFO [http-nio-8080-exec-149] org.apache.jasper.servlet.TldScanner.scanJars At least one JAR was scanned for TLDs yet contained no TLDs. Enable debug logging for this logger for a complete list of JARs that were scanned but no TLDs were found in them. Skipping unneeded JARs during scanning can improve startup time and JSP compilation time.
+18-Oct-2018 07:33:33.189 INFO [http-nio-8080-exec-149] org.apache.catalina.core.StandardContext.reload Reloading Context with name [/WebApplication1] is completed
+18-Oct-2018 07:33:51.623 INFO [http-nio-8080-exec-150] org.apache.catalina.core.StandardContext.reload Reloading Context with name [/WebApplication1] has started
+18-Oct-2018 07:33:51.812 INFO [http-nio-8080-exec-150] org.apache.jasper.servlet.TldScanner.scanJars At least one JAR was scanned for TLDs yet contained no TLDs. Enable debug logging for this logger for a complete list of JARs that were scanned but no TLDs were found in them. Skipping unneeded JARs during scanning can improve startup time and JSP compilation time.
+18-Oct-2018 07:33:51.822 INFO [http-nio-8080-exec-150] org.apache.catalina.core.StandardContext.reload Reloading Context with name [/WebApplication1] is completed
+18-Oct-2018 07:34:46.140 INFO [http-nio-8080-exec-149] org.apache.catalina.core.StandardContext.reload Reloading Context with name [/WebApplication1] has started
+18-Oct-2018 07:34:46.335 INFO [http-nio-8080-exec-149] org.apache.jasper.servlet.TldScanner.scanJars At least one JAR was scanned for TLDs yet contained no TLDs. Enable debug logging for this logger for a complete list of JARs that were scanned but no TLDs were found in them. Skipping unneeded JARs during scanning can improve startup time and JSP compilation time.
+18-Oct-2018 07:34:46.339 INFO [http-nio-8080-exec-149] org.apache.catalina.core.StandardContext.reload Reloading Context with name [/WebApplication1] is completed
+18-Oct-2018 07:34:59.871 INFO [http-nio-8080-exec-154] org.apache.catalina.core.StandardContext.reload Reloading Context with name [/WebApplication1] has started
+18-Oct-2018 07:35:00.057 INFO [http-nio-8080-exec-154] org.apache.jasper.servlet.TldScanner.scanJars At least one JAR was scanned for TLDs yet contained no TLDs. Enable debug logging for this logger for a complete list of JARs that were scanned but no TLDs were found in them. Skipping unneeded JARs during scanning can improve startup time and JSP compilation time.
+18-Oct-2018 07:35:00.062 INFO [http-nio-8080-exec-154] org.apache.catalina.core.StandardContext.reload Reloading Context with name [/WebApplication1] is completed
+18-Oct-2018 07:37:05.812 INFO [http-nio-8080-exec-155] org.apache.catalina.core.StandardContext.reload Reloading Context with name [/WebApplication1] has started
+18-Oct-2018 07:37:06.023 INFO [http-nio-8080-exec-155] org.apache.jasper.servlet.TldScanner.scanJars At least one JAR was scanned for TLDs yet contained no TLDs. Enable debug logging for this logger for a complete list of JARs that were scanned but no TLDs were found in them. Skipping unneeded JARs during scanning can improve startup time and JSP compilation time.
+18-Oct-2018 07:37:06.028 INFO [http-nio-8080-exec-155] org.apache.catalina.core.StandardContext.reload Reloading Context with name [/WebApplication1] is completed
+18-Oct-2018 07:37:06.067 INFO [http-nio-8080-exec-149] org.apache.catalina.core.StandardContext.reload Reloading Context with name [/WebApplication1] has started
+18-Oct-2018 07:37:06.265 INFO [http-nio-8080-exec-149] org.apache.jasper.servlet.TldScanner.scanJars At least one JAR was scanned for TLDs yet contained no TLDs. Enable debug logging for this logger for a complete list of JARs that were scanned but no TLDs were found in them. Skipping unneeded JARs during scanning can improve startup time and JSP compilation time.
+18-Oct-2018 07:37:06.271 INFO [http-nio-8080-exec-149] org.apache.catalina.core.StandardContext.reload Reloading Context with name [/WebApplication1] is completed
+18-Oct-2018 07:37:13.147 INFO [http-nio-8080-exec-158] org.apache.catalina.core.StandardContext.reload Reloading Context with name [/WebApplication1] has started
+18-Oct-2018 07:37:13.352 INFO [http-nio-8080-exec-158] org.apache.jasper.servlet.TldScanner.scanJars At least one JAR was scanned for TLDs yet contained no TLDs. Enable debug logging for this logger for a complete list of JARs that were scanned but no TLDs were found in them. Skipping unneeded JARs during scanning can improve startup time and JSP compilation time.
+18-Oct-2018 07:37:13.358 INFO [http-nio-8080-exec-158] org.apache.catalina.core.StandardContext.reload Reloading Context with name [/WebApplication1] is completed
+18-Oct-2018 07:37:23.303 INFO [http-nio-8080-exec-155] org.apache.catalina.core.StandardContext.reload Reloading Context with name [/WebApplication1] has started
+18-Oct-2018 07:37:23.496 INFO [http-nio-8080-exec-155] org.apache.jasper.servlet.TldScanner.scanJars At least one JAR was scanned for TLDs yet contained no TLDs. Enable debug logging for this logger for a complete list of JARs that were scanned but no TLDs were found in them. Skipping unneeded JARs during scanning can improve startup time and JSP compilation time.
+18-Oct-2018 07:37:23.501 INFO [http-nio-8080-exec-155] org.apache.catalina.core.StandardContext.reload Reloading Context with name [/WebApplication1] is completed
+18-Oct-2018 07:37:42.073 INFO [http-nio-8080-exec-154] org.apache.catalina.core.StandardContext.reload Reloading Context with name [/WebApplication1] has started
+18-Oct-2018 07:37:42.251 INFO [http-nio-8080-exec-154] org.apache.jasper.servlet.TldScanner.scanJars At least one JAR was scanned for TLDs yet contained no TLDs. Enable debug logging for this logger for a complete list of JARs that were scanned but no TLDs were found in them. Skipping unneeded JARs during scanning can improve startup time and JSP compilation time.
+18-Oct-2018 07:37:42.256 INFO [http-nio-8080-exec-154] org.apache.catalina.core.StandardContext.reload Reloading Context with name [/WebApplication1] is completed
+18-Oct-2018 07:38:59.347 INFO [http-nio-8080-exec-163] org.apache.catalina.core.StandardContext.reload Reloading Context with name [/WebApplication1] has started
+18-Oct-2018 07:38:59.743 INFO [http-nio-8080-exec-163] org.apache.jasper.servlet.TldScanner.scanJars At least one JAR was scanned for TLDs yet contained no TLDs. Enable debug logging for this logger for a complete list of JARs that were scanned but no TLDs were found in them. Skipping unneeded JARs during scanning can improve startup time and JSP compilation time.
+18-Oct-2018 07:38:59.747 INFO [http-nio-8080-exec-163] org.apache.catalina.core.StandardContext.reload Reloading Context with name [/WebApplication1] is completed
+18-Oct-2018 07:39:04.264 INFO [http-nio-8080-exec-162] org.apache.catalina.core.StandardContext.reload Reloading Context with name [/WebApplication1] has started
+18-Oct-2018 07:39:04.421 INFO [http-nio-8080-exec-162] org.apache.jasper.servlet.TldScanner.scanJars At least one JAR was scanned for TLDs yet contained no TLDs. Enable debug logging for this logger for a complete list of JARs that were scanned but no TLDs were found in them. Skipping unneeded JARs during scanning can improve startup time and JSP compilation time.
+18-Oct-2018 07:39:04.425 INFO [http-nio-8080-exec-162] org.apache.catalina.core.StandardContext.reload Reloading Context with name [/WebApplication1] is completed
+18-Oct-2018 07:39:43.505 INFO [http-nio-8080-exec-163] org.apache.catalina.core.StandardContext.reload Reloading Context with name [/WebApplication1] has started
+18-Oct-2018 07:39:43.763 INFO [http-nio-8080-exec-163] org.apache.jasper.servlet.TldScanner.scanJars At least one JAR was scanned for TLDs yet contained no TLDs. Enable debug logging for this logger for a complete list of JARs that were scanned but no TLDs were found in them. Skipping unneeded JARs during scanning can improve startup time and JSP compilation time.
+18-Oct-2018 07:39:43.769 INFO [http-nio-8080-exec-163] org.apache.catalina.core.StandardContext.reload Reloading Context with name [/WebApplication1] is completed
+18-Oct-2018 07:39:43.811 INFO [http-nio-8080-exec-150] org.apache.catalina.core.StandardContext.reload Reloading Context with name [/WebApplication1] has started
+18-Oct-2018 07:39:44.049 INFO [http-nio-8080-exec-150] org.apache.jasper.servlet.TldScanner.scanJars At least one JAR was scanned for TLDs yet contained no TLDs. Enable debug logging for this logger for a complete list of JARs that were scanned but no TLDs were found in them. Skipping unneeded JARs during scanning can improve startup time and JSP compilation time.
+18-Oct-2018 07:39:44.054 INFO [http-nio-8080-exec-150] org.apache.catalina.core.StandardContext.reload Reloading Context with name [/WebApplication1] is completed
+18-Oct-2018 07:40:25.880 INFO [http-nio-8080-exec-154] org.apache.catalina.core.StandardContext.reload Reloading Context with name [/WebApplication1] has started
+18-Oct-2018 07:40:26.046 INFO [http-nio-8080-exec-154] org.apache.jasper.servlet.TldScanner.scanJars At least one JAR was scanned for TLDs yet contained no TLDs. Enable debug logging for this logger for a complete list of JARs that were scanned but no TLDs were found in them. Skipping unneeded JARs during scanning can improve startup time and JSP compilation time.
+18-Oct-2018 07:40:26.050 INFO [http-nio-8080-exec-154] org.apache.catalina.core.StandardContext.reload Reloading Context with name [/WebApplication1] is completed
+18-Oct-2018 07:40:38.376 INFO [http-nio-8080-exec-159] org.apache.catalina.core.StandardContext.reload Reloading Context with name [/WebApplication1] has started
+18-Oct-2018 07:40:38.558 INFO [http-nio-8080-exec-159] org.apache.jasper.servlet.TldScanner.scanJars At least one JAR was scanned for TLDs yet contained no TLDs. Enable debug logging for this logger for a complete list of JARs that were scanned but no TLDs were found in them. Skipping unneeded JARs during scanning can improve startup time and JSP compilation time.
+18-Oct-2018 07:40:38.563 INFO [http-nio-8080-exec-159] org.apache.catalina.core.StandardContext.reload Reloading Context with name [/WebApplication1] is completed
+18-Oct-2018 07:41:12.142 INFO [http-nio-8080-exec-154] org.apache.catalina.core.StandardContext.reload Reloading Context with name [/WebApplication1] has started
+18-Oct-2018 07:41:12.312 INFO [271] org.apache.jasper.servlet.TldScanner.scanJars At least one JAR was scanned for TLDs yet contained no TLDs. Enable debug logging for this logger for a complete list of JARs that were scanned but no TLDs were found in them. Skipping unneeded JARs during scanning can improve startup time and JSP compilation time.
+18-Oct-2018 07:41:12.317 INFO [271] org.apache.catalina.core.StandardContext.reload Reloading Context with name [/WebApplication1] is completed
+18-Oct-2018 07:41:59.991 INFO [http-nio-8080-exec-149] org.apache.catalina.core.StandardContext.reload Reloading Context with name [/WebApplication1] has started
+18-Oct-2018 07:42:00.158 INFO [http-nio-8080-exec-149] org.apache.jasper.servlet.TldScanner.scanJars At least one JAR was scanned for TLDs yet contained no TLDs. Enable debug logging for this logger for a complete list of JARs that were scanned but no TLDs were found in them. Skipping unneeded JARs during scanning can improve startup time and JSP compilation time.
+18-Oct-2018 07:42:00.163 INFO [http-nio-8080-exec-149] org.apache.catalina.core.StandardContext.reload Reloading Context with name [/WebApplication1] is completed
+18-Oct-2018 07:43:14.088 INFO [http-nio-8080-exec-176] org.apache.catalina.core.StandardContext.reload Reloading Context with name [/WebApplication1] has started
+18-Oct-2018 07:43:14.272 INFO [http-nio-8080-exec-176] org.apache.jasper.servlet.TldScanner.scanJars At least one JAR was scanned for TLDs yet contained no TLDs. Enable debug logging for this logger for a complete list of JARs that were scanned but no TLDs were found in them. Skipping unneeded JARs during scanning can improve startup time and JSP compilation time.
+18-Oct-2018 07:43:14.276 INFO [http-nio-8080-exec-176] org.apache.catalina.core.StandardContext.reload Reloading Context with name [/WebApplication1] is completed
+18-Oct-2018 07:43:27.367 INFO [http-nio-8080-exec-171] org.apache.catalina.core.StandardContext.reload Reloading Context with name [/WebApplication1] has started
+18-Oct-2018 07:43:27.546 INFO [http-nio-8080-exec-171] org.apache.jasper.servlet.TldScanner.scanJars At least one JAR was scanned for TLDs yet contained no TLDs. Enable debug logging for this logger for a complete list of JARs that were scanned but no TLDs were found in them. Skipping unneeded JARs during scanning can improve startup time and JSP compilation time.
+18-Oct-2018 07:43:27.550 INFO [http-nio-8080-exec-171] org.apache.catalina.core.StandardContext.reload Reloading Context with name [/WebApplication1] is completed
+18-Oct-2018 07:43:32.658 INFO [http-nio-8080-exec-169] org.apache.catalina.core.StandardContext.reload Reloading Context with name [/WebApplication1] has started
+18-Oct-2018 07:43:32.888 INFO [http-nio-8080-exec-169] org.apache.jasper.servlet.TldScanner.scanJars At least one JAR was scanned for TLDs yet contained no TLDs. Enable debug logging for this logger for a complete list of JARs that were scanned but no TLDs were found in them. Skipping unneeded JARs during scanning can improve startup time and JSP compilation time.
+18-Oct-2018 07:43:32.891 INFO [http-nio-8080-exec-169] org.apache.catalina.core.StandardContext.reload Reloading Context with name [/WebApplication1] is completed
+18-Oct-2018 07:46:15.609 INFO [http-nio-8080-exec-169] org.apache.catalina.startup.HostConfig.deployDescriptor Deploying configuration descriptor [D:\Java\apache-tomcat-8.5.34\conf\Catalina\localhost\WebApplication2.xml]
+18-Oct-2018 07:46:15.658 INFO [http-nio-8080-exec-169] org.apache.catalina.startup.HostConfig.deployDescriptor Deployment of configuration descriptor [D:\Java\apache-tomcat-8.5.34\conf\Catalina\localhost\WebApplication2.xml] has finished in [48] ms
+18-Oct-2018 07:46:15.677 INFO [http-nio-8080-exec-188] org.apache.catalina.util.LifecycleBase.start The start() method was called on component [StandardEngine[Catalina].StandardHost[localhost].StandardContext[/WebApplication2]] after start() had already been called. The second call will be ignored.
+18-Oct-2018 07:46:45.707 INFO [http-nio-8080-exec-186] org.apache.catalina.core.StandardContext.reload Reloading Context with name [/WebApplication2] has started
+18-Oct-2018 07:46:45.904 INFO [http-nio-8080-exec-186] org.apache.catalina.core.StandardContext.reload Reloading Context with name [/WebApplication2] is completed
+18-Oct-2018 07:46:46.063 INFO [http-nio-8080-exec-191] org.apache.catalina.core.StandardContext.reload Reloading Context with name [/WebApplication2] has started
+18-Oct-2018 07:46:46.127 INFO [http-nio-8080-exec-191] org.apache.catalina.core.StandardContext.reload Reloading Context with name [/WebApplication2] is completed
+18-Oct-2018 07:47:10.723 INFO [http-nio-8080-exec-185] org.apache.catalina.core.StandardContext.reload Reloading Context with name [/WebApplication2] has started
+18-Oct-2018 07:47:10.867 INFO [http-nio-8080-exec-185] org.apache.catalina.core.StandardContext.reload Reloading Context with name [/WebApplication2] is completed
+18-Oct-2018 07:47:11.468 INFO [http-nio-8080-exec-182] org.apache.catalina.core.StandardContext.reload Reloading Context with name [/WebApplication2] has started
+18-Oct-2018 07:47:11.520 INFO [http-nio-8080-exec-182] org.apache.catalina.core.StandardContext.reload Reloading Context with name [/WebApplication2] is completed
+18-Oct-2018 07:47:27.171 INFO [http-nio-8080-exec-183] org.apache.catalina.core.StandardContext.reload Reloading Context with name [/WebApplication2] has started
+18-Oct-2018 07:47:27.256 INFO [http-nio-8080-exec-183] org.apache.catalina.core.StandardContext.reload Reloading Context with name [/WebApplication2] is completed
+18-Oct-2018 07:47:51.827 INFO [http-nio-8080-exec-186] org.apache.catalina.core.StandardContext.reload Reloading Context with name [/WebApplication2] has started
+18-Oct-2018 07:47:52.163 INFO [http-nio-8080-exec-186] org.apache.jasper.servlet.TldScanner.scanJars At least one JAR was scanned for TLDs yet contained no TLDs. Enable debug logging for this logger for a complete list of JARs that were scanned but no TLDs were found in them. Skipping unneeded JARs during scanning can improve startup time and JSP compilation time.
+18-Oct-2018 07:47:52.168 INFO [http-nio-8080-exec-186] org.apache.catalina.core.StandardContext.reload Reloading Context with name [/WebApplication2] is completed
+18-Oct-2018 07:47:53.548 INFO [http-nio-8080-exec-189] org.apache.catalina.core.StandardContext.reload Reloading Context with name [/WebApplication2] has started
+18-Oct-2018 07:47:53.926 INFO [http-nio-8080-exec-189] org.apache.jasper.servlet.TldScanner.scanJars At least one JAR was scanned for TLDs yet contained no TLDs. Enable debug logging for this logger for a complete list of JARs that were scanned but no TLDs were found in them. Skipping unneeded JARs during scanning can improve startup time and JSP compilation time.
+18-Oct-2018 07:47:53.931 INFO [http-nio-8080-exec-189] org.apache.catalina.core.StandardContext.reload Reloading Context with name [/WebApplication2] is completed
+18-Oct-2018 07:48:35.401 INFO [http-nio-8080-exec-196] org.apache.catalina.core.StandardContext.reload Reloading Context with name [/WebApplication2] has started
+18-Oct-2018 07:48:35.592 INFO [http-nio-8080-exec-196] org.apache.jasper.servlet.TldScanner.scanJars At least one JAR was scanned for TLDs yet contained no TLDs. Enable debug logging for this logger for a complete list of JARs that were scanned but no TLDs were found in them. Skipping unneeded JARs during scanning can improve startup time and JSP compilation time.
+18-Oct-2018 07:48:35.595 INFO [http-nio-8080-exec-196] org.apache.catalina.core.StandardContext.reload Reloading Context with name [/WebApplication2] is completed
+18-Oct-2018 07:48:49.232 INFO [http-nio-8080-exec-186] org.apache.catalina.core.StandardContext.reload Reloading Context with name [/WebApplication2] has started
+18-Oct-2018 07:48:49.427 INFO [http-nio-8080-exec-186] org.apache.jasper.servlet.TldScanner.scanJars At least one JAR was scanned for TLDs yet contained no TLDs. Enable debug logging for this logger for a complete list of JARs that were scanned but no TLDs were found in them. Skipping unneeded JARs during scanning can improve startup time and JSP compilation time.
+18-Oct-2018 07:48:49.431 INFO [http-nio-8080-exec-186] org.apache.catalina.core.StandardContext.reload Reloading Context with name [/WebApplication2] is completed
+18-Oct-2018 07:54:55.037 INFO [http-nio-8080-exec-210] org.apache.catalina.core.StandardContext.reload Reloading Context with name [/WebApplication2] has started
+18-Oct-2018 07:54:55.047 WARNING [http-nio-8080-exec-210] org.apache.catalina.loader.WebappClassLoaderBase.clearReferencesJdbc The web application [WebApplication2] registered the JDBC driver [com.mysql.jdbc.Driver] but failed to unregister it when the web application was stopped. To prevent a memory leak, the JDBC Driver has been forcibly unregistered.
+18-Oct-2018 07:54:55.047 WARNING [http-nio-8080-exec-210] org.apache.catalina.loader.WebappClassLoaderBase.clearReferencesJdbc The web application [WebApplication2] registered the JDBC driver [com.mysql.jdbc.Driver] but failed to unregister it when the web application was stopped. To prevent a memory leak, the JDBC Driver has been forcibly unregistered.
+18-Oct-2018 07:54:55.048 WARNING [http-nio-8080-exec-210] org.apache.catalina.loader.WebappClassLoaderBase.clearReferencesThreads The web application [WebApplication2] appears to have started a thread named [MySQL Statement Cancellation Timer] but has failed to stop it. This is very likely to create a memory leak. Stack trace of thread:
+ java.lang.Object.wait(Native Method)
+ java.lang.Object.wait(Object.java:502)
+ java.util.TimerThread.mainLoop(Timer.java:526)
+ java.util.TimerThread.run(Timer.java:505)
+18-Oct-2018 07:54:55.221 INFO [338] org.apache.jasper.servlet.TldScanner.scanJars At least one JAR was scanned for TLDs yet contained no TLDs. Enable debug logging for this logger for a complete list of JARs that were scanned but no TLDs were found in them. Skipping unneeded JARs during scanning can improve startup time and JSP compilation time.
+18-Oct-2018 07:54:55.226 INFO [338] org.apache.catalina.core.StandardContext.reload Reloading Context with name [/WebApplication2] is completed
+18-Oct-2018 07:55:57.872 INFO [http-nio-8080-exec-208] org.apache.catalina.core.StandardContext.reload Reloading Context with name [/WebApplication2] has started
+18-Oct-2018 07:55:58.084 INFO [http-nio-8080-exec-208] org.apache.jasper.servlet.TldScanner.scanJars At least one JAR was scanned for TLDs yet contained no TLDs. Enable debug logging for this logger for a complete list of JARs that were scanned but no TLDs were found in them. Skipping unneeded JARs during scanning can improve startup time and JSP compilation time.
+18-Oct-2018 07:55:58.088 INFO [http-nio-8080-exec-208] org.apache.catalina.core.StandardContext.reload Reloading Context with name [/WebApplication2] is completed
+18-Oct-2018 07:56:29.252 INFO [http-nio-8080-exec-209] org.apache.catalina.core.StandardContext.reload Reloading Context with name [/WebApplication2] has started
+18-Oct-2018 07:56:29.432 INFO [http-nio-8080-exec-209] org.apache.jasper.servlet.TldScanner.scanJars At least one JAR was scanned for TLDs yet contained no TLDs. Enable debug logging for this logger for a complete list of JARs that were scanned but no TLDs were found in them. Skipping unneeded JARs during scanning can improve startup time and JSP compilation time.
+18-Oct-2018 07:56:29.435 INFO [http-nio-8080-exec-209] org.apache.catalina.core.StandardContext.reload Reloading Context with name [/WebApplication2] is completed
+18-Oct-2018 07:56:35.930 INFO [http-nio-8080-exec-203] org.apache.catalina.core.StandardContext.reload Reloading Context with name [/WebApplication2] has started
+18-Oct-2018 07:56:36.124 INFO [http-nio-8080-exec-203] org.apache.jasper.servlet.TldScanner.scanJars At least one JAR was scanned for TLDs yet contained no TLDs. Enable debug logging for this logger for a complete list of JARs that were scanned but no TLDs were found in them. Skipping unneeded JARs during scanning can improve startup time and JSP compilation time.
+18-Oct-2018 07:56:36.128 INFO [http-nio-8080-exec-203] org.apache.catalina.core.StandardContext.reload Reloading Context with name [/WebApplication2] is completed
+18-Oct-2018 08:02:18.039 INFO [http-nio-8080-exec-224] org.apache.catalina.core.StandardContext.reload Reloading Context with name [/WebApplication2] has started
+18-Oct-2018 08:02:18.144 WARNING [http-nio-8080-exec-224] org.apache.catalina.loader.WebappClassLoaderBase.clearReferencesJdbc The web application [WebApplication2] registered the JDBC driver [com.mysql.jdbc.Driver] but failed to unregister it when the web application was stopped. To prevent a memory leak, the JDBC Driver has been forcibly unregistered.
+18-Oct-2018 08:02:18.144 WARNING [http-nio-8080-exec-224] org.apache.catalina.loader.WebappClassLoaderBase.clearReferencesJdbc The web application [WebApplication2] registered the JDBC driver [com.mysql.jdbc.Driver] but failed to unregister it when the web application was stopped. To prevent a memory leak, the JDBC Driver has been forcibly unregistered.
+18-Oct-2018 08:02:18.146 WARNING [http-nio-8080-exec-224] org.apache.catalina.loader.WebappClassLoaderBase.clearReferencesThreads The web application [WebApplication2] appears to have started a thread named [MySQL Statement Cancellation Timer] but has failed to stop it. This is very likely to create a memory leak. Stack trace of thread:
+ java.lang.Object.wait(Native Method)
+ java.lang.Object.wait(Object.java:502)
+ java.util.TimerThread.mainLoop(Timer.java:526)
+ java.util.TimerThread.run(Timer.java:505)
+18-Oct-2018 08:02:18.385 INFO [http-nio-8080-exec-224] org.apache.jasper.servlet.TldScanner.scanJars At least one JAR was scanned for TLDs yet contained no TLDs. Enable debug logging for this logger for a complete list of JARs that were scanned but no TLDs were found in them. Skipping unneeded JARs during scanning can improve startup time and JSP compilation time.
+18-Oct-2018 08:02:18.396 INFO [358] org.apache.catalina.core.StandardContext.reload Reloading Context with name [/WebApplication2] is completed
+18-Oct-2018 08:08:53.959 INFO [http-nio-8080-exec-236] org.apache.catalina.core.StandardContext.reload Reloading Context with name [/MuaBanNha] has started
+18-Oct-2018 08:08:54.690 INFO [http-nio-8080-exec-236] org.apache.jasper.servlet.TldScanner.scanJars At least one JAR was scanned for TLDs yet contained no TLDs. Enable debug logging for this logger for a complete list of JARs that were scanned but no TLDs were found in them. Skipping unneeded JARs during scanning can improve startup time and JSP compilation time.
+18-Oct-2018 08:08:54.715 INFO [378] org.apache.catalina.core.StandardContext.reload Reloading Context with name [/MuaBanNha] is completed
+18-Oct-2018 08:09:30.593 INFO [http-nio-8080-exec-235] org.apache.catalina.core.StandardContext.reload Reloading Context with name [/MuaBanNha] has started
+18-Oct-2018 08:09:31.200 INFO [http-nio-8080-exec-235] org.apache.jasper.servlet.TldScanner.scanJars At least one JAR was scanned for TLDs yet contained no TLDs. Enable debug logging for this logger for a complete list of JARs that were scanned but no TLDs were found in them. Skipping unneeded JARs during scanning can improve startup time and JSP compilation time.
+18-Oct-2018 08:09:31.217 INFO [http-nio-8080-exec-235] org.apache.catalina.core.StandardContext.reload Reloading Context with name [/MuaBanNha] is completed
+18-Oct-2018 08:10:12.372 INFO [http-nio-8080-exec-231] org.apache.catalina.core.StandardContext.reload Reloading Context with name [/MuaBanNha] has started
+18-Oct-2018 08:10:12.994 INFO [http-nio-8080-exec-231] org.apache.jasper.servlet.TldScanner.scanJars At least one JAR was scanned for TLDs yet contained no TLDs. Enable debug logging for this logger for a complete list of JARs that were scanned but no TLDs were found in them. Skipping unneeded JARs during scanning can improve startup time and JSP compilation time.
+18-Oct-2018 08:10:13.004 INFO [http-nio-8080-exec-231] org.apache.catalina.core.StandardContext.reload Reloading Context with name [/MuaBanNha] is completed
+18-Oct-2018 08:10:34.539 INFO [http-nio-8080-exec-235] org.apache.catalina.core.StandardContext.reload Reloading Context with name [/MuaBanNha] has started
+18-Oct-2018 08:10:34.963 INFO [http-nio-8080-exec-235] org.apache.jasper.servlet.TldScanner.scanJars At least one JAR was scanned for TLDs yet contained no TLDs. Enable debug logging for this logger for a complete list of JARs that were scanned but no TLDs were found in them. Skipping unneeded JARs during scanning can improve startup time and JSP compilation time.
+18-Oct-2018 08:10:34.985 INFO [http-nio-8080-exec-235] org.apache.catalina.core.StandardContext.reload Reloading Context with name [/MuaBanNha] is completed
+18-Oct-2018 08:11:01.172 INFO [http-nio-8080-exec-233] org.apache.catalina.core.StandardContext.reload Reloading Context with name [/MuaBanNha] has started
+18-Oct-2018 08:11:01.562 INFO [http-nio-8080-exec-233] org.apache.jasper.servlet.TldScanner.scanJars At least one JAR was scanned for TLDs yet contained no TLDs. Enable debug logging for this logger for a complete list of JARs that were scanned but no TLDs were found in them. Skipping unneeded JARs during scanning can improve startup time and JSP compilation time.
+18-Oct-2018 08:11:01.575 INFO [http-nio-8080-exec-233] org.apache.catalina.core.StandardContext.reload Reloading Context with name [/MuaBanNha] is completed
+18-Oct-2018 08:12:10.375 INFO [http-nio-8080-exec-237] org.apache.catalina.core.StandardContext.reload Reloading Context with name [/MuaBanNha] has started
+18-Oct-2018 08:12:10.716 INFO [http-nio-8080-exec-237] org.apache.jasper.servlet.TldScanner.scanJars At least one JAR was scanned for TLDs yet contained no TLDs. Enable debug logging for this logger for a complete list of JARs that were scanned but no TLDs were found in them. Skipping unneeded JARs during scanning can improve startup time and JSP compilation time.
+18-Oct-2018 08:12:10.732 INFO [http-nio-8080-exec-237] org.apache.catalina.core.StandardContext.reload Reloading Context with name [/MuaBanNha] is completed
+18-Oct-2018 08:12:55.536 INFO [http-nio-8080-exec-244] org.apache.catalina.core.StandardContext.reload Reloading Context with name [/MuaBanNha] has started
+18-Oct-2018 08:12:56.272 INFO [http-nio-8080-exec-244] org.apache.jasper.servlet.TldScanner.scanJars At least one JAR was scanned for TLDs yet contained no TLDs. Enable debug logging for this logger for a complete list of JARs that were scanned but no TLDs were found in them. Skipping unneeded JARs during scanning can improve startup time and JSP compilation time.
+18-Oct-2018 08:12:56.289 INFO [http-nio-8080-exec-244] org.apache.catalina.core.StandardContext.reload Reloading Context with name [/MuaBanNha] is completed
+18-Oct-2018 08:13:49.889 INFO [http-nio-8080-exec-245] org.apache.catalina.core.StandardContext.reload Reloading Context with name [/MuaBanNha] has started
+18-Oct-2018 08:13:50.213 INFO [http-nio-8080-exec-245] org.apache.jasper.servlet.TldScanner.scanJars At least one JAR was scanned for TLDs yet contained no TLDs. Enable debug logging for this logger for a complete list of JARs that were scanned but no TLDs were found in them. Skipping unneeded JARs during scanning can improve startup time and JSP compilation time.
+18-Oct-2018 08:13:50.227 INFO [http-nio-8080-exec-245] org.apache.catalina.core.StandardContext.reload Reloading Context with name [/MuaBanNha] is completed
+18-Oct-2018 08:14:37.797 INFO [http-nio-8080-exec-229] org.apache.catalina.core.StandardContext.reload Reloading Context with name [/MuaBanNha] has started
+18-Oct-2018 08:14:38.364 INFO [http-nio-8080-exec-229] org.apache.jasper.servlet.TldScanner.scanJars At least one JAR was scanned for TLDs yet contained no TLDs. Enable debug logging for this logger for a complete list of JARs that were scanned but no TLDs were found in them. Skipping unneeded JARs during scanning can improve startup time and JSP compilation time.
+18-Oct-2018 08:14:38.379 INFO [http-nio-8080-exec-229] org.apache.catalina.core.StandardContext.reload Reloading Context with name [/MuaBanNha] is completed
+18-Oct-2018 08:14:49.734 INFO [http-nio-8080-exec-234] org.apache.catalina.core.StandardContext.reload Reloading Context with name [/MuaBanNha] has started
+18-Oct-2018 08:14:50.008 INFO [http-nio-8080-exec-234] org.apache.jasper.servlet.TldScanner.scanJars At least one JAR was scanned for TLDs yet contained no TLDs. Enable debug logging for this logger for a complete list of JARs that were scanned but no TLDs were found in them. Skipping unneeded JARs during scanning can improve startup time and JSP compilation time.
+18-Oct-2018 08:14:50.028 INFO [http-nio-8080-exec-234] org.apache.catalina.core.StandardContext.reload Reloading Context with name [/MuaBanNha] is completed
+18-Oct-2018 08:14:53.492 INFO [http-nio-8080-exec-235] org.apache.catalina.core.StandardContext.reload Reloading Context with name [/MuaBanNha] has started
+18-Oct-2018 08:14:53.807 INFO [http-nio-8080-exec-235] org.apache.jasper.servlet.TldScanner.scanJars At least one JAR was scanned for TLDs yet contained no TLDs. Enable debug logging for this logger for a complete list of JARs that were scanned but no TLDs were found in them. Skipping unneeded JARs during scanning can improve startup time and JSP compilation time.
+18-Oct-2018 08:14:53.818 INFO [http-nio-8080-exec-235] org.apache.catalina.core.StandardContext.reload Reloading Context with name [/MuaBanNha] is completed
+18-Oct-2018 08:15:41.828 INFO [http-nio-8080-exec-243] org.apache.catalina.core.StandardContext.reload Reloading Context with name [/MuaBanNha] has started
+18-Oct-2018 08:15:42.335 INFO [http-nio-8080-exec-243] org.apache.jasper.servlet.TldScanner.scanJars At least one JAR was scanned for TLDs yet contained no TLDs. Enable debug logging for this logger for a complete list of JARs that were scanned but no TLDs were found in them. Skipping unneeded JARs during scanning can improve startup time and JSP compilation time.
+18-Oct-2018 08:15:42.349 INFO [http-nio-8080-exec-243] org.apache.catalina.core.StandardContext.reload Reloading Context with name [/MuaBanNha] is completed
+18-Oct-2018 08:17:55.839 INFO [http-nio-8080-exec-249] org.apache.catalina.core.StandardContext.reload Reloading Context with name [/MuaBanNha] has started
+18-Oct-2018 08:17:56.188 INFO [http-nio-8080-exec-249] org.apache.jasper.servlet.TldScanner.scanJars At least one JAR was scanned for TLDs yet contained no TLDs. Enable debug logging for this logger for a complete list of JARs that were scanned but no TLDs were found in them. Skipping unneeded JARs during scanning can improve startup time and JSP compilation time.
+18-Oct-2018 08:17:56.204 INFO [http-nio-8080-exec-249] org.apache.catalina.core.StandardContext.reload Reloading Context with name [/MuaBanNha] is completed
+18-Oct-2018 08:21:07.971 INFO [http-nio-8080-exec-255] org.apache.catalina.core.StandardContext.reload Reloading Context with name [/MuaBanNha] has started
+18-Oct-2018 08:21:08.002 WARNING [http-nio-8080-exec-255] org.apache.catalina.loader.WebappClassLoaderBase.clearReferencesJdbc The web application [MuaBanNha] registered the JDBC driver [com.mysql.jdbc.Driver] but failed to unregister it when the web application was stopped. To prevent a memory leak, the JDBC Driver has been forcibly unregistered.
+18-Oct-2018 08:21:08.004 WARNING [http-nio-8080-exec-255] org.apache.catalina.loader.WebappClassLoaderBase.clearReferencesThreads The web application [MuaBanNha] appears to have started a thread named [MySQL Statement Cancellation Timer] but has failed to stop it. This is very likely to create a memory leak. Stack trace of thread:
+ java.lang.Object.wait(Native Method)
+ java.lang.Object.wait(Object.java:502)
+ java.util.TimerThread.mainLoop(Timer.java:526)
+ java.util.TimerThread.run(Timer.java:505)
+18-Oct-2018 08:21:08.185 INFO [Finalizer] org.apache.catalina.loader.WebappClassLoaderBase.checkStateForResourceLoading Illegal access: this web application instance has been stopped already. Could not load [com.mysql.jdbc.profiler.ProfileEventSink]. The following stack trace is thrown for debugging purposes as well as to attempt to terminate the thread which caused the illegal access.
+ java.lang.IllegalStateException: Illegal access: this web application instance has been stopped already. Could not load [com.mysql.jdbc.profiler.ProfileEventSink]. The following stack trace is thrown for debugging purposes as well as to attempt to terminate the thread which caused the illegal access.
+	at org.apache.catalina.loader.WebappClassLoaderBase.checkStateForResourceLoading(WebappClassLoaderBase.java:1329)
+	at org.apache.catalina.loader.WebappClassLoaderBase.checkStateForClassLoading(WebappClassLoaderBase.java:1317)
+	at org.apache.catalina.loader.WebappClassLoaderBase.loadClass(WebappClassLoaderBase.java:1176)
+	at org.apache.catalina.loader.WebappClassLoaderBase.loadClass(WebappClassLoaderBase.java:1137)
+	at com.mysql.jdbc.ConnectionImpl.realClose(ConnectionImpl.java:4235)
+	at com.mysql.jdbc.ConnectionImpl.cleanup(ConnectionImpl.java:1257)
+	at com.mysql.jdbc.ConnectionImpl.finalize(ConnectionImpl.java:2663)
+	at java.lang.System$2.invokeFinalize(System.java:1270)
+	at java.lang.ref.Finalizer.runFinalizer(Finalizer.java:98)
+	at java.lang.ref.Finalizer.access$100(Finalizer.java:34)
+	at java.lang.ref.Finalizer$FinalizerThread.run(Finalizer.java:213)
+
+18-Oct-2018 08:21:08.755 INFO [http-nio-8080-exec-255] org.apache.jasper.servlet.TldScanner.scanJars At least one JAR was scanned for TLDs yet contained no TLDs. Enable debug logging for this logger for a complete list of JARs that were scanned but no TLDs were found in them. Skipping unneeded JARs during scanning can improve startup time and JSP compilation time.
+18-Oct-2018 08:21:08.775 INFO [http-nio-8080-exec-255] org.apache.catalina.core.StandardContext.reload Reloading Context with name [/MuaBanNha] is completed
+18-Oct-2018 08:21:32.607 INFO [http-nio-8080-exec-258] org.apache.catalina.core.StandardContext.reload Reloading Context with name [/MuaBanNha] has started
+18-Oct-2018 08:21:33.124 INFO [http-nio-8080-exec-258] org.apache.jasper.servlet.TldScanner.scanJars At least one JAR was scanned for TLDs yet contained no TLDs. Enable debug logging for this logger for a complete list of JARs that were scanned but no TLDs were found in them. Skipping unneeded JARs during scanning can improve startup time and JSP compilation time.
+18-Oct-2018 08:21:33.140 INFO [http-nio-8080-exec-258] org.apache.catalina.core.StandardContext.reload Reloading Context with name [/MuaBanNha] is completed
+18-Oct-2018 08:23:37.452 INFO [http-nio-8080-exec-268] org.apache.catalina.core.StandardContext.reload Reloading Context with name [/MuaBanNha] has started
+18-Oct-2018 08:23:37.467 WARNING [http-nio-8080-exec-268] org.apache.catalina.loader.WebappClassLoaderBase.clearReferencesJdbc The web application [MuaBanNha] registered the JDBC driver [com.mysql.jdbc.Driver] but failed to unregister it when the web application was stopped. To prevent a memory leak, the JDBC Driver has been forcibly unregistered.
+18-Oct-2018 08:23:37.468 WARNING [http-nio-8080-exec-268] org.apache.catalina.loader.WebappClassLoaderBase.clearReferencesThreads The web application [MuaBanNha] appears to have started a thread named [MySQL Statement Cancellation Timer] but has failed to stop it. This is very likely to create a memory leak. Stack trace of thread:
+ java.lang.Object.wait(Native Method)
+ java.lang.Object.wait(Object.java:502)
+ java.util.TimerThread.mainLoop(Timer.java:526)
+ java.util.TimerThread.run(Timer.java:505)
+18-Oct-2018 08:23:37.879 INFO [http-nio-8080-exec-268] org.apache.jasper.servlet.TldScanner.scanJars At least one JAR was scanned for TLDs yet contained no TLDs. Enable debug logging for this logger for a complete list of JARs that were scanned but no TLDs were found in them. Skipping unneeded JARs during scanning can improve startup time and JSP compilation time.
+18-Oct-2018 08:23:37.903 INFO [http-nio-8080-exec-268] org.apache.catalina.core.StandardContext.reload Reloading Context with name [/MuaBanNha] is completed
+18-Oct-2018 08:23:38.670 INFO [http-nio-8080-exec-276] org.apache.catalina.core.StandardContext.reload Reloading Context with name [/MuaBanNha] has started
+18-Oct-2018 08:23:39.072 INFO [Finalizer] org.apache.catalina.loader.WebappClassLoaderBase.checkStateForResourceLoading Illegal access: this web application instance has been stopped already. Could not load [java.net.BindException]. The following stack trace is thrown for debugging purposes as well as to attempt to terminate the thread which caused the illegal access.
+ java.lang.IllegalStateException: Illegal access: this web application instance has been stopped already. Could not load [java.net.BindException]. The following stack trace is thrown for debugging purposes as well as to attempt to terminate the thread which caused the illegal access.
+	at org.apache.catalina.loader.WebappClassLoaderBase.checkStateForResourceLoading(WebappClassLoaderBase.java:1329)
+	at org.apache.catalina.loader.WebappClassLoaderBase.checkStateForClassLoading(WebappClassLoaderBase.java:1317)
+	at org.apache.catalina.loader.WebappClassLoaderBase.loadClass(WebappClassLoaderBase.java:1176)
+	at org.apache.catalina.loader.WebappClassLoaderBase.loadClass(WebappClassLoaderBase.java:1137)
+	at com.mysql.jdbc.SQLError.createLinkFailureMessageBasedOnHeuristics(SQLError.java:1211)
+	at com.mysql.jdbc.exceptions.jdbc4.CommunicationsException.<init>(CommunicationsException.java:56)
+	at sun.reflect.NativeConstructorAccessorImpl.newInstance0(Native Method)
+	at sun.reflect.NativeConstructorAccessorImpl.newInstance(NativeConstructorAccessorImpl.java:62)
+	at sun.reflect.DelegatingConstructorAccessorImpl.newInstance(DelegatingConstructorAccessorImpl.java:45)
+	at java.lang.reflect.Constructor.newInstance(Constructor.java:423)
+	at com.mysql.jdbc.Util.handleNewInstance(Util.java:406)
+	at com.mysql.jdbc.SQLError.createCommunicationsException(SQLError.java:1074)
+	at com.mysql.jdbc.MysqlIO.send(MysqlIO.java:3134)
+	at com.mysql.jdbc.MysqlIO.quit(MysqlIO.java:1616)
+	at com.mysql.jdbc.ConnectionImpl.realClose(ConnectionImpl.java:4223)
+	at com.mysql.jdbc.ConnectionImpl.cleanup(ConnectionImpl.java:1257)
+	at com.mysql.jdbc.ConnectionImpl.finalize(ConnectionImpl.java:2663)
+	at java.lang.System$2.invokeFinalize(System.java:1270)
+	at java.lang.ref.Finalizer.runFinalizer(Finalizer.java:98)
+	at java.lang.ref.Finalizer.access$100(Finalizer.java:34)
+	at java.lang.ref.Finalizer$FinalizerThread.run(Finalizer.java:213)
+
+18-Oct-2018 08:23:39.074 INFO [Finalizer] org.apache.catalina.loader.WebappClassLoaderBase.checkStateForResourceLoading Illegal access: this web application instance has been stopped already. Could not load [java.lang.ExceptionInInitializerError]. The following stack trace is thrown for debugging purposes as well as to attempt to terminate the thread which caused the illegal access.
+ java.lang.IllegalStateException: Illegal access: this web application instance has been stopped already. Could not load [java.lang.ExceptionInInitializerError]. The following stack trace is thrown for debugging purposes as well as to attempt to terminate the thread which caused the illegal access.
+	at org.apache.catalina.loader.WebappClassLoaderBase.checkStateForResourceLoading(WebappClassLoaderBase.java:1329)
+	at org.apache.catalina.loader.WebappClassLoaderBase.checkStateForClassLoading(WebappClassLoaderBase.java:1317)
+	at org.apache.catalina.loader.WebappClassLoaderBase.loadClass(WebappClassLoaderBase.java:1176)
+	at org.apache.catalina.loader.WebappClassLoaderBase.loadClass(WebappClassLoaderBase.java:1137)
+	at com.mysql.jdbc.Util.handleNewInstance(Util.java:426)
+	at com.mysql.jdbc.SQLError.createCommunicationsException(SQLError.java:1074)
+	at com.mysql.jdbc.MysqlIO.send(MysqlIO.java:3134)
+	at com.mysql.jdbc.MysqlIO.quit(MysqlIO.java:1616)
+	at com.mysql.jdbc.ConnectionImpl.realClose(ConnectionImpl.java:4223)
+	at com.mysql.jdbc.ConnectionImpl.cleanup(ConnectionImpl.java:1257)
+	at com.mysql.jdbc.ConnectionImpl.finalize(ConnectionImpl.java:2663)
+	at java.lang.System$2.invokeFinalize(System.java:1270)
+	at java.lang.ref.Finalizer.runFinalizer(Finalizer.java:98)
+	at java.lang.ref.Finalizer.access$100(Finalizer.java:34)
+	at java.lang.ref.Finalizer$FinalizerThread.run(Finalizer.java:213)
+
+18-Oct-2018 08:23:39.120 INFO [Finalizer] org.apache.catalina.loader.WebappClassLoaderBase.checkStateForResourceLoading Illegal access: this web application instance has been stopped already. Could not load [com.mysql.jdbc.profiler.ProfileEventSink]. The following stack trace is thrown for debugging purposes as well as to attempt to terminate the thread which caused the illegal access.
+ java.lang.IllegalStateException: Illegal access: this web application instance has been stopped already. Could not load [com.mysql.jdbc.profiler.ProfileEventSink]. The following stack trace is thrown for debugging purposes as well as to attempt to terminate the thread which caused the illegal access.
+	at org.apache.catalina.loader.WebappClassLoaderBase.checkStateForResourceLoading(WebappClassLoaderBase.java:1329)
+	at org.apache.catalina.loader.WebappClassLoaderBase.checkStateForClassLoading(WebappClassLoaderBase.java:1317)
+	at org.apache.catalina.loader.WebappClassLoaderBase.loadClass(WebappClassLoaderBase.java:1176)
+	at org.apache.catalina.loader.WebappClassLoaderBase.loadClass(WebappClassLoaderBase.java:1137)
+	at com.mysql.jdbc.ConnectionImpl.realClose(ConnectionImpl.java:4235)
+	at com.mysql.jdbc.ConnectionImpl.cleanup(ConnectionImpl.java:1257)
+	at com.mysql.jdbc.ConnectionImpl.finalize(ConnectionImpl.java:2663)
+	at java.lang.System$2.invokeFinalize(System.java:1270)
+	at java.lang.ref.Finalizer.runFinalizer(Finalizer.java:98)
+	at java.lang.ref.Finalizer.access$100(Finalizer.java:34)
+	at java.lang.ref.Finalizer$FinalizerThread.run(Finalizer.java:213)
+
+18-Oct-2018 08:23:39.284 INFO [http-nio-8080-exec-276] org.apache.jasper.servlet.TldScanner.scanJars At least one JAR was scanned for TLDs yet contained no TLDs. Enable debug logging for this logger for a complete list of JARs that were scanned but no TLDs were found in them. Skipping unneeded JARs during scanning can improve startup time and JSP compilation time.
+18-Oct-2018 08:23:39.296 INFO [http-nio-8080-exec-276] org.apache.catalina.core.StandardContext.reload Reloading Context with name [/MuaBanNha] is completed
+18-Oct-2018 08:24:09.670 INFO [http-nio-8080-exec-271] org.apache.catalina.core.StandardContext.reload Reloading Context with name [/MuaBanNha] has started
+18-Oct-2018 08:24:10.065 INFO [http-nio-8080-exec-271] org.apache.jasper.servlet.TldScanner.scanJars At least one JAR was scanned for TLDs yet contained no TLDs. Enable debug logging for this logger for a complete list of JARs that were scanned but no TLDs were found in them. Skipping unneeded JARs during scanning can improve startup time and JSP compilation time.
+18-Oct-2018 08:24:10.081 INFO [http-nio-8080-exec-271] org.apache.catalina.core.StandardContext.reload Reloading Context with name [/MuaBanNha] is completed
+18-Oct-2018 08:24:40.997 INFO [http-nio-8080-exec-280] org.apache.catalina.core.StandardContext.reload Reloading Context with name [/MuaBanNha] has started
+18-Oct-2018 08:24:41.538 INFO [http-nio-8080-exec-280] org.apache.jasper.servlet.TldScanner.scanJars At least one JAR was scanned for TLDs yet contained no TLDs. Enable debug logging for this logger for a complete list of JARs that were scanned but no TLDs were found in them. Skipping unneeded JARs during scanning can improve startup time and JSP compilation time.
+18-Oct-2018 08:24:41.575 INFO [http-nio-8080-exec-280] org.apache.catalina.core.StandardContext.reload Reloading Context with name [/MuaBanNha] is completed
+18-Oct-2018 08:24:52.517 INFO [http-nio-8080-exec-279] org.apache.catalina.core.StandardContext.reload Reloading Context with name [/MuaBanNha] has started
+18-Oct-2018 08:24:52.967 INFO [http-nio-8080-exec-279] org.apache.jasper.servlet.TldScanner.scanJars At least one JAR was scanned for TLDs yet contained no TLDs. Enable debug logging for this logger for a complete list of JARs that were scanned but no TLDs were found in them. Skipping unneeded JARs during scanning can improve startup time and JSP compilation time.
+18-Oct-2018 08:24:52.983 INFO [http-nio-8080-exec-279] org.apache.catalina.core.StandardContext.reload Reloading Context with name [/MuaBanNha] is completed
+18-Oct-2018 08:24:55.851 INFO [http-nio-8080-exec-282] org.apache.catalina.core.StandardContext.reload Reloading Context with name [/MuaBanNha] has started
+18-Oct-2018 08:24:56.393 INFO [http-nio-8080-exec-282] org.apache.jasper.servlet.TldScanner.scanJars At least one JAR was scanned for TLDs yet contained no TLDs. Enable debug logging for this logger for a complete list of JARs that were scanned but no TLDs were found in them. Skipping unneeded JARs during scanning can improve startup time and JSP compilation time.
+18-Oct-2018 08:24:56.410 INFO [http-nio-8080-exec-282] org.apache.catalina.core.StandardContext.reload Reloading Context with name [/MuaBanNha] is completed
+18-Oct-2018 08:26:28.484 INFO [http-nio-8080-exec-275] org.apache.catalina.core.StandardContext.reload Reloading Context with name [/MuaBanNha] has started
+18-Oct-2018 08:26:29.237 INFO [http-nio-8080-exec-275] org.apache.jasper.servlet.TldScanner.scanJars At least one JAR was scanned for TLDs yet contained no TLDs. Enable debug logging for this logger for a complete list of JARs that were scanned but no TLDs were found in them. Skipping unneeded JARs during scanning can improve startup time and JSP compilation time.
+18-Oct-2018 08:26:29.256 INFO [http-nio-8080-exec-275] org.apache.catalina.core.StandardContext.reload Reloading Context with name [/MuaBanNha] is completed
+18-Oct-2018 08:26:43.835 INFO [http-nio-8080-exec-285] org.apache.catalina.core.StandardContext.reload Reloading Context with name [/MuaBanNha] has started
+18-Oct-2018 08:26:44.203 INFO [http-nio-8080-exec-285] org.apache.jasper.servlet.TldScanner.scanJars At least one JAR was scanned for TLDs yet contained no TLDs. Enable debug logging for this logger for a complete list of JARs that were scanned but no TLDs were found in them. Skipping unneeded JARs during scanning can improve startup time and JSP compilation time.
+18-Oct-2018 08:26:44.224 INFO [http-nio-8080-exec-285] org.apache.catalina.core.StandardContext.reload Reloading Context with name [/MuaBanNha] is completed
+18-Oct-2018 08:26:49.063 INFO [http-nio-8080-exec-282] org.apache.catalina.core.StandardContext.reload Reloading Context with name [/MuaBanNha] has started
+18-Oct-2018 08:26:49.408 INFO [http-nio-8080-exec-282] org.apache.jasper.servlet.TldScanner.scanJars At least one JAR was scanned for TLDs yet contained no TLDs. Enable debug logging for this logger for a complete list of JARs that were scanned but no TLDs were found in them. Skipping unneeded JARs during scanning can improve startup time and JSP compilation time.
+18-Oct-2018 08:26:49.420 INFO [http-nio-8080-exec-282] org.apache.catalina.core.StandardContext.reload Reloading Context with name [/MuaBanNha] is completed
+18-Oct-2018 08:28:46.534 INFO [http-nio-8080-exec-272] org.apache.catalina.core.StandardContext.reload Reloading Context with name [/MuaBanNha] has started
+18-Oct-2018 08:28:47.294 INFO [http-nio-8080-exec-272] org.apache.jasper.servlet.TldScanner.scanJars At least one JAR was scanned for TLDs yet contained no TLDs. Enable debug logging for this logger for a complete list of JARs that were scanned but no TLDs were found in them. Skipping unneeded JARs during scanning can improve startup time and JSP compilation time.
+18-Oct-2018 08:28:47.312 INFO [http-nio-8080-exec-272] org.apache.catalina.core.StandardContext.reload Reloading Context with name [/MuaBanNha] is completed
+18-Oct-2018 08:29:05.373 INFO [http-nio-8080-exec-282] org.apache.catalina.core.StandardContext.reload Reloading Context with name [/MuaBanNha] has started
+18-Oct-2018 08:29:05.786 INFO [http-nio-8080-exec-282] org.apache.jasper.servlet.TldScanner.scanJars At least one JAR was scanned for TLDs yet contained no TLDs. Enable debug logging for this logger for a complete list of JARs that were scanned but no TLDs were found in them. Skipping unneeded JARs during scanning can improve startup time and JSP compilation time.
+18-Oct-2018 08:29:05.893 INFO [http-nio-8080-exec-282] org.apache.catalina.core.StandardContext.reload Reloading Context with name [/MuaBanNha] is completed
+18-Oct-2018 08:29:47.290 INFO [http-nio-8080-exec-290] org.apache.catalina.core.StandardContext.reload Reloading Context with name [/MuaBanNha] has started
+18-Oct-2018 08:29:47.762 INFO [http-nio-8080-exec-290] org.apache.jasper.servlet.TldScanner.scanJars At least one JAR was scanned for TLDs yet contained no TLDs. Enable debug logging for this logger for a complete list of JARs that were scanned but no TLDs were found in them. Skipping unneeded JARs during scanning can improve startup time and JSP compilation time.
+18-Oct-2018 08:29:47.779 INFO [http-nio-8080-exec-290] org.apache.catalina.core.StandardContext.reload Reloading Context with name [/MuaBanNha] is completed
+18-Oct-2018 08:30:26.344 INFO [http-nio-8080-exec-282] org.apache.catalina.core.StandardContext.reload Reloading Context with name [/MuaBanNha] has started
+18-Oct-2018 08:30:26.863 INFO [http-nio-8080-exec-282] org.apache.jasper.servlet.TldScanner.scanJars At least one JAR was scanned for TLDs yet contained no TLDs. Enable debug logging for this logger for a complete list of JARs that were scanned but no TLDs were found in them. Skipping unneeded JARs during scanning can improve startup time and JSP compilation time.
+18-Oct-2018 08:30:27.124 INFO [http-nio-8080-exec-282] org.apache.catalina.core.StandardContext.reload Reloading Context with name [/MuaBanNha] is completed
+18-Oct-2018 08:30:28.727 INFO [http-nio-8080-exec-290] org.apache.catalina.core.StandardContext.reload Reloading Context with name [/MuaBanNha] has started
+18-Oct-2018 08:30:29.287 INFO [http-nio-8080-exec-290] org.apache.jasper.servlet.TldScanner.scanJars At least one JAR was scanned for TLDs yet contained no TLDs. Enable debug logging for this logger for a complete list of JARs that were scanned but no TLDs were found in them. Skipping unneeded JARs during scanning can improve startup time and JSP compilation time.
+18-Oct-2018 08:30:29.313 INFO [http-nio-8080-exec-290] org.apache.catalina.core.StandardContext.reload Reloading Context with name [/MuaBanNha] is completed
+18-Oct-2018 08:30:43.102 INFO [http-nio-8080-exec-293] org.apache.catalina.core.StandardContext.reload Reloading Context with name [/MuaBanNha] has started
+18-Oct-2018 08:30:43.534 INFO [http-nio-8080-exec-293] org.apache.jasper.servlet.TldScanner.scanJars At least one JAR was scanned for TLDs yet contained no TLDs. Enable debug logging for this logger for a complete list of JARs that were scanned but no TLDs were found in them. Skipping unneeded JARs during scanning can improve startup time and JSP compilation time.
+18-Oct-2018 08:30:43.552 INFO [http-nio-8080-exec-293] org.apache.catalina.core.StandardContext.reload Reloading Context with name [/MuaBanNha] is completed
+18-Oct-2018 08:32:07.929 INFO [http-nio-8080-exec-286] org.apache.catalina.core.StandardContext.reload Reloading Context with name [/MuaBanNha] has started
+18-Oct-2018 08:32:08.381 INFO [http-nio-8080-exec-286] org.apache.jasper.servlet.TldScanner.scanJars At least one JAR was scanned for TLDs yet contained no TLDs. Enable debug logging for this logger for a complete list of JARs that were scanned but no TLDs were found in them. Skipping unneeded JARs during scanning can improve startup time and JSP compilation time.
+18-Oct-2018 08:32:08.399 INFO [http-nio-8080-exec-286] org.apache.catalina.core.StandardContext.reload Reloading Context with name [/MuaBanNha] is completed
+18-Oct-2018 08:32:15.281 INFO [http-nio-8080-exec-296] org.apache.catalina.core.StandardContext.reload Reloading Context with name [/MuaBanNha] has started
+18-Oct-2018 08:32:15.740 INFO [http-nio-8080-exec-296] org.apache.jasper.servlet.TldScanner.scanJars At least one JAR was scanned for TLDs yet contained no TLDs. Enable debug logging for this logger for a complete list of JARs that were scanned but no TLDs were found in them. Skipping unneeded JARs during scanning can improve startup time and JSP compilation time.
+18-Oct-2018 08:32:15.760 INFO [http-nio-8080-exec-296] org.apache.catalina.core.StandardContext.reload Reloading Context with name [/MuaBanNha] is completed
+18-Oct-2018 08:32:27.960 INFO [http-nio-8080-exec-295] org.apache.catalina.core.StandardContext.reload Reloading Context with name [/MuaBanNha] has started
+18-Oct-2018 08:32:28.349 INFO [http-nio-8080-exec-295] org.apache.jasper.servlet.TldScanner.scanJars At least one JAR was scanned for TLDs yet contained no TLDs. Enable debug logging for this logger for a complete list of JARs that were scanned but no TLDs were found in them. Skipping unneeded JARs during scanning can improve startup time and JSP compilation time.
+18-Oct-2018 08:32:28.365 INFO [http-nio-8080-exec-295] org.apache.catalina.core.StandardContext.reload Reloading Context with name [/MuaBanNha] is completed
+18-Oct-2018 08:32:41.664 INFO [http-nio-8080-exec-286] org.apache.catalina.core.StandardContext.reload Reloading Context with name [/MuaBanNha] has started
+18-Oct-2018 08:32:42.051 INFO [http-nio-8080-exec-286] org.apache.jasper.servlet.TldScanner.scanJars At least one JAR was scanned for TLDs yet contained no TLDs. Enable debug logging for this logger for a complete list of JARs that were scanned but no TLDs were found in them. Skipping unneeded JARs during scanning can improve startup time and JSP compilation time.
+18-Oct-2018 08:32:42.068 INFO [http-nio-8080-exec-286] org.apache.catalina.core.StandardContext.reload Reloading Context with name [/MuaBanNha] is completed
+18-Oct-2018 08:34:21.635 INFO [http-nio-8080-exec-302] org.apache.catalina.core.StandardContext.reload Reloading Context with name [/MuaBanNha] has started
+18-Oct-2018 08:34:22.095 INFO [http-nio-8080-exec-302] org.apache.jasper.servlet.TldScanner.scanJars At least one JAR was scanned for TLDs yet contained no TLDs. Enable debug logging for this logger for a complete list of JARs that were scanned but no TLDs were found in them. Skipping unneeded JARs during scanning can improve startup time and JSP compilation time.
+18-Oct-2018 08:34:22.113 INFO [http-nio-8080-exec-302] org.apache.catalina.core.StandardContext.reload Reloading Context with name [/MuaBanNha] is completed
+18-Oct-2018 08:35:27.383 INFO [http-nio-8080-exec-298] org.apache.catalina.core.StandardContext.reload Reloading Context with name [/MuaBanNha] has started
+18-Oct-2018 08:35:27.931 INFO [http-nio-8080-exec-298] org.apache.jasper.servlet.TldScanner.scanJars At least one JAR was scanned for TLDs yet contained no TLDs. Enable debug logging for this logger for a complete list of JARs that were scanned but no TLDs were found in them. Skipping unneeded JARs during scanning can improve startup time and JSP compilation time.
+18-Oct-2018 08:35:27.942 INFO [http-nio-8080-exec-298] org.apache.catalina.core.StandardContext.reload Reloading Context with name [/MuaBanNha] is completed
+18-Oct-2018 08:40:12.194 INFO [http-nio-8080-exec-308] org.apache.catalina.core.StandardContext.reload Reloading Context with name [/MuaBanNha] has started
+18-Oct-2018 08:40:12.296 WARNING [http-nio-8080-exec-308] org.apache.catalina.loader.WebappClassLoaderBase.clearReferencesJdbc The web application [MuaBanNha] registered the JDBC driver [com.mysql.jdbc.Driver] but failed to unregister it when the web application was stopped. To prevent a memory leak, the JDBC Driver has been forcibly unregistered.
+18-Oct-2018 08:40:12.297 WARNING [http-nio-8080-exec-308] org.apache.catalina.loader.WebappClassLoaderBase.clearReferencesThreads The web application [MuaBanNha] appears to have started a thread named [MySQL Statement Cancellation Timer] but has failed to stop it. This is very likely to create a memory leak. Stack trace of thread:
+ java.lang.Object.wait(Native Method)
+ java.lang.Object.wait(Object.java:502)
+ java.util.TimerThread.mainLoop(Timer.java:526)
+ java.util.TimerThread.run(Timer.java:505)
+18-Oct-2018 08:40:12.569 INFO [Finalizer] org.apache.catalina.loader.WebappClassLoaderBase.checkStateForResourceLoading Illegal access: this web application instance has been stopped already. Could not load [com.mysql.jdbc.SQLError]. The following stack trace is thrown for debugging purposes as well as to attempt to terminate the thread which caused the illegal access.
+ java.lang.IllegalStateException: Illegal access: this web application instance has been stopped already. Could not load [com.mysql.jdbc.SQLError]. The following stack trace is thrown for debugging purposes as well as to attempt to terminate the thread which caused the illegal access.
+	at org.apache.catalina.loader.WebappClassLoaderBase.checkStateForResourceLoading(WebappClassLoaderBase.java:1329)
+	at org.apache.catalina.loader.WebappClassLoaderBase.checkStateForClassLoading(WebappClassLoaderBase.java:1317)
+	at org.apache.catalina.loader.WebappClassLoaderBase.loadClass(WebappClassLoaderBase.java:1176)
+	at org.apache.catalina.loader.WebappClassLoaderBase.loadClass(WebappClassLoaderBase.java:1137)
+	at com.mysql.jdbc.MysqlIO.send(MysqlIO.java:3134)
+	at com.mysql.jdbc.MysqlIO.quit(MysqlIO.java:1616)
+	at com.mysql.jdbc.ConnectionImpl.realClose(ConnectionImpl.java:4223)
+	at com.mysql.jdbc.ConnectionImpl.cleanup(ConnectionImpl.java:1257)
+	at com.mysql.jdbc.ConnectionImpl.finalize(ConnectionImpl.java:2663)
+	at java.lang.System$2.invokeFinalize(System.java:1270)
+	at java.lang.ref.Finalizer.runFinalizer(Finalizer.java:98)
+	at java.lang.ref.Finalizer.access$100(Finalizer.java:34)
+	at java.lang.ref.Finalizer$FinalizerThread.run(Finalizer.java:213)
+
+18-Oct-2018 08:40:12.570 INFO [Finalizer] org.apache.catalina.loader.WebappClassLoaderBase.checkStateForResourceLoading Illegal access: this web application instance has been stopped already. Could not load [com.mysql.jdbc.profiler.ProfileEventSink]. The following stack trace is thrown for debugging purposes as well as to attempt to terminate the thread which caused the illegal access.
+ java.lang.IllegalStateException: Illegal access: this web application instance has been stopped already. Could not load [com.mysql.jdbc.profiler.ProfileEventSink]. The following stack trace is thrown for debugging purposes as well as to attempt to terminate the thread which caused the illegal access.
+	at org.apache.catalina.loader.WebappClassLoaderBase.checkStateForResourceLoading(WebappClassLoaderBase.java:1329)
+	at org.apache.catalina.loader.WebappClassLoaderBase.checkStateForClassLoading(WebappClassLoaderBase.java:1317)
+	at org.apache.catalina.loader.WebappClassLoaderBase.loadClass(WebappClassLoaderBase.java:1176)
+	at org.apache.catalina.loader.WebappClassLoaderBase.loadClass(WebappClassLoaderBase.java:1137)
+	at com.mysql.jdbc.ConnectionImpl.realClose(ConnectionImpl.java:4235)
+	at com.mysql.jdbc.ConnectionImpl.cleanup(ConnectionImpl.java:1257)
+	at com.mysql.jdbc.ConnectionImpl.finalize(ConnectionImpl.java:2663)
+	at java.lang.System$2.invokeFinalize(System.java:1270)
+	at java.lang.ref.Finalizer.runFinalizer(Finalizer.java:98)
+	at java.lang.ref.Finalizer.access$100(Finalizer.java:34)
+	at java.lang.ref.Finalizer$FinalizerThread.run(Finalizer.java:213)
+
+18-Oct-2018 08:40:12.953 INFO [http-nio-8080-exec-308] org.apache.jasper.servlet.TldScanner.scanJars At least one JAR was scanned for TLDs yet contained no TLDs. Enable debug logging for this logger for a complete list of JARs that were scanned but no TLDs were found in them. Skipping unneeded JARs during scanning can improve startup time and JSP compilation time.
+18-Oct-2018 08:40:12.967 INFO [http-nio-8080-exec-308] org.apache.catalina.core.StandardContext.reload Reloading Context with name [/MuaBanNha] is completed
+18-Oct-2018 08:40:25.989 INFO [http-nio-8080-exec-312] org.apache.catalina.core.StandardContext.reload Reloading Context with name [/MuaBanNha] has started
+18-Oct-2018 08:40:26.363 INFO [http-nio-8080-exec-312] org.apache.jasper.servlet.TldScanner.scanJars At least one JAR was scanned for TLDs yet contained no TLDs. Enable debug logging for this logger for a complete list of JARs that were scanned but no TLDs were found in them. Skipping unneeded JARs during scanning can improve startup time and JSP compilation time.
+18-Oct-2018 08:40:26.389 INFO [http-nio-8080-exec-312] org.apache.catalina.core.StandardContext.reload Reloading Context with name [/MuaBanNha] is completed
+18-Oct-2018 08:40:34.730 INFO [http-nio-8080-exec-315] org.apache.catalina.core.StandardContext.reload Reloading Context with name [/MuaBanNha] has started
+18-Oct-2018 08:40:35.062 INFO [http-nio-8080-exec-315] org.apache.jasper.servlet.TldScanner.scanJars At least one JAR was scanned for TLDs yet contained no TLDs. Enable debug logging for this logger for a complete list of JARs that were scanned but no TLDs were found in them. Skipping unneeded JARs during scanning can improve startup time and JSP compilation time.
+18-Oct-2018 08:40:35.082 INFO [http-nio-8080-exec-315] org.apache.catalina.core.StandardContext.reload Reloading Context with name [/MuaBanNha] is completed
+18-Oct-2018 08:40:51.351 INFO [http-nio-8080-exec-309] org.apache.catalina.core.StandardContext.reload Reloading Context with name [/MuaBanNha] has started
+18-Oct-2018 08:40:51.718 INFO [http-nio-8080-exec-309] org.apache.jasper.servlet.TldScanner.scanJars At least one JAR was scanned for TLDs yet contained no TLDs. Enable debug logging for this logger for a complete list of JARs that were scanned but no TLDs were found in them. Skipping unneeded JARs during scanning can improve startup time and JSP compilation time.
+18-Oct-2018 08:40:51.733 INFO [470] org.apache.catalina.core.StandardContext.reload Reloading Context with name [/MuaBanNha] is completed
+18-Oct-2018 08:40:51.791 INFO [http-nio-8080-exec-318] org.apache.catalina.core.StandardContext.reload Reloading Context with name [/MuaBanNha] has started
+18-Oct-2018 08:40:52.094 INFO [http-nio-8080-exec-318] org.apache.jasper.servlet.TldScanner.scanJars At least one JAR was scanned for TLDs yet contained no TLDs. Enable debug logging for this logger for a complete list of JARs that were scanned but no TLDs were found in them. Skipping unneeded JARs during scanning can improve startup time and JSP compilation time.
+18-Oct-2018 08:40:52.104 INFO [http-nio-8080-exec-318] org.apache.catalina.core.StandardContext.reload Reloading Context with name [/MuaBanNha] is completed
+18-Oct-2018 08:42:11.518 INFO [http-nio-8080-exec-322] org.apache.catalina.core.StandardContext.reload Reloading Context with name [/MuaBanNha] has started
+18-Oct-2018 08:42:11.523 WARNING [http-nio-8080-exec-322] org.apache.catalina.loader.WebappClassLoaderBase.clearReferencesJdbc The web application [MuaBanNha] registered the JDBC driver [com.mysql.jdbc.Driver] but failed to unregister it when the web application was stopped. To prevent a memory leak, the JDBC Driver has been forcibly unregistered.
+18-Oct-2018 08:42:11.523 WARNING [http-nio-8080-exec-322] org.apache.catalina.loader.WebappClassLoaderBase.clearReferencesThreads The web application [MuaBanNha] appears to have started a thread named [MySQL Statement Cancellation Timer] but has failed to stop it. This is very likely to create a memory leak. Stack trace of thread:
+ java.lang.Object.wait(Native Method)
+ java.lang.Object.wait(Object.java:502)
+ java.util.TimerThread.mainLoop(Timer.java:526)
+ java.util.TimerThread.run(Timer.java:505)
+18-Oct-2018 08:42:11.795 INFO [http-nio-8080-exec-322] org.apache.jasper.servlet.TldScanner.scanJars At least one JAR was scanned for TLDs yet contained no TLDs. Enable debug logging for this logger for a complete list of JARs that were scanned but no TLDs were found in them. Skipping unneeded JARs during scanning can improve startup time and JSP compilation time.
+18-Oct-2018 08:42:11.819 INFO [http-nio-8080-exec-322] org.apache.catalina.core.StandardContext.reload Reloading Context with name [/MuaBanNha] is completed
+18-Oct-2018 08:47:12.283 INFO [http-nio-8080-exec-331] org.apache.catalina.core.StandardContext.reload Reloading Context with name [/MuaBanNha] has started
+18-Oct-2018 08:47:12.288 WARNING [http-nio-8080-exec-331] org.apache.catalina.loader.WebappClassLoaderBase.clearReferencesJdbc The web application [MuaBanNha] registered the JDBC driver [com.mysql.jdbc.Driver] but failed to unregister it when the web application was stopped. To prevent a memory leak, the JDBC Driver has been forcibly unregistered.
+18-Oct-2018 08:47:12.288 WARNING [http-nio-8080-exec-331] org.apache.catalina.loader.WebappClassLoaderBase.clearReferencesJdbc The web application [MuaBanNha] registered the JDBC driver [com.mysql.jdbc.Driver] but failed to unregister it when the web application was stopped. To prevent a memory leak, the JDBC Driver has been forcibly unregistered.
+18-Oct-2018 08:47:12.288 WARNING [http-nio-8080-exec-331] org.apache.catalina.loader.WebappClassLoaderBase.clearReferencesJdbc The web application [MuaBanNha] registered the JDBC driver [com.mysql.jdbc.Driver] but failed to unregister it when the web application was stopped. To prevent a memory leak, the JDBC Driver has been forcibly unregistered.
+18-Oct-2018 08:47:12.289 WARNING [http-nio-8080-exec-331] org.apache.catalina.loader.WebappClassLoaderBase.clearReferencesThreads The web application [MuaBanNha] appears to have started a thread named [MySQL Statement Cancellation Timer] but has failed to stop it. This is very likely to create a memory leak. Stack trace of thread:
+ java.lang.Object.wait(Native Method)
+ java.lang.Object.wait(Object.java:502)
+ java.util.TimerThread.mainLoop(Timer.java:526)
+ java.util.TimerThread.run(Timer.java:505)
+18-Oct-2018 08:47:12.496 INFO [Finalizer] org.apache.catalina.loader.WebappClassLoaderBase.checkStateForResourceLoading Illegal access: this web application instance has been stopped already. Could not load [com.mysql.jdbc.SQLError]. The following stack trace is thrown for debugging purposes as well as to attempt to terminate the thread which caused the illegal access.
+ java.lang.IllegalStateException: Illegal access: this web application instance has been stopped already. Could not load [com.mysql.jdbc.SQLError]. The following stack trace is thrown for debugging purposes as well as to attempt to terminate the thread which caused the illegal access.
+	at org.apache.catalina.loader.WebappClassLoaderBase.checkStateForResourceLoading(WebappClassLoaderBase.java:1329)
+	at org.apache.catalina.loader.WebappClassLoaderBase.checkStateForClassLoading(WebappClassLoaderBase.java:1317)
+	at org.apache.catalina.loader.WebappClassLoaderBase.loadClass(WebappClassLoaderBase.java:1176)
+	at org.apache.catalina.loader.WebappClassLoaderBase.loadClass(WebappClassLoaderBase.java:1137)
+	at com.mysql.jdbc.MysqlIO.send(MysqlIO.java:3134)
+	at com.mysql.jdbc.MysqlIO.quit(MysqlIO.java:1616)
+	at com.mysql.jdbc.ConnectionImpl.realClose(ConnectionImpl.java:4223)
+	at com.mysql.jdbc.ConnectionImpl.cleanup(ConnectionImpl.java:1257)
+	at com.mysql.jdbc.ConnectionImpl.finalize(ConnectionImpl.java:2663)
+	at java.lang.System$2.invokeFinalize(System.java:1270)
+	at java.lang.ref.Finalizer.runFinalizer(Finalizer.java:98)
+	at java.lang.ref.Finalizer.access$100(Finalizer.java:34)
+	at java.lang.ref.Finalizer$FinalizerThread.run(Finalizer.java:213)
+
+18-Oct-2018 08:47:12.635 INFO [http-nio-8080-exec-331] org.apache.jasper.servlet.TldScanner.scanJars At least one JAR was scanned for TLDs yet contained no TLDs. Enable debug logging for this logger for a complete list of JARs that were scanned but no TLDs were found in them. Skipping unneeded JARs during scanning can improve startup time and JSP compilation time.
+18-Oct-2018 08:47:12.649 INFO [http-nio-8080-exec-331] org.apache.catalina.core.StandardContext.reload Reloading Context with name [/MuaBanNha] is completed
+18-Oct-2018 08:50:54.924 INFO [http-nio-8080-exec-339] org.apache.catalina.core.StandardContext.reload Reloading Context with name [/MuaBanNha] has started
+18-Oct-2018 08:50:54.928 WARNING [http-nio-8080-exec-339] org.apache.catalina.loader.WebappClassLoaderBase.clearReferencesJdbc The web application [MuaBanNha] registered the JDBC driver [com.mysql.jdbc.Driver] but failed to unregister it when the web application was stopped. To prevent a memory leak, the JDBC Driver has been forcibly unregistered.
+18-Oct-2018 08:50:54.929 WARNING [http-nio-8080-exec-339] org.apache.catalina.loader.WebappClassLoaderBase.clearReferencesThreads The web application [MuaBanNha] appears to have started a thread named [MySQL Statement Cancellation Timer] but has failed to stop it. This is very likely to create a memory leak. Stack trace of thread:
+ java.lang.Object.wait(Native Method)
+ java.lang.Object.wait(Object.java:502)
+ java.util.TimerThread.mainLoop(Timer.java:526)
+ java.util.TimerThread.run(Timer.java:505)
+18-Oct-2018 08:50:55.313 INFO [http-nio-8080-exec-339] org.apache.jasper.servlet.TldScanner.scanJars At least one JAR was scanned for TLDs yet contained no TLDs. Enable debug logging for this logger for a complete list of JARs that were scanned but no TLDs were found in them. Skipping unneeded JARs during scanning can improve startup time and JSP compilation time.
+18-Oct-2018 08:50:55.334 INFO [http-nio-8080-exec-339] org.apache.catalina.core.StandardContext.reload Reloading Context with name [/MuaBanNha] is completed
+18-Oct-2018 08:50:57.173 INFO [http-nio-8080-exec-346] org.apache.catalina.core.StandardContext.reload Reloading Context with name [/MuaBanNha] has started
+18-Oct-2018 08:50:57.848 INFO [http-nio-8080-exec-346] org.apache.jasper.servlet.TldScanner.scanJars At least one JAR was scanned for TLDs yet contained no TLDs. Enable debug logging for this logger for a complete list of JARs that were scanned but no TLDs were found in them. Skipping unneeded JARs during scanning can improve startup time and JSP compilation time.
+18-Oct-2018 08:50:57.863 INFO [http-nio-8080-exec-346] org.apache.catalina.core.StandardContext.reload Reloading Context with name [/MuaBanNha] is completed
+18-Oct-2018 08:51:10.683 INFO [http-nio-8080-exec-347] org.apache.catalina.core.StandardContext.reload Reloading Context with name [/MuaBanNha] has started
+18-Oct-2018 08:51:11.175 INFO [http-nio-8080-exec-347] org.apache.jasper.servlet.TldScanner.scanJars At least one JAR was scanned for TLDs yet contained no TLDs. Enable debug logging for this logger for a complete list of JARs that were scanned but no TLDs were found in them. Skipping unneeded JARs during scanning can improve startup time and JSP compilation time.
+18-Oct-2018 08:51:11.195 INFO [http-nio-8080-exec-347] org.apache.catalina.core.StandardContext.reload Reloading Context with name [/MuaBanNha] is completed
+18-Oct-2018 08:51:24.640 INFO [http-nio-8080-exec-343] org.apache.catalina.core.StandardContext.reload Reloading Context with name [/MuaBanNha] has started
+18-Oct-2018 08:51:24.999 INFO [http-nio-8080-exec-343] org.apache.jasper.servlet.TldScanner.scanJars At least one JAR was scanned for TLDs yet contained no TLDs. Enable debug logging for this logger for a complete list of JARs that were scanned but no TLDs were found in them. Skipping unneeded JARs during scanning can improve startup time and JSP compilation time.
+18-Oct-2018 08:51:25.025 INFO [http-nio-8080-exec-343] org.apache.catalina.core.StandardContext.reload Reloading Context with name [/MuaBanNha] is completed
+18-Oct-2018 08:59:19.010 INFO [http-nio-8080-exec-353] org.apache.catalina.core.StandardContext.reload Reloading Context with name [/MuaBanNha] has started
+18-Oct-2018 08:59:19.016 WARNING [http-nio-8080-exec-353] org.apache.catalina.loader.WebappClassLoaderBase.clearReferencesJdbc The web application [MuaBanNha] registered the JDBC driver [com.mysql.jdbc.Driver] but failed to unregister it when the web application was stopped. To prevent a memory leak, the JDBC Driver has been forcibly unregistered.
+18-Oct-2018 08:59:19.017 WARNING [http-nio-8080-exec-353] org.apache.catalina.loader.WebappClassLoaderBase.clearReferencesThreads The web application [MuaBanNha] appears to have started a thread named [MySQL Statement Cancellation Timer] but has failed to stop it. This is very likely to create a memory leak. Stack trace of thread:
+ java.lang.Object.wait(Native Method)
+ java.lang.Object.wait(Object.java:502)
+ java.util.TimerThread.mainLoop(Timer.java:526)
+ java.util.TimerThread.run(Timer.java:505)
+18-Oct-2018 08:59:19.545 INFO [http-nio-8080-exec-353] org.apache.jasper.servlet.TldScanner.scanJars At least one JAR was scanned for TLDs yet contained no TLDs. Enable debug logging for this logger for a complete list of JARs that were scanned but no TLDs were found in them. Skipping unneeded JARs during scanning can improve startup time and JSP compilation time.
+18-Oct-2018 08:59:19.581 INFO [http-nio-8080-exec-353] org.apache.catalina.core.StandardContext.reload Reloading Context with name [/MuaBanNha] is completed
+18-Oct-2018 08:59:19.620 INFO [Finalizer] org.apache.catalina.loader.WebappClassLoaderBase.checkStateForResourceLoading Illegal access: this web application instance has been stopped already. Could not load [com.mysql.jdbc.profiler.ProfileEventSink]. The following stack trace is thrown for debugging purposes as well as to attempt to terminate the thread which caused the illegal access.
+ java.lang.IllegalStateException: Illegal access: this web application instance has been stopped already. Could not load [com.mysql.jdbc.profiler.ProfileEventSink]. The following stack trace is thrown for debugging purposes as well as to attempt to terminate the thread which caused the illegal access.
+	at org.apache.catalina.loader.WebappClassLoaderBase.checkStateForResourceLoading(WebappClassLoaderBase.java:1329)
+	at org.apache.catalina.loader.WebappClassLoaderBase.checkStateForClassLoading(WebappClassLoaderBase.java:1317)
+	at org.apache.catalina.loader.WebappClassLoaderBase.loadClass(WebappClassLoaderBase.java:1176)
+	at org.apache.catalina.loader.WebappClassLoaderBase.loadClass(WebappClassLoaderBase.java:1137)
+	at com.mysql.jdbc.ConnectionImpl.realClose(ConnectionImpl.java:4235)
+	at com.mysql.jdbc.ConnectionImpl.cleanup(ConnectionImpl.java:1257)
+	at com.mysql.jdbc.ConnectionImpl.finalize(ConnectionImpl.java:2663)
+	at java.lang.System$2.invokeFinalize(System.java:1270)
+	at java.lang.ref.Finalizer.runFinalizer(Finalizer.java:98)
+	at java.lang.ref.Finalizer.access$100(Finalizer.java:34)
+	at java.lang.ref.Finalizer$FinalizerThread.run(Finalizer.java:213)
+
+18-Oct-2018 08:59:46.939 INFO [http-nio-8080-exec-352] org.apache.catalina.core.StandardContext.reload Reloading Context with name [/MuaBanNha] has started
+18-Oct-2018 08:59:47.403 INFO [http-nio-8080-exec-352] org.apache.jasper.servlet.TldScanner.scanJars At least one JAR was scanned for TLDs yet contained no TLDs. Enable debug logging for this logger for a complete list of JARs that were scanned but no TLDs were found in them. Skipping unneeded JARs during scanning can improve startup time and JSP compilation time.
+18-Oct-2018 08:59:47.421 INFO [http-nio-8080-exec-352] org.apache.catalina.core.StandardContext.reload Reloading Context with name [/MuaBanNha] is completed
+18-Oct-2018 08:59:48.221 INFO [http-nio-8080-exec-360] org.apache.catalina.core.StandardContext.reload Reloading Context with name [/MuaBanNha] has started
+18-Oct-2018 08:59:48.705 INFO [http-nio-8080-exec-360] org.apache.jasper.servlet.TldScanner.scanJars At least one JAR was scanned for TLDs yet contained no TLDs. Enable debug logging for this logger for a complete list of JARs that were scanned but no TLDs were found in them. Skipping unneeded JARs during scanning can improve startup time and JSP compilation time.
+18-Oct-2018 08:59:48.731 INFO [http-nio-8080-exec-360] org.apache.catalina.core.StandardContext.reload Reloading Context with name [/MuaBanNha] is completed
+18-Oct-2018 08:59:52.148 INFO [http-nio-8080-exec-355] org.apache.catalina.core.StandardContext.reload Reloading Context with name [/MuaBanNha] has started
+18-Oct-2018 08:59:52.617 INFO [http-nio-8080-exec-355] org.apache.jasper.servlet.TldScanner.scanJars At least one JAR was scanned for TLDs yet contained no TLDs. Enable debug logging for this logger for a complete list of JARs that were scanned but no TLDs were found in them. Skipping unneeded JARs during scanning can improve startup time and JSP compilation time.
+18-Oct-2018 08:59:52.630 INFO [http-nio-8080-exec-355] org.apache.catalina.core.StandardContext.reload Reloading Context with name [/MuaBanNha] is completed
+18-Oct-2018 09:00:00.592 INFO [http-nio-8080-exec-360] org.apache.catalina.core.StandardContext.reload Reloading Context with name [/MuaBanNha] has started
+18-Oct-2018 09:00:01.091 INFO [http-nio-8080-exec-360] org.apache.jasper.servlet.TldScanner.scanJars At least one JAR was scanned for TLDs yet contained no TLDs. Enable debug logging for this logger for a complete list of JARs that were scanned but no TLDs were found in them. Skipping unneeded JARs during scanning can improve startup time and JSP compilation time.
+18-Oct-2018 09:00:01.111 INFO [http-nio-8080-exec-360] org.apache.catalina.core.StandardContext.reload Reloading Context with name [/MuaBanNha] is completed
+18-Oct-2018 09:01:16.502 INFO [http-nio-8080-exec-365] org.apache.catalina.core.StandardContext.reload Reloading Context with name [/MuaBanNha] has started
+18-Oct-2018 09:01:16.828 INFO [http-nio-8080-exec-365] org.apache.jasper.servlet.TldScanner.scanJars At least one JAR was scanned for TLDs yet contained no TLDs. Enable debug logging for this logger for a complete list of JARs that were scanned but no TLDs were found in them. Skipping unneeded JARs during scanning can improve startup time and JSP compilation time.
+18-Oct-2018 09:01:16.841 INFO [http-nio-8080-exec-365] org.apache.catalina.core.StandardContext.reload Reloading Context with name [/MuaBanNha] is completed
+18-Oct-2018 09:01:36.985 INFO [http-nio-8080-exec-368] org.apache.catalina.core.StandardContext.reload Reloading Context with name [/MuaBanNha] has started
+18-Oct-2018 09:01:37.558 INFO [http-nio-8080-exec-368] org.apache.jasper.servlet.TldScanner.scanJars At least one JAR was scanned for TLDs yet contained no TLDs. Enable debug logging for this logger for a complete list of JARs that were scanned but no TLDs were found in them. Skipping unneeded JARs during scanning can improve startup time and JSP compilation time.
+18-Oct-2018 09:01:37.574 INFO [http-nio-8080-exec-368] org.apache.catalina.core.StandardContext.reload Reloading Context with name [/MuaBanNha] is completed
+18-Oct-2018 09:01:50.276 INFO [http-nio-8080-exec-352] org.apache.catalina.core.StandardContext.reload Reloading Context with name [/MuaBanNha] has started
+18-Oct-2018 09:01:50.740 INFO [http-nio-8080-exec-352] org.apache.jasper.servlet.TldScanner.scanJars At least one JAR was scanned for TLDs yet contained no TLDs. Enable debug logging for this logger for a complete list of JARs that were scanned but no TLDs were found in them. Skipping unneeded JARs during scanning can improve startup time and JSP compilation time.
+18-Oct-2018 09:01:50.764 INFO [http-nio-8080-exec-352] org.apache.catalina.core.StandardContext.reload Reloading Context with name [/MuaBanNha] is completed
+18-Oct-2018 09:02:10.524 INFO [http-nio-8080-exec-355] org.apache.catalina.core.StandardContext.reload Reloading Context with name [/MuaBanNha] has started
+18-Oct-2018 09:02:10.807 INFO [http-nio-8080-exec-355] org.apache.jasper.servlet.TldScanner.scanJars At least one JAR was scanned for TLDs yet contained no TLDs. Enable debug logging for this logger for a complete list of JARs that were scanned but no TLDs were found in them. Skipping unneeded JARs during scanning can improve startup time and JSP compilation time.
+18-Oct-2018 09:02:10.818 INFO [http-nio-8080-exec-355] org.apache.catalina.core.StandardContext.reload Reloading Context with name [/MuaBanNha] is completed
+18-Oct-2018 09:03:12.296 INFO [http-nio-8080-exec-376] org.apache.catalina.core.StandardContext.reload Reloading Context with name [/MuaBanNha] has started
+18-Oct-2018 09:03:12.300 WARNING [http-nio-8080-exec-376] org.apache.catalina.loader.WebappClassLoaderBase.clearReferencesJdbc The web application [MuaBanNha] registered the JDBC driver [com.mysql.jdbc.Driver] but failed to unregister it when the web application was stopped. To prevent a memory leak, the JDBC Driver has been forcibly unregistered.
+18-Oct-2018 09:03:12.300 WARNING [http-nio-8080-exec-376] org.apache.catalina.loader.WebappClassLoaderBase.clearReferencesThreads The web application [MuaBanNha] appears to have started a thread named [MySQL Statement Cancellation Timer] but has failed to stop it. This is very likely to create a memory leak. Stack trace of thread:
+ java.lang.Object.wait(Native Method)
+ java.lang.Object.wait(Object.java:502)
+ java.util.TimerThread.mainLoop(Timer.java:526)
+ java.util.TimerThread.run(Timer.java:505)
+18-Oct-2018 09:03:12.482 INFO [Finalizer] org.apache.catalina.loader.WebappClassLoaderBase.checkStateForResourceLoading Illegal access: this web application instance has been stopped already. Could not load [com.mysql.jdbc.profiler.ProfileEventSink]. The following stack trace is thrown for debugging purposes as well as to attempt to terminate the thread which caused the illegal access.
+ java.lang.IllegalStateException: Illegal access: this web application instance has been stopped already. Could not load [com.mysql.jdbc.profiler.ProfileEventSink]. The following stack trace is thrown for debugging purposes as well as to attempt to terminate the thread which caused the illegal access.
+	at org.apache.catalina.loader.WebappClassLoaderBase.checkStateForResourceLoading(WebappClassLoaderBase.java:1329)
+	at org.apache.catalina.loader.WebappClassLoaderBase.checkStateForClassLoading(WebappClassLoaderBase.java:1317)
+	at org.apache.catalina.loader.WebappClassLoaderBase.loadClass(WebappClassLoaderBase.java:1176)
+	at org.apache.catalina.loader.WebappClassLoaderBase.loadClass(WebappClassLoaderBase.java:1137)
+	at com.mysql.jdbc.ConnectionImpl.realClose(ConnectionImpl.java:4235)
+	at com.mysql.jdbc.ConnectionImpl.cleanup(ConnectionImpl.java:1257)
+	at com.mysql.jdbc.ConnectionImpl.finalize(ConnectionImpl.java:2663)
+	at java.lang.System$2.invokeFinalize(System.java:1270)
+	at java.lang.ref.Finalizer.runFinalizer(Finalizer.java:98)
+	at java.lang.ref.Finalizer.access$100(Finalizer.java:34)
+	at java.lang.ref.Finalizer$FinalizerThread.run(Finalizer.java:213)
+
+18-Oct-2018 09:03:12.621 INFO [http-nio-8080-exec-376] org.apache.jasper.servlet.TldScanner.scanJars At least one JAR was scanned for TLDs yet contained no TLDs. Enable debug logging for this logger for a complete list of JARs that were scanned but no TLDs were found in them. Skipping unneeded JARs during scanning can improve startup time and JSP compilation time.
+18-Oct-2018 09:03:12.632 INFO [http-nio-8080-exec-376] org.apache.catalina.core.StandardContext.reload Reloading Context with name [/MuaBanNha] is completed
+18-Oct-2018 09:09:18.498 INFO [http-nio-8080-exec-383] org.apache.catalina.core.StandardContext.reload Reloading Context with name [/MuaBanNha] has started
+18-Oct-2018 09:09:18.503 WARNING [http-nio-8080-exec-383] org.apache.catalina.loader.WebappClassLoaderBase.clearReferencesJdbc The web application [MuaBanNha] registered the JDBC driver [com.mysql.jdbc.Driver] but failed to unregister it when the web application was stopped. To prevent a memory leak, the JDBC Driver has been forcibly unregistered.
+18-Oct-2018 09:09:18.504 WARNING [http-nio-8080-exec-383] org.apache.catalina.loader.WebappClassLoaderBase.clearReferencesThreads The web application [MuaBanNha] appears to have started a thread named [MySQL Statement Cancellation Timer] but has failed to stop it. This is very likely to create a memory leak. Stack trace of thread:
+ java.lang.Object.wait(Native Method)
+ java.lang.Object.wait(Object.java:502)
+ java.util.TimerThread.mainLoop(Timer.java:526)
+ java.util.TimerThread.run(Timer.java:505)
+18-Oct-2018 09:09:18.845 INFO [Finalizer] org.apache.catalina.loader.WebappClassLoaderBase.checkStateForResourceLoading Illegal access: this web application instance has been stopped already. Could not load [com.mysql.jdbc.SQLError]. The following stack trace is thrown for debugging purposes as well as to attempt to terminate the thread which caused the illegal access.
+ java.lang.IllegalStateException: Illegal access: this web application instance has been stopped already. Could not load [com.mysql.jdbc.SQLError]. The following stack trace is thrown for debugging purposes as well as to attempt to terminate the thread which caused the illegal access.
+	at org.apache.catalina.loader.WebappClassLoaderBase.checkStateForResourceLoading(WebappClassLoaderBase.java:1329)
+	at org.apache.catalina.loader.WebappClassLoaderBase.checkStateForClassLoading(WebappClassLoaderBase.java:1317)
+	at org.apache.catalina.loader.WebappClassLoaderBase.loadClass(WebappClassLoaderBase.java:1176)
+	at org.apache.catalina.loader.WebappClassLoaderBase.loadClass(WebappClassLoaderBase.java:1137)
+	at com.mysql.jdbc.MysqlIO.send(MysqlIO.java:3134)
+	at com.mysql.jdbc.MysqlIO.quit(MysqlIO.java:1616)
+	at com.mysql.jdbc.ConnectionImpl.realClose(ConnectionImpl.java:4223)
+	at com.mysql.jdbc.ConnectionImpl.cleanup(ConnectionImpl.java:1257)
+	at com.mysql.jdbc.ConnectionImpl.finalize(ConnectionImpl.java:2663)
+	at java.lang.System$2.invokeFinalize(System.java:1270)
+	at java.lang.ref.Finalizer.runFinalizer(Finalizer.java:98)
+	at java.lang.ref.Finalizer.access$100(Finalizer.java:34)
+	at java.lang.ref.Finalizer$FinalizerThread.run(Finalizer.java:213)
+
+18-Oct-2018 09:09:19.062 INFO [http-nio-8080-exec-383] org.apache.jasper.servlet.TldScanner.scanJars At least one JAR was scanned for TLDs yet contained no TLDs. Enable debug logging for this logger for a complete list of JARs that were scanned but no TLDs were found in them. Skipping unneeded JARs during scanning can improve startup time and JSP compilation time.
+18-Oct-2018 09:09:19.075 INFO [http-nio-8080-exec-383] org.apache.catalina.core.StandardContext.reload Reloading Context with name [/MuaBanNha] is completed
+18-Oct-2018 09:09:19.553 INFO [http-nio-8080-exec-379] org.apache.catalina.core.StandardContext.reload Reloading Context with name [/MuaBanNha] has started
+18-Oct-2018 09:09:19.820 INFO [http-nio-8080-exec-379] org.apache.jasper.servlet.TldScanner.scanJars At least one JAR was scanned for TLDs yet contained no TLDs. Enable debug logging for this logger for a complete list of JARs that were scanned but no TLDs were found in them. Skipping unneeded JARs during scanning can improve startup time and JSP compilation time.
+18-Oct-2018 09:09:19.831 INFO [http-nio-8080-exec-379] org.apache.catalina.core.StandardContext.reload Reloading Context with name [/MuaBanNha] is completed
+18-Oct-2018 09:09:25.866 INFO [http-nio-8080-exec-387] org.apache.catalina.core.StandardContext.reload Reloading Context with name [/MuaBanNha] has started
+18-Oct-2018 09:09:26.159 INFO [http-nio-8080-exec-387] org.apache.jasper.servlet.TldScanner.scanJars At least one JAR was scanned for TLDs yet contained no TLDs. Enable debug logging for this logger for a complete list of JARs that were scanned but no TLDs were found in them. Skipping unneeded JARs during scanning can improve startup time and JSP compilation time.
+18-Oct-2018 09:09:26.174 INFO [http-nio-8080-exec-387] org.apache.catalina.core.StandardContext.reload Reloading Context with name [/MuaBanNha] is completed
+18-Oct-2018 09:09:26.293 INFO [http-nio-8080-exec-386] org.apache.catalina.core.StandardContext.reload Reloading Context with name [/MuaBanNha] has started
+18-Oct-2018 09:09:26.632 INFO [http-nio-8080-exec-386] org.apache.jasper.servlet.TldScanner.scanJars At least one JAR was scanned for TLDs yet contained no TLDs. Enable debug logging for this logger for a complete list of JARs that were scanned but no TLDs were found in them. Skipping unneeded JARs during scanning can improve startup time and JSP compilation time.
+18-Oct-2018 09:09:26.648 INFO [http-nio-8080-exec-386] org.apache.catalina.core.StandardContext.reload Reloading Context with name [/MuaBanNha] is completed
+18-Oct-2018 09:09:29.042 INFO [http-nio-8080-exec-382] org.apache.catalina.core.StandardContext.reload Reloading Context with name [/MuaBanNha] has started
+18-Oct-2018 09:09:29.346 INFO [http-nio-8080-exec-382] org.apache.jasper.servlet.TldScanner.scanJars At least one JAR was scanned for TLDs yet contained no TLDs. Enable debug logging for this logger for a complete list of JARs that were scanned but no TLDs were found in them. Skipping unneeded JARs during scanning can improve startup time and JSP compilation time.
+18-Oct-2018 09:09:29.357 INFO [http-nio-8080-exec-382] org.apache.catalina.core.StandardContext.reload Reloading Context with name [/MuaBanNha] is completed
+18-Oct-2018 09:09:47.290 INFO [http-nio-8080-exec-386] org.apache.catalina.core.StandardContext.reload Reloading Context with name [/MuaBanNha] has started
+18-Oct-2018 09:09:47.571 INFO [http-nio-8080-exec-386] org.apache.jasper.servlet.TldScanner.scanJars At least one JAR was scanned for TLDs yet contained no TLDs. Enable debug logging for this logger for a complete list of JARs that were scanned but no TLDs were found in them. Skipping unneeded JARs during scanning can improve startup time and JSP compilation time.
+18-Oct-2018 09:09:47.630 INFO [http-nio-8080-exec-386] org.apache.catalina.core.StandardContext.reload Reloading Context with name [/MuaBanNha] is completed
+18-Oct-2018 09:09:53.635 INFO [http-nio-8080-exec-381] org.apache.catalina.core.StandardContext.reload Reloading Context with name [/MuaBanNha] has started
+18-Oct-2018 09:09:54.056 INFO [http-nio-8080-exec-381] org.apache.jasper.servlet.TldScanner.scanJars At least one JAR was scanned for TLDs yet contained no TLDs. Enable debug logging for this logger for a complete list of JARs that were scanned but no TLDs were found in them. Skipping unneeded JARs during scanning can improve startup time and JSP compilation time.
+18-Oct-2018 09:09:54.068 INFO [http-nio-8080-exec-381] org.apache.catalina.core.StandardContext.reload Reloading Context with name [/MuaBanNha] is completed
+18-Oct-2018 09:10:07.961 INFO [http-nio-8080-exec-384] org.apache.catalina.core.StandardContext.reload Reloading Context with name [/MuaBanNha] has started
+18-Oct-2018 09:10:08.702 INFO [http-nio-8080-exec-384] org.apache.jasper.servlet.TldScanner.scanJars At least one JAR was scanned for TLDs yet contained no TLDs. Enable debug logging for this logger for a complete list of JARs that were scanned but no TLDs were found in them. Skipping unneeded JARs during scanning can improve startup time and JSP compilation time.
+18-Oct-2018 09:10:08.713 INFO [http-nio-8080-exec-384] org.apache.catalina.core.StandardContext.reload Reloading Context with name [/MuaBanNha] is completed
+18-Oct-2018 09:10:14.210 INFO [http-nio-8080-exec-389] org.apache.catalina.core.StandardContext.reload Reloading Context with name [/MuaBanNha] has started
+18-Oct-2018 09:10:14.528 INFO [http-nio-8080-exec-389] org.apache.jasper.servlet.TldScanner.scanJars At least one JAR was scanned for TLDs yet contained no TLDs. Enable debug logging for this logger for a complete list of JARs that were scanned but no TLDs were found in them. Skipping unneeded JARs during scanning can improve startup time and JSP compilation time.
+18-Oct-2018 09:10:14.540 INFO [http-nio-8080-exec-389] org.apache.catalina.core.StandardContext.reload Reloading Context with name [/MuaBanNha] is completed
+18-Oct-2018 09:12:15.238 INFO [http-nio-8080-exec-397] org.apache.catalina.core.StandardContext.reload Reloading Context with name [/MuaBanNha] has started
+18-Oct-2018 09:12:15.243 WARNING [http-nio-8080-exec-397] org.apache.catalina.loader.WebappClassLoaderBase.clearReferencesJdbc The web application [MuaBanNha] registered the JDBC driver [com.mysql.jdbc.Driver] but failed to unregister it when the web application was stopped. To prevent a memory leak, the JDBC Driver has been forcibly unregistered.
+18-Oct-2018 09:12:15.244 WARNING [http-nio-8080-exec-397] org.apache.catalina.loader.WebappClassLoaderBase.clearReferencesThreads The web application [MuaBanNha] appears to have started a thread named [MySQL Statement Cancellation Timer] but has failed to stop it. This is very likely to create a memory leak. Stack trace of thread:
+ java.lang.Object.wait(Native Method)
+ java.lang.Object.wait(Object.java:502)
+ java.util.TimerThread.mainLoop(Timer.java:526)
+ java.util.TimerThread.run(Timer.java:505)
+18-Oct-2018 09:12:15.582 INFO [Finalizer] org.apache.catalina.loader.WebappClassLoaderBase.checkStateForResourceLoading Illegal access: this web application instance has been stopped already. Could not load [com.mysql.jdbc.profiler.ProfileEventSink]. The following stack trace is thrown for debugging purposes as well as to attempt to terminate the thread which caused the illegal access.
+ java.lang.IllegalStateException: Illegal access: this web application instance has been stopped already. Could not load [com.mysql.jdbc.profiler.ProfileEventSink]. The following stack trace is thrown for debugging purposes as well as to attempt to terminate the thread which caused the illegal access.
+	at org.apache.catalina.loader.WebappClassLoaderBase.checkStateForResourceLoading(WebappClassLoaderBase.java:1329)
+	at org.apache.catalina.loader.WebappClassLoaderBase.checkStateForClassLoading(WebappClassLoaderBase.java:1317)
+	at org.apache.catalina.loader.WebappClassLoaderBase.loadClass(WebappClassLoaderBase.java:1176)
+	at org.apache.catalina.loader.WebappClassLoaderBase.loadClass(WebappClassLoaderBase.java:1137)
+	at com.mysql.jdbc.ConnectionImpl.realClose(ConnectionImpl.java:4235)
+	at com.mysql.jdbc.ConnectionImpl.cleanup(ConnectionImpl.java:1257)
+	at com.mysql.jdbc.ConnectionImpl.finalize(ConnectionImpl.java:2663)
+	at java.lang.System$2.invokeFinalize(System.java:1270)
+	at java.lang.ref.Finalizer.runFinalizer(Finalizer.java:98)
+	at java.lang.ref.Finalizer.access$100(Finalizer.java:34)
+	at java.lang.ref.Finalizer$FinalizerThread.run(Finalizer.java:213)
+
+18-Oct-2018 09:12:15.597 INFO [http-nio-8080-exec-397] org.apache.jasper.servlet.TldScanner.scanJars At least one JAR was scanned for TLDs yet contained no TLDs. Enable debug logging for this logger for a complete list of JARs that were scanned but no TLDs were found in them. Skipping unneeded JARs during scanning can improve startup time and JSP compilation time.
+18-Oct-2018 09:12:15.610 INFO [http-nio-8080-exec-397] org.apache.catalina.core.StandardContext.reload Reloading Context with name [/MuaBanNha] is completed
+18-Oct-2018 09:12:32.577 INFO [http-nio-8080-exec-393] org.apache.catalina.core.StandardContext.reload Reloading Context with name [/MuaBanNha] has started
+18-Oct-2018 09:12:32.839 INFO [http-nio-8080-exec-393] org.apache.jasper.servlet.TldScanner.scanJars At least one JAR was scanned for TLDs yet contained no TLDs. Enable debug logging for this logger for a complete list of JARs that were scanned but no TLDs were found in them. Skipping unneeded JARs during scanning can improve startup time and JSP compilation time.
+18-Oct-2018 09:12:32.853 INFO [http-nio-8080-exec-393] org.apache.catalina.core.StandardContext.reload Reloading Context with name [/MuaBanNha] is completed
+18-Oct-2018 09:12:35.160 INFO [http-nio-8080-exec-398] org.apache.catalina.core.StandardContext.reload Reloading Context with name [/MuaBanNha] has started
+18-Oct-2018 09:12:35.474 INFO [http-nio-8080-exec-398] org.apache.jasper.servlet.TldScanner.scanJars At least one JAR was scanned for TLDs yet contained no TLDs. Enable debug logging for this logger for a complete list of JARs that were scanned but no TLDs were found in them. Skipping unneeded JARs during scanning can improve startup time and JSP compilation time.
+18-Oct-2018 09:12:35.492 INFO [http-nio-8080-exec-398] org.apache.catalina.core.StandardContext.reload Reloading Context with name [/MuaBanNha] is completed
+18-Oct-2018 09:21:55.789 INFO [http-nio-8080-exec-414] org.apache.catalina.core.StandardContext.reload Reloading Context with name [/MuaBanNha] has started
+18-Oct-2018 09:21:55.794 WARNING [http-nio-8080-exec-414] org.apache.catalina.loader.WebappClassLoaderBase.clearReferencesJdbc The web application [MuaBanNha] registered the JDBC driver [com.mysql.jdbc.Driver] but failed to unregister it when the web application was stopped. To prevent a memory leak, the JDBC Driver has been forcibly unregistered.
+18-Oct-2018 09:21:55.794 WARNING [http-nio-8080-exec-414] org.apache.catalina.loader.WebappClassLoaderBase.clearReferencesJdbc The web application [MuaBanNha] registered the JDBC driver [com.mysql.jdbc.Driver] but failed to unregister it when the web application was stopped. To prevent a memory leak, the JDBC Driver has been forcibly unregistered.
+18-Oct-2018 09:21:55.795 WARNING [http-nio-8080-exec-414] org.apache.catalina.loader.WebappClassLoaderBase.clearReferencesJdbc The web application [MuaBanNha] registered the JDBC driver [com.mysql.jdbc.Driver] but failed to unregister it when the web application was stopped. To prevent a memory leak, the JDBC Driver has been forcibly unregistered.
+18-Oct-2018 09:21:55.796 WARNING [http-nio-8080-exec-414] org.apache.catalina.loader.WebappClassLoaderBase.clearReferencesThreads The web application [MuaBanNha] appears to have started a thread named [MySQL Statement Cancellation Timer] but has failed to stop it. This is very likely to create a memory leak. Stack trace of thread:
+ java.lang.Object.wait(Native Method)
+ java.lang.Object.wait(Object.java:502)
+ java.util.TimerThread.mainLoop(Timer.java:526)
+ java.util.TimerThread.run(Timer.java:505)
+18-Oct-2018 09:21:55.923 INFO [Finalizer] org.apache.catalina.loader.WebappClassLoaderBase.checkStateForResourceLoading Illegal access: this web application instance has been stopped already. Could not load [com.mysql.jdbc.SQLError]. The following stack trace is thrown for debugging purposes as well as to attempt to terminate the thread which caused the illegal access.
+ java.lang.IllegalStateException: Illegal access: this web application instance has been stopped already. Could not load [com.mysql.jdbc.SQLError]. The following stack trace is thrown for debugging purposes as well as to attempt to terminate the thread which caused the illegal access.
+	at org.apache.catalina.loader.WebappClassLoaderBase.checkStateForResourceLoading(WebappClassLoaderBase.java:1329)
+	at org.apache.catalina.loader.WebappClassLoaderBase.checkStateForClassLoading(WebappClassLoaderBase.java:1317)
+	at org.apache.catalina.loader.WebappClassLoaderBase.loadClass(WebappClassLoaderBase.java:1176)
+	at org.apache.catalina.loader.WebappClassLoaderBase.loadClass(WebappClassLoaderBase.java:1137)
+	at com.mysql.jdbc.MysqlIO.send(MysqlIO.java:3134)
+	at com.mysql.jdbc.MysqlIO.quit(MysqlIO.java:1616)
+	at com.mysql.jdbc.ConnectionImpl.realClose(ConnectionImpl.java:4223)
+	at com.mysql.jdbc.ConnectionImpl.cleanup(ConnectionImpl.java:1257)
+	at com.mysql.jdbc.ConnectionImpl.finalize(ConnectionImpl.java:2663)
+	at java.lang.System$2.invokeFinalize(System.java:1270)
+	at java.lang.ref.Finalizer.runFinalizer(Finalizer.java:98)
+	at java.lang.ref.Finalizer.access$100(Finalizer.java:34)
+	at java.lang.ref.Finalizer$FinalizerThread.run(Finalizer.java:213)
+
+18-Oct-2018 09:21:56.115 INFO [http-nio-8080-exec-414] org.apache.jasper.servlet.TldScanner.scanJars At least one JAR was scanned for TLDs yet contained no TLDs. Enable debug logging for this logger for a complete list of JARs that were scanned but no TLDs were found in them. Skipping unneeded JARs during scanning can improve startup time and JSP compilation time.
+18-Oct-2018 09:21:56.130 INFO [612] org.apache.catalina.core.StandardContext.reload Reloading Context with name [/MuaBanNha] is completed
+18-Oct-2018 09:33:26.062 INFO [http-nio-8080-exec-424] org.apache.catalina.core.StandardContext.reload Reloading Context with name [/MuaBanNha] has started
+18-Oct-2018 09:33:26.067 WARNING [http-nio-8080-exec-424] org.apache.catalina.loader.WebappClassLoaderBase.clearReferencesJdbc The web application [MuaBanNha] registered the JDBC driver [com.mysql.jdbc.Driver] but failed to unregister it when the web application was stopped. To prevent a memory leak, the JDBC Driver has been forcibly unregistered.
+18-Oct-2018 09:33:26.068 WARNING [http-nio-8080-exec-424] org.apache.catalina.loader.WebappClassLoaderBase.clearReferencesJdbc The web application [MuaBanNha] registered the JDBC driver [com.mysql.jdbc.Driver] but failed to unregister it when the web application was stopped. To prevent a memory leak, the JDBC Driver has been forcibly unregistered.
+18-Oct-2018 09:33:26.068 WARNING [http-nio-8080-exec-424] org.apache.catalina.loader.WebappClassLoaderBase.clearReferencesJdbc The web application [MuaBanNha] registered the JDBC driver [com.mysql.jdbc.Driver] but failed to unregister it when the web application was stopped. To prevent a memory leak, the JDBC Driver has been forcibly unregistered.
+18-Oct-2018 09:33:26.068 WARNING [http-nio-8080-exec-424] org.apache.catalina.loader.WebappClassLoaderBase.clearReferencesJdbc The web application [MuaBanNha] registered the JDBC driver [com.mysql.jdbc.Driver] but failed to unregister it when the web application was stopped. To prevent a memory leak, the JDBC Driver has been forcibly unregistered.
+18-Oct-2018 09:33:26.069 WARNING [http-nio-8080-exec-424] org.apache.catalina.loader.WebappClassLoaderBase.clearReferencesJdbc The web application [MuaBanNha] registered the JDBC driver [com.mysql.jdbc.Driver] but failed to unregister it when the web application was stopped. To prevent a memory leak, the JDBC Driver has been forcibly unregistered.
+18-Oct-2018 09:33:26.070 WARNING [http-nio-8080-exec-424] org.apache.catalina.loader.WebappClassLoaderBase.clearReferencesThreads The web application [MuaBanNha] appears to have started a thread named [MySQL Statement Cancellation Timer] but has failed to stop it. This is very likely to create a memory leak. Stack trace of thread:
+ java.lang.Object.wait(Native Method)
+ java.lang.Object.wait(Object.java:502)
+ java.util.TimerThread.mainLoop(Timer.java:526)
+ java.util.TimerThread.run(Timer.java:505)
+18-Oct-2018 09:33:26.562 INFO [630] org.apache.jasper.servlet.TldScanner.scanJars At least one JAR was scanned for TLDs yet contained no TLDs. Enable debug logging for this logger for a complete list of JARs that were scanned but no TLDs were found in them. Skipping unneeded JARs during scanning can improve startup time and JSP compilation time.
+18-Oct-2018 09:33:26.584 INFO [630] org.apache.catalina.core.StandardContext.reload Reloading Context with name [/MuaBanNha] is completed
+18-Oct-2018 09:33:53.626 INFO [http-nio-8080-exec-418] org.apache.catalina.core.StandardContext.reload Reloading Context with name [/MuaBanNha] has started
+18-Oct-2018 09:33:54.024 INFO [http-nio-8080-exec-418] org.apache.jasper.servlet.TldScanner.scanJars At least one JAR was scanned for TLDs yet contained no TLDs. Enable debug logging for this logger for a complete list of JARs that were scanned but no TLDs were found in them. Skipping unneeded JARs during scanning can improve startup time and JSP compilation time.
+18-Oct-2018 09:33:54.037 INFO [http-nio-8080-exec-418] org.apache.catalina.core.StandardContext.reload Reloading Context with name [/MuaBanNha] is completed
+18-Oct-2018 09:49:27.586 INFO [http-nio-8080-exec-430] org.apache.catalina.core.StandardContext.reload Reloading Context with name [/MuaBanNha] has started
+18-Oct-2018 09:49:28.140 INFO [http-nio-8080-exec-430] org.apache.jasper.servlet.TldScanner.scanJars At least one JAR was scanned for TLDs yet contained no TLDs. Enable debug logging for this logger for a complete list of JARs that were scanned but no TLDs were found in them. Skipping unneeded JARs during scanning can improve startup time and JSP compilation time.
+18-Oct-2018 09:49:28.156 INFO [http-nio-8080-exec-430] org.apache.catalina.core.StandardContext.reload Reloading Context with name [/MuaBanNha] is completed
+18-Oct-2018 09:53:00.803 INFO [http-nio-8080-exec-440] org.apache.catalina.core.StandardContext.reload Reloading Context with name [/MuaBanNha] has started
+18-Oct-2018 09:53:01.928 INFO [668] org.apache.jasper.servlet.TldScanner.scanJars At least one JAR was scanned for TLDs yet contained no TLDs. Enable debug logging for this logger for a complete list of JARs that were scanned but no TLDs were found in them. Skipping unneeded JARs during scanning can improve startup time and JSP compilation time.
+18-Oct-2018 09:53:01.944 INFO [668] org.apache.catalina.core.StandardContext.reload Reloading Context with name [/MuaBanNha] is completed
+18-Oct-2018 09:53:59.423 INFO [http-nio-8080-exec-442] org.apache.catalina.core.StandardContext.reload Reloading Context with name [/MuaBanNha] has started
+18-Oct-2018 09:53:59.808 INFO [http-nio-8080-exec-442] org.apache.jasper.servlet.TldScanner.scanJars At least one JAR was scanned for TLDs yet contained no TLDs. Enable debug logging for this logger for a complete list of JARs that were scanned but no TLDs were found in them. Skipping unneeded JARs during scanning can improve startup time and JSP compilation time.
+18-Oct-2018 09:53:59.822 INFO [http-nio-8080-exec-442] org.apache.catalina.core.StandardContext.reload Reloading Context with name [/MuaBanNha] is completed
+18-Oct-2018 09:54:32.196 INFO [http-nio-8080-exec-438] org.apache.catalina.core.StandardContext.reload Reloading Context with name [/MuaBanNha] has started
+18-Oct-2018 09:54:32.727 INFO [http-nio-8080-exec-438] org.apache.jasper.servlet.TldScanner.scanJars At least one JAR was scanned for TLDs yet contained no TLDs. Enable debug logging for this logger for a complete list of JARs that were scanned but no TLDs were found in them. Skipping unneeded JARs during scanning can improve startup time and JSP compilation time.
+18-Oct-2018 09:54:32.744 INFO [http-nio-8080-exec-438] org.apache.catalina.core.StandardContext.reload Reloading Context with name [/MuaBanNha] is completed
+18-Oct-2018 09:55:30.213 INFO [http-nio-8080-exec-442] org.apache.catalina.core.StandardContext.reload Reloading Context with name [/MuaBanNha] has started
+18-Oct-2018 09:55:30.912 INFO [http-nio-8080-exec-442] org.apache.jasper.servlet.TldScanner.scanJars At least one JAR was scanned for TLDs yet contained no TLDs. Enable debug logging for this logger for a complete list of JARs that were scanned but no TLDs were found in them. Skipping unneeded JARs during scanning can improve startup time and JSP compilation time.
+18-Oct-2018 09:55:30.928 INFO [http-nio-8080-exec-442] org.apache.catalina.core.StandardContext.reload Reloading Context with name [/MuaBanNha] is completed
+18-Oct-2018 09:56:59.252 INFO [http-nio-8080-exec-444] org.apache.catalina.core.StandardContext.reload Reloading Context with name [/MuaBanNha] has started
+18-Oct-2018 09:56:59.257 WARNING [http-nio-8080-exec-444] org.apache.catalina.loader.WebappClassLoaderBase.clearReferencesJdbc The web application [MuaBanNha] registered the JDBC driver [com.mysql.jdbc.Driver] but failed to unregister it when the web application was stopped. To prevent a memory leak, the JDBC Driver has been forcibly unregistered.
+18-Oct-2018 09:56:59.258 WARNING [http-nio-8080-exec-444] org.apache.catalina.loader.WebappClassLoaderBase.clearReferencesJdbc The web application [MuaBanNha] registered the JDBC driver [com.mysql.jdbc.Driver] but failed to unregister it when the web application was stopped. To prevent a memory leak, the JDBC Driver has been forcibly unregistered.
+18-Oct-2018 09:56:59.259 WARNING [http-nio-8080-exec-444] org.apache.catalina.loader.WebappClassLoaderBase.clearReferencesThreads The web application [MuaBanNha] appears to have started a thread named [MySQL Statement Cancellation Timer] but has failed to stop it. This is very likely to create a memory leak. Stack trace of thread:
+ java.lang.Object.wait(Native Method)
+ java.lang.Object.wait(Object.java:502)
+ java.util.TimerThread.mainLoop(Timer.java:526)
+ java.util.TimerThread.run(Timer.java:505)
+18-Oct-2018 09:56:59.473 INFO [Finalizer] org.apache.catalina.loader.WebappClassLoaderBase.checkStateForResourceLoading Illegal access: this web application instance has been stopped already. Could not load [com.mysql.jdbc.profiler.ProfileEventSink]. The following stack trace is thrown for debugging purposes as well as to attempt to terminate the thread which caused the illegal access.
+ java.lang.IllegalStateException: Illegal access: this web application instance has been stopped already. Could not load [com.mysql.jdbc.profiler.ProfileEventSink]. The following stack trace is thrown for debugging purposes as well as to attempt to terminate the thread which caused the illegal access.
+	at org.apache.catalina.loader.WebappClassLoaderBase.checkStateForResourceLoading(WebappClassLoaderBase.java:1329)
+	at org.apache.catalina.loader.WebappClassLoaderBase.checkStateForClassLoading(WebappClassLoaderBase.java:1317)
+	at org.apache.catalina.loader.WebappClassLoaderBase.loadClass(WebappClassLoaderBase.java:1176)
+	at org.apache.catalina.loader.WebappClassLoaderBase.loadClass(WebappClassLoaderBase.java:1137)
+	at com.mysql.jdbc.ConnectionImpl.realClose(ConnectionImpl.java:4235)
+	at com.mysql.jdbc.ConnectionImpl.cleanup(ConnectionImpl.java:1257)
+	at com.mysql.jdbc.ConnectionImpl.finalize(ConnectionImpl.java:2663)
+	at java.lang.System$2.invokeFinalize(System.java:1270)
+	at java.lang.ref.Finalizer.runFinalizer(Finalizer.java:98)
+	at java.lang.ref.Finalizer.access$100(Finalizer.java:34)
+	at java.lang.ref.Finalizer$FinalizerThread.run(Finalizer.java:213)
+
+18-Oct-2018 09:56:59.474 INFO [Finalizer] org.apache.catalina.loader.WebappClassLoaderBase.checkStateForResourceLoading Illegal access: this web application instance has been stopped already. Could not load [com.mysql.jdbc.SQLError]. The following stack trace is thrown for debugging purposes as well as to attempt to terminate the thread which caused the illegal access.
+ java.lang.IllegalStateException: Illegal access: this web application instance has been stopped already. Could not load [com.mysql.jdbc.SQLError]. The following stack trace is thrown for debugging purposes as well as to attempt to terminate the thread which caused the illegal access.
+	at org.apache.catalina.loader.WebappClassLoaderBase.checkStateForResourceLoading(WebappClassLoaderBase.java:1329)
+	at org.apache.catalina.loader.WebappClassLoaderBase.checkStateForClassLoading(WebappClassLoaderBase.java:1317)
+	at org.apache.catalina.loader.WebappClassLoaderBase.loadClass(WebappClassLoaderBase.java:1176)
+	at org.apache.catalina.loader.WebappClassLoaderBase.loadClass(WebappClassLoaderBase.java:1137)
+	at com.mysql.jdbc.MysqlIO.send(MysqlIO.java:3134)
+	at com.mysql.jdbc.MysqlIO.quit(MysqlIO.java:1616)
+	at com.mysql.jdbc.ConnectionImpl.realClose(ConnectionImpl.java:4223)
+	at com.mysql.jdbc.ConnectionImpl.cleanup(ConnectionImpl.java:1257)
+	at com.mysql.jdbc.ConnectionImpl.finalize(ConnectionImpl.java:2663)
+	at java.lang.System$2.invokeFinalize(System.java:1270)
+	at java.lang.ref.Finalizer.runFinalizer(Finalizer.java:98)
+	at java.lang.ref.Finalizer.access$100(Finalizer.java:34)
+	at java.lang.ref.Finalizer$FinalizerThread.run(Finalizer.java:213)
+
+18-Oct-2018 09:56:59.753 INFO [http-nio-8080-exec-444] org.apache.jasper.servlet.TldScanner.scanJars At least one JAR was scanned for TLDs yet contained no TLDs. Enable debug logging for this logger for a complete list of JARs that were scanned but no TLDs were found in them. Skipping unneeded JARs during scanning can improve startup time and JSP compilation time.
+18-Oct-2018 09:56:59.770 INFO [http-nio-8080-exec-444] org.apache.catalina.core.StandardContext.reload Reloading Context with name [/MuaBanNha] is completed
+18-Oct-2018 09:57:02.078 INFO [http-nio-8080-exec-447] org.apache.catalina.core.StandardContext.reload Reloading Context with name [/MuaBanNha] has started
+18-Oct-2018 09:57:02.571 INFO [http-nio-8080-exec-447] org.apache.jasper.servlet.TldScanner.scanJars At least one JAR was scanned for TLDs yet contained no TLDs. Enable debug logging for this logger for a complete list of JARs that were scanned but no TLDs were found in them. Skipping unneeded JARs during scanning can improve startup time and JSP compilation time.
+18-Oct-2018 09:57:02.591 INFO [http-nio-8080-exec-447] org.apache.catalina.core.StandardContext.reload Reloading Context with name [/MuaBanNha] is completed
+18-Oct-2018 10:02:10.377 INFO [http-nio-8080-exec-462] org.apache.catalina.core.StandardContext.reload Reloading Context with name [/MuaBanNha] has started
+18-Oct-2018 10:02:10.381 WARNING [http-nio-8080-exec-462] org.apache.catalina.loader.WebappClassLoaderBase.clearReferencesJdbc The web application [MuaBanNha] registered the JDBC driver [com.mysql.jdbc.Driver] but failed to unregister it when the web application was stopped. To prevent a memory leak, the JDBC Driver has been forcibly unregistered.
+18-Oct-2018 10:02:10.381 WARNING [http-nio-8080-exec-462] org.apache.catalina.loader.WebappClassLoaderBase.clearReferencesJdbc The web application [MuaBanNha] registered the JDBC driver [com.mysql.jdbc.Driver] but failed to unregister it when the web application was stopped. To prevent a memory leak, the JDBC Driver has been forcibly unregistered.
+18-Oct-2018 10:02:10.381 WARNING [http-nio-8080-exec-462] org.apache.catalina.loader.WebappClassLoaderBase.clearReferencesJdbc The web application [MuaBanNha] registered the JDBC driver [com.mysql.jdbc.Driver] but failed to unregister it when the web application was stopped. To prevent a memory leak, the JDBC Driver has been forcibly unregistered.
+18-Oct-2018 10:02:10.381 WARNING [http-nio-8080-exec-462] org.apache.catalina.loader.WebappClassLoaderBase.clearReferencesJdbc The web application [MuaBanNha] registered the JDBC driver [com.mysql.jdbc.Driver] but failed to unregister it when the web application was stopped. To prevent a memory leak, the JDBC Driver has been forcibly unregistered.
+18-Oct-2018 10:02:10.381 WARNING [http-nio-8080-exec-462] org.apache.catalina.loader.WebappClassLoaderBase.clearReferencesJdbc The web application [MuaBanNha] registered the JDBC driver [com.mysql.jdbc.Driver] but failed to unregister it when the web application was stopped. To prevent a memory leak, the JDBC Driver has been forcibly unregistered.
+18-Oct-2018 10:02:10.382 WARNING [http-nio-8080-exec-462] org.apache.catalina.loader.WebappClassLoaderBase.clearReferencesThreads The web application [MuaBanNha] appears to have started a thread named [MySQL Statement Cancellation Timer] but has failed to stop it. This is very likely to create a memory leak. Stack trace of thread:
+ java.lang.Object.wait(Native Method)
+ java.lang.Object.wait(Object.java:502)
+ java.util.TimerThread.mainLoop(Timer.java:526)
+ java.util.TimerThread.run(Timer.java:505)
+18-Oct-2018 10:02:10.851 INFO [http-nio-8080-exec-462] org.apache.jasper.servlet.TldScanner.scanJars At least one JAR was scanned for TLDs yet contained no TLDs. Enable debug logging for this logger for a complete list of JARs that were scanned but no TLDs were found in them. Skipping unneeded JARs during scanning can improve startup time and JSP compilation time.
+18-Oct-2018 10:02:10.884 INFO [http-nio-8080-exec-462] org.apache.catalina.core.StandardContext.reload Reloading Context with name [/MuaBanNha] is completed
+18-Oct-2018 10:02:56.345 INFO [http-nio-8080-exec-460] org.apache.catalina.core.StandardContext.reload Reloading Context with name [/MuaBanNha] has started
+18-Oct-2018 10:02:56.714 INFO [http-nio-8080-exec-460] org.apache.jasper.servlet.TldScanner.scanJars At least one JAR was scanned for TLDs yet contained no TLDs. Enable debug logging for this logger for a complete list of JARs that were scanned but no TLDs were found in them. Skipping unneeded JARs during scanning can improve startup time and JSP compilation time.
+18-Oct-2018 10:02:56.734 INFO [http-nio-8080-exec-460] org.apache.catalina.core.StandardContext.reload Reloading Context with name [/MuaBanNha] is completed
+18-Oct-2018 11:34:45.261 INFO [http-nio-8080-exec-470] org.apache.catalina.core.StandardContext.reload Reloading Context with name [/MuaBanNha] has started
+18-Oct-2018 11:34:45.265 WARNING [http-nio-8080-exec-470] org.apache.catalina.loader.WebappClassLoaderBase.clearReferencesJdbc The web application [MuaBanNha] registered the JDBC driver [com.mysql.jdbc.Driver] but failed to unregister it when the web application was stopped. To prevent a memory leak, the JDBC Driver has been forcibly unregistered.
+18-Oct-2018 11:34:45.266 WARNING [http-nio-8080-exec-470] org.apache.catalina.loader.WebappClassLoaderBase.clearReferencesThreads The web application [MuaBanNha] appears to have started a thread named [MySQL Statement Cancellation Timer] but has failed to stop it. This is very likely to create a memory leak. Stack trace of thread:
+ java.lang.Object.wait(Native Method)
+ java.lang.Object.wait(Object.java:502)
+ java.util.TimerThread.mainLoop(Timer.java:526)
+ java.util.TimerThread.run(Timer.java:505)
+18-Oct-2018 11:34:45.874 INFO [Finalizer] org.apache.catalina.loader.WebappClassLoaderBase.checkStateForResourceLoading Illegal access: this web application instance has been stopped already. Could not load [com.mysql.jdbc.profiler.ProfileEventSink]. The following stack trace is thrown for debugging purposes as well as to attempt to terminate the thread which caused the illegal access.
+ java.lang.IllegalStateException: Illegal access: this web application instance has been stopped already. Could not load [com.mysql.jdbc.profiler.ProfileEventSink]. The following stack trace is thrown for debugging purposes as well as to attempt to terminate the thread which caused the illegal access.
+	at org.apache.catalina.loader.WebappClassLoaderBase.checkStateForResourceLoading(WebappClassLoaderBase.java:1329)
+	at org.apache.catalina.loader.WebappClassLoaderBase.checkStateForClassLoading(WebappClassLoaderBase.java:1317)
+	at org.apache.catalina.loader.WebappClassLoaderBase.loadClass(WebappClassLoaderBase.java:1176)
+	at org.apache.catalina.loader.WebappClassLoaderBase.loadClass(WebappClassLoaderBase.java:1137)
+	at com.mysql.jdbc.ConnectionImpl.realClose(ConnectionImpl.java:4235)
+	at com.mysql.jdbc.ConnectionImpl.cleanup(ConnectionImpl.java:1257)
+	at com.mysql.jdbc.ConnectionImpl.finalize(ConnectionImpl.java:2663)
+	at java.lang.System$2.invokeFinalize(System.java:1270)
+	at java.lang.ref.Finalizer.runFinalizer(Finalizer.java:98)
+	at java.lang.ref.Finalizer.access$100(Finalizer.java:34)
+	at java.lang.ref.Finalizer$FinalizerThread.run(Finalizer.java:213)
+
+18-Oct-2018 11:34:46.038 INFO [http-nio-8080-exec-470] org.apache.jasper.servlet.TldScanner.scanJars At least one JAR was scanned for TLDs yet contained no TLDs. Enable debug logging for this logger for a complete list of JARs that were scanned but no TLDs were found in them. Skipping unneeded JARs during scanning can improve startup time and JSP compilation time.
+18-Oct-2018 11:34:46.053 INFO [710] org.apache.catalina.core.StandardContext.reload Reloading Context with name [/MuaBanNha] is completed
+18-Oct-2018 11:36:14.302 INFO [http-nio-8080-exec-469] org.apache.catalina.core.StandardContext.reload Reloading Context with name [/MuaBanNha] has started
+18-Oct-2018 11:36:14.664 INFO [http-nio-8080-exec-469] org.apache.jasper.servlet.TldScanner.scanJars At least one JAR was scanned for TLDs yet contained no TLDs. Enable debug logging for this logger for a complete list of JARs that were scanned but no TLDs were found in them. Skipping unneeded JARs during scanning can improve startup time and JSP compilation time.
+18-Oct-2018 11:36:14.678 INFO [http-nio-8080-exec-469] org.apache.catalina.core.StandardContext.reload Reloading Context with name [/MuaBanNha] is completed
+18-Oct-2018 11:46:27.790 INFO [http-nio-8080-exec-487] org.apache.catalina.core.StandardContext.reload Reloading Context with name [/WebApplication2] has started
+18-Oct-2018 11:46:27.931 WARNING [http-nio-8080-exec-487] org.apache.catalina.loader.WebappClassLoaderBase.clearReferencesJdbc The web application [WebApplication2] registered the JDBC driver [com.mysql.jdbc.Driver] but failed to unregister it when the web application was stopped. To prevent a memory leak, the JDBC Driver has been forcibly unregistered.
+18-Oct-2018 11:46:27.931 WARNING [http-nio-8080-exec-487] org.apache.catalina.loader.WebappClassLoaderBase.clearReferencesJdbc The web application [WebApplication2] registered the JDBC driver [com.mysql.jdbc.Driver] but failed to unregister it when the web application was stopped. To prevent a memory leak, the JDBC Driver has been forcibly unregistered.
+18-Oct-2018 11:46:27.932 WARNING [http-nio-8080-exec-487] org.apache.catalina.loader.WebappClassLoaderBase.clearReferencesThreads The web application [WebApplication2] appears to have started a thread named [MySQL Statement Cancellation Timer] but has failed to stop it. This is very likely to create a memory leak. Stack trace of thread:
+ java.lang.Object.wait(Native Method)
+ java.lang.Object.wait(Object.java:502)
+ java.util.TimerThread.mainLoop(Timer.java:526)
+ java.util.TimerThread.run(Timer.java:505)
+18-Oct-2018 11:46:28.620 INFO [http-nio-8080-exec-487] org.apache.jasper.servlet.TldScanner.scanJars At least one JAR was scanned for TLDs yet contained no TLDs. Enable debug logging for this logger for a complete list of JARs that were scanned but no TLDs were found in them. Skipping unneeded JARs during scanning can improve startup time and JSP compilation time.
+18-Oct-2018 11:46:28.664 INFO [http-nio-8080-exec-487] org.apache.catalina.core.StandardContext.reload Reloading Context with name [/WebApplication2] is completed
+18-Oct-2018 11:47:44.003 INFO [http-nio-8080-exec-491] org.apache.catalina.core.StandardContext.reload Reloading Context with name [/WebApplication2] has started
+18-Oct-2018 11:47:44.424 INFO [http-nio-8080-exec-491] org.apache.jasper.servlet.TldScanner.scanJars At least one JAR was scanned for TLDs yet contained no TLDs. Enable debug logging for this logger for a complete list of JARs that were scanned but no TLDs were found in them. Skipping unneeded JARs during scanning can improve startup time and JSP compilation time.
+18-Oct-2018 11:47:44.429 INFO [http-nio-8080-exec-491] org.apache.catalina.core.StandardContext.reload Reloading Context with name [/WebApplication2] is completed
+18-Oct-2018 11:47:44.553 INFO [http-nio-8080-exec-493] org.apache.catalina.core.StandardContext.reload Reloading Context with name [/WebApplication2] has started
+18-Oct-2018 11:47:44.765 INFO [http-nio-8080-exec-493] org.apache.jasper.servlet.TldScanner.scanJars At least one JAR was scanned for TLDs yet contained no TLDs. Enable debug logging for this logger for a complete list of JARs that were scanned but no TLDs were found in them. Skipping unneeded JARs during scanning can improve startup time and JSP compilation time.
+18-Oct-2018 11:47:44.768 INFO [http-nio-8080-exec-493] org.apache.catalina.core.StandardContext.reload Reloading Context with name [/WebApplication2] is completed
+18-Oct-2018 11:49:06.040 INFO [http-nio-8080-exec-495] org.apache.catalina.core.StandardContext.reload Reloading Context with name [/WebApplication2] has started
+18-Oct-2018 11:49:06.316 INFO [http-nio-8080-exec-495] org.apache.jasper.servlet.TldScanner.scanJars At least one JAR was scanned for TLDs yet contained no TLDs. Enable debug logging for this logger for a complete list of JARs that were scanned but no TLDs were found in them. Skipping unneeded JARs during scanning can improve startup time and JSP compilation time.
+18-Oct-2018 11:49:06.320 INFO [http-nio-8080-exec-495] org.apache.catalina.core.StandardContext.reload Reloading Context with name [/WebApplication2] is completed
+18-Oct-2018 11:49:30.876 INFO [http-nio-8080-exec-480] org.apache.catalina.core.StandardContext.reload Reloading Context with name [/WebApplication2] has started
+18-Oct-2018 11:49:31.137 INFO [http-nio-8080-exec-480] org.apache.jasper.servlet.TldScanner.scanJars At least one JAR was scanned for TLDs yet contained no TLDs. Enable debug logging for this logger for a complete list of JARs that were scanned but no TLDs were found in them. Skipping unneeded JARs during scanning can improve startup time and JSP compilation time.
+18-Oct-2018 11:49:31.141 INFO [http-nio-8080-exec-480] org.apache.catalina.core.StandardContext.reload Reloading Context with name [/WebApplication2] is completed
+18-Oct-2018 11:49:31.484 INFO [http-nio-8080-exec-489] org.apache.catalina.core.StandardContext.reload Reloading Context with name [/WebApplication2] has started
+18-Oct-2018 11:49:31.768 INFO [http-nio-8080-exec-489] org.apache.jasper.servlet.TldScanner.scanJars At least one JAR was scanned for TLDs yet contained no TLDs. Enable debug logging for this logger for a complete list of JARs that were scanned but no TLDs were found in them. Skipping unneeded JARs during scanning can improve startup time and JSP compilation time.
+18-Oct-2018 11:49:31.772 INFO [http-nio-8080-exec-489] org.apache.catalina.core.StandardContext.reload Reloading Context with name [/WebApplication2] is completed
+18-Oct-2018 11:52:45.532 INFO [http-nio-8080-exec-491] org.apache.catalina.core.StandardContext.reload Reloading Context with name [/WebApplication2] has started
+18-Oct-2018 11:52:45.837 INFO [http-nio-8080-exec-491] org.apache.jasper.servlet.TldScanner.scanJars At least one JAR was scanned for TLDs yet contained no TLDs. Enable debug logging for this logger for a complete list of JARs that were scanned but no TLDs were found in them. Skipping unneeded JARs during scanning can improve startup time and JSP compilation time.
+18-Oct-2018 11:52:45.842 INFO [http-nio-8080-exec-491] org.apache.catalina.core.StandardContext.reload Reloading Context with name [/WebApplication2] is completed
+18-Oct-2018 11:52:52.036 INFO [http-nio-8080-exec-490] org.apache.catalina.core.StandardContext.reload Reloading Context with name [/WebApplication2] has started
+18-Oct-2018 11:52:52.337 INFO [http-nio-8080-exec-490] org.apache.jasper.servlet.TldScanner.scanJars At least one JAR was scanned for TLDs yet contained no TLDs. Enable debug logging for this logger for a complete list of JARs that were scanned but no TLDs were found in them. Skipping unneeded JARs during scanning can improve startup time and JSP compilation time.
+18-Oct-2018 11:52:52.342 INFO [http-nio-8080-exec-490] org.apache.catalina.core.StandardContext.reload Reloading Context with name [/WebApplication2] is completed
+18-Oct-2018 11:55:02.917 INFO [http-nio-8080-exec-505] org.apache.catalina.core.StandardContext.reload Reloading Context with name [/WebApplication2] has started
+18-Oct-2018 11:55:03.228 INFO [http-nio-8080-exec-505] org.apache.jasper.servlet.TldScanner.scanJars At least one JAR was scanned for TLDs yet contained no TLDs. Enable debug logging for this logger for a complete list of JARs that were scanned but no TLDs were found in them. Skipping unneeded JARs during scanning can improve startup time and JSP compilation time.
+18-Oct-2018 11:55:03.232 INFO [http-nio-8080-exec-505] org.apache.catalina.core.StandardContext.reload Reloading Context with name [/WebApplication2] is completed
+18-Oct-2018 11:55:03.260 INFO [http-nio-8080-exec-496] org.apache.catalina.core.StandardContext.reload Reloading Context with name [/WebApplication2] has started
+18-Oct-2018 11:55:03.583 INFO [http-nio-8080-exec-496] org.apache.jasper.servlet.TldScanner.scanJars At least one JAR was scanned for TLDs yet contained no TLDs. Enable debug logging for this logger for a complete list of JARs that were scanned but no TLDs were found in them. Skipping unneeded JARs during scanning can improve startup time and JSP compilation time.
+18-Oct-2018 11:55:03.588 INFO [http-nio-8080-exec-496] org.apache.catalina.core.StandardContext.reload Reloading Context with name [/WebApplication2] is completed
+18-Oct-2018 11:55:05.507 INFO [http-nio-8080-exec-503] org.apache.catalina.core.StandardContext.reload Reloading Context with name [/WebApplication2] has started
+18-Oct-2018 11:55:05.736 INFO [http-nio-8080-exec-503] org.apache.jasper.servlet.TldScanner.scanJars At least one JAR was scanned for TLDs yet contained no TLDs. Enable debug logging for this logger for a complete list of JARs that were scanned but no TLDs were found in them. Skipping unneeded JARs during scanning can improve startup time and JSP compilation time.
+18-Oct-2018 11:55:05.739 INFO [http-nio-8080-exec-503] org.apache.catalina.core.StandardContext.reload Reloading Context with name [/WebApplication2] is completed
+18-Oct-2018 11:55:51.490 INFO [http-nio-8080-exec-505] org.apache.catalina.core.StandardContext.reload Reloading Context with name [/WebApplication2] has started
+18-Oct-2018 11:55:51.717 INFO [http-nio-8080-exec-505] org.apache.jasper.servlet.TldScanner.scanJars At least one JAR was scanned for TLDs yet contained no TLDs. Enable debug logging for this logger for a complete list of JARs that were scanned but no TLDs were found in them. Skipping unneeded JARs during scanning can improve startup time and JSP compilation time.
+18-Oct-2018 11:55:51.722 INFO [http-nio-8080-exec-505] org.apache.catalina.core.StandardContext.reload Reloading Context with name [/WebApplication2] is completed
+18-Oct-2018 11:55:55.876 INFO [http-nio-8080-exec-504] org.apache.catalina.core.StandardContext.reload Reloading Context with name [/WebApplication2] has started
+18-Oct-2018 11:55:56.196 INFO [http-nio-8080-exec-504] org.apache.jasper.servlet.TldScanner.scanJars At least one JAR was scanned for TLDs yet contained no TLDs. Enable debug logging for this logger for a complete list of JARs that were scanned but no TLDs were found in them. Skipping unneeded JARs during scanning can improve startup time and JSP compilation time.
+18-Oct-2018 11:55:56.201 INFO [http-nio-8080-exec-504] org.apache.catalina.core.StandardContext.reload Reloading Context with name [/WebApplication2] is completed
+18-Oct-2018 11:56:03.297 INFO [http-nio-8080-exec-505] org.apache.catalina.core.StandardContext.reload Reloading Context with name [/WebApplication2] has started
+18-Oct-2018 11:56:03.541 INFO [http-nio-8080-exec-505] org.apache.jasper.servlet.TldScanner.scanJars At least one JAR was scanned for TLDs yet contained no TLDs. Enable debug logging for this logger for a complete list of JARs that were scanned but no TLDs were found in them. Skipping unneeded JARs during scanning can improve startup time and JSP compilation time.
+18-Oct-2018 11:56:03.544 INFO [http-nio-8080-exec-505] org.apache.catalina.core.StandardContext.reload Reloading Context with name [/WebApplication2] is completed
+18-Oct-2018 11:56:21.713 INFO [http-nio-8080-exec-504] org.apache.catalina.core.StandardContext.reload Reloading Context with name [/WebApplication2] has started
+18-Oct-2018 11:56:22.453 INFO [http-nio-8080-exec-504] org.apache.jasper.servlet.TldScanner.scanJars At least one JAR was scanned for TLDs yet contained no TLDs. Enable debug logging for this logger for a complete list of JARs that were scanned but no TLDs were found in them. Skipping unneeded JARs during scanning can improve startup time and JSP compilation time.
+18-Oct-2018 11:56:22.456 INFO [http-nio-8080-exec-504] org.apache.catalina.core.StandardContext.reload Reloading Context with name [/WebApplication2] is completed
+18-Oct-2018 11:56:22.510 INFO [http-nio-8080-exec-506] org.apache.catalina.core.StandardContext.reload Reloading Context with name [/WebApplication2] has started
+18-Oct-2018 11:56:22.739 INFO [http-nio-8080-exec-506] org.apache.jasper.servlet.TldScanner.scanJars At least one JAR was scanned for TLDs yet contained no TLDs. Enable debug logging for this logger for a complete list of JARs that were scanned but no TLDs were found in them. Skipping unneeded JARs during scanning can improve startup time and JSP compilation time.
+18-Oct-2018 11:56:22.743 INFO [http-nio-8080-exec-506] org.apache.catalina.core.StandardContext.reload Reloading Context with name [/WebApplication2] is completed
+18-Oct-2018 11:58:02.107 INFO [http-nio-8080-exec-511] org.apache.catalina.core.StandardContext.reload Reloading Context with name [/WebApplication2] has started
+18-Oct-2018 11:58:02.421 INFO [http-nio-8080-exec-511] org.apache.jasper.servlet.TldScanner.scanJars At least one JAR was scanned for TLDs yet contained no TLDs. Enable debug logging for this logger for a complete list of JARs that were scanned but no TLDs were found in them. Skipping unneeded JARs during scanning can improve startup time and JSP compilation time.
+18-Oct-2018 11:58:02.447 INFO [http-nio-8080-exec-511] org.apache.catalina.core.StandardContext.reload Reloading Context with name [/WebApplication2] is completed
+18-Oct-2018 12:00:40.013 INFO [http-nio-8080-exec-520] org.apache.catalina.core.StandardContext.reload Reloading Context with name [/WebApplication2] has started
+18-Oct-2018 12:00:40.027 WARNING [http-nio-8080-exec-520] org.apache.catalina.loader.WebappClassLoaderBase.clearReferencesJdbc The web application [WebApplication2] registered the JDBC driver [com.mysql.jdbc.Driver] but failed to unregister it when the web application was stopped. To prevent a memory leak, the JDBC Driver has been forcibly unregistered.
+18-Oct-2018 12:00:40.027 WARNING [http-nio-8080-exec-520] org.apache.catalina.loader.WebappClassLoaderBase.clearReferencesJdbc The web application [WebApplication2] registered the JDBC driver [com.mysql.jdbc.Driver] but failed to unregister it when the web application was stopped. To prevent a memory leak, the JDBC Driver has been forcibly unregistered.
+18-Oct-2018 12:00:40.028 WARNING [http-nio-8080-exec-520] org.apache.catalina.loader.WebappClassLoaderBase.clearReferencesThreads The web application [WebApplication2] appears to have started a thread named [MySQL Statement Cancellation Timer] but has failed to stop it. This is very likely to create a memory leak. Stack trace of thread:
+ java.lang.Object.wait(Native Method)
+ java.lang.Object.wait(Object.java:502)
+ java.util.TimerThread.mainLoop(Timer.java:526)
+ java.util.TimerThread.run(Timer.java:505)
+18-Oct-2018 12:00:40.429 INFO [http-nio-8080-exec-520] org.apache.jasper.servlet.TldScanner.scanJars At least one JAR was scanned for TLDs yet contained no TLDs. Enable debug logging for this logger for a complete list of JARs that were scanned but no TLDs were found in them. Skipping unneeded JARs during scanning can improve startup time and JSP compilation time.
+18-Oct-2018 12:00:40.434 INFO [http-nio-8080-exec-520] org.apache.catalina.core.StandardContext.reload Reloading Context with name [/WebApplication2] is completed
+18-Oct-2018 13:01:20.565 INFO [http-nio-8080-exec-529] org.apache.catalina.core.StandardContext.reload Reloading Context with name [/WebApplication2] has started
+18-Oct-2018 13:01:20.568 WARNING [http-nio-8080-exec-529] org.apache.catalina.loader.WebappClassLoaderBase.clearReferencesJdbc The web application [WebApplication2] registered the JDBC driver [com.mysql.jdbc.Driver] but failed to unregister it when the web application was stopped. To prevent a memory leak, the JDBC Driver has been forcibly unregistered.
+18-Oct-2018 13:01:20.569 WARNING [http-nio-8080-exec-529] org.apache.catalina.loader.WebappClassLoaderBase.clearReferencesJdbc The web application [WebApplication2] registered the JDBC driver [com.mysql.jdbc.Driver] but failed to unregister it when the web application was stopped. To prevent a memory leak, the JDBC Driver has been forcibly unregistered.
+18-Oct-2018 13:01:20.569 WARNING [http-nio-8080-exec-529] org.apache.catalina.loader.WebappClassLoaderBase.clearReferencesJdbc The web application [WebApplication2] registered the JDBC driver [com.mysql.jdbc.Driver] but failed to unregister it when the web application was stopped. To prevent a memory leak, the JDBC Driver has been forcibly unregistered.
+18-Oct-2018 13:01:20.569 WARNING [http-nio-8080-exec-529] org.apache.catalina.loader.WebappClassLoaderBase.clearReferencesJdbc The web application [WebApplication2] registered the JDBC driver [com.mysql.jdbc.Driver] but failed to unregister it when the web application was stopped. To prevent a memory leak, the JDBC Driver has been forcibly unregistered.
+18-Oct-2018 13:01:20.569 WARNING [http-nio-8080-exec-529] org.apache.catalina.loader.WebappClassLoaderBase.clearReferencesJdbc The web application [WebApplication2] registered the JDBC driver [com.mysql.jdbc.Driver] but failed to unregister it when the web application was stopped. To prevent a memory leak, the JDBC Driver has been forcibly unregistered.
+18-Oct-2018 13:01:20.569 WARNING [http-nio-8080-exec-529] org.apache.catalina.loader.WebappClassLoaderBase.clearReferencesJdbc The web application [WebApplication2] registered the JDBC driver [com.mysql.jdbc.Driver] but failed to unregister it when the web application was stopped. To prevent a memory leak, the JDBC Driver has been forcibly unregistered.
+18-Oct-2018 13:01:20.569 WARNING [http-nio-8080-exec-529] org.apache.catalina.loader.WebappClassLoaderBase.clearReferencesJdbc The web application [WebApplication2] registered the JDBC driver [com.mysql.jdbc.Driver] but failed to unregister it when the web application was stopped. To prevent a memory leak, the JDBC Driver has been forcibly unregistered.
+18-Oct-2018 13:01:20.570 WARNING [http-nio-8080-exec-529] org.apache.catalina.loader.WebappClassLoaderBase.clearReferencesJdbc The web application [WebApplication2] registered the JDBC driver [com.mysql.jdbc.Driver] but failed to unregister it when the web application was stopped. To prevent a memory leak, the JDBC Driver has been forcibly unregistered.
+18-Oct-2018 13:01:20.570 WARNING [http-nio-8080-exec-529] org.apache.catalina.loader.WebappClassLoaderBase.clearReferencesThreads The web application [WebApplication2] appears to have started a thread named [MySQL Statement Cancellation Timer] but has failed to stop it. This is very likely to create a memory leak. Stack trace of thread:
+ java.lang.Object.wait(Native Method)
+ java.lang.Object.wait(Object.java:502)
+ java.util.TimerThread.mainLoop(Timer.java:526)
+ java.util.TimerThread.run(Timer.java:505)
+18-Oct-2018 13:01:20.763 INFO [http-nio-8080-exec-529] org.apache.jasper.servlet.TldScanner.scanJars At least one JAR was scanned for TLDs yet contained no TLDs. Enable debug logging for this logger for a complete list of JARs that were scanned but no TLDs were found in them. Skipping unneeded JARs during scanning can improve startup time and JSP compilation time.
+18-Oct-2018 13:01:20.768 INFO [http-nio-8080-exec-529] org.apache.catalina.core.StandardContext.reload Reloading Context with name [/WebApplication2] is completed
+18-Oct-2018 14:03:45.670 INFO [http-nio-8080-exec-543] org.apache.catalina.core.StandardContext.reload Reloading Context with name [/WebApplication1] has started
+18-Oct-2018 14:03:46.264 INFO [http-nio-8080-exec-543] org.apache.jasper.servlet.TldScanner.scanJars At least one JAR was scanned for TLDs yet contained no TLDs. Enable debug logging for this logger for a complete list of JARs that were scanned but no TLDs were found in them. Skipping unneeded JARs during scanning can improve startup time and JSP compilation time.
+18-Oct-2018 14:03:46.285 INFO [http-nio-8080-exec-543] org.apache.catalina.core.StandardContext.reload Reloading Context with name [/WebApplication1] is completed
+18-Oct-2018 14:08:59.353 INFO [http-nio-8080-exec-554] org.apache.catalina.core.StandardContext.reload Reloading Context with name [/WebApplication2] has started
+18-Oct-2018 14:08:59.357 WARNING [http-nio-8080-exec-554] org.apache.catalina.loader.WebappClassLoaderBase.clearReferencesJdbc The web application [WebApplication2] registered the JDBC driver [com.mysql.jdbc.Driver] but failed to unregister it when the web application was stopped. To prevent a memory leak, the JDBC Driver has been forcibly unregistered.
+18-Oct-2018 14:08:59.357 WARNING [http-nio-8080-exec-554] org.apache.catalina.loader.WebappClassLoaderBase.clearReferencesJdbc The web application [WebApplication2] registered the JDBC driver [com.mysql.jdbc.Driver] but failed to unregister it when the web application was stopped. To prevent a memory leak, the JDBC Driver has been forcibly unregistered.
+18-Oct-2018 14:08:59.358 WARNING [http-nio-8080-exec-554] org.apache.catalina.loader.WebappClassLoaderBase.clearReferencesThreads The web application [WebApplication2] appears to have started a thread named [MySQL Statement Cancellation Timer] but has failed to stop it. This is very likely to create a memory leak. Stack trace of thread:
+ java.lang.Object.wait(Native Method)
+ java.lang.Object.wait(Object.java:502)
+ java.util.TimerThread.mainLoop(Timer.java:526)
+ java.util.TimerThread.run(Timer.java:505)
+18-Oct-2018 14:08:59.621 INFO [846] org.apache.jasper.servlet.TldScanner.scanJars At least one JAR was scanned for TLDs yet contained no TLDs. Enable debug logging for this logger for a complete list of JARs that were scanned but no TLDs were found in them. Skipping unneeded JARs during scanning can improve startup time and JSP compilation time.
+18-Oct-2018 14:08:59.624 INFO [846] org.apache.catalina.core.StandardContext.reload Reloading Context with name [/WebApplication2] is completed
+18-Oct-2018 20:07:33.784 INFO [http-nio-8080-exec-557] org.apache.catalina.startup.HostConfig.undeploy Undeploying context [/WebApplication1]
+18-Oct-2018 20:22:58.644 INFO [http-nio-8080-exec-572] org.apache.catalina.startup.HostConfig.deployDescriptor Deploying configuration descriptor [D:\Java\apache-tomcat-8.5.34\conf\Catalina\localhost\WebApplication1.xml]
+18-Oct-2018 20:22:59.534 INFO [http-nio-8080-exec-572] org.apache.jasper.servlet.TldScanner.scanJars At least one JAR was scanned for TLDs yet contained no TLDs. Enable debug logging for this logger for a complete list of JARs that were scanned but no TLDs were found in them. Skipping unneeded JARs during scanning can improve startup time and JSP compilation time.
+18-Oct-2018 20:22:59.659 INFO [http-nio-8080-exec-572] org.apache.catalina.startup.HostConfig.deployDescriptor Deployment of configuration descriptor [D:\Java\apache-tomcat-8.5.34\conf\Catalina\localhost\WebApplication1.xml] has finished in [927] ms
+18-Oct-2018 20:22:59.693 INFO [http-nio-8080-exec-573] org.apache.catalina.util.LifecycleBase.start The start() method was called on component [StandardEngine[Catalina].StandardHost[localhost].StandardContext[/WebApplication1]] after start() had already been called. The second call will be ignored.
+18-Oct-2018 20:37:37.531 INFO [http-nio-8080-exec-570] org.apache.catalina.startup.HostConfig.undeploy Undeploying context [/WebApplication1]
+18-Oct-2018 20:50:02.280 INFO [http-nio-8080-exec-576] org.apache.catalina.core.StandardContext.reload Reloading Context with name [/MuaBanNha] has started
+18-Oct-2018 20:50:02.296 WARNING [http-nio-8080-exec-576] org.apache.catalina.loader.WebappClassLoaderBase.clearReferencesJdbc The web application [MuaBanNha] registered the JDBC driver [com.mysql.jdbc.Driver] but failed to unregister it when the web application was stopped. To prevent a memory leak, the JDBC Driver has been forcibly unregistered.
+18-Oct-2018 20:50:02.296 WARNING [http-nio-8080-exec-576] org.apache.catalina.loader.WebappClassLoaderBase.clearReferencesJdbc The web application [MuaBanNha] registered the JDBC driver [com.mysql.jdbc.Driver] but failed to unregister it when the web application was stopped. To prevent a memory leak, the JDBC Driver has been forcibly unregistered.
+18-Oct-2018 20:50:02.296 WARNING [http-nio-8080-exec-576] org.apache.catalina.loader.WebappClassLoaderBase.clearReferencesJdbc The web application [MuaBanNha] registered the JDBC driver [com.mysql.jdbc.Driver] but failed to unregister it when the web application was stopped. To prevent a memory leak, the JDBC Driver has been forcibly unregistered.
+18-Oct-2018 20:50:02.345 WARNING [http-nio-8080-exec-576] org.apache.catalina.loader.WebappClassLoaderBase.clearReferencesThreads The web application [MuaBanNha] appears to have started a thread named [MySQL Statement Cancellation Timer] but has failed to stop it. This is very likely to create a memory leak. Stack trace of thread:
+ java.lang.Object.wait(Native Method)
+ java.lang.Object.wait(Object.java:502)
+ java.util.TimerThread.mainLoop(Timer.java:526)
+ java.util.TimerThread.run(Timer.java:505)
+18-Oct-2018 20:50:03.414 INFO [http-nio-8080-exec-576] org.apache.jasper.servlet.TldScanner.scanJars At least one JAR was scanned for TLDs yet contained no TLDs. Enable debug logging for this logger for a complete list of JARs that were scanned but no TLDs were found in them. Skipping unneeded JARs during scanning can improve startup time and JSP compilation time.
+18-Oct-2018 20:50:03.448 INFO [894] org.apache.catalina.core.StandardContext.reload Reloading Context with name [/MuaBanNha] is completed
+18-Oct-2018 20:50:06.874 INFO [http-nio-8080-exec-578] org.apache.catalina.core.StandardContext.reload Reloading Context with name [/MuaBanNha] has started
+18-Oct-2018 20:50:07.359 INFO [http-nio-8080-exec-578] org.apache.jasper.servlet.TldScanner.scanJars At least one JAR was scanned for TLDs yet contained no TLDs. Enable debug logging for this logger for a complete list of JARs that were scanned but no TLDs were found in them. Skipping unneeded JARs during scanning can improve startup time and JSP compilation time.
+18-Oct-2018 20:50:07.374 INFO [http-nio-8080-exec-578] org.apache.catalina.core.StandardContext.reload Reloading Context with name [/MuaBanNha] is completed
+18-Oct-2018 20:59:29.289 INFO [http-nio-8080-exec-589] org.apache.catalina.core.StandardContext.reload Reloading Context with name [/MuaBanNha] has started
+18-Oct-2018 20:59:29.651 INFO [http-nio-8080-exec-589] org.apache.jasper.servlet.TldScanner.scanJars At least one JAR was scanned for TLDs yet contained no TLDs. Enable debug logging for this logger for a complete list of JARs that were scanned but no TLDs were found in them. Skipping unneeded JARs during scanning can improve startup time and JSP compilation time.
+18-Oct-2018 20:59:29.662 INFO [http-nio-8080-exec-589] org.apache.catalina.core.StandardContext.reload Reloading Context with name [/MuaBanNha] is completed
+18-Oct-2018 21:00:10.334 INFO [http-nio-8080-exec-595] org.apache.catalina.core.StandardContext.reload Reloading Context with name [/MuaBanNha] has started
+18-Oct-2018 21:00:10.897 INFO [http-nio-8080-exec-595] org.apache.jasper.servlet.TldScanner.scanJars At least one JAR was scanned for TLDs yet contained no TLDs. Enable debug logging for this logger for a complete list of JARs that were scanned but no TLDs were found in them. Skipping unneeded JARs during scanning can improve startup time and JSP compilation time.
+18-Oct-2018 21:00:10.909 INFO [http-nio-8080-exec-595] org.apache.catalina.core.StandardContext.reload Reloading Context with name [/MuaBanNha] is completed
+18-Oct-2018 21:00:36.518 INFO [http-nio-8080-exec-593] org.apache.catalina.core.StandardContext.reload Reloading Context with name [/MuaBanNha] has started
+18-Oct-2018 21:00:36.818 INFO [http-nio-8080-exec-593] org.apache.jasper.servlet.TldScanner.scanJars At least one JAR was scanned for TLDs yet contained no TLDs. Enable debug logging for this logger for a complete list of JARs that were scanned but no TLDs were found in them. Skipping unneeded JARs during scanning can improve startup time and JSP compilation time.
+18-Oct-2018 21:00:36.827 INFO [http-nio-8080-exec-593] org.apache.catalina.core.StandardContext.reload Reloading Context with name [/MuaBanNha] is completed
+18-Oct-2018 22:05:33.704 INFO [main] org.apache.catalina.core.StandardServer.await A valid shutdown command was received via the shutdown port. Stopping the Server instance.
+18-Oct-2018 22:05:33.830 INFO [main] org.apache.coyote.AbstractProtocol.pause Pausing ProtocolHandler ["http-nio-8080"]
+18-Oct-2018 22:05:34.124 INFO [main] org.apache.coyote.AbstractProtocol.pause Pausing ProtocolHandler ["ajp-nio-8009"]
+18-Oct-2018 22:05:34.252 INFO [main] org.apache.catalina.core.StandardService.stopInternal Stopping service [Catalina]
+18-Oct-2018 22:05:34.510 WARNING [localhost-startStop-2] org.apache.catalina.loader.WebappClassLoaderBase.clearReferencesJdbc The web application [MuaBanNha] registered the JDBC driver [com.mysql.jdbc.Driver] but failed to unregister it when the web application was stopped. To prevent a memory leak, the JDBC Driver has been forcibly unregistered.
+18-Oct-2018 22:05:34.510 WARNING [localhost-startStop-2] org.apache.catalina.loader.WebappClassLoaderBase.clearReferencesThreads The web application [MuaBanNha] appears to have started a thread named [MySQL Statement Cancellation Timer] but has failed to stop it. This is very likely to create a memory leak. Stack trace of thread:
+ java.lang.Object.wait(Native Method)
+ java.lang.Object.wait(Object.java:502)
+ java.util.TimerThread.mainLoop(Timer.java:526)
+ java.util.TimerThread.run(Timer.java:505)
+18-Oct-2018 22:05:34.884 WARNING [localhost-startStop-2] org.apache.catalina.loader.WebappClassLoaderBase.clearReferencesJdbc The web application [WebApplication2] registered the JDBC driver [com.mysql.jdbc.Driver] but failed to unregister it when the web application was stopped. To prevent a memory leak, the JDBC Driver has been forcibly unregistered.
+18-Oct-2018 22:05:34.885 WARNING [localhost-startStop-2] org.apache.catalina.loader.WebappClassLoaderBase.clearReferencesJdbc The web application [WebApplication2] registered the JDBC driver [com.mysql.jdbc.Driver] but failed to unregister it when the web application was stopped. To prevent a memory leak, the JDBC Driver has been forcibly unregistered.
+18-Oct-2018 22:05:34.885 WARNING [localhost-startStop-2] org.apache.catalina.loader.WebappClassLoaderBase.clearReferencesJdbc The web application [WebApplication2] registered the JDBC driver [com.mysql.jdbc.Driver] but failed to unregister it when the web application was stopped. To prevent a memory leak, the JDBC Driver has been forcibly unregistered.
+18-Oct-2018 22:05:34.885 WARNING [localhost-startStop-2] org.apache.catalina.loader.WebappClassLoaderBase.clearReferencesJdbc The web application [WebApplication2] registered the JDBC driver [com.mysql.jdbc.Driver] but failed to unregister it when the web application was stopped. To prevent a memory leak, the JDBC Driver has been forcibly unregistered.
+18-Oct-2018 22:05:34.885 WARNING [localhost-startStop-2] org.apache.catalina.loader.WebappClassLoaderBase.clearReferencesJdbc The web application [WebApplication2] registered the JDBC driver [com.mysql.jdbc.Driver] but failed to unregister it when the web application was stopped. To prevent a memory leak, the JDBC Driver has been forcibly unregistered.
+18-Oct-2018 22:05:34.907 WARNING [localhost-startStop-2] org.apache.catalina.loader.WebappClassLoaderBase.clearReferencesThreads The web application [WebApplication2] appears to have started a thread named [MySQL Statement Cancellation Timer] but has failed to stop it. This is very likely to create a memory leak. Stack trace of thread:
+ java.lang.Object.wait(Native Method)
+ java.lang.Object.wait(Object.java:502)
+ java.util.TimerThread.mainLoop(Timer.java:526)
+ java.util.TimerThread.run(Timer.java:505)
+18-Oct-2018 22:05:35.060 INFO [main] org.apache.coyote.AbstractProtocol.stop Stopping ProtocolHandler ["http-nio-8080"]
+18-Oct-2018 22:05:35.126 INFO [main] org.apache.coyote.AbstractProtocol.stop Stopping ProtocolHandler ["ajp-nio-8009"]
+18-Oct-2018 22:05:35.282 INFO [main] org.apache.coyote.AbstractProtocol.destroy Destroying ProtocolHandler ["http-nio-8080"]
+18-Oct-2018 22:05:35.314 INFO [main] org.apache.coyote.AbstractProtocol.destroy Destroying ProtocolHandler ["ajp-nio-8009"]

@@ -1,0 +1,1731 @@
+13-Jun-2020 11:37:58.632 INFO [localhost-startStop-1] org.apache.catalina.core.ApplicationContext.log ContextListener: contextInitialized()
+13-Jun-2020 11:37:58.632 INFO [localhost-startStop-1] org.apache.catalina.core.ApplicationContext.log SessionListener: contextInitialized()
+13-Jun-2020 11:37:58.635 INFO [localhost-startStop-1] org.apache.catalina.core.ApplicationContext.log ContextListener: attributeAdded('StockTicker', 'async.Stockticker@a9ec65')
+13-Jun-2020 13:21:53.654 SEVERE [http-nio-8082-exec-80] org.apache.catalina.core.StandardWrapperValve.invoke Servlet.service() for servlet [ManagerCategoryServlet] in context with path [/MuaBanNha] threw exception
+ java.lang.IllegalArgumentException: Path [] does not start with a "/" character
+	at org.apache.catalina.core.ApplicationContext.getRequestDispatcher(ApplicationContext.java:404)
+	at org.apache.catalina.core.ApplicationContextFacade.getRequestDispatcher(ApplicationContextFacade.java:223)
+	at controller.ManagerCategoryServlet.doGet(ManagerCategoryServlet.java:44)
+	at javax.servlet.http.HttpServlet.service(HttpServlet.java:635)
+	at javax.servlet.http.HttpServlet.service(HttpServlet.java:742)
+	at org.apache.catalina.core.ApplicationFilterChain.internalDoFilter(ApplicationFilterChain.java:231)
+	at org.apache.catalina.core.ApplicationFilterChain.doFilter(ApplicationFilterChain.java:166)
+	at org.apache.tomcat.websocket.server.WsFilter.doFilter(WsFilter.java:52)
+	at org.apache.catalina.core.ApplicationFilterChain.internalDoFilter(ApplicationFilterChain.java:193)
+	at org.apache.catalina.core.ApplicationFilterChain.doFilter(ApplicationFilterChain.java:166)
+	at org.apache.catalina.core.StandardWrapperValve.invoke(StandardWrapperValve.java:198)
+	at org.apache.catalina.core.StandardContextValve.invoke(StandardContextValve.java:96)
+	at org.apache.catalina.authenticator.AuthenticatorBase.invoke(AuthenticatorBase.java:493)
+	at org.apache.catalina.core.StandardHostValve.invoke(StandardHostValve.java:140)
+	at org.apache.catalina.valves.ErrorReportValve.invoke(ErrorReportValve.java:81)
+	at org.apache.catalina.valves.AbstractAccessLogValve.invoke(AbstractAccessLogValve.java:650)
+	at org.apache.catalina.core.StandardEngineValve.invoke(StandardEngineValve.java:87)
+	at org.apache.catalina.connector.CoyoteAdapter.service(CoyoteAdapter.java:342)
+	at org.apache.coyote.http11.Http11Processor.service(Http11Processor.java:800)
+	at org.apache.coyote.AbstractProcessorLight.process(AbstractProcessorLight.java:66)
+	at org.apache.coyote.AbstractProtocol$ConnectionHandler.process(AbstractProtocol.java:806)
+	at org.apache.tomcat.util.net.NioEndpoint$SocketProcessor.doRun(NioEndpoint.java:1498)
+	at org.apache.tomcat.util.net.SocketProcessorBase.run(SocketProcessorBase.java:49)
+	at java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1149)
+	at java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:624)
+	at org.apache.tomcat.util.threads.TaskThread$WrappingRunnable.run(TaskThread.java:61)
+	at java.lang.Thread.run(Thread.java:748)
+
+13-Jun-2020 13:23:10.987 SEVERE [http-nio-8082-exec-81] org.apache.catalina.core.StandardWrapperValve.invoke Servlet.service() for servlet [ManagerCategoryServlet] in context with path [/MuaBanNha] threw exception
+ java.lang.IllegalArgumentException: Path [] does not start with a "/" character
+	at org.apache.catalina.core.ApplicationContext.getRequestDispatcher(ApplicationContext.java:404)
+	at org.apache.catalina.core.ApplicationContextFacade.getRequestDispatcher(ApplicationContextFacade.java:223)
+	at controller.ManagerCategoryServlet.doGet(ManagerCategoryServlet.java:44)
+	at javax.servlet.http.HttpServlet.service(HttpServlet.java:635)
+	at javax.servlet.http.HttpServlet.service(HttpServlet.java:742)
+	at org.apache.catalina.core.ApplicationFilterChain.internalDoFilter(ApplicationFilterChain.java:231)
+	at org.apache.catalina.core.ApplicationFilterChain.doFilter(ApplicationFilterChain.java:166)
+	at org.apache.tomcat.websocket.server.WsFilter.doFilter(WsFilter.java:52)
+	at org.apache.catalina.core.ApplicationFilterChain.internalDoFilter(ApplicationFilterChain.java:193)
+	at org.apache.catalina.core.ApplicationFilterChain.doFilter(ApplicationFilterChain.java:166)
+	at org.apache.catalina.core.StandardWrapperValve.invoke(StandardWrapperValve.java:198)
+	at org.apache.catalina.core.StandardContextValve.invoke(StandardContextValve.java:96)
+	at org.apache.catalina.authenticator.AuthenticatorBase.invoke(AuthenticatorBase.java:493)
+	at org.apache.catalina.core.StandardHostValve.invoke(StandardHostValve.java:140)
+	at org.apache.catalina.valves.ErrorReportValve.invoke(ErrorReportValve.java:81)
+	at org.apache.catalina.valves.AbstractAccessLogValve.invoke(AbstractAccessLogValve.java:650)
+	at org.apache.catalina.core.StandardEngineValve.invoke(StandardEngineValve.java:87)
+	at org.apache.catalina.connector.CoyoteAdapter.service(CoyoteAdapter.java:342)
+	at org.apache.coyote.http11.Http11Processor.service(Http11Processor.java:800)
+	at org.apache.coyote.AbstractProcessorLight.process(AbstractProcessorLight.java:66)
+	at org.apache.coyote.AbstractProtocol$ConnectionHandler.process(AbstractProtocol.java:806)
+	at org.apache.tomcat.util.net.NioEndpoint$SocketProcessor.doRun(NioEndpoint.java:1498)
+	at org.apache.tomcat.util.net.SocketProcessorBase.run(SocketProcessorBase.java:49)
+	at java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1149)
+	at java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:624)
+	at org.apache.tomcat.util.threads.TaskThread$WrappingRunnable.run(TaskThread.java:61)
+	at java.lang.Thread.run(Thread.java:748)
+
+13-Jun-2020 13:23:34.186 SEVERE [http-nio-8082-exec-76] org.apache.catalina.core.StandardWrapperValve.invoke Servlet.service() for servlet [ManagerCategoryServlet] in context with path [/MuaBanNha] threw exception
+ java.lang.IllegalArgumentException: Path [] does not start with a "/" character
+	at org.apache.catalina.core.ApplicationContext.getRequestDispatcher(ApplicationContext.java:404)
+	at org.apache.catalina.core.ApplicationContextFacade.getRequestDispatcher(ApplicationContextFacade.java:223)
+	at controller.ManagerCategoryServlet.doGet(ManagerCategoryServlet.java:44)
+	at javax.servlet.http.HttpServlet.service(HttpServlet.java:635)
+	at javax.servlet.http.HttpServlet.service(HttpServlet.java:742)
+	at org.apache.catalina.core.ApplicationFilterChain.internalDoFilter(ApplicationFilterChain.java:231)
+	at org.apache.catalina.core.ApplicationFilterChain.doFilter(ApplicationFilterChain.java:166)
+	at org.apache.tomcat.websocket.server.WsFilter.doFilter(WsFilter.java:52)
+	at org.apache.catalina.core.ApplicationFilterChain.internalDoFilter(ApplicationFilterChain.java:193)
+	at org.apache.catalina.core.ApplicationFilterChain.doFilter(ApplicationFilterChain.java:166)
+	at org.apache.catalina.core.StandardWrapperValve.invoke(StandardWrapperValve.java:198)
+	at org.apache.catalina.core.StandardContextValve.invoke(StandardContextValve.java:96)
+	at org.apache.catalina.authenticator.AuthenticatorBase.invoke(AuthenticatorBase.java:493)
+	at org.apache.catalina.core.StandardHostValve.invoke(StandardHostValve.java:140)
+	at org.apache.catalina.valves.ErrorReportValve.invoke(ErrorReportValve.java:81)
+	at org.apache.catalina.valves.AbstractAccessLogValve.invoke(AbstractAccessLogValve.java:650)
+	at org.apache.catalina.core.StandardEngineValve.invoke(StandardEngineValve.java:87)
+	at org.apache.catalina.connector.CoyoteAdapter.service(CoyoteAdapter.java:342)
+	at org.apache.coyote.http11.Http11Processor.service(Http11Processor.java:800)
+	at org.apache.coyote.AbstractProcessorLight.process(AbstractProcessorLight.java:66)
+	at org.apache.coyote.AbstractProtocol$ConnectionHandler.process(AbstractProtocol.java:806)
+	at org.apache.tomcat.util.net.NioEndpoint$SocketProcessor.doRun(NioEndpoint.java:1498)
+	at org.apache.tomcat.util.net.SocketProcessorBase.run(SocketProcessorBase.java:49)
+	at java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1149)
+	at java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:624)
+	at org.apache.tomcat.util.threads.TaskThread$WrappingRunnable.run(TaskThread.java:61)
+	at java.lang.Thread.run(Thread.java:748)
+
+13-Jun-2020 13:24:12.005 SEVERE [http-nio-8082-exec-78] org.apache.catalina.core.StandardWrapperValve.invoke Servlet.service() for servlet [ManagerCategoryServlet] in context with path [/MuaBanNha] threw exception
+ java.lang.IllegalArgumentException: Path [] does not start with a "/" character
+	at org.apache.catalina.core.ApplicationContext.getRequestDispatcher(ApplicationContext.java:404)
+	at org.apache.catalina.core.ApplicationContextFacade.getRequestDispatcher(ApplicationContextFacade.java:223)
+	at controller.ManagerCategoryServlet.doGet(ManagerCategoryServlet.java:44)
+	at javax.servlet.http.HttpServlet.service(HttpServlet.java:635)
+	at javax.servlet.http.HttpServlet.service(HttpServlet.java:742)
+	at org.apache.catalina.core.ApplicationFilterChain.internalDoFilter(ApplicationFilterChain.java:231)
+	at org.apache.catalina.core.ApplicationFilterChain.doFilter(ApplicationFilterChain.java:166)
+	at org.apache.tomcat.websocket.server.WsFilter.doFilter(WsFilter.java:52)
+	at org.apache.catalina.core.ApplicationFilterChain.internalDoFilter(ApplicationFilterChain.java:193)
+	at org.apache.catalina.core.ApplicationFilterChain.doFilter(ApplicationFilterChain.java:166)
+	at org.apache.catalina.core.StandardWrapperValve.invoke(StandardWrapperValve.java:198)
+	at org.apache.catalina.core.StandardContextValve.invoke(StandardContextValve.java:96)
+	at org.apache.catalina.authenticator.AuthenticatorBase.invoke(AuthenticatorBase.java:493)
+	at org.apache.catalina.core.StandardHostValve.invoke(StandardHostValve.java:140)
+	at org.apache.catalina.valves.ErrorReportValve.invoke(ErrorReportValve.java:81)
+	at org.apache.catalina.valves.AbstractAccessLogValve.invoke(AbstractAccessLogValve.java:650)
+	at org.apache.catalina.core.StandardEngineValve.invoke(StandardEngineValve.java:87)
+	at org.apache.catalina.connector.CoyoteAdapter.service(CoyoteAdapter.java:342)
+	at org.apache.coyote.http11.Http11Processor.service(Http11Processor.java:800)
+	at org.apache.coyote.AbstractProcessorLight.process(AbstractProcessorLight.java:66)
+	at org.apache.coyote.AbstractProtocol$ConnectionHandler.process(AbstractProtocol.java:806)
+	at org.apache.tomcat.util.net.NioEndpoint$SocketProcessor.doRun(NioEndpoint.java:1498)
+	at org.apache.tomcat.util.net.SocketProcessorBase.run(SocketProcessorBase.java:49)
+	at java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1149)
+	at java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:624)
+	at org.apache.tomcat.util.threads.TaskThread$WrappingRunnable.run(TaskThread.java:61)
+	at java.lang.Thread.run(Thread.java:748)
+
+13-Jun-2020 13:26:10.021 SEVERE [http-nio-8082-exec-79] org.apache.catalina.core.StandardWrapperValve.invoke Servlet.service() for servlet [ManagerCategoryServlet] in context with path [/MuaBanNha] threw exception
+ java.lang.IllegalArgumentException: Path [] does not start with a "/" character
+	at org.apache.catalina.core.ApplicationContext.getRequestDispatcher(ApplicationContext.java:404)
+	at org.apache.catalina.core.ApplicationContextFacade.getRequestDispatcher(ApplicationContextFacade.java:223)
+	at controller.ManagerCategoryServlet.doGet(ManagerCategoryServlet.java:44)
+	at javax.servlet.http.HttpServlet.service(HttpServlet.java:635)
+	at javax.servlet.http.HttpServlet.service(HttpServlet.java:742)
+	at org.apache.catalina.core.ApplicationFilterChain.internalDoFilter(ApplicationFilterChain.java:231)
+	at org.apache.catalina.core.ApplicationFilterChain.doFilter(ApplicationFilterChain.java:166)
+	at org.apache.tomcat.websocket.server.WsFilter.doFilter(WsFilter.java:52)
+	at org.apache.catalina.core.ApplicationFilterChain.internalDoFilter(ApplicationFilterChain.java:193)
+	at org.apache.catalina.core.ApplicationFilterChain.doFilter(ApplicationFilterChain.java:166)
+	at org.apache.catalina.core.StandardWrapperValve.invoke(StandardWrapperValve.java:198)
+	at org.apache.catalina.core.StandardContextValve.invoke(StandardContextValve.java:96)
+	at org.apache.catalina.authenticator.AuthenticatorBase.invoke(AuthenticatorBase.java:493)
+	at org.apache.catalina.core.StandardHostValve.invoke(StandardHostValve.java:140)
+	at org.apache.catalina.valves.ErrorReportValve.invoke(ErrorReportValve.java:81)
+	at org.apache.catalina.valves.AbstractAccessLogValve.invoke(AbstractAccessLogValve.java:650)
+	at org.apache.catalina.core.StandardEngineValve.invoke(StandardEngineValve.java:87)
+	at org.apache.catalina.connector.CoyoteAdapter.service(CoyoteAdapter.java:342)
+	at org.apache.coyote.http11.Http11Processor.service(Http11Processor.java:800)
+	at org.apache.coyote.AbstractProcessorLight.process(AbstractProcessorLight.java:66)
+	at org.apache.coyote.AbstractProtocol$ConnectionHandler.process(AbstractProtocol.java:806)
+	at org.apache.tomcat.util.net.NioEndpoint$SocketProcessor.doRun(NioEndpoint.java:1498)
+	at org.apache.tomcat.util.net.SocketProcessorBase.run(SocketProcessorBase.java:49)
+	at java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1149)
+	at java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:624)
+	at org.apache.tomcat.util.threads.TaskThread$WrappingRunnable.run(TaskThread.java:61)
+	at java.lang.Thread.run(Thread.java:748)
+
+13-Jun-2020 13:57:38.245 SEVERE [http-nio-8082-exec-76] org.apache.catalina.core.StandardWrapperValve.invoke Servlet.service() for servlet [jsp] in context with path [/MuaBanNha] threw exception [Unable to compile class for JSP: 
+
+An error occurred at line: [218] in the jsp file: [/manager_product_Admin.jsp]
+The method print(boolean) in the type JspWriter is not applicable for the arguments (void)
+215:                         <td><%
+216: //                            if (ct.getChothue_status() == 0) {
+217:                             %>
+218:                             <span style="border: 2px dashed red;"><a style="color: rgba(122,231,0,0.8);font-size:15px;" href="MoHinh.jsp?ChoThueID=<%= //ct.getChothue_id()%>"><i class="fas fa-unlock-alt"></i>�?i Duyệt</a></span>
+219:                             <%
+220: //                                }
+221:                             %>
+
+
+An error occurred at line: [218] in the jsp file: [/manager_product_Admin.jsp]
+Syntax error, insert ")" to complete Expression
+215:                         <td><%
+216: //                            if (ct.getChothue_status() == 0) {
+217:                             %>
+218:                             <span style="border: 2px dashed red;"><a style="color: rgba(122,231,0,0.8);font-size:15px;" href="MoHinh.jsp?ChoThueID=<%= //ct.getChothue_id()%>"><i class="fas fa-unlock-alt"></i>�?i Duyệt</a></span>
+219:                             <%
+220: //                                }
+221:                             %>
+
+
+An error occurred at line: [222] in the jsp file: [/manager_product_Admin.jsp]
+The method print(boolean) in the type JspWriter is not applicable for the arguments (void)
+219:                             <%
+220: //                                }
+221:                             %>
+222:                             <span><a href="DuyetBai?command=xoa&ChoThueID=<%= //request.getParameter("ChoThueID")%>"><i class="fas fa-trash-alt">Xóa</i></a></span></td>
+223: 
+224:                     </tr>
+225:                     <%
+
+
+An error occurred at line: [222] in the jsp file: [/manager_product_Admin.jsp]
+Syntax error, insert ")" to complete Expression
+219:                             <%
+220: //                                }
+221:                             %>
+222:                             <span><a href="DuyetBai?command=xoa&ChoThueID=<%= //request.getParameter("ChoThueID")%>"><i class="fas fa-trash-alt">Xóa</i></a></span></td>
+223: 
+224:                     </tr>
+225:                     <%
+
+
+An error occurred at line: [458] in the generated java file: [D:\apache-tomcat-8.5.34\work\Catalina\localhost\MuaBanNha\org\apache\jsp\manager_005fproduct_005fAdmin_jsp.java]
+Syntax error, insert "}" to complete Block
+
+An error occurred at line: [475] in the generated java file: [D:\apache-tomcat-8.5.34\work\Catalina\localhost\MuaBanNha\org\apache\jsp\manager_005fproduct_005fAdmin_jsp.java]
+Syntax error on token "}", delete this token
+
+An error occurred at line: [476] in the generated java file: [D:\apache-tomcat-8.5.34\work\Catalina\localhost\MuaBanNha\org\apache\jsp\manager_005fproduct_005fAdmin_jsp.java]
+Syntax error, insert "}" to complete ClassBody
+
+Stacktrace:] with root cause
+ org.apache.jasper.JasperException: Unable to compile class for JSP: 
+
+An error occurred at line: [218] in the jsp file: [/manager_product_Admin.jsp]
+The method print(boolean) in the type JspWriter is not applicable for the arguments (void)
+215:                         <td><%
+216: //                            if (ct.getChothue_status() == 0) {
+217:                             %>
+218:                             <span style="border: 2px dashed red;"><a style="color: rgba(122,231,0,0.8);font-size:15px;" href="MoHinh.jsp?ChoThueID=<%= //ct.getChothue_id()%>"><i class="fas fa-unlock-alt"></i>�?i Duyệt</a></span>
+219:                             <%
+220: //                                }
+221:                             %>
+
+
+An error occurred at line: [218] in the jsp file: [/manager_product_Admin.jsp]
+Syntax error, insert ")" to complete Expression
+215:                         <td><%
+216: //                            if (ct.getChothue_status() == 0) {
+217:                             %>
+218:                             <span style="border: 2px dashed red;"><a style="color: rgba(122,231,0,0.8);font-size:15px;" href="MoHinh.jsp?ChoThueID=<%= //ct.getChothue_id()%>"><i class="fas fa-unlock-alt"></i>�?i Duyệt</a></span>
+219:                             <%
+220: //                                }
+221:                             %>
+
+
+An error occurred at line: [222] in the jsp file: [/manager_product_Admin.jsp]
+The method print(boolean) in the type JspWriter is not applicable for the arguments (void)
+219:                             <%
+220: //                                }
+221:                             %>
+222:                             <span><a href="DuyetBai?command=xoa&ChoThueID=<%= //request.getParameter("ChoThueID")%>"><i class="fas fa-trash-alt">Xóa</i></a></span></td>
+223: 
+224:                     </tr>
+225:                     <%
+
+
+An error occurred at line: [222] in the jsp file: [/manager_product_Admin.jsp]
+Syntax error, insert ")" to complete Expression
+219:                             <%
+220: //                                }
+221:                             %>
+222:                             <span><a href="DuyetBai?command=xoa&ChoThueID=<%= //request.getParameter("ChoThueID")%>"><i class="fas fa-trash-alt">Xóa</i></a></span></td>
+223: 
+224:                     </tr>
+225:                     <%
+
+
+An error occurred at line: [458] in the generated java file: [D:\apache-tomcat-8.5.34\work\Catalina\localhost\MuaBanNha\org\apache\jsp\manager_005fproduct_005fAdmin_jsp.java]
+Syntax error, insert "}" to complete Block
+
+An error occurred at line: [475] in the generated java file: [D:\apache-tomcat-8.5.34\work\Catalina\localhost\MuaBanNha\org\apache\jsp\manager_005fproduct_005fAdmin_jsp.java]
+Syntax error on token "}", delete this token
+
+An error occurred at line: [476] in the generated java file: [D:\apache-tomcat-8.5.34\work\Catalina\localhost\MuaBanNha\org\apache\jsp\manager_005fproduct_005fAdmin_jsp.java]
+Syntax error, insert "}" to complete ClassBody
+
+Stacktrace:
+	at org.apache.jasper.compiler.DefaultErrorHandler.javacError(DefaultErrorHandler.java:102)
+	at org.apache.jasper.compiler.ErrorDispatcher.javacError(ErrorDispatcher.java:212)
+	at org.apache.jasper.compiler.JDTCompiler.generateClass(JDTCompiler.java:495)
+	at org.apache.jasper.compiler.Compiler.compile(Compiler.java:378)
+	at org.apache.jasper.compiler.Compiler.compile(Compiler.java:350)
+	at org.apache.jasper.compiler.Compiler.compile(Compiler.java:334)
+	at org.apache.jasper.JspCompilationContext.compile(JspCompilationContext.java:595)
+	at org.apache.jasper.servlet.JspServletWrapper.service(JspServletWrapper.java:382)
+	at org.apache.jasper.servlet.JspServlet.serviceJspFile(JspServlet.java:386)
+	at org.apache.jasper.servlet.JspServlet.service(JspServlet.java:330)
+	at javax.servlet.http.HttpServlet.service(HttpServlet.java:742)
+	at org.apache.catalina.core.ApplicationFilterChain.internalDoFilter(ApplicationFilterChain.java:231)
+	at org.apache.catalina.core.ApplicationFilterChain.doFilter(ApplicationFilterChain.java:166)
+	at org.apache.tomcat.websocket.server.WsFilter.doFilter(WsFilter.java:52)
+	at org.apache.catalina.core.ApplicationFilterChain.internalDoFilter(ApplicationFilterChain.java:193)
+	at org.apache.catalina.core.ApplicationFilterChain.doFilter(ApplicationFilterChain.java:166)
+	at org.apache.catalina.core.StandardWrapperValve.invoke(StandardWrapperValve.java:198)
+	at org.apache.catalina.core.StandardContextValve.invoke(StandardContextValve.java:96)
+	at org.apache.catalina.authenticator.AuthenticatorBase.invoke(AuthenticatorBase.java:493)
+	at org.apache.catalina.core.StandardHostValve.invoke(StandardHostValve.java:140)
+	at org.apache.catalina.valves.ErrorReportValve.invoke(ErrorReportValve.java:81)
+	at org.apache.catalina.valves.AbstractAccessLogValve.invoke(AbstractAccessLogValve.java:650)
+	at org.apache.catalina.core.StandardEngineValve.invoke(StandardEngineValve.java:87)
+	at org.apache.catalina.connector.CoyoteAdapter.service(CoyoteAdapter.java:342)
+	at org.apache.coyote.http11.Http11Processor.service(Http11Processor.java:800)
+	at org.apache.coyote.AbstractProcessorLight.process(AbstractProcessorLight.java:66)
+	at org.apache.coyote.AbstractProtocol$ConnectionHandler.process(AbstractProtocol.java:806)
+	at org.apache.tomcat.util.net.NioEndpoint$SocketProcessor.doRun(NioEndpoint.java:1498)
+	at org.apache.tomcat.util.net.SocketProcessorBase.run(SocketProcessorBase.java:49)
+	at java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1149)
+	at java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:624)
+	at org.apache.tomcat.util.threads.TaskThread$WrappingRunnable.run(TaskThread.java:61)
+	at java.lang.Thread.run(Thread.java:748)
+
+13-Jun-2020 13:58:30.093 SEVERE [http-nio-8082-exec-84] org.apache.catalina.core.StandardWrapperValve.invoke Servlet.service() for servlet [jsp] in context with path [/MuaBanNha] threw exception [Unable to compile class for JSP: 
+
+An error occurred at line: [219] in the jsp file: [/manager_product_Admin.jsp]
+The method print(boolean) in the type JspWriter is not applicable for the arguments (void)
+216:                         <td><%
+217: //                            if (ct.getChothue_status() == 0) {
+218:                             %>
+219:                             <span style="border: 2px dashed red;"><a style="color: rgba(122,231,0,0.8);font-size:15px;" href="MoHinh.jsp?ChoThueID=<%= //ct.getChothue_id()%>"><i class="fas fa-unlock-alt"></i>�?i Duyệt</a></span>
+220:                             <%
+221: //                                }
+222:                             %>
+
+
+An error occurred at line: [219] in the jsp file: [/manager_product_Admin.jsp]
+Syntax error, insert ")" to complete Expression
+216:                         <td><%
+217: //                            if (ct.getChothue_status() == 0) {
+218:                             %>
+219:                             <span style="border: 2px dashed red;"><a style="color: rgba(122,231,0,0.8);font-size:15px;" href="MoHinh.jsp?ChoThueID=<%= //ct.getChothue_id()%>"><i class="fas fa-unlock-alt"></i>�?i Duyệt</a></span>
+220:                             <%
+221: //                                }
+222:                             %>
+
+
+An error occurred at line: [223] in the jsp file: [/manager_product_Admin.jsp]
+The method print(boolean) in the type JspWriter is not applicable for the arguments (void)
+220:                             <%
+221: //                                }
+222:                             %>
+223:                             <span><a href="DuyetBai?command=xoa&ChoThueID=<%= //request.getParameter("ChoThueID")%>"><i class="fas fa-trash-alt">Xóa</i></a></span></td>
+224: 
+225:                     </tr>
+226:                     <%
+
+
+An error occurred at line: [223] in the jsp file: [/manager_product_Admin.jsp]
+Syntax error, insert ")" to complete Expression
+220:                             <%
+221: //                                }
+222:                             %>
+223:                             <span><a href="DuyetBai?command=xoa&ChoThueID=<%= //request.getParameter("ChoThueID")%>"><i class="fas fa-trash-alt">Xóa</i></a></span></td>
+224: 
+225:                     </tr>
+226:                     <%
+
+
+An error occurred at line: [460] in the generated java file: [D:\apache-tomcat-8.5.34\work\Catalina\localhost\MuaBanNha\org\apache\jsp\manager_005fproduct_005fAdmin_jsp.java]
+Syntax error, insert "}" to complete Block
+
+An error occurred at line: [477] in the generated java file: [D:\apache-tomcat-8.5.34\work\Catalina\localhost\MuaBanNha\org\apache\jsp\manager_005fproduct_005fAdmin_jsp.java]
+Syntax error on token "}", delete this token
+
+An error occurred at line: [478] in the generated java file: [D:\apache-tomcat-8.5.34\work\Catalina\localhost\MuaBanNha\org\apache\jsp\manager_005fproduct_005fAdmin_jsp.java]
+Syntax error, insert "}" to complete ClassBody
+
+Stacktrace:] with root cause
+ org.apache.jasper.JasperException: Unable to compile class for JSP: 
+
+An error occurred at line: [219] in the jsp file: [/manager_product_Admin.jsp]
+The method print(boolean) in the type JspWriter is not applicable for the arguments (void)
+216:                         <td><%
+217: //                            if (ct.getChothue_status() == 0) {
+218:                             %>
+219:                             <span style="border: 2px dashed red;"><a style="color: rgba(122,231,0,0.8);font-size:15px;" href="MoHinh.jsp?ChoThueID=<%= //ct.getChothue_id()%>"><i class="fas fa-unlock-alt"></i>�?i Duyệt</a></span>
+220:                             <%
+221: //                                }
+222:                             %>
+
+
+An error occurred at line: [219] in the jsp file: [/manager_product_Admin.jsp]
+Syntax error, insert ")" to complete Expression
+216:                         <td><%
+217: //                            if (ct.getChothue_status() == 0) {
+218:                             %>
+219:                             <span style="border: 2px dashed red;"><a style="color: rgba(122,231,0,0.8);font-size:15px;" href="MoHinh.jsp?ChoThueID=<%= //ct.getChothue_id()%>"><i class="fas fa-unlock-alt"></i>�?i Duyệt</a></span>
+220:                             <%
+221: //                                }
+222:                             %>
+
+
+An error occurred at line: [223] in the jsp file: [/manager_product_Admin.jsp]
+The method print(boolean) in the type JspWriter is not applicable for the arguments (void)
+220:                             <%
+221: //                                }
+222:                             %>
+223:                             <span><a href="DuyetBai?command=xoa&ChoThueID=<%= //request.getParameter("ChoThueID")%>"><i class="fas fa-trash-alt">Xóa</i></a></span></td>
+224: 
+225:                     </tr>
+226:                     <%
+
+
+An error occurred at line: [223] in the jsp file: [/manager_product_Admin.jsp]
+Syntax error, insert ")" to complete Expression
+220:                             <%
+221: //                                }
+222:                             %>
+223:                             <span><a href="DuyetBai?command=xoa&ChoThueID=<%= //request.getParameter("ChoThueID")%>"><i class="fas fa-trash-alt">Xóa</i></a></span></td>
+224: 
+225:                     </tr>
+226:                     <%
+
+
+An error occurred at line: [460] in the generated java file: [D:\apache-tomcat-8.5.34\work\Catalina\localhost\MuaBanNha\org\apache\jsp\manager_005fproduct_005fAdmin_jsp.java]
+Syntax error, insert "}" to complete Block
+
+An error occurred at line: [477] in the generated java file: [D:\apache-tomcat-8.5.34\work\Catalina\localhost\MuaBanNha\org\apache\jsp\manager_005fproduct_005fAdmin_jsp.java]
+Syntax error on token "}", delete this token
+
+An error occurred at line: [478] in the generated java file: [D:\apache-tomcat-8.5.34\work\Catalina\localhost\MuaBanNha\org\apache\jsp\manager_005fproduct_005fAdmin_jsp.java]
+Syntax error, insert "}" to complete ClassBody
+
+Stacktrace:
+	at org.apache.jasper.compiler.DefaultErrorHandler.javacError(DefaultErrorHandler.java:102)
+	at org.apache.jasper.compiler.ErrorDispatcher.javacError(ErrorDispatcher.java:212)
+	at org.apache.jasper.compiler.JDTCompiler.generateClass(JDTCompiler.java:495)
+	at org.apache.jasper.compiler.Compiler.compile(Compiler.java:378)
+	at org.apache.jasper.compiler.Compiler.compile(Compiler.java:350)
+	at org.apache.jasper.compiler.Compiler.compile(Compiler.java:334)
+	at org.apache.jasper.JspCompilationContext.compile(JspCompilationContext.java:595)
+	at org.apache.jasper.servlet.JspServletWrapper.service(JspServletWrapper.java:382)
+	at org.apache.jasper.servlet.JspServlet.serviceJspFile(JspServlet.java:386)
+	at org.apache.jasper.servlet.JspServlet.service(JspServlet.java:330)
+	at javax.servlet.http.HttpServlet.service(HttpServlet.java:742)
+	at org.apache.catalina.core.ApplicationFilterChain.internalDoFilter(ApplicationFilterChain.java:231)
+	at org.apache.catalina.core.ApplicationFilterChain.doFilter(ApplicationFilterChain.java:166)
+	at org.apache.tomcat.websocket.server.WsFilter.doFilter(WsFilter.java:52)
+	at org.apache.catalina.core.ApplicationFilterChain.internalDoFilter(ApplicationFilterChain.java:193)
+	at org.apache.catalina.core.ApplicationFilterChain.doFilter(ApplicationFilterChain.java:166)
+	at org.apache.catalina.core.StandardWrapperValve.invoke(StandardWrapperValve.java:198)
+	at org.apache.catalina.core.StandardContextValve.invoke(StandardContextValve.java:96)
+	at org.apache.catalina.authenticator.AuthenticatorBase.invoke(AuthenticatorBase.java:493)
+	at org.apache.catalina.core.StandardHostValve.invoke(StandardHostValve.java:140)
+	at org.apache.catalina.valves.ErrorReportValve.invoke(ErrorReportValve.java:81)
+	at org.apache.catalina.valves.AbstractAccessLogValve.invoke(AbstractAccessLogValve.java:650)
+	at org.apache.catalina.core.StandardEngineValve.invoke(StandardEngineValve.java:87)
+	at org.apache.catalina.connector.CoyoteAdapter.service(CoyoteAdapter.java:342)
+	at org.apache.coyote.http11.Http11Processor.service(Http11Processor.java:800)
+	at org.apache.coyote.AbstractProcessorLight.process(AbstractProcessorLight.java:66)
+	at org.apache.coyote.AbstractProtocol$ConnectionHandler.process(AbstractProtocol.java:806)
+	at org.apache.tomcat.util.net.NioEndpoint$SocketProcessor.doRun(NioEndpoint.java:1498)
+	at org.apache.tomcat.util.net.SocketProcessorBase.run(SocketProcessorBase.java:49)
+	at java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1149)
+	at java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:624)
+	at org.apache.tomcat.util.threads.TaskThread$WrappingRunnable.run(TaskThread.java:61)
+	at java.lang.Thread.run(Thread.java:748)
+
+13-Jun-2020 13:58:40.567 SEVERE [http-nio-8082-exec-85] org.apache.catalina.core.StandardWrapperValve.invoke Servlet.service() for servlet [jsp] in context with path [/MuaBanNha] threw exception [Unable to compile class for JSP: 
+
+An error occurred at line: [219] in the jsp file: [/manager_product_Admin.jsp]
+The method print(boolean) in the type JspWriter is not applicable for the arguments (void)
+216:                         <td><%
+217: //                            if (ct.getChothue_status() == 0) {
+218:                             %>
+219:                             <span style="border: 2px dashed red;"><a style="color: rgba(122,231,0,0.8);font-size:15px;" href="MoHinh.jsp?ChoThueID=<%= //ct.getChothue_id()%>"><i class="fas fa-unlock-alt"></i>�?i Duyệt</a></span>
+220:                             <%
+221: //                                }
+222:                             %>
+
+
+An error occurred at line: [219] in the jsp file: [/manager_product_Admin.jsp]
+Syntax error, insert ")" to complete Expression
+216:                         <td><%
+217: //                            if (ct.getChothue_status() == 0) {
+218:                             %>
+219:                             <span style="border: 2px dashed red;"><a style="color: rgba(122,231,0,0.8);font-size:15px;" href="MoHinh.jsp?ChoThueID=<%= //ct.getChothue_id()%>"><i class="fas fa-unlock-alt"></i>�?i Duyệt</a></span>
+220:                             <%
+221: //                                }
+222:                             %>
+
+
+An error occurred at line: [223] in the jsp file: [/manager_product_Admin.jsp]
+The method print(boolean) in the type JspWriter is not applicable for the arguments (void)
+220:                             <%
+221: //                                }
+222:                             %>
+223:                             <span><a href="DuyetBai?command=xoa&ChoThueID=<%= //request.getParameter("ChoThueID")%>"><i class="fas fa-trash-alt">Xóa</i></a></span></td>
+224: 
+225:                     </tr>
+226:                     <%
+
+
+An error occurred at line: [223] in the jsp file: [/manager_product_Admin.jsp]
+Syntax error, insert ")" to complete Expression
+220:                             <%
+221: //                                }
+222:                             %>
+223:                             <span><a href="DuyetBai?command=xoa&ChoThueID=<%= //request.getParameter("ChoThueID")%>"><i class="fas fa-trash-alt">Xóa</i></a></span></td>
+224: 
+225:                     </tr>
+226:                     <%
+
+
+An error occurred at line: [460] in the generated java file: [D:\apache-tomcat-8.5.34\work\Catalina\localhost\MuaBanNha\org\apache\jsp\manager_005fproduct_005fAdmin_jsp.java]
+Syntax error, insert "}" to complete Block
+
+An error occurred at line: [477] in the generated java file: [D:\apache-tomcat-8.5.34\work\Catalina\localhost\MuaBanNha\org\apache\jsp\manager_005fproduct_005fAdmin_jsp.java]
+Syntax error on token "}", delete this token
+
+An error occurred at line: [478] in the generated java file: [D:\apache-tomcat-8.5.34\work\Catalina\localhost\MuaBanNha\org\apache\jsp\manager_005fproduct_005fAdmin_jsp.java]
+Syntax error, insert "}" to complete ClassBody
+
+Stacktrace:] with root cause
+ org.apache.jasper.JasperException: Unable to compile class for JSP: 
+
+An error occurred at line: [219] in the jsp file: [/manager_product_Admin.jsp]
+The method print(boolean) in the type JspWriter is not applicable for the arguments (void)
+216:                         <td><%
+217: //                            if (ct.getChothue_status() == 0) {
+218:                             %>
+219:                             <span style="border: 2px dashed red;"><a style="color: rgba(122,231,0,0.8);font-size:15px;" href="MoHinh.jsp?ChoThueID=<%= //ct.getChothue_id()%>"><i class="fas fa-unlock-alt"></i>�?i Duyệt</a></span>
+220:                             <%
+221: //                                }
+222:                             %>
+
+
+An error occurred at line: [219] in the jsp file: [/manager_product_Admin.jsp]
+Syntax error, insert ")" to complete Expression
+216:                         <td><%
+217: //                            if (ct.getChothue_status() == 0) {
+218:                             %>
+219:                             <span style="border: 2px dashed red;"><a style="color: rgba(122,231,0,0.8);font-size:15px;" href="MoHinh.jsp?ChoThueID=<%= //ct.getChothue_id()%>"><i class="fas fa-unlock-alt"></i>�?i Duyệt</a></span>
+220:                             <%
+221: //                                }
+222:                             %>
+
+
+An error occurred at line: [223] in the jsp file: [/manager_product_Admin.jsp]
+The method print(boolean) in the type JspWriter is not applicable for the arguments (void)
+220:                             <%
+221: //                                }
+222:                             %>
+223:                             <span><a href="DuyetBai?command=xoa&ChoThueID=<%= //request.getParameter("ChoThueID")%>"><i class="fas fa-trash-alt">Xóa</i></a></span></td>
+224: 
+225:                     </tr>
+226:                     <%
+
+
+An error occurred at line: [223] in the jsp file: [/manager_product_Admin.jsp]
+Syntax error, insert ")" to complete Expression
+220:                             <%
+221: //                                }
+222:                             %>
+223:                             <span><a href="DuyetBai?command=xoa&ChoThueID=<%= //request.getParameter("ChoThueID")%>"><i class="fas fa-trash-alt">Xóa</i></a></span></td>
+224: 
+225:                     </tr>
+226:                     <%
+
+
+An error occurred at line: [460] in the generated java file: [D:\apache-tomcat-8.5.34\work\Catalina\localhost\MuaBanNha\org\apache\jsp\manager_005fproduct_005fAdmin_jsp.java]
+Syntax error, insert "}" to complete Block
+
+An error occurred at line: [477] in the generated java file: [D:\apache-tomcat-8.5.34\work\Catalina\localhost\MuaBanNha\org\apache\jsp\manager_005fproduct_005fAdmin_jsp.java]
+Syntax error on token "}", delete this token
+
+An error occurred at line: [478] in the generated java file: [D:\apache-tomcat-8.5.34\work\Catalina\localhost\MuaBanNha\org\apache\jsp\manager_005fproduct_005fAdmin_jsp.java]
+Syntax error, insert "}" to complete ClassBody
+
+Stacktrace:
+	at org.apache.jasper.compiler.DefaultErrorHandler.javacError(DefaultErrorHandler.java:102)
+	at org.apache.jasper.compiler.ErrorDispatcher.javacError(ErrorDispatcher.java:212)
+	at org.apache.jasper.compiler.JDTCompiler.generateClass(JDTCompiler.java:495)
+	at org.apache.jasper.compiler.Compiler.compile(Compiler.java:378)
+	at org.apache.jasper.compiler.Compiler.compile(Compiler.java:350)
+	at org.apache.jasper.compiler.Compiler.compile(Compiler.java:334)
+	at org.apache.jasper.JspCompilationContext.compile(JspCompilationContext.java:595)
+	at org.apache.jasper.servlet.JspServletWrapper.service(JspServletWrapper.java:382)
+	at org.apache.jasper.servlet.JspServlet.serviceJspFile(JspServlet.java:386)
+	at org.apache.jasper.servlet.JspServlet.service(JspServlet.java:330)
+	at javax.servlet.http.HttpServlet.service(HttpServlet.java:742)
+	at org.apache.catalina.core.ApplicationFilterChain.internalDoFilter(ApplicationFilterChain.java:231)
+	at org.apache.catalina.core.ApplicationFilterChain.doFilter(ApplicationFilterChain.java:166)
+	at org.apache.tomcat.websocket.server.WsFilter.doFilter(WsFilter.java:52)
+	at org.apache.catalina.core.ApplicationFilterChain.internalDoFilter(ApplicationFilterChain.java:193)
+	at org.apache.catalina.core.ApplicationFilterChain.doFilter(ApplicationFilterChain.java:166)
+	at org.apache.catalina.core.StandardWrapperValve.invoke(StandardWrapperValve.java:198)
+	at org.apache.catalina.core.StandardContextValve.invoke(StandardContextValve.java:96)
+	at org.apache.catalina.authenticator.AuthenticatorBase.invoke(AuthenticatorBase.java:493)
+	at org.apache.catalina.core.StandardHostValve.invoke(StandardHostValve.java:140)
+	at org.apache.catalina.valves.ErrorReportValve.invoke(ErrorReportValve.java:81)
+	at org.apache.catalina.valves.AbstractAccessLogValve.invoke(AbstractAccessLogValve.java:650)
+	at org.apache.catalina.core.StandardEngineValve.invoke(StandardEngineValve.java:87)
+	at org.apache.catalina.connector.CoyoteAdapter.service(CoyoteAdapter.java:342)
+	at org.apache.coyote.http11.Http11Processor.service(Http11Processor.java:800)
+	at org.apache.coyote.AbstractProcessorLight.process(AbstractProcessorLight.java:66)
+	at org.apache.coyote.AbstractProtocol$ConnectionHandler.process(AbstractProtocol.java:806)
+	at org.apache.tomcat.util.net.NioEndpoint$SocketProcessor.doRun(NioEndpoint.java:1498)
+	at org.apache.tomcat.util.net.SocketProcessorBase.run(SocketProcessorBase.java:49)
+	at java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1149)
+	at java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:624)
+	at org.apache.tomcat.util.threads.TaskThread$WrappingRunnable.run(TaskThread.java:61)
+	at java.lang.Thread.run(Thread.java:748)
+
+13-Jun-2020 13:59:08.479 SEVERE [http-nio-8082-exec-83] org.apache.catalina.core.StandardWrapperValve.invoke Servlet.service() for servlet [jsp] in context with path [/MuaBanNha] threw exception [Unable to compile class for JSP: 
+
+An error occurred at line: [219] in the jsp file: [/manager_product_Admin.jsp]
+The method print(boolean) in the type JspWriter is not applicable for the arguments (void)
+216:                         <td><%
+217: //                            if (ct.getChothue_status() == 0) {
+218:                             %>
+219:                             <span style="border: 2px dashed red;"><a style="color: rgba(122,231,0,0.8);font-size:15px;" href="MoHinh.jsp?ChoThueID=<%= //ct.getChothue_id()%>"><i class="fas fa-unlock-alt"></i>�?i Duyệt</a></span>
+220:                             <%
+221: //                                }
+222:                             %>
+
+
+An error occurred at line: [219] in the jsp file: [/manager_product_Admin.jsp]
+Syntax error, insert ")" to complete Expression
+216:                         <td><%
+217: //                            if (ct.getChothue_status() == 0) {
+218:                             %>
+219:                             <span style="border: 2px dashed red;"><a style="color: rgba(122,231,0,0.8);font-size:15px;" href="MoHinh.jsp?ChoThueID=<%= //ct.getChothue_id()%>"><i class="fas fa-unlock-alt"></i>�?i Duyệt</a></span>
+220:                             <%
+221: //                                }
+222:                             %>
+
+
+An error occurred at line: [223] in the jsp file: [/manager_product_Admin.jsp]
+The method print(boolean) in the type JspWriter is not applicable for the arguments (void)
+220:                             <%
+221: //                                }
+222:                             %>
+223:                             <span><a href="DuyetBai?command=xoa&ChoThueID=<%= //request.getParameter("ChoThueID")%>"><i class="fas fa-trash-alt">Xóa</i></a></span></td>
+224: 
+225:                     </tr>
+226:                     <%
+
+
+An error occurred at line: [223] in the jsp file: [/manager_product_Admin.jsp]
+Syntax error, insert ")" to complete Expression
+220:                             <%
+221: //                                }
+222:                             %>
+223:                             <span><a href="DuyetBai?command=xoa&ChoThueID=<%= //request.getParameter("ChoThueID")%>"><i class="fas fa-trash-alt">Xóa</i></a></span></td>
+224: 
+225:                     </tr>
+226:                     <%
+
+
+An error occurred at line: [460] in the generated java file: [D:\apache-tomcat-8.5.34\work\Catalina\localhost\MuaBanNha\org\apache\jsp\manager_005fproduct_005fAdmin_jsp.java]
+Syntax error, insert "}" to complete Block
+
+An error occurred at line: [477] in the generated java file: [D:\apache-tomcat-8.5.34\work\Catalina\localhost\MuaBanNha\org\apache\jsp\manager_005fproduct_005fAdmin_jsp.java]
+Syntax error on token "}", delete this token
+
+An error occurred at line: [478] in the generated java file: [D:\apache-tomcat-8.5.34\work\Catalina\localhost\MuaBanNha\org\apache\jsp\manager_005fproduct_005fAdmin_jsp.java]
+Syntax error, insert "}" to complete ClassBody
+
+Stacktrace:] with root cause
+ org.apache.jasper.JasperException: Unable to compile class for JSP: 
+
+An error occurred at line: [219] in the jsp file: [/manager_product_Admin.jsp]
+The method print(boolean) in the type JspWriter is not applicable for the arguments (void)
+216:                         <td><%
+217: //                            if (ct.getChothue_status() == 0) {
+218:                             %>
+219:                             <span style="border: 2px dashed red;"><a style="color: rgba(122,231,0,0.8);font-size:15px;" href="MoHinh.jsp?ChoThueID=<%= //ct.getChothue_id()%>"><i class="fas fa-unlock-alt"></i>�?i Duyệt</a></span>
+220:                             <%
+221: //                                }
+222:                             %>
+
+
+An error occurred at line: [219] in the jsp file: [/manager_product_Admin.jsp]
+Syntax error, insert ")" to complete Expression
+216:                         <td><%
+217: //                            if (ct.getChothue_status() == 0) {
+218:                             %>
+219:                             <span style="border: 2px dashed red;"><a style="color: rgba(122,231,0,0.8);font-size:15px;" href="MoHinh.jsp?ChoThueID=<%= //ct.getChothue_id()%>"><i class="fas fa-unlock-alt"></i>�?i Duyệt</a></span>
+220:                             <%
+221: //                                }
+222:                             %>
+
+
+An error occurred at line: [223] in the jsp file: [/manager_product_Admin.jsp]
+The method print(boolean) in the type JspWriter is not applicable for the arguments (void)
+220:                             <%
+221: //                                }
+222:                             %>
+223:                             <span><a href="DuyetBai?command=xoa&ChoThueID=<%= //request.getParameter("ChoThueID")%>"><i class="fas fa-trash-alt">Xóa</i></a></span></td>
+224: 
+225:                     </tr>
+226:                     <%
+
+
+An error occurred at line: [223] in the jsp file: [/manager_product_Admin.jsp]
+Syntax error, insert ")" to complete Expression
+220:                             <%
+221: //                                }
+222:                             %>
+223:                             <span><a href="DuyetBai?command=xoa&ChoThueID=<%= //request.getParameter("ChoThueID")%>"><i class="fas fa-trash-alt">Xóa</i></a></span></td>
+224: 
+225:                     </tr>
+226:                     <%
+
+
+An error occurred at line: [460] in the generated java file: [D:\apache-tomcat-8.5.34\work\Catalina\localhost\MuaBanNha\org\apache\jsp\manager_005fproduct_005fAdmin_jsp.java]
+Syntax error, insert "}" to complete Block
+
+An error occurred at line: [477] in the generated java file: [D:\apache-tomcat-8.5.34\work\Catalina\localhost\MuaBanNha\org\apache\jsp\manager_005fproduct_005fAdmin_jsp.java]
+Syntax error on token "}", delete this token
+
+An error occurred at line: [478] in the generated java file: [D:\apache-tomcat-8.5.34\work\Catalina\localhost\MuaBanNha\org\apache\jsp\manager_005fproduct_005fAdmin_jsp.java]
+Syntax error, insert "}" to complete ClassBody
+
+Stacktrace:
+	at org.apache.jasper.compiler.DefaultErrorHandler.javacError(DefaultErrorHandler.java:102)
+	at org.apache.jasper.compiler.ErrorDispatcher.javacError(ErrorDispatcher.java:212)
+	at org.apache.jasper.compiler.JDTCompiler.generateClass(JDTCompiler.java:495)
+	at org.apache.jasper.compiler.Compiler.compile(Compiler.java:378)
+	at org.apache.jasper.compiler.Compiler.compile(Compiler.java:350)
+	at org.apache.jasper.compiler.Compiler.compile(Compiler.java:334)
+	at org.apache.jasper.JspCompilationContext.compile(JspCompilationContext.java:595)
+	at org.apache.jasper.servlet.JspServletWrapper.service(JspServletWrapper.java:382)
+	at org.apache.jasper.servlet.JspServlet.serviceJspFile(JspServlet.java:386)
+	at org.apache.jasper.servlet.JspServlet.service(JspServlet.java:330)
+	at javax.servlet.http.HttpServlet.service(HttpServlet.java:742)
+	at org.apache.catalina.core.ApplicationFilterChain.internalDoFilter(ApplicationFilterChain.java:231)
+	at org.apache.catalina.core.ApplicationFilterChain.doFilter(ApplicationFilterChain.java:166)
+	at org.apache.tomcat.websocket.server.WsFilter.doFilter(WsFilter.java:52)
+	at org.apache.catalina.core.ApplicationFilterChain.internalDoFilter(ApplicationFilterChain.java:193)
+	at org.apache.catalina.core.ApplicationFilterChain.doFilter(ApplicationFilterChain.java:166)
+	at org.apache.catalina.core.StandardWrapperValve.invoke(StandardWrapperValve.java:198)
+	at org.apache.catalina.core.StandardContextValve.invoke(StandardContextValve.java:96)
+	at org.apache.catalina.authenticator.AuthenticatorBase.invoke(AuthenticatorBase.java:493)
+	at org.apache.catalina.core.StandardHostValve.invoke(StandardHostValve.java:140)
+	at org.apache.catalina.valves.ErrorReportValve.invoke(ErrorReportValve.java:81)
+	at org.apache.catalina.valves.AbstractAccessLogValve.invoke(AbstractAccessLogValve.java:650)
+	at org.apache.catalina.core.StandardEngineValve.invoke(StandardEngineValve.java:87)
+	at org.apache.catalina.connector.CoyoteAdapter.service(CoyoteAdapter.java:342)
+	at org.apache.coyote.http11.Http11Processor.service(Http11Processor.java:800)
+	at org.apache.coyote.AbstractProcessorLight.process(AbstractProcessorLight.java:66)
+	at org.apache.coyote.AbstractProtocol$ConnectionHandler.process(AbstractProtocol.java:806)
+	at org.apache.tomcat.util.net.NioEndpoint$SocketProcessor.doRun(NioEndpoint.java:1498)
+	at org.apache.tomcat.util.net.SocketProcessorBase.run(SocketProcessorBase.java:49)
+	at java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1149)
+	at java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:624)
+	at org.apache.tomcat.util.threads.TaskThread$WrappingRunnable.run(TaskThread.java:61)
+	at java.lang.Thread.run(Thread.java:748)
+
+13-Jun-2020 14:00:01.318 SEVERE [http-nio-8082-exec-81] org.apache.catalina.core.StandardWrapperValve.invoke Servlet.service() for servlet [jsp] in context with path [/MuaBanNha] threw exception [Unable to compile class for JSP: 
+
+An error occurred at line: [418] in the generated java file: [D:\apache-tomcat-8.5.34\work\Catalina\localhost\MuaBanNha\org\apache\jsp\manager_005fproduct_005fAdmin_jsp.java]
+Syntax error, insert "}" to complete Block
+
+An error occurred at line: [435] in the generated java file: [D:\apache-tomcat-8.5.34\work\Catalina\localhost\MuaBanNha\org\apache\jsp\manager_005fproduct_005fAdmin_jsp.java]
+Syntax error on token "}", delete this token
+
+An error occurred at line: [436] in the generated java file: [D:\apache-tomcat-8.5.34\work\Catalina\localhost\MuaBanNha\org\apache\jsp\manager_005fproduct_005fAdmin_jsp.java]
+Syntax error, insert "}" to complete ClassBody
+
+Stacktrace:] with root cause
+ org.apache.jasper.JasperException: Unable to compile class for JSP: 
+
+An error occurred at line: [418] in the generated java file: [D:\apache-tomcat-8.5.34\work\Catalina\localhost\MuaBanNha\org\apache\jsp\manager_005fproduct_005fAdmin_jsp.java]
+Syntax error, insert "}" to complete Block
+
+An error occurred at line: [435] in the generated java file: [D:\apache-tomcat-8.5.34\work\Catalina\localhost\MuaBanNha\org\apache\jsp\manager_005fproduct_005fAdmin_jsp.java]
+Syntax error on token "}", delete this token
+
+An error occurred at line: [436] in the generated java file: [D:\apache-tomcat-8.5.34\work\Catalina\localhost\MuaBanNha\org\apache\jsp\manager_005fproduct_005fAdmin_jsp.java]
+Syntax error, insert "}" to complete ClassBody
+
+Stacktrace:
+	at org.apache.jasper.compiler.DefaultErrorHandler.javacError(DefaultErrorHandler.java:102)
+	at org.apache.jasper.compiler.ErrorDispatcher.javacError(ErrorDispatcher.java:212)
+	at org.apache.jasper.compiler.JDTCompiler.generateClass(JDTCompiler.java:495)
+	at org.apache.jasper.compiler.Compiler.compile(Compiler.java:378)
+	at org.apache.jasper.compiler.Compiler.compile(Compiler.java:350)
+	at org.apache.jasper.compiler.Compiler.compile(Compiler.java:334)
+	at org.apache.jasper.JspCompilationContext.compile(JspCompilationContext.java:595)
+	at org.apache.jasper.servlet.JspServletWrapper.service(JspServletWrapper.java:382)
+	at org.apache.jasper.servlet.JspServlet.serviceJspFile(JspServlet.java:386)
+	at org.apache.jasper.servlet.JspServlet.service(JspServlet.java:330)
+	at javax.servlet.http.HttpServlet.service(HttpServlet.java:742)
+	at org.apache.catalina.core.ApplicationFilterChain.internalDoFilter(ApplicationFilterChain.java:231)
+	at org.apache.catalina.core.ApplicationFilterChain.doFilter(ApplicationFilterChain.java:166)
+	at org.apache.tomcat.websocket.server.WsFilter.doFilter(WsFilter.java:52)
+	at org.apache.catalina.core.ApplicationFilterChain.internalDoFilter(ApplicationFilterChain.java:193)
+	at org.apache.catalina.core.ApplicationFilterChain.doFilter(ApplicationFilterChain.java:166)
+	at org.apache.catalina.core.StandardWrapperValve.invoke(StandardWrapperValve.java:198)
+	at org.apache.catalina.core.StandardContextValve.invoke(StandardContextValve.java:96)
+	at org.apache.catalina.authenticator.AuthenticatorBase.invoke(AuthenticatorBase.java:493)
+	at org.apache.catalina.core.StandardHostValve.invoke(StandardHostValve.java:140)
+	at org.apache.catalina.valves.ErrorReportValve.invoke(ErrorReportValve.java:81)
+	at org.apache.catalina.valves.AbstractAccessLogValve.invoke(AbstractAccessLogValve.java:650)
+	at org.apache.catalina.core.StandardEngineValve.invoke(StandardEngineValve.java:87)
+	at org.apache.catalina.connector.CoyoteAdapter.service(CoyoteAdapter.java:342)
+	at org.apache.coyote.http11.Http11Processor.service(Http11Processor.java:800)
+	at org.apache.coyote.AbstractProcessorLight.process(AbstractProcessorLight.java:66)
+	at org.apache.coyote.AbstractProtocol$ConnectionHandler.process(AbstractProtocol.java:806)
+	at org.apache.tomcat.util.net.NioEndpoint$SocketProcessor.doRun(NioEndpoint.java:1498)
+	at org.apache.tomcat.util.net.SocketProcessorBase.run(SocketProcessorBase.java:49)
+	at java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1149)
+	at java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:624)
+	at org.apache.tomcat.util.threads.TaskThread$WrappingRunnable.run(TaskThread.java:61)
+	at java.lang.Thread.run(Thread.java:748)
+
+13-Jun-2020 14:03:25.256 SEVERE [http-nio-8082-exec-78] org.apache.catalina.core.StandardWrapperValve.invoke Servlet.service() for servlet [jsp] in context with path [/MuaBanNha] threw exception [Unable to compile class for JSP: 
+
+An error occurred at line: [419] in the generated java file: [D:\apache-tomcat-8.5.34\work\Catalina\localhost\MuaBanNha\org\apache\jsp\manager_005fproduct_005fAdmin_jsp.java]
+Syntax error, insert "}" to complete Block
+
+An error occurred at line: [436] in the generated java file: [D:\apache-tomcat-8.5.34\work\Catalina\localhost\MuaBanNha\org\apache\jsp\manager_005fproduct_005fAdmin_jsp.java]
+Syntax error on token "}", delete this token
+
+An error occurred at line: [437] in the generated java file: [D:\apache-tomcat-8.5.34\work\Catalina\localhost\MuaBanNha\org\apache\jsp\manager_005fproduct_005fAdmin_jsp.java]
+Syntax error, insert "}" to complete ClassBody
+
+Stacktrace:] with root cause
+ org.apache.jasper.JasperException: Unable to compile class for JSP: 
+
+An error occurred at line: [419] in the generated java file: [D:\apache-tomcat-8.5.34\work\Catalina\localhost\MuaBanNha\org\apache\jsp\manager_005fproduct_005fAdmin_jsp.java]
+Syntax error, insert "}" to complete Block
+
+An error occurred at line: [436] in the generated java file: [D:\apache-tomcat-8.5.34\work\Catalina\localhost\MuaBanNha\org\apache\jsp\manager_005fproduct_005fAdmin_jsp.java]
+Syntax error on token "}", delete this token
+
+An error occurred at line: [437] in the generated java file: [D:\apache-tomcat-8.5.34\work\Catalina\localhost\MuaBanNha\org\apache\jsp\manager_005fproduct_005fAdmin_jsp.java]
+Syntax error, insert "}" to complete ClassBody
+
+Stacktrace:
+	at org.apache.jasper.compiler.DefaultErrorHandler.javacError(DefaultErrorHandler.java:102)
+	at org.apache.jasper.compiler.ErrorDispatcher.javacError(ErrorDispatcher.java:212)
+	at org.apache.jasper.compiler.JDTCompiler.generateClass(JDTCompiler.java:495)
+	at org.apache.jasper.compiler.Compiler.compile(Compiler.java:378)
+	at org.apache.jasper.compiler.Compiler.compile(Compiler.java:350)
+	at org.apache.jasper.compiler.Compiler.compile(Compiler.java:334)
+	at org.apache.jasper.JspCompilationContext.compile(JspCompilationContext.java:595)
+	at org.apache.jasper.servlet.JspServletWrapper.service(JspServletWrapper.java:382)
+	at org.apache.jasper.servlet.JspServlet.serviceJspFile(JspServlet.java:386)
+	at org.apache.jasper.servlet.JspServlet.service(JspServlet.java:330)
+	at javax.servlet.http.HttpServlet.service(HttpServlet.java:742)
+	at org.apache.catalina.core.ApplicationFilterChain.internalDoFilter(ApplicationFilterChain.java:231)
+	at org.apache.catalina.core.ApplicationFilterChain.doFilter(ApplicationFilterChain.java:166)
+	at org.apache.tomcat.websocket.server.WsFilter.doFilter(WsFilter.java:52)
+	at org.apache.catalina.core.ApplicationFilterChain.internalDoFilter(ApplicationFilterChain.java:193)
+	at org.apache.catalina.core.ApplicationFilterChain.doFilter(ApplicationFilterChain.java:166)
+	at org.apache.catalina.core.StandardWrapperValve.invoke(StandardWrapperValve.java:198)
+	at org.apache.catalina.core.StandardContextValve.invoke(StandardContextValve.java:96)
+	at org.apache.catalina.authenticator.AuthenticatorBase.invoke(AuthenticatorBase.java:493)
+	at org.apache.catalina.core.StandardHostValve.invoke(StandardHostValve.java:140)
+	at org.apache.catalina.valves.ErrorReportValve.invoke(ErrorReportValve.java:81)
+	at org.apache.catalina.valves.AbstractAccessLogValve.invoke(AbstractAccessLogValve.java:650)
+	at org.apache.catalina.core.StandardEngineValve.invoke(StandardEngineValve.java:87)
+	at org.apache.catalina.connector.CoyoteAdapter.service(CoyoteAdapter.java:342)
+	at org.apache.coyote.http11.Http11Processor.service(Http11Processor.java:800)
+	at org.apache.coyote.AbstractProcessorLight.process(AbstractProcessorLight.java:66)
+	at org.apache.coyote.AbstractProtocol$ConnectionHandler.process(AbstractProtocol.java:806)
+	at org.apache.tomcat.util.net.NioEndpoint$SocketProcessor.doRun(NioEndpoint.java:1498)
+	at org.apache.tomcat.util.net.SocketProcessorBase.run(SocketProcessorBase.java:49)
+	at java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1149)
+	at java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:624)
+	at org.apache.tomcat.util.threads.TaskThread$WrappingRunnable.run(TaskThread.java:61)
+	at java.lang.Thread.run(Thread.java:748)
+
+13-Jun-2020 14:04:02.480 SEVERE [http-nio-8082-exec-76] org.apache.catalina.core.StandardWrapperValve.invoke Servlet.service() for servlet [jsp] in context with path [/MuaBanNha] threw exception [Unable to compile class for JSP: 
+
+An error occurred at line: [419] in the generated java file: [D:\apache-tomcat-8.5.34\work\Catalina\localhost\MuaBanNha\org\apache\jsp\manager_005fproduct_005fAdmin_jsp.java]
+Syntax error, insert "}" to complete Block
+
+An error occurred at line: [436] in the generated java file: [D:\apache-tomcat-8.5.34\work\Catalina\localhost\MuaBanNha\org\apache\jsp\manager_005fproduct_005fAdmin_jsp.java]
+Syntax error on token "}", delete this token
+
+An error occurred at line: [437] in the generated java file: [D:\apache-tomcat-8.5.34\work\Catalina\localhost\MuaBanNha\org\apache\jsp\manager_005fproduct_005fAdmin_jsp.java]
+Syntax error, insert "}" to complete ClassBody
+
+Stacktrace:] with root cause
+ org.apache.jasper.JasperException: Unable to compile class for JSP: 
+
+An error occurred at line: [419] in the generated java file: [D:\apache-tomcat-8.5.34\work\Catalina\localhost\MuaBanNha\org\apache\jsp\manager_005fproduct_005fAdmin_jsp.java]
+Syntax error, insert "}" to complete Block
+
+An error occurred at line: [436] in the generated java file: [D:\apache-tomcat-8.5.34\work\Catalina\localhost\MuaBanNha\org\apache\jsp\manager_005fproduct_005fAdmin_jsp.java]
+Syntax error on token "}", delete this token
+
+An error occurred at line: [437] in the generated java file: [D:\apache-tomcat-8.5.34\work\Catalina\localhost\MuaBanNha\org\apache\jsp\manager_005fproduct_005fAdmin_jsp.java]
+Syntax error, insert "}" to complete ClassBody
+
+Stacktrace:
+	at org.apache.jasper.compiler.DefaultErrorHandler.javacError(DefaultErrorHandler.java:102)
+	at org.apache.jasper.compiler.ErrorDispatcher.javacError(ErrorDispatcher.java:212)
+	at org.apache.jasper.compiler.JDTCompiler.generateClass(JDTCompiler.java:495)
+	at org.apache.jasper.compiler.Compiler.compile(Compiler.java:378)
+	at org.apache.jasper.compiler.Compiler.compile(Compiler.java:350)
+	at org.apache.jasper.compiler.Compiler.compile(Compiler.java:334)
+	at org.apache.jasper.JspCompilationContext.compile(JspCompilationContext.java:595)
+	at org.apache.jasper.servlet.JspServletWrapper.service(JspServletWrapper.java:382)
+	at org.apache.jasper.servlet.JspServlet.serviceJspFile(JspServlet.java:386)
+	at org.apache.jasper.servlet.JspServlet.service(JspServlet.java:330)
+	at javax.servlet.http.HttpServlet.service(HttpServlet.java:742)
+	at org.apache.catalina.core.ApplicationFilterChain.internalDoFilter(ApplicationFilterChain.java:231)
+	at org.apache.catalina.core.ApplicationFilterChain.doFilter(ApplicationFilterChain.java:166)
+	at org.apache.tomcat.websocket.server.WsFilter.doFilter(WsFilter.java:52)
+	at org.apache.catalina.core.ApplicationFilterChain.internalDoFilter(ApplicationFilterChain.java:193)
+	at org.apache.catalina.core.ApplicationFilterChain.doFilter(ApplicationFilterChain.java:166)
+	at org.apache.catalina.core.StandardWrapperValve.invoke(StandardWrapperValve.java:198)
+	at org.apache.catalina.core.StandardContextValve.invoke(StandardContextValve.java:96)
+	at org.apache.catalina.authenticator.AuthenticatorBase.invoke(AuthenticatorBase.java:493)
+	at org.apache.catalina.core.StandardHostValve.invoke(StandardHostValve.java:140)
+	at org.apache.catalina.valves.ErrorReportValve.invoke(ErrorReportValve.java:81)
+	at org.apache.catalina.valves.AbstractAccessLogValve.invoke(AbstractAccessLogValve.java:650)
+	at org.apache.catalina.core.StandardEngineValve.invoke(StandardEngineValve.java:87)
+	at org.apache.catalina.connector.CoyoteAdapter.service(CoyoteAdapter.java:342)
+	at org.apache.coyote.http11.Http11Processor.service(Http11Processor.java:800)
+	at org.apache.coyote.AbstractProcessorLight.process(AbstractProcessorLight.java:66)
+	at org.apache.coyote.AbstractProtocol$ConnectionHandler.process(AbstractProtocol.java:806)
+	at org.apache.tomcat.util.net.NioEndpoint$SocketProcessor.doRun(NioEndpoint.java:1498)
+	at org.apache.tomcat.util.net.SocketProcessorBase.run(SocketProcessorBase.java:49)
+	at java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1149)
+	at java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:624)
+	at org.apache.tomcat.util.threads.TaskThread$WrappingRunnable.run(TaskThread.java:61)
+	at java.lang.Thread.run(Thread.java:748)
+
+13-Jun-2020 14:05:16.103 SEVERE [http-nio-8082-exec-92] org.apache.catalina.core.StandardWrapperValve.invoke Servlet.service() for servlet [jsp] in context with path [/MuaBanNha] threw exception [Unable to compile class for JSP: 
+
+An error occurred at line: [419] in the generated java file: [D:\apache-tomcat-8.5.34\work\Catalina\localhost\MuaBanNha\org\apache\jsp\manager_005fproduct_005fAdmin_jsp.java]
+Syntax error, insert "}" to complete Block
+
+An error occurred at line: [436] in the generated java file: [D:\apache-tomcat-8.5.34\work\Catalina\localhost\MuaBanNha\org\apache\jsp\manager_005fproduct_005fAdmin_jsp.java]
+Syntax error on token "}", delete this token
+
+An error occurred at line: [437] in the generated java file: [D:\apache-tomcat-8.5.34\work\Catalina\localhost\MuaBanNha\org\apache\jsp\manager_005fproduct_005fAdmin_jsp.java]
+Syntax error, insert "}" to complete ClassBody
+
+Stacktrace:] with root cause
+ org.apache.jasper.JasperException: Unable to compile class for JSP: 
+
+An error occurred at line: [419] in the generated java file: [D:\apache-tomcat-8.5.34\work\Catalina\localhost\MuaBanNha\org\apache\jsp\manager_005fproduct_005fAdmin_jsp.java]
+Syntax error, insert "}" to complete Block
+
+An error occurred at line: [436] in the generated java file: [D:\apache-tomcat-8.5.34\work\Catalina\localhost\MuaBanNha\org\apache\jsp\manager_005fproduct_005fAdmin_jsp.java]
+Syntax error on token "}", delete this token
+
+An error occurred at line: [437] in the generated java file: [D:\apache-tomcat-8.5.34\work\Catalina\localhost\MuaBanNha\org\apache\jsp\manager_005fproduct_005fAdmin_jsp.java]
+Syntax error, insert "}" to complete ClassBody
+
+Stacktrace:
+	at org.apache.jasper.compiler.DefaultErrorHandler.javacError(DefaultErrorHandler.java:102)
+	at org.apache.jasper.compiler.ErrorDispatcher.javacError(ErrorDispatcher.java:212)
+	at org.apache.jasper.compiler.JDTCompiler.generateClass(JDTCompiler.java:495)
+	at org.apache.jasper.compiler.Compiler.compile(Compiler.java:378)
+	at org.apache.jasper.compiler.Compiler.compile(Compiler.java:350)
+	at org.apache.jasper.compiler.Compiler.compile(Compiler.java:334)
+	at org.apache.jasper.JspCompilationContext.compile(JspCompilationContext.java:595)
+	at org.apache.jasper.servlet.JspServletWrapper.service(JspServletWrapper.java:382)
+	at org.apache.jasper.servlet.JspServlet.serviceJspFile(JspServlet.java:386)
+	at org.apache.jasper.servlet.JspServlet.service(JspServlet.java:330)
+	at javax.servlet.http.HttpServlet.service(HttpServlet.java:742)
+	at org.apache.catalina.core.ApplicationFilterChain.internalDoFilter(ApplicationFilterChain.java:231)
+	at org.apache.catalina.core.ApplicationFilterChain.doFilter(ApplicationFilterChain.java:166)
+	at org.apache.tomcat.websocket.server.WsFilter.doFilter(WsFilter.java:52)
+	at org.apache.catalina.core.ApplicationFilterChain.internalDoFilter(ApplicationFilterChain.java:193)
+	at org.apache.catalina.core.ApplicationFilterChain.doFilter(ApplicationFilterChain.java:166)
+	at org.apache.catalina.core.StandardWrapperValve.invoke(StandardWrapperValve.java:198)
+	at org.apache.catalina.core.StandardContextValve.invoke(StandardContextValve.java:96)
+	at org.apache.catalina.authenticator.AuthenticatorBase.invoke(AuthenticatorBase.java:493)
+	at org.apache.catalina.core.StandardHostValve.invoke(StandardHostValve.java:140)
+	at org.apache.catalina.valves.ErrorReportValve.invoke(ErrorReportValve.java:81)
+	at org.apache.catalina.valves.AbstractAccessLogValve.invoke(AbstractAccessLogValve.java:650)
+	at org.apache.catalina.core.StandardEngineValve.invoke(StandardEngineValve.java:87)
+	at org.apache.catalina.connector.CoyoteAdapter.service(CoyoteAdapter.java:342)
+	at org.apache.coyote.http11.Http11Processor.service(Http11Processor.java:800)
+	at org.apache.coyote.AbstractProcessorLight.process(AbstractProcessorLight.java:66)
+	at org.apache.coyote.AbstractProtocol$ConnectionHandler.process(AbstractProtocol.java:806)
+	at org.apache.tomcat.util.net.NioEndpoint$SocketProcessor.doRun(NioEndpoint.java:1498)
+	at org.apache.tomcat.util.net.SocketProcessorBase.run(SocketProcessorBase.java:49)
+	at java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1149)
+	at java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:624)
+	at org.apache.tomcat.util.threads.TaskThread$WrappingRunnable.run(TaskThread.java:61)
+	at java.lang.Thread.run(Thread.java:748)
+
+13-Jun-2020 14:05:19.598 SEVERE [http-nio-8082-exec-93] org.apache.catalina.core.StandardWrapperValve.invoke Servlet.service() for servlet [jsp] in context with path [/MuaBanNha] threw exception [java.lang.ClassNotFoundException: org.apache.jsp.manager_005fproduct_005fAdmin_jsp] with root cause
+ java.lang.ClassNotFoundException: org.apache.jsp.manager_005fproduct_005fAdmin_jsp
+	at java.net.URLClassLoader.findClass(URLClassLoader.java:381)
+	at org.apache.jasper.servlet.JasperLoader.loadClass(JasperLoader.java:129)
+	at org.apache.jasper.servlet.JasperLoader.loadClass(JasperLoader.java:60)
+	at org.apache.catalina.core.DefaultInstanceManager.newInstance(DefaultInstanceManager.java:159)
+	at org.apache.jasper.servlet.JspServletWrapper.getServlet(JspServletWrapper.java:185)
+	at org.apache.jasper.servlet.JspServletWrapper.service(JspServletWrapper.java:394)
+	at org.apache.jasper.servlet.JspServlet.serviceJspFile(JspServlet.java:386)
+	at org.apache.jasper.servlet.JspServlet.service(JspServlet.java:330)
+	at javax.servlet.http.HttpServlet.service(HttpServlet.java:742)
+	at org.apache.catalina.core.ApplicationFilterChain.internalDoFilter(ApplicationFilterChain.java:231)
+	at org.apache.catalina.core.ApplicationFilterChain.doFilter(ApplicationFilterChain.java:166)
+	at org.apache.tomcat.websocket.server.WsFilter.doFilter(WsFilter.java:52)
+	at org.apache.catalina.core.ApplicationFilterChain.internalDoFilter(ApplicationFilterChain.java:193)
+	at org.apache.catalina.core.ApplicationFilterChain.doFilter(ApplicationFilterChain.java:166)
+	at org.apache.catalina.core.StandardWrapperValve.invoke(StandardWrapperValve.java:198)
+	at org.apache.catalina.core.StandardContextValve.invoke(StandardContextValve.java:96)
+	at org.apache.catalina.authenticator.AuthenticatorBase.invoke(AuthenticatorBase.java:493)
+	at org.apache.catalina.core.StandardHostValve.invoke(StandardHostValve.java:140)
+	at org.apache.catalina.valves.ErrorReportValve.invoke(ErrorReportValve.java:81)
+	at org.apache.catalina.valves.AbstractAccessLogValve.invoke(AbstractAccessLogValve.java:650)
+	at org.apache.catalina.core.StandardEngineValve.invoke(StandardEngineValve.java:87)
+	at org.apache.catalina.connector.CoyoteAdapter.service(CoyoteAdapter.java:342)
+	at org.apache.coyote.http11.Http11Processor.service(Http11Processor.java:800)
+	at org.apache.coyote.AbstractProcessorLight.process(AbstractProcessorLight.java:66)
+	at org.apache.coyote.AbstractProtocol$ConnectionHandler.process(AbstractProtocol.java:806)
+	at org.apache.tomcat.util.net.NioEndpoint$SocketProcessor.doRun(NioEndpoint.java:1498)
+	at org.apache.tomcat.util.net.SocketProcessorBase.run(SocketProcessorBase.java:49)
+	at java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1149)
+	at java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:624)
+	at org.apache.tomcat.util.threads.TaskThread$WrappingRunnable.run(TaskThread.java:61)
+	at java.lang.Thread.run(Thread.java:748)
+
+13-Jun-2020 14:07:57.634 SEVERE [http-nio-8082-exec-94] org.apache.catalina.core.StandardWrapperValve.invoke Servlet.service() for servlet [jsp] in context with path [/MuaBanNha] threw exception [Unable to compile class for JSP: 
+
+An error occurred at line: [387] in the generated java file: [D:\apache-tomcat-8.5.34\work\Catalina\localhost\MuaBanNha\org\apache\jsp\manager_005fproduct_005fAdmin_jsp.java]
+Syntax error, insert "}" to complete Block
+
+An error occurred at line: [404] in the generated java file: [D:\apache-tomcat-8.5.34\work\Catalina\localhost\MuaBanNha\org\apache\jsp\manager_005fproduct_005fAdmin_jsp.java]
+Syntax error on token "}", delete this token
+
+An error occurred at line: [405] in the generated java file: [D:\apache-tomcat-8.5.34\work\Catalina\localhost\MuaBanNha\org\apache\jsp\manager_005fproduct_005fAdmin_jsp.java]
+Syntax error, insert "}" to complete ClassBody
+
+Stacktrace:] with root cause
+ org.apache.jasper.JasperException: Unable to compile class for JSP: 
+
+An error occurred at line: [387] in the generated java file: [D:\apache-tomcat-8.5.34\work\Catalina\localhost\MuaBanNha\org\apache\jsp\manager_005fproduct_005fAdmin_jsp.java]
+Syntax error, insert "}" to complete Block
+
+An error occurred at line: [404] in the generated java file: [D:\apache-tomcat-8.5.34\work\Catalina\localhost\MuaBanNha\org\apache\jsp\manager_005fproduct_005fAdmin_jsp.java]
+Syntax error on token "}", delete this token
+
+An error occurred at line: [405] in the generated java file: [D:\apache-tomcat-8.5.34\work\Catalina\localhost\MuaBanNha\org\apache\jsp\manager_005fproduct_005fAdmin_jsp.java]
+Syntax error, insert "}" to complete ClassBody
+
+Stacktrace:
+	at org.apache.jasper.compiler.DefaultErrorHandler.javacError(DefaultErrorHandler.java:102)
+	at org.apache.jasper.compiler.ErrorDispatcher.javacError(ErrorDispatcher.java:212)
+	at org.apache.jasper.compiler.JDTCompiler.generateClass(JDTCompiler.java:495)
+	at org.apache.jasper.compiler.Compiler.compile(Compiler.java:378)
+	at org.apache.jasper.compiler.Compiler.compile(Compiler.java:350)
+	at org.apache.jasper.compiler.Compiler.compile(Compiler.java:334)
+	at org.apache.jasper.JspCompilationContext.compile(JspCompilationContext.java:595)
+	at org.apache.jasper.servlet.JspServletWrapper.service(JspServletWrapper.java:382)
+	at org.apache.jasper.servlet.JspServlet.serviceJspFile(JspServlet.java:386)
+	at org.apache.jasper.servlet.JspServlet.service(JspServlet.java:330)
+	at javax.servlet.http.HttpServlet.service(HttpServlet.java:742)
+	at org.apache.catalina.core.ApplicationFilterChain.internalDoFilter(ApplicationFilterChain.java:231)
+	at org.apache.catalina.core.ApplicationFilterChain.doFilter(ApplicationFilterChain.java:166)
+	at org.apache.tomcat.websocket.server.WsFilter.doFilter(WsFilter.java:52)
+	at org.apache.catalina.core.ApplicationFilterChain.internalDoFilter(ApplicationFilterChain.java:193)
+	at org.apache.catalina.core.ApplicationFilterChain.doFilter(ApplicationFilterChain.java:166)
+	at org.apache.catalina.core.StandardWrapperValve.invoke(StandardWrapperValve.java:198)
+	at org.apache.catalina.core.StandardContextValve.invoke(StandardContextValve.java:96)
+	at org.apache.catalina.authenticator.AuthenticatorBase.invoke(AuthenticatorBase.java:493)
+	at org.apache.catalina.core.StandardHostValve.invoke(StandardHostValve.java:140)
+	at org.apache.catalina.valves.ErrorReportValve.invoke(ErrorReportValve.java:81)
+	at org.apache.catalina.valves.AbstractAccessLogValve.invoke(AbstractAccessLogValve.java:650)
+	at org.apache.catalina.core.StandardEngineValve.invoke(StandardEngineValve.java:87)
+	at org.apache.catalina.connector.CoyoteAdapter.service(CoyoteAdapter.java:342)
+	at org.apache.coyote.http11.Http11Processor.service(Http11Processor.java:800)
+	at org.apache.coyote.AbstractProcessorLight.process(AbstractProcessorLight.java:66)
+	at org.apache.coyote.AbstractProtocol$ConnectionHandler.process(AbstractProtocol.java:806)
+	at org.apache.tomcat.util.net.NioEndpoint$SocketProcessor.doRun(NioEndpoint.java:1498)
+	at org.apache.tomcat.util.net.SocketProcessorBase.run(SocketProcessorBase.java:49)
+	at java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1149)
+	at java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:624)
+	at org.apache.tomcat.util.threads.TaskThread$WrappingRunnable.run(TaskThread.java:61)
+	at java.lang.Thread.run(Thread.java:748)
+
+13-Jun-2020 14:09:07.734 SEVERE [http-nio-8082-exec-92] org.apache.catalina.core.StandardWrapperValve.invoke Servlet.service() for servlet [jsp] in context with path [/MuaBanNha] threw exception [Unable to compile class for JSP: 
+
+An error occurred at line: [387] in the generated java file: [D:\apache-tomcat-8.5.34\work\Catalina\localhost\MuaBanNha\org\apache\jsp\manager_005fproduct_005fAdmin_jsp.java]
+Syntax error, insert "}" to complete Block
+
+An error occurred at line: [404] in the generated java file: [D:\apache-tomcat-8.5.34\work\Catalina\localhost\MuaBanNha\org\apache\jsp\manager_005fproduct_005fAdmin_jsp.java]
+Syntax error on token "}", delete this token
+
+An error occurred at line: [405] in the generated java file: [D:\apache-tomcat-8.5.34\work\Catalina\localhost\MuaBanNha\org\apache\jsp\manager_005fproduct_005fAdmin_jsp.java]
+Syntax error, insert "}" to complete ClassBody
+
+Stacktrace:] with root cause
+ org.apache.jasper.JasperException: Unable to compile class for JSP: 
+
+An error occurred at line: [387] in the generated java file: [D:\apache-tomcat-8.5.34\work\Catalina\localhost\MuaBanNha\org\apache\jsp\manager_005fproduct_005fAdmin_jsp.java]
+Syntax error, insert "}" to complete Block
+
+An error occurred at line: [404] in the generated java file: [D:\apache-tomcat-8.5.34\work\Catalina\localhost\MuaBanNha\org\apache\jsp\manager_005fproduct_005fAdmin_jsp.java]
+Syntax error on token "}", delete this token
+
+An error occurred at line: [405] in the generated java file: [D:\apache-tomcat-8.5.34\work\Catalina\localhost\MuaBanNha\org\apache\jsp\manager_005fproduct_005fAdmin_jsp.java]
+Syntax error, insert "}" to complete ClassBody
+
+Stacktrace:
+	at org.apache.jasper.compiler.DefaultErrorHandler.javacError(DefaultErrorHandler.java:102)
+	at org.apache.jasper.compiler.ErrorDispatcher.javacError(ErrorDispatcher.java:212)
+	at org.apache.jasper.compiler.JDTCompiler.generateClass(JDTCompiler.java:495)
+	at org.apache.jasper.compiler.Compiler.compile(Compiler.java:378)
+	at org.apache.jasper.compiler.Compiler.compile(Compiler.java:350)
+	at org.apache.jasper.compiler.Compiler.compile(Compiler.java:334)
+	at org.apache.jasper.JspCompilationContext.compile(JspCompilationContext.java:595)
+	at org.apache.jasper.servlet.JspServletWrapper.service(JspServletWrapper.java:382)
+	at org.apache.jasper.servlet.JspServlet.serviceJspFile(JspServlet.java:386)
+	at org.apache.jasper.servlet.JspServlet.service(JspServlet.java:330)
+	at javax.servlet.http.HttpServlet.service(HttpServlet.java:742)
+	at org.apache.catalina.core.ApplicationFilterChain.internalDoFilter(ApplicationFilterChain.java:231)
+	at org.apache.catalina.core.ApplicationFilterChain.doFilter(ApplicationFilterChain.java:166)
+	at org.apache.tomcat.websocket.server.WsFilter.doFilter(WsFilter.java:52)
+	at org.apache.catalina.core.ApplicationFilterChain.internalDoFilter(ApplicationFilterChain.java:193)
+	at org.apache.catalina.core.ApplicationFilterChain.doFilter(ApplicationFilterChain.java:166)
+	at org.apache.catalina.core.StandardWrapperValve.invoke(StandardWrapperValve.java:198)
+	at org.apache.catalina.core.StandardContextValve.invoke(StandardContextValve.java:96)
+	at org.apache.catalina.authenticator.AuthenticatorBase.invoke(AuthenticatorBase.java:493)
+	at org.apache.catalina.core.StandardHostValve.invoke(StandardHostValve.java:140)
+	at org.apache.catalina.valves.ErrorReportValve.invoke(ErrorReportValve.java:81)
+	at org.apache.catalina.valves.AbstractAccessLogValve.invoke(AbstractAccessLogValve.java:650)
+	at org.apache.catalina.core.StandardEngineValve.invoke(StandardEngineValve.java:87)
+	at org.apache.catalina.connector.CoyoteAdapter.service(CoyoteAdapter.java:342)
+	at org.apache.coyote.http11.Http11Processor.service(Http11Processor.java:800)
+	at org.apache.coyote.AbstractProcessorLight.process(AbstractProcessorLight.java:66)
+	at org.apache.coyote.AbstractProtocol$ConnectionHandler.process(AbstractProtocol.java:806)
+	at org.apache.tomcat.util.net.NioEndpoint$SocketProcessor.doRun(NioEndpoint.java:1498)
+	at org.apache.tomcat.util.net.SocketProcessorBase.run(SocketProcessorBase.java:49)
+	at java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1149)
+	at java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:624)
+	at org.apache.tomcat.util.threads.TaskThread$WrappingRunnable.run(TaskThread.java:61)
+	at java.lang.Thread.run(Thread.java:748)
+
+13-Jun-2020 14:09:54.551 SEVERE [http-nio-8082-exec-89] org.apache.catalina.core.StandardWrapperValve.invoke Servlet.service() for servlet [jsp] in context with path [/MuaBanNha] threw exception [Unable to compile class for JSP: 
+
+An error occurred at line: [419] in the generated java file: [D:\apache-tomcat-8.5.34\work\Catalina\localhost\MuaBanNha\org\apache\jsp\manager_005fproduct_005fAdmin_jsp.java]
+Syntax error, insert "}" to complete Block
+
+An error occurred at line: [436] in the generated java file: [D:\apache-tomcat-8.5.34\work\Catalina\localhost\MuaBanNha\org\apache\jsp\manager_005fproduct_005fAdmin_jsp.java]
+Syntax error on token "}", delete this token
+
+An error occurred at line: [437] in the generated java file: [D:\apache-tomcat-8.5.34\work\Catalina\localhost\MuaBanNha\org\apache\jsp\manager_005fproduct_005fAdmin_jsp.java]
+Syntax error, insert "}" to complete ClassBody
+
+Stacktrace:] with root cause
+ org.apache.jasper.JasperException: Unable to compile class for JSP: 
+
+An error occurred at line: [419] in the generated java file: [D:\apache-tomcat-8.5.34\work\Catalina\localhost\MuaBanNha\org\apache\jsp\manager_005fproduct_005fAdmin_jsp.java]
+Syntax error, insert "}" to complete Block
+
+An error occurred at line: [436] in the generated java file: [D:\apache-tomcat-8.5.34\work\Catalina\localhost\MuaBanNha\org\apache\jsp\manager_005fproduct_005fAdmin_jsp.java]
+Syntax error on token "}", delete this token
+
+An error occurred at line: [437] in the generated java file: [D:\apache-tomcat-8.5.34\work\Catalina\localhost\MuaBanNha\org\apache\jsp\manager_005fproduct_005fAdmin_jsp.java]
+Syntax error, insert "}" to complete ClassBody
+
+Stacktrace:
+	at org.apache.jasper.compiler.DefaultErrorHandler.javacError(DefaultErrorHandler.java:102)
+	at org.apache.jasper.compiler.ErrorDispatcher.javacError(ErrorDispatcher.java:212)
+	at org.apache.jasper.compiler.JDTCompiler.generateClass(JDTCompiler.java:495)
+	at org.apache.jasper.compiler.Compiler.compile(Compiler.java:378)
+	at org.apache.jasper.compiler.Compiler.compile(Compiler.java:350)
+	at org.apache.jasper.compiler.Compiler.compile(Compiler.java:334)
+	at org.apache.jasper.JspCompilationContext.compile(JspCompilationContext.java:595)
+	at org.apache.jasper.servlet.JspServletWrapper.service(JspServletWrapper.java:382)
+	at org.apache.jasper.servlet.JspServlet.serviceJspFile(JspServlet.java:386)
+	at org.apache.jasper.servlet.JspServlet.service(JspServlet.java:330)
+	at javax.servlet.http.HttpServlet.service(HttpServlet.java:742)
+	at org.apache.catalina.core.ApplicationFilterChain.internalDoFilter(ApplicationFilterChain.java:231)
+	at org.apache.catalina.core.ApplicationFilterChain.doFilter(ApplicationFilterChain.java:166)
+	at org.apache.tomcat.websocket.server.WsFilter.doFilter(WsFilter.java:52)
+	at org.apache.catalina.core.ApplicationFilterChain.internalDoFilter(ApplicationFilterChain.java:193)
+	at org.apache.catalina.core.ApplicationFilterChain.doFilter(ApplicationFilterChain.java:166)
+	at org.apache.catalina.core.StandardWrapperValve.invoke(StandardWrapperValve.java:198)
+	at org.apache.catalina.core.StandardContextValve.invoke(StandardContextValve.java:96)
+	at org.apache.catalina.authenticator.AuthenticatorBase.invoke(AuthenticatorBase.java:493)
+	at org.apache.catalina.core.StandardHostValve.invoke(StandardHostValve.java:140)
+	at org.apache.catalina.valves.ErrorReportValve.invoke(ErrorReportValve.java:81)
+	at org.apache.catalina.valves.AbstractAccessLogValve.invoke(AbstractAccessLogValve.java:650)
+	at org.apache.catalina.core.StandardEngineValve.invoke(StandardEngineValve.java:87)
+	at org.apache.catalina.connector.CoyoteAdapter.service(CoyoteAdapter.java:342)
+	at org.apache.coyote.http11.Http11Processor.service(Http11Processor.java:800)
+	at org.apache.coyote.AbstractProcessorLight.process(AbstractProcessorLight.java:66)
+	at org.apache.coyote.AbstractProtocol$ConnectionHandler.process(AbstractProtocol.java:806)
+	at org.apache.tomcat.util.net.NioEndpoint$SocketProcessor.doRun(NioEndpoint.java:1498)
+	at org.apache.tomcat.util.net.SocketProcessorBase.run(SocketProcessorBase.java:49)
+	at java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1149)
+	at java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:624)
+	at org.apache.tomcat.util.threads.TaskThread$WrappingRunnable.run(TaskThread.java:61)
+	at java.lang.Thread.run(Thread.java:748)
+
+13-Jun-2020 14:09:58.287 SEVERE [http-nio-8082-exec-88] org.apache.catalina.core.StandardWrapperValve.invoke Servlet.service() for servlet [jsp] in context with path [/MuaBanNha] threw exception [java.lang.ClassNotFoundException: org.apache.jsp.manager_005fproduct_005fAdmin_jsp] with root cause
+ java.lang.ClassNotFoundException: org.apache.jsp.manager_005fproduct_005fAdmin_jsp
+	at java.net.URLClassLoader.findClass(URLClassLoader.java:381)
+	at org.apache.jasper.servlet.JasperLoader.loadClass(JasperLoader.java:129)
+	at org.apache.jasper.servlet.JasperLoader.loadClass(JasperLoader.java:60)
+	at org.apache.catalina.core.DefaultInstanceManager.newInstance(DefaultInstanceManager.java:159)
+	at org.apache.jasper.servlet.JspServletWrapper.getServlet(JspServletWrapper.java:185)
+	at org.apache.jasper.servlet.JspServletWrapper.service(JspServletWrapper.java:394)
+	at org.apache.jasper.servlet.JspServlet.serviceJspFile(JspServlet.java:386)
+	at org.apache.jasper.servlet.JspServlet.service(JspServlet.java:330)
+	at javax.servlet.http.HttpServlet.service(HttpServlet.java:742)
+	at org.apache.catalina.core.ApplicationFilterChain.internalDoFilter(ApplicationFilterChain.java:231)
+	at org.apache.catalina.core.ApplicationFilterChain.doFilter(ApplicationFilterChain.java:166)
+	at org.apache.tomcat.websocket.server.WsFilter.doFilter(WsFilter.java:52)
+	at org.apache.catalina.core.ApplicationFilterChain.internalDoFilter(ApplicationFilterChain.java:193)
+	at org.apache.catalina.core.ApplicationFilterChain.doFilter(ApplicationFilterChain.java:166)
+	at org.apache.catalina.core.StandardWrapperValve.invoke(StandardWrapperValve.java:198)
+	at org.apache.catalina.core.StandardContextValve.invoke(StandardContextValve.java:96)
+	at org.apache.catalina.authenticator.AuthenticatorBase.invoke(AuthenticatorBase.java:493)
+	at org.apache.catalina.core.StandardHostValve.invoke(StandardHostValve.java:140)
+	at org.apache.catalina.valves.ErrorReportValve.invoke(ErrorReportValve.java:81)
+	at org.apache.catalina.valves.AbstractAccessLogValve.invoke(AbstractAccessLogValve.java:650)
+	at org.apache.catalina.core.StandardEngineValve.invoke(StandardEngineValve.java:87)
+	at org.apache.catalina.connector.CoyoteAdapter.service(CoyoteAdapter.java:342)
+	at org.apache.coyote.http11.Http11Processor.service(Http11Processor.java:800)
+	at org.apache.coyote.AbstractProcessorLight.process(AbstractProcessorLight.java:66)
+	at org.apache.coyote.AbstractProtocol$ConnectionHandler.process(AbstractProtocol.java:806)
+	at org.apache.tomcat.util.net.NioEndpoint$SocketProcessor.doRun(NioEndpoint.java:1498)
+	at org.apache.tomcat.util.net.SocketProcessorBase.run(SocketProcessorBase.java:49)
+	at java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1149)
+	at java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:624)
+	at org.apache.tomcat.util.threads.TaskThread$WrappingRunnable.run(TaskThread.java:61)
+	at java.lang.Thread.run(Thread.java:748)
+
+13-Jun-2020 14:11:12.955 SEVERE [http-nio-8082-exec-91] org.apache.catalina.core.StandardWrapperValve.invoke Servlet.service() for servlet [jsp] in context with path [/MuaBanNha] threw exception [Unable to compile class for JSP: 
+
+An error occurred at line: [395] in the generated java file: [D:\apache-tomcat-8.5.34\work\Catalina\localhost\MuaBanNha\org\apache\jsp\manager_005fproduct_005fAdmin_jsp.java]
+Syntax error, insert "}" to complete Block
+
+An error occurred at line: [412] in the generated java file: [D:\apache-tomcat-8.5.34\work\Catalina\localhost\MuaBanNha\org\apache\jsp\manager_005fproduct_005fAdmin_jsp.java]
+Syntax error on token "}", delete this token
+
+An error occurred at line: [413] in the generated java file: [D:\apache-tomcat-8.5.34\work\Catalina\localhost\MuaBanNha\org\apache\jsp\manager_005fproduct_005fAdmin_jsp.java]
+Syntax error, insert "}" to complete ClassBody
+
+Stacktrace:] with root cause
+ org.apache.jasper.JasperException: Unable to compile class for JSP: 
+
+An error occurred at line: [395] in the generated java file: [D:\apache-tomcat-8.5.34\work\Catalina\localhost\MuaBanNha\org\apache\jsp\manager_005fproduct_005fAdmin_jsp.java]
+Syntax error, insert "}" to complete Block
+
+An error occurred at line: [412] in the generated java file: [D:\apache-tomcat-8.5.34\work\Catalina\localhost\MuaBanNha\org\apache\jsp\manager_005fproduct_005fAdmin_jsp.java]
+Syntax error on token "}", delete this token
+
+An error occurred at line: [413] in the generated java file: [D:\apache-tomcat-8.5.34\work\Catalina\localhost\MuaBanNha\org\apache\jsp\manager_005fproduct_005fAdmin_jsp.java]
+Syntax error, insert "}" to complete ClassBody
+
+Stacktrace:
+	at org.apache.jasper.compiler.DefaultErrorHandler.javacError(DefaultErrorHandler.java:102)
+	at org.apache.jasper.compiler.ErrorDispatcher.javacError(ErrorDispatcher.java:212)
+	at org.apache.jasper.compiler.JDTCompiler.generateClass(JDTCompiler.java:495)
+	at org.apache.jasper.compiler.Compiler.compile(Compiler.java:378)
+	at org.apache.jasper.compiler.Compiler.compile(Compiler.java:350)
+	at org.apache.jasper.compiler.Compiler.compile(Compiler.java:334)
+	at org.apache.jasper.JspCompilationContext.compile(JspCompilationContext.java:595)
+	at org.apache.jasper.servlet.JspServletWrapper.service(JspServletWrapper.java:382)
+	at org.apache.jasper.servlet.JspServlet.serviceJspFile(JspServlet.java:386)
+	at org.apache.jasper.servlet.JspServlet.service(JspServlet.java:330)
+	at javax.servlet.http.HttpServlet.service(HttpServlet.java:742)
+	at org.apache.catalina.core.ApplicationFilterChain.internalDoFilter(ApplicationFilterChain.java:231)
+	at org.apache.catalina.core.ApplicationFilterChain.doFilter(ApplicationFilterChain.java:166)
+	at org.apache.tomcat.websocket.server.WsFilter.doFilter(WsFilter.java:52)
+	at org.apache.catalina.core.ApplicationFilterChain.internalDoFilter(ApplicationFilterChain.java:193)
+	at org.apache.catalina.core.ApplicationFilterChain.doFilter(ApplicationFilterChain.java:166)
+	at org.apache.catalina.core.StandardWrapperValve.invoke(StandardWrapperValve.java:198)
+	at org.apache.catalina.core.StandardContextValve.invoke(StandardContextValve.java:96)
+	at org.apache.catalina.authenticator.AuthenticatorBase.invoke(AuthenticatorBase.java:493)
+	at org.apache.catalina.core.StandardHostValve.invoke(StandardHostValve.java:140)
+	at org.apache.catalina.valves.ErrorReportValve.invoke(ErrorReportValve.java:81)
+	at org.apache.catalina.valves.AbstractAccessLogValve.invoke(AbstractAccessLogValve.java:650)
+	at org.apache.catalina.core.StandardEngineValve.invoke(StandardEngineValve.java:87)
+	at org.apache.catalina.connector.CoyoteAdapter.service(CoyoteAdapter.java:342)
+	at org.apache.coyote.http11.Http11Processor.service(Http11Processor.java:800)
+	at org.apache.coyote.AbstractProcessorLight.process(AbstractProcessorLight.java:66)
+	at org.apache.coyote.AbstractProtocol$ConnectionHandler.process(AbstractProtocol.java:806)
+	at org.apache.tomcat.util.net.NioEndpoint$SocketProcessor.doRun(NioEndpoint.java:1498)
+	at org.apache.tomcat.util.net.SocketProcessorBase.run(SocketProcessorBase.java:49)
+	at java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1149)
+	at java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:624)
+	at org.apache.tomcat.util.threads.TaskThread$WrappingRunnable.run(TaskThread.java:61)
+	at java.lang.Thread.run(Thread.java:748)
+
+13-Jun-2020 14:11:15.254 SEVERE [http-nio-8082-exec-89] org.apache.catalina.core.StandardWrapperValve.invoke Servlet.service() for servlet [jsp] in context with path [/MuaBanNha] threw exception [java.lang.ClassNotFoundException: org.apache.jsp.manager_005fproduct_005fAdmin_jsp] with root cause
+ java.lang.ClassNotFoundException: org.apache.jsp.manager_005fproduct_005fAdmin_jsp
+	at java.net.URLClassLoader.findClass(URLClassLoader.java:381)
+	at org.apache.jasper.servlet.JasperLoader.loadClass(JasperLoader.java:129)
+	at org.apache.jasper.servlet.JasperLoader.loadClass(JasperLoader.java:60)
+	at org.apache.catalina.core.DefaultInstanceManager.newInstance(DefaultInstanceManager.java:159)
+	at org.apache.jasper.servlet.JspServletWrapper.getServlet(JspServletWrapper.java:185)
+	at org.apache.jasper.servlet.JspServletWrapper.service(JspServletWrapper.java:394)
+	at org.apache.jasper.servlet.JspServlet.serviceJspFile(JspServlet.java:386)
+	at org.apache.jasper.servlet.JspServlet.service(JspServlet.java:330)
+	at javax.servlet.http.HttpServlet.service(HttpServlet.java:742)
+	at org.apache.catalina.core.ApplicationFilterChain.internalDoFilter(ApplicationFilterChain.java:231)
+	at org.apache.catalina.core.ApplicationFilterChain.doFilter(ApplicationFilterChain.java:166)
+	at org.apache.tomcat.websocket.server.WsFilter.doFilter(WsFilter.java:52)
+	at org.apache.catalina.core.ApplicationFilterChain.internalDoFilter(ApplicationFilterChain.java:193)
+	at org.apache.catalina.core.ApplicationFilterChain.doFilter(ApplicationFilterChain.java:166)
+	at org.apache.catalina.core.StandardWrapperValve.invoke(StandardWrapperValve.java:198)
+	at org.apache.catalina.core.StandardContextValve.invoke(StandardContextValve.java:96)
+	at org.apache.catalina.authenticator.AuthenticatorBase.invoke(AuthenticatorBase.java:493)
+	at org.apache.catalina.core.StandardHostValve.invoke(StandardHostValve.java:140)
+	at org.apache.catalina.valves.ErrorReportValve.invoke(ErrorReportValve.java:81)
+	at org.apache.catalina.valves.AbstractAccessLogValve.invoke(AbstractAccessLogValve.java:650)
+	at org.apache.catalina.core.StandardEngineValve.invoke(StandardEngineValve.java:87)
+	at org.apache.catalina.connector.CoyoteAdapter.service(CoyoteAdapter.java:342)
+	at org.apache.coyote.http11.Http11Processor.service(Http11Processor.java:800)
+	at org.apache.coyote.AbstractProcessorLight.process(AbstractProcessorLight.java:66)
+	at org.apache.coyote.AbstractProtocol$ConnectionHandler.process(AbstractProtocol.java:806)
+	at org.apache.tomcat.util.net.NioEndpoint$SocketProcessor.doRun(NioEndpoint.java:1498)
+	at org.apache.tomcat.util.net.SocketProcessorBase.run(SocketProcessorBase.java:49)
+	at java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1149)
+	at java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:624)
+	at org.apache.tomcat.util.threads.TaskThread$WrappingRunnable.run(TaskThread.java:61)
+	at java.lang.Thread.run(Thread.java:748)
+
+13-Jun-2020 14:11:17.122 SEVERE [http-nio-8082-exec-88] org.apache.catalina.core.StandardWrapperValve.invoke Servlet.service() for servlet [jsp] in context with path [/MuaBanNha] threw exception [Unable to compile class for JSP: 
+
+An error occurred at line: [395] in the generated java file: [D:\apache-tomcat-8.5.34\work\Catalina\localhost\MuaBanNha\org\apache\jsp\manager_005fproduct_005fAdmin_jsp.java]
+Syntax error, insert "}" to complete Block
+
+An error occurred at line: [412] in the generated java file: [D:\apache-tomcat-8.5.34\work\Catalina\localhost\MuaBanNha\org\apache\jsp\manager_005fproduct_005fAdmin_jsp.java]
+Syntax error on token "}", delete this token
+
+An error occurred at line: [413] in the generated java file: [D:\apache-tomcat-8.5.34\work\Catalina\localhost\MuaBanNha\org\apache\jsp\manager_005fproduct_005fAdmin_jsp.java]
+Syntax error, insert "}" to complete ClassBody
+
+Stacktrace:] with root cause
+ org.apache.jasper.JasperException: Unable to compile class for JSP: 
+
+An error occurred at line: [395] in the generated java file: [D:\apache-tomcat-8.5.34\work\Catalina\localhost\MuaBanNha\org\apache\jsp\manager_005fproduct_005fAdmin_jsp.java]
+Syntax error, insert "}" to complete Block
+
+An error occurred at line: [412] in the generated java file: [D:\apache-tomcat-8.5.34\work\Catalina\localhost\MuaBanNha\org\apache\jsp\manager_005fproduct_005fAdmin_jsp.java]
+Syntax error on token "}", delete this token
+
+An error occurred at line: [413] in the generated java file: [D:\apache-tomcat-8.5.34\work\Catalina\localhost\MuaBanNha\org\apache\jsp\manager_005fproduct_005fAdmin_jsp.java]
+Syntax error, insert "}" to complete ClassBody
+
+Stacktrace:
+	at org.apache.jasper.compiler.DefaultErrorHandler.javacError(DefaultErrorHandler.java:102)
+	at org.apache.jasper.compiler.ErrorDispatcher.javacError(ErrorDispatcher.java:212)
+	at org.apache.jasper.compiler.JDTCompiler.generateClass(JDTCompiler.java:495)
+	at org.apache.jasper.compiler.Compiler.compile(Compiler.java:378)
+	at org.apache.jasper.compiler.Compiler.compile(Compiler.java:350)
+	at org.apache.jasper.compiler.Compiler.compile(Compiler.java:334)
+	at org.apache.jasper.JspCompilationContext.compile(JspCompilationContext.java:595)
+	at org.apache.jasper.servlet.JspServletWrapper.service(JspServletWrapper.java:382)
+	at org.apache.jasper.servlet.JspServlet.serviceJspFile(JspServlet.java:386)
+	at org.apache.jasper.servlet.JspServlet.service(JspServlet.java:330)
+	at javax.servlet.http.HttpServlet.service(HttpServlet.java:742)
+	at org.apache.catalina.core.ApplicationFilterChain.internalDoFilter(ApplicationFilterChain.java:231)
+	at org.apache.catalina.core.ApplicationFilterChain.doFilter(ApplicationFilterChain.java:166)
+	at org.apache.tomcat.websocket.server.WsFilter.doFilter(WsFilter.java:52)
+	at org.apache.catalina.core.ApplicationFilterChain.internalDoFilter(ApplicationFilterChain.java:193)
+	at org.apache.catalina.core.ApplicationFilterChain.doFilter(ApplicationFilterChain.java:166)
+	at org.apache.catalina.core.StandardWrapperValve.invoke(StandardWrapperValve.java:198)
+	at org.apache.catalina.core.StandardContextValve.invoke(StandardContextValve.java:96)
+	at org.apache.catalina.authenticator.AuthenticatorBase.invoke(AuthenticatorBase.java:493)
+	at org.apache.catalina.core.StandardHostValve.invoke(StandardHostValve.java:140)
+	at org.apache.catalina.valves.ErrorReportValve.invoke(ErrorReportValve.java:81)
+	at org.apache.catalina.valves.AbstractAccessLogValve.invoke(AbstractAccessLogValve.java:650)
+	at org.apache.catalina.core.StandardEngineValve.invoke(StandardEngineValve.java:87)
+	at org.apache.catalina.connector.CoyoteAdapter.service(CoyoteAdapter.java:342)
+	at org.apache.coyote.http11.Http11Processor.service(Http11Processor.java:800)
+	at org.apache.coyote.AbstractProcessorLight.process(AbstractProcessorLight.java:66)
+	at org.apache.coyote.AbstractProtocol$ConnectionHandler.process(AbstractProtocol.java:806)
+	at org.apache.tomcat.util.net.NioEndpoint$SocketProcessor.doRun(NioEndpoint.java:1498)
+	at org.apache.tomcat.util.net.SocketProcessorBase.run(SocketProcessorBase.java:49)
+	at java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1149)
+	at java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:624)
+	at org.apache.tomcat.util.threads.TaskThread$WrappingRunnable.run(TaskThread.java:61)
+	at java.lang.Thread.run(Thread.java:748)
+
+13-Jun-2020 14:11:18.161 SEVERE [http-nio-8082-exec-92] org.apache.catalina.core.StandardWrapperValve.invoke Servlet.service() for servlet [jsp] in context with path [/MuaBanNha] threw exception [java.lang.ClassNotFoundException: org.apache.jsp.manager_005fproduct_005fAdmin_jsp] with root cause
+ java.lang.ClassNotFoundException: org.apache.jsp.manager_005fproduct_005fAdmin_jsp
+	at java.net.URLClassLoader.findClass(URLClassLoader.java:381)
+	at org.apache.jasper.servlet.JasperLoader.loadClass(JasperLoader.java:129)
+	at org.apache.jasper.servlet.JasperLoader.loadClass(JasperLoader.java:60)
+	at org.apache.catalina.core.DefaultInstanceManager.newInstance(DefaultInstanceManager.java:159)
+	at org.apache.jasper.servlet.JspServletWrapper.getServlet(JspServletWrapper.java:185)
+	at org.apache.jasper.servlet.JspServletWrapper.service(JspServletWrapper.java:394)
+	at org.apache.jasper.servlet.JspServlet.serviceJspFile(JspServlet.java:386)
+	at org.apache.jasper.servlet.JspServlet.service(JspServlet.java:330)
+	at javax.servlet.http.HttpServlet.service(HttpServlet.java:742)
+	at org.apache.catalina.core.ApplicationFilterChain.internalDoFilter(ApplicationFilterChain.java:231)
+	at org.apache.catalina.core.ApplicationFilterChain.doFilter(ApplicationFilterChain.java:166)
+	at org.apache.tomcat.websocket.server.WsFilter.doFilter(WsFilter.java:52)
+	at org.apache.catalina.core.ApplicationFilterChain.internalDoFilter(ApplicationFilterChain.java:193)
+	at org.apache.catalina.core.ApplicationFilterChain.doFilter(ApplicationFilterChain.java:166)
+	at org.apache.catalina.core.StandardWrapperValve.invoke(StandardWrapperValve.java:198)
+	at org.apache.catalina.core.StandardContextValve.invoke(StandardContextValve.java:96)
+	at org.apache.catalina.authenticator.AuthenticatorBase.invoke(AuthenticatorBase.java:493)
+	at org.apache.catalina.core.StandardHostValve.invoke(StandardHostValve.java:140)
+	at org.apache.catalina.valves.ErrorReportValve.invoke(ErrorReportValve.java:81)
+	at org.apache.catalina.valves.AbstractAccessLogValve.invoke(AbstractAccessLogValve.java:650)
+	at org.apache.catalina.core.StandardEngineValve.invoke(StandardEngineValve.java:87)
+	at org.apache.catalina.connector.CoyoteAdapter.service(CoyoteAdapter.java:342)
+	at org.apache.coyote.http11.Http11Processor.service(Http11Processor.java:800)
+	at org.apache.coyote.AbstractProcessorLight.process(AbstractProcessorLight.java:66)
+	at org.apache.coyote.AbstractProtocol$ConnectionHandler.process(AbstractProtocol.java:806)
+	at org.apache.tomcat.util.net.NioEndpoint$SocketProcessor.doRun(NioEndpoint.java:1498)
+	at org.apache.tomcat.util.net.SocketProcessorBase.run(SocketProcessorBase.java:49)
+	at java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1149)
+	at java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:624)
+	at org.apache.tomcat.util.threads.TaskThread$WrappingRunnable.run(TaskThread.java:61)
+	at java.lang.Thread.run(Thread.java:748)
+
+13-Jun-2020 14:11:53.994 SEVERE [http-nio-8082-exec-96] org.apache.catalina.core.StandardWrapperValve.invoke Servlet.service() for servlet [jsp] in context with path [/MuaBanNha] threw exception [Unable to compile class for JSP: 
+
+An error occurred at line: [395] in the generated java file: [D:\apache-tomcat-8.5.34\work\Catalina\localhost\MuaBanNha\org\apache\jsp\manager_005fproduct_005fAdmin_jsp.java]
+Syntax error, insert "}" to complete Block
+
+An error occurred at line: [412] in the generated java file: [D:\apache-tomcat-8.5.34\work\Catalina\localhost\MuaBanNha\org\apache\jsp\manager_005fproduct_005fAdmin_jsp.java]
+Syntax error on token "}", delete this token
+
+An error occurred at line: [413] in the generated java file: [D:\apache-tomcat-8.5.34\work\Catalina\localhost\MuaBanNha\org\apache\jsp\manager_005fproduct_005fAdmin_jsp.java]
+Syntax error, insert "}" to complete ClassBody
+
+Stacktrace:] with root cause
+ org.apache.jasper.JasperException: Unable to compile class for JSP: 
+
+An error occurred at line: [395] in the generated java file: [D:\apache-tomcat-8.5.34\work\Catalina\localhost\MuaBanNha\org\apache\jsp\manager_005fproduct_005fAdmin_jsp.java]
+Syntax error, insert "}" to complete Block
+
+An error occurred at line: [412] in the generated java file: [D:\apache-tomcat-8.5.34\work\Catalina\localhost\MuaBanNha\org\apache\jsp\manager_005fproduct_005fAdmin_jsp.java]
+Syntax error on token "}", delete this token
+
+An error occurred at line: [413] in the generated java file: [D:\apache-tomcat-8.5.34\work\Catalina\localhost\MuaBanNha\org\apache\jsp\manager_005fproduct_005fAdmin_jsp.java]
+Syntax error, insert "}" to complete ClassBody
+
+Stacktrace:
+	at org.apache.jasper.compiler.DefaultErrorHandler.javacError(DefaultErrorHandler.java:102)
+	at org.apache.jasper.compiler.ErrorDispatcher.javacError(ErrorDispatcher.java:212)
+	at org.apache.jasper.compiler.JDTCompiler.generateClass(JDTCompiler.java:495)
+	at org.apache.jasper.compiler.Compiler.compile(Compiler.java:378)
+	at org.apache.jasper.compiler.Compiler.compile(Compiler.java:350)
+	at org.apache.jasper.compiler.Compiler.compile(Compiler.java:334)
+	at org.apache.jasper.JspCompilationContext.compile(JspCompilationContext.java:595)
+	at org.apache.jasper.servlet.JspServletWrapper.service(JspServletWrapper.java:382)
+	at org.apache.jasper.servlet.JspServlet.serviceJspFile(JspServlet.java:386)
+	at org.apache.jasper.servlet.JspServlet.service(JspServlet.java:330)
+	at javax.servlet.http.HttpServlet.service(HttpServlet.java:742)
+	at org.apache.catalina.core.ApplicationFilterChain.internalDoFilter(ApplicationFilterChain.java:231)
+	at org.apache.catalina.core.ApplicationFilterChain.doFilter(ApplicationFilterChain.java:166)
+	at org.apache.tomcat.websocket.server.WsFilter.doFilter(WsFilter.java:52)
+	at org.apache.catalina.core.ApplicationFilterChain.internalDoFilter(ApplicationFilterChain.java:193)
+	at org.apache.catalina.core.ApplicationFilterChain.doFilter(ApplicationFilterChain.java:166)
+	at org.apache.catalina.core.StandardWrapperValve.invoke(StandardWrapperValve.java:198)
+	at org.apache.catalina.core.StandardContextValve.invoke(StandardContextValve.java:96)
+	at org.apache.catalina.authenticator.AuthenticatorBase.invoke(AuthenticatorBase.java:493)
+	at org.apache.catalina.core.StandardHostValve.invoke(StandardHostValve.java:140)
+	at org.apache.catalina.valves.ErrorReportValve.invoke(ErrorReportValve.java:81)
+	at org.apache.catalina.valves.AbstractAccessLogValve.invoke(AbstractAccessLogValve.java:650)
+	at org.apache.catalina.core.StandardEngineValve.invoke(StandardEngineValve.java:87)
+	at org.apache.catalina.connector.CoyoteAdapter.service(CoyoteAdapter.java:342)
+	at org.apache.coyote.http11.Http11Processor.service(Http11Processor.java:800)
+	at org.apache.coyote.AbstractProcessorLight.process(AbstractProcessorLight.java:66)
+	at org.apache.coyote.AbstractProtocol$ConnectionHandler.process(AbstractProtocol.java:806)
+	at org.apache.tomcat.util.net.NioEndpoint$SocketProcessor.doRun(NioEndpoint.java:1498)
+	at org.apache.tomcat.util.net.SocketProcessorBase.run(SocketProcessorBase.java:49)
+	at java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1149)
+	at java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:624)
+	at org.apache.tomcat.util.threads.TaskThread$WrappingRunnable.run(TaskThread.java:61)
+	at java.lang.Thread.run(Thread.java:748)
+
+13-Jun-2020 14:13:48.239 SEVERE [http-nio-8082-exec-96] org.apache.catalina.core.StandardWrapperValve.invoke Servlet.service() for servlet [jsp] in context with path [/MuaBanNha] threw exception [Unable to compile class for JSP: 
+
+An error occurred at line: [419] in the generated java file: [D:\apache-tomcat-8.5.34\work\Catalina\localhost\MuaBanNha\org\apache\jsp\manager_005fproduct_005fAdmin_jsp.java]
+Syntax error, insert "}" to complete Block
+
+An error occurred at line: [436] in the generated java file: [D:\apache-tomcat-8.5.34\work\Catalina\localhost\MuaBanNha\org\apache\jsp\manager_005fproduct_005fAdmin_jsp.java]
+Syntax error on token "}", delete this token
+
+An error occurred at line: [437] in the generated java file: [D:\apache-tomcat-8.5.34\work\Catalina\localhost\MuaBanNha\org\apache\jsp\manager_005fproduct_005fAdmin_jsp.java]
+Syntax error, insert "}" to complete ClassBody
+
+Stacktrace:] with root cause
+ org.apache.jasper.JasperException: Unable to compile class for JSP: 
+
+An error occurred at line: [419] in the generated java file: [D:\apache-tomcat-8.5.34\work\Catalina\localhost\MuaBanNha\org\apache\jsp\manager_005fproduct_005fAdmin_jsp.java]
+Syntax error, insert "}" to complete Block
+
+An error occurred at line: [436] in the generated java file: [D:\apache-tomcat-8.5.34\work\Catalina\localhost\MuaBanNha\org\apache\jsp\manager_005fproduct_005fAdmin_jsp.java]
+Syntax error on token "}", delete this token
+
+An error occurred at line: [437] in the generated java file: [D:\apache-tomcat-8.5.34\work\Catalina\localhost\MuaBanNha\org\apache\jsp\manager_005fproduct_005fAdmin_jsp.java]
+Syntax error, insert "}" to complete ClassBody
+
+Stacktrace:
+	at org.apache.jasper.compiler.DefaultErrorHandler.javacError(DefaultErrorHandler.java:102)
+	at org.apache.jasper.compiler.ErrorDispatcher.javacError(ErrorDispatcher.java:212)
+	at org.apache.jasper.compiler.JDTCompiler.generateClass(JDTCompiler.java:495)
+	at org.apache.jasper.compiler.Compiler.compile(Compiler.java:378)
+	at org.apache.jasper.compiler.Compiler.compile(Compiler.java:350)
+	at org.apache.jasper.compiler.Compiler.compile(Compiler.java:334)
+	at org.apache.jasper.JspCompilationContext.compile(JspCompilationContext.java:595)
+	at org.apache.jasper.servlet.JspServletWrapper.service(JspServletWrapper.java:382)
+	at org.apache.jasper.servlet.JspServlet.serviceJspFile(JspServlet.java:386)
+	at org.apache.jasper.servlet.JspServlet.service(JspServlet.java:330)
+	at javax.servlet.http.HttpServlet.service(HttpServlet.java:742)
+	at org.apache.catalina.core.ApplicationFilterChain.internalDoFilter(ApplicationFilterChain.java:231)
+	at org.apache.catalina.core.ApplicationFilterChain.doFilter(ApplicationFilterChain.java:166)
+	at org.apache.tomcat.websocket.server.WsFilter.doFilter(WsFilter.java:52)
+	at org.apache.catalina.core.ApplicationFilterChain.internalDoFilter(ApplicationFilterChain.java:193)
+	at org.apache.catalina.core.ApplicationFilterChain.doFilter(ApplicationFilterChain.java:166)
+	at org.apache.catalina.core.StandardWrapperValve.invoke(StandardWrapperValve.java:198)
+	at org.apache.catalina.core.StandardContextValve.invoke(StandardContextValve.java:96)
+	at org.apache.catalina.authenticator.AuthenticatorBase.invoke(AuthenticatorBase.java:493)
+	at org.apache.catalina.core.StandardHostValve.invoke(StandardHostValve.java:140)
+	at org.apache.catalina.valves.ErrorReportValve.invoke(ErrorReportValve.java:81)
+	at org.apache.catalina.valves.AbstractAccessLogValve.invoke(AbstractAccessLogValve.java:650)
+	at org.apache.catalina.core.StandardEngineValve.invoke(StandardEngineValve.java:87)
+	at org.apache.catalina.connector.CoyoteAdapter.service(CoyoteAdapter.java:342)
+	at org.apache.coyote.http11.Http11Processor.service(Http11Processor.java:800)
+	at org.apache.coyote.AbstractProcessorLight.process(AbstractProcessorLight.java:66)
+	at org.apache.coyote.AbstractProtocol$ConnectionHandler.process(AbstractProtocol.java:806)
+	at org.apache.tomcat.util.net.NioEndpoint$SocketProcessor.doRun(NioEndpoint.java:1498)
+	at org.apache.tomcat.util.net.SocketProcessorBase.run(SocketProcessorBase.java:49)
+	at java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1149)
+	at java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:624)
+	at org.apache.tomcat.util.threads.TaskThread$WrappingRunnable.run(TaskThread.java:61)
+	at java.lang.Thread.run(Thread.java:748)
+
+13-Jun-2020 14:13:51.114 SEVERE [http-nio-8082-exec-95] org.apache.catalina.core.StandardWrapperValve.invoke Servlet.service() for servlet [jsp] in context with path [/MuaBanNha] threw exception [java.lang.ClassNotFoundException: org.apache.jsp.manager_005fproduct_005fAdmin_jsp] with root cause
+ java.lang.ClassNotFoundException: org.apache.jsp.manager_005fproduct_005fAdmin_jsp
+	at java.net.URLClassLoader.findClass(URLClassLoader.java:381)
+	at org.apache.jasper.servlet.JasperLoader.loadClass(JasperLoader.java:129)
+	at org.apache.jasper.servlet.JasperLoader.loadClass(JasperLoader.java:60)
+	at org.apache.catalina.core.DefaultInstanceManager.newInstance(DefaultInstanceManager.java:159)
+	at org.apache.jasper.servlet.JspServletWrapper.getServlet(JspServletWrapper.java:185)
+	at org.apache.jasper.servlet.JspServletWrapper.service(JspServletWrapper.java:394)
+	at org.apache.jasper.servlet.JspServlet.serviceJspFile(JspServlet.java:386)
+	at org.apache.jasper.servlet.JspServlet.service(JspServlet.java:330)
+	at javax.servlet.http.HttpServlet.service(HttpServlet.java:742)
+	at org.apache.catalina.core.ApplicationFilterChain.internalDoFilter(ApplicationFilterChain.java:231)
+	at org.apache.catalina.core.ApplicationFilterChain.doFilter(ApplicationFilterChain.java:166)
+	at org.apache.tomcat.websocket.server.WsFilter.doFilter(WsFilter.java:52)
+	at org.apache.catalina.core.ApplicationFilterChain.internalDoFilter(ApplicationFilterChain.java:193)
+	at org.apache.catalina.core.ApplicationFilterChain.doFilter(ApplicationFilterChain.java:166)
+	at org.apache.catalina.core.StandardWrapperValve.invoke(StandardWrapperValve.java:198)
+	at org.apache.catalina.core.StandardContextValve.invoke(StandardContextValve.java:96)
+	at org.apache.catalina.authenticator.AuthenticatorBase.invoke(AuthenticatorBase.java:493)
+	at org.apache.catalina.core.StandardHostValve.invoke(StandardHostValve.java:140)
+	at org.apache.catalina.valves.ErrorReportValve.invoke(ErrorReportValve.java:81)
+	at org.apache.catalina.valves.AbstractAccessLogValve.invoke(AbstractAccessLogValve.java:650)
+	at org.apache.catalina.core.StandardEngineValve.invoke(StandardEngineValve.java:87)
+	at org.apache.catalina.connector.CoyoteAdapter.service(CoyoteAdapter.java:342)
+	at org.apache.coyote.http11.Http11Processor.service(Http11Processor.java:800)
+	at org.apache.coyote.AbstractProcessorLight.process(AbstractProcessorLight.java:66)
+	at org.apache.coyote.AbstractProtocol$ConnectionHandler.process(AbstractProtocol.java:806)
+	at org.apache.tomcat.util.net.NioEndpoint$SocketProcessor.doRun(NioEndpoint.java:1498)
+	at org.apache.tomcat.util.net.SocketProcessorBase.run(SocketProcessorBase.java:49)
+	at java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1149)
+	at java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:624)
+	at org.apache.tomcat.util.threads.TaskThread$WrappingRunnable.run(TaskThread.java:61)
+	at java.lang.Thread.run(Thread.java:748)
+
+13-Jun-2020 14:13:52.769 SEVERE [http-nio-8082-exec-91] org.apache.catalina.core.StandardWrapperValve.invoke Servlet.service() for servlet [jsp] in context with path [/MuaBanNha] threw exception [Unable to compile class for JSP: 
+
+An error occurred at line: [419] in the generated java file: [D:\apache-tomcat-8.5.34\work\Catalina\localhost\MuaBanNha\org\apache\jsp\manager_005fproduct_005fAdmin_jsp.java]
+Syntax error, insert "}" to complete Block
+
+An error occurred at line: [436] in the generated java file: [D:\apache-tomcat-8.5.34\work\Catalina\localhost\MuaBanNha\org\apache\jsp\manager_005fproduct_005fAdmin_jsp.java]
+Syntax error on token "}", delete this token
+
+An error occurred at line: [437] in the generated java file: [D:\apache-tomcat-8.5.34\work\Catalina\localhost\MuaBanNha\org\apache\jsp\manager_005fproduct_005fAdmin_jsp.java]
+Syntax error, insert "}" to complete ClassBody
+
+Stacktrace:] with root cause
+ org.apache.jasper.JasperException: Unable to compile class for JSP: 
+
+An error occurred at line: [419] in the generated java file: [D:\apache-tomcat-8.5.34\work\Catalina\localhost\MuaBanNha\org\apache\jsp\manager_005fproduct_005fAdmin_jsp.java]
+Syntax error, insert "}" to complete Block
+
+An error occurred at line: [436] in the generated java file: [D:\apache-tomcat-8.5.34\work\Catalina\localhost\MuaBanNha\org\apache\jsp\manager_005fproduct_005fAdmin_jsp.java]
+Syntax error on token "}", delete this token
+
+An error occurred at line: [437] in the generated java file: [D:\apache-tomcat-8.5.34\work\Catalina\localhost\MuaBanNha\org\apache\jsp\manager_005fproduct_005fAdmin_jsp.java]
+Syntax error, insert "}" to complete ClassBody
+
+Stacktrace:
+	at org.apache.jasper.compiler.DefaultErrorHandler.javacError(DefaultErrorHandler.java:102)
+	at org.apache.jasper.compiler.ErrorDispatcher.javacError(ErrorDispatcher.java:212)
+	at org.apache.jasper.compiler.JDTCompiler.generateClass(JDTCompiler.java:495)
+	at org.apache.jasper.compiler.Compiler.compile(Compiler.java:378)
+	at org.apache.jasper.compiler.Compiler.compile(Compiler.java:350)
+	at org.apache.jasper.compiler.Compiler.compile(Compiler.java:334)
+	at org.apache.jasper.JspCompilationContext.compile(JspCompilationContext.java:595)
+	at org.apache.jasper.servlet.JspServletWrapper.service(JspServletWrapper.java:382)
+	at org.apache.jasper.servlet.JspServlet.serviceJspFile(JspServlet.java:386)
+	at org.apache.jasper.servlet.JspServlet.service(JspServlet.java:330)
+	at javax.servlet.http.HttpServlet.service(HttpServlet.java:742)
+	at org.apache.catalina.core.ApplicationFilterChain.internalDoFilter(ApplicationFilterChain.java:231)
+	at org.apache.catalina.core.ApplicationFilterChain.doFilter(ApplicationFilterChain.java:166)
+	at org.apache.tomcat.websocket.server.WsFilter.doFilter(WsFilter.java:52)
+	at org.apache.catalina.core.ApplicationFilterChain.internalDoFilter(ApplicationFilterChain.java:193)
+	at org.apache.catalina.core.ApplicationFilterChain.doFilter(ApplicationFilterChain.java:166)
+	at org.apache.catalina.core.StandardWrapperValve.invoke(StandardWrapperValve.java:198)
+	at org.apache.catalina.core.StandardContextValve.invoke(StandardContextValve.java:96)
+	at org.apache.catalina.authenticator.AuthenticatorBase.invoke(AuthenticatorBase.java:493)
+	at org.apache.catalina.core.StandardHostValve.invoke(StandardHostValve.java:140)
+	at org.apache.catalina.valves.ErrorReportValve.invoke(ErrorReportValve.java:81)
+	at org.apache.catalina.valves.AbstractAccessLogValve.invoke(AbstractAccessLogValve.java:650)
+	at org.apache.catalina.core.StandardEngineValve.invoke(StandardEngineValve.java:87)
+	at org.apache.catalina.connector.CoyoteAdapter.service(CoyoteAdapter.java:342)
+	at org.apache.coyote.http11.Http11Processor.service(Http11Processor.java:800)
+	at org.apache.coyote.AbstractProcessorLight.process(AbstractProcessorLight.java:66)
+	at org.apache.coyote.AbstractProtocol$ConnectionHandler.process(AbstractProtocol.java:806)
+	at org.apache.tomcat.util.net.NioEndpoint$SocketProcessor.doRun(NioEndpoint.java:1498)
+	at org.apache.tomcat.util.net.SocketProcessorBase.run(SocketProcessorBase.java:49)
+	at java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1149)
+	at java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:624)
+	at org.apache.tomcat.util.threads.TaskThread$WrappingRunnable.run(TaskThread.java:61)
+	at java.lang.Thread.run(Thread.java:748)
+
+13-Jun-2020 14:13:53.504 SEVERE [http-nio-8082-exec-87] org.apache.catalina.core.StandardWrapperValve.invoke Servlet.service() for servlet [jsp] in context with path [/MuaBanNha] threw exception [java.lang.ClassNotFoundException: org.apache.jsp.manager_005fproduct_005fAdmin_jsp] with root cause
+ java.lang.ClassNotFoundException: org.apache.jsp.manager_005fproduct_005fAdmin_jsp
+	at java.net.URLClassLoader.findClass(URLClassLoader.java:381)
+	at org.apache.jasper.servlet.JasperLoader.loadClass(JasperLoader.java:129)
+	at org.apache.jasper.servlet.JasperLoader.loadClass(JasperLoader.java:60)
+	at org.apache.catalina.core.DefaultInstanceManager.newInstance(DefaultInstanceManager.java:159)
+	at org.apache.jasper.servlet.JspServletWrapper.getServlet(JspServletWrapper.java:185)
+	at org.apache.jasper.servlet.JspServletWrapper.service(JspServletWrapper.java:394)
+	at org.apache.jasper.servlet.JspServlet.serviceJspFile(JspServlet.java:386)
+	at org.apache.jasper.servlet.JspServlet.service(JspServlet.java:330)
+	at javax.servlet.http.HttpServlet.service(HttpServlet.java:742)
+	at org.apache.catalina.core.ApplicationFilterChain.internalDoFilter(ApplicationFilterChain.java:231)
+	at org.apache.catalina.core.ApplicationFilterChain.doFilter(ApplicationFilterChain.java:166)
+	at org.apache.tomcat.websocket.server.WsFilter.doFilter(WsFilter.java:52)
+	at org.apache.catalina.core.ApplicationFilterChain.internalDoFilter(ApplicationFilterChain.java:193)
+	at org.apache.catalina.core.ApplicationFilterChain.doFilter(ApplicationFilterChain.java:166)
+	at org.apache.catalina.core.StandardWrapperValve.invoke(StandardWrapperValve.java:198)
+	at org.apache.catalina.core.StandardContextValve.invoke(StandardContextValve.java:96)
+	at org.apache.catalina.authenticator.AuthenticatorBase.invoke(AuthenticatorBase.java:493)
+	at org.apache.catalina.core.StandardHostValve.invoke(StandardHostValve.java:140)
+	at org.apache.catalina.valves.ErrorReportValve.invoke(ErrorReportValve.java:81)
+	at org.apache.catalina.valves.AbstractAccessLogValve.invoke(AbstractAccessLogValve.java:650)
+	at org.apache.catalina.core.StandardEngineValve.invoke(StandardEngineValve.java:87)
+	at org.apache.catalina.connector.CoyoteAdapter.service(CoyoteAdapter.java:342)
+	at org.apache.coyote.http11.Http11Processor.service(Http11Processor.java:800)
+	at org.apache.coyote.AbstractProcessorLight.process(AbstractProcessorLight.java:66)
+	at org.apache.coyote.AbstractProtocol$ConnectionHandler.process(AbstractProtocol.java:806)
+	at org.apache.tomcat.util.net.NioEndpoint$SocketProcessor.doRun(NioEndpoint.java:1498)
+	at org.apache.tomcat.util.net.SocketProcessorBase.run(SocketProcessorBase.java:49)
+	at java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1149)
+	at java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:624)
+	at org.apache.tomcat.util.threads.TaskThread$WrappingRunnable.run(TaskThread.java:61)
+	at java.lang.Thread.run(Thread.java:748)
+
+13-Jun-2020 14:13:55.744 SEVERE [http-nio-8082-exec-92] org.apache.catalina.core.StandardWrapperValve.invoke Servlet.service() for servlet [jsp] in context with path [/MuaBanNha] threw exception [java.lang.ClassNotFoundException: org.apache.jsp.manager_005fproduct_005fAdmin_jsp] with root cause
+ java.lang.ClassNotFoundException: org.apache.jsp.manager_005fproduct_005fAdmin_jsp
+	at java.net.URLClassLoader.findClass(URLClassLoader.java:381)
+	at org.apache.jasper.servlet.JasperLoader.loadClass(JasperLoader.java:129)
+	at org.apache.jasper.servlet.JasperLoader.loadClass(JasperLoader.java:60)
+	at org.apache.catalina.core.DefaultInstanceManager.newInstance(DefaultInstanceManager.java:159)
+	at org.apache.jasper.servlet.JspServletWrapper.getServlet(JspServletWrapper.java:185)
+	at org.apache.jasper.servlet.JspServletWrapper.service(JspServletWrapper.java:394)
+	at org.apache.jasper.servlet.JspServlet.serviceJspFile(JspServlet.java:386)
+	at org.apache.jasper.servlet.JspServlet.service(JspServlet.java:330)
+	at javax.servlet.http.HttpServlet.service(HttpServlet.java:742)
+	at org.apache.catalina.core.ApplicationFilterChain.internalDoFilter(ApplicationFilterChain.java:231)
+	at org.apache.catalina.core.ApplicationFilterChain.doFilter(ApplicationFilterChain.java:166)
+	at org.apache.tomcat.websocket.server.WsFilter.doFilter(WsFilter.java:52)
+	at org.apache.catalina.core.ApplicationFilterChain.internalDoFilter(ApplicationFilterChain.java:193)
+	at org.apache.catalina.core.ApplicationFilterChain.doFilter(ApplicationFilterChain.java:166)
+	at org.apache.catalina.core.StandardWrapperValve.invoke(StandardWrapperValve.java:198)
+	at org.apache.catalina.core.StandardContextValve.invoke(StandardContextValve.java:96)
+	at org.apache.catalina.authenticator.AuthenticatorBase.invoke(AuthenticatorBase.java:493)
+	at org.apache.catalina.core.StandardHostValve.invoke(StandardHostValve.java:140)
+	at org.apache.catalina.valves.ErrorReportValve.invoke(ErrorReportValve.java:81)
+	at org.apache.catalina.valves.AbstractAccessLogValve.invoke(AbstractAccessLogValve.java:650)
+	at org.apache.catalina.core.StandardEngineValve.invoke(StandardEngineValve.java:87)
+	at org.apache.catalina.connector.CoyoteAdapter.service(CoyoteAdapter.java:342)
+	at org.apache.coyote.http11.Http11Processor.service(Http11Processor.java:800)
+	at org.apache.coyote.AbstractProcessorLight.process(AbstractProcessorLight.java:66)
+	at org.apache.coyote.AbstractProtocol$ConnectionHandler.process(AbstractProtocol.java:806)
+	at org.apache.tomcat.util.net.NioEndpoint$SocketProcessor.doRun(NioEndpoint.java:1498)
+	at org.apache.tomcat.util.net.SocketProcessorBase.run(SocketProcessorBase.java:49)
+	at java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1149)
+	at java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:624)
+	at org.apache.tomcat.util.threads.TaskThread$WrappingRunnable.run(TaskThread.java:61)
+	at java.lang.Thread.run(Thread.java:748)
+
+13-Jun-2020 14:14:03.140 SEVERE [http-nio-8082-exec-90] org.apache.catalina.core.StandardWrapperValve.invoke Servlet.service() for servlet [jsp] in context with path [/MuaBanNha] threw exception [Unable to compile class for JSP: 
+
+An error occurred at line: [419] in the generated java file: [D:\apache-tomcat-8.5.34\work\Catalina\localhost\MuaBanNha\org\apache\jsp\manager_005fproduct_005fAdmin_jsp.java]
+Syntax error, insert "}" to complete Block
+
+An error occurred at line: [436] in the generated java file: [D:\apache-tomcat-8.5.34\work\Catalina\localhost\MuaBanNha\org\apache\jsp\manager_005fproduct_005fAdmin_jsp.java]
+Syntax error on token "}", delete this token
+
+An error occurred at line: [437] in the generated java file: [D:\apache-tomcat-8.5.34\work\Catalina\localhost\MuaBanNha\org\apache\jsp\manager_005fproduct_005fAdmin_jsp.java]
+Syntax error, insert "}" to complete ClassBody
+
+Stacktrace:] with root cause
+ org.apache.jasper.JasperException: Unable to compile class for JSP: 
+
+An error occurred at line: [419] in the generated java file: [D:\apache-tomcat-8.5.34\work\Catalina\localhost\MuaBanNha\org\apache\jsp\manager_005fproduct_005fAdmin_jsp.java]
+Syntax error, insert "}" to complete Block
+
+An error occurred at line: [436] in the generated java file: [D:\apache-tomcat-8.5.34\work\Catalina\localhost\MuaBanNha\org\apache\jsp\manager_005fproduct_005fAdmin_jsp.java]
+Syntax error on token "}", delete this token
+
+An error occurred at line: [437] in the generated java file: [D:\apache-tomcat-8.5.34\work\Catalina\localhost\MuaBanNha\org\apache\jsp\manager_005fproduct_005fAdmin_jsp.java]
+Syntax error, insert "}" to complete ClassBody
+
+Stacktrace:
+	at org.apache.jasper.compiler.DefaultErrorHandler.javacError(DefaultErrorHandler.java:102)
+	at org.apache.jasper.compiler.ErrorDispatcher.javacError(ErrorDispatcher.java:212)
+	at org.apache.jasper.compiler.JDTCompiler.generateClass(JDTCompiler.java:495)
+	at org.apache.jasper.compiler.Compiler.compile(Compiler.java:378)
+	at org.apache.jasper.compiler.Compiler.compile(Compiler.java:350)
+	at org.apache.jasper.compiler.Compiler.compile(Compiler.java:334)
+	at org.apache.jasper.JspCompilationContext.compile(JspCompilationContext.java:595)
+	at org.apache.jasper.servlet.JspServletWrapper.service(JspServletWrapper.java:382)
+	at org.apache.jasper.servlet.JspServlet.serviceJspFile(JspServlet.java:386)
+	at org.apache.jasper.servlet.JspServlet.service(JspServlet.java:330)
+	at javax.servlet.http.HttpServlet.service(HttpServlet.java:742)
+	at org.apache.catalina.core.ApplicationFilterChain.internalDoFilter(ApplicationFilterChain.java:231)
+	at org.apache.catalina.core.ApplicationFilterChain.doFilter(ApplicationFilterChain.java:166)
+	at org.apache.tomcat.websocket.server.WsFilter.doFilter(WsFilter.java:52)
+	at org.apache.catalina.core.ApplicationFilterChain.internalDoFilter(ApplicationFilterChain.java:193)
+	at org.apache.catalina.core.ApplicationFilterChain.doFilter(ApplicationFilterChain.java:166)
+	at org.apache.catalina.core.StandardWrapperValve.invoke(StandardWrapperValve.java:198)
+	at org.apache.catalina.core.StandardContextValve.invoke(StandardContextValve.java:96)
+	at org.apache.catalina.authenticator.AuthenticatorBase.invoke(AuthenticatorBase.java:493)
+	at org.apache.catalina.core.StandardHostValve.invoke(StandardHostValve.java:140)
+	at org.apache.catalina.valves.ErrorReportValve.invoke(ErrorReportValve.java:81)
+	at org.apache.catalina.valves.AbstractAccessLogValve.invoke(AbstractAccessLogValve.java:650)
+	at org.apache.catalina.core.StandardEngineValve.invoke(StandardEngineValve.java:87)
+	at org.apache.catalina.connector.CoyoteAdapter.service(CoyoteAdapter.java:342)
+	at org.apache.coyote.http11.Http11Processor.service(Http11Processor.java:800)
+	at org.apache.coyote.AbstractProcessorLight.process(AbstractProcessorLight.java:66)
+	at org.apache.coyote.AbstractProtocol$ConnectionHandler.process(AbstractProtocol.java:806)
+	at org.apache.tomcat.util.net.NioEndpoint$SocketProcessor.doRun(NioEndpoint.java:1498)
+	at org.apache.tomcat.util.net.SocketProcessorBase.run(SocketProcessorBase.java:49)
+	at java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1149)
+	at java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:624)
+	at org.apache.tomcat.util.threads.TaskThread$WrappingRunnable.run(TaskThread.java:61)
+	at java.lang.Thread.run(Thread.java:748)
+
+13-Jun-2020 14:24:30.104 INFO [localhost-startStop-2] org.apache.catalina.core.ApplicationContext.log SessionListener: contextDestroyed()
+13-Jun-2020 14:24:30.105 INFO [localhost-startStop-2] org.apache.catalina.core.ApplicationContext.log ContextListener: contextDestroyed()

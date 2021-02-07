@@ -1,0 +1,179 @@
+15-Dec-2018 09:40:03.280 SEVERE [http-nio-8081-exec-82] org.apache.catalina.core.StandardWrapperValve.invoke Servlet.service() for servlet [UsersServlet] in context with path [/MuaBanNha] threw exception
+ java.lang.NullPointerException
+
+15-Dec-2018 09:41:38.206 SEVERE [http-nio-8081-exec-87] org.apache.catalina.core.StandardWrapperValve.invoke Servlet.service() for servlet [UsersServlet] in context with path [/MuaBanNha] threw exception
+ java.lang.NullPointerException
+
+15-Dec-2018 09:50:52.311 SEVERE [http-nio-8081-exec-104] org.apache.catalina.core.StandardWrapperValve.invoke Servlet.service() for servlet [UsersServlet] in context with path [/MuaBanNha] threw exception
+ java.lang.NullPointerException
+
+15-Dec-2018 10:00:32.278 SEVERE [http-nio-8081-exec-145] org.apache.catalina.core.StandardWrapperValve.invoke Servlet.service() for servlet [UsersServlet] in context with path [/MuaBanNha] threw exception
+ java.lang.NullPointerException
+
+15-Dec-2018 10:00:55.030 SEVERE [http-nio-8081-exec-143] org.apache.catalina.core.StandardWrapperValve.invoke Servlet.service() for servlet [UsersServlet] in context with path [/MuaBanNha] threw exception
+ java.lang.NullPointerException
+
+15-Dec-2018 11:37:11.075 SEVERE [http-nio-8081-exec-157] org.apache.catalina.core.StandardWrapperValve.invoke Servlet.service() for servlet [UsersServlet] in context with path [/MuaBanNha] threw exception
+ java.lang.NullPointerException
+
+15-Dec-2018 11:37:39.719 SEVERE [230] org.apache.catalina.core.StandardWrapperValve.invoke Servlet.service() for servlet [UsersServlet] in context with path [/MuaBanNha] threw exception
+ java.lang.NullPointerException
+
+15-Dec-2018 11:37:44.316 SEVERE [246] org.apache.catalina.core.StandardWrapperValve.invoke Servlet.service() for servlet [UsersServlet] in context with path [/MuaBanNha] threw exception
+ java.lang.NullPointerException
+
+15-Dec-2018 11:38:32.032 SEVERE [http-nio-8081-exec-143] org.apache.catalina.core.StandardWrapperValve.invoke Servlet.service() for servlet [UsersServlet] in context with path [/MuaBanNha] threw exception
+ java.lang.NullPointerException
+
+15-Dec-2018 11:41:08.901 SEVERE [http-nio-8081-exec-180] org.apache.catalina.core.StandardWrapperValve.invoke Servlet.service() for servlet [DangXuat] in context with path [/MuaBanNha] threw exception
+ java.lang.IllegalStateException: removeAttribute: Session already invalidated
+	at org.apache.catalina.session.StandardSession.removeAttribute(StandardSession.java:1362)
+	at org.apache.catalina.session.StandardSession.removeAttribute(StandardSession.java:1337)
+	at org.apache.catalina.session.StandardSessionFacade.removeAttribute(StandardSessionFacade.java:154)
+	at controller.DangXuat.doGet(DangXuat.java:23)
+	at javax.servlet.http.HttpServlet.service(HttpServlet.java:635)
+	at javax.servlet.http.HttpServlet.service(HttpServlet.java:742)
+	at org.apache.catalina.core.ApplicationFilterChain.internalDoFilter(ApplicationFilterChain.java:231)
+	at org.apache.catalina.core.ApplicationFilterChain.doFilter(ApplicationFilterChain.java:166)
+	at org.apache.tomcat.websocket.server.WsFilter.doFilter(WsFilter.java:52)
+	at org.apache.catalina.core.ApplicationFilterChain.internalDoFilter(ApplicationFilterChain.java:193)
+	at org.apache.catalina.core.ApplicationFilterChain.doFilter(ApplicationFilterChain.java:166)
+	at org.apache.catalina.core.StandardWrapperValve.invoke(StandardWrapperValve.java:198)
+	at org.apache.catalina.core.StandardContextValve.invoke(StandardContextValve.java:96)
+	at org.apache.catalina.authenticator.AuthenticatorBase.invoke(AuthenticatorBase.java:493)
+	at org.apache.catalina.core.StandardHostValve.invoke(StandardHostValve.java:140)
+	at org.apache.catalina.valves.ErrorReportValve.invoke(ErrorReportValve.java:81)
+	at org.apache.catalina.valves.AbstractAccessLogValve.invoke(AbstractAccessLogValve.java:650)
+	at org.apache.catalina.core.StandardEngineValve.invoke(StandardEngineValve.java:87)
+	at org.apache.catalina.connector.CoyoteAdapter.service(CoyoteAdapter.java:342)
+	at org.apache.coyote.http11.Http11Processor.service(Http11Processor.java:800)
+	at org.apache.coyote.AbstractProcessorLight.process(AbstractProcessorLight.java:66)
+	at org.apache.coyote.AbstractProtocol$ConnectionHandler.process(AbstractProtocol.java:806)
+	at org.apache.tomcat.util.net.NioEndpoint$SocketProcessor.doRun(NioEndpoint.java:1498)
+	at org.apache.tomcat.util.net.SocketProcessorBase.run(SocketProcessorBase.java:49)
+	at java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1149)
+	at java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:624)
+	at org.apache.tomcat.util.threads.TaskThread$WrappingRunnable.run(TaskThread.java:61)
+	at java.lang.Thread.run(Thread.java:748)
+
+15-Dec-2018 11:41:38.866 SEVERE [http-nio-8081-exec-189] org.apache.catalina.core.StandardWrapperValve.invoke Servlet.service() for servlet [DangXuat] in context with path [/MuaBanNha] threw exception
+ java.lang.IllegalStateException: removeAttribute: Session already invalidated
+	at org.apache.catalina.session.StandardSession.removeAttribute(StandardSession.java:1362)
+	at org.apache.catalina.session.StandardSession.removeAttribute(StandardSession.java:1337)
+	at org.apache.catalina.session.StandardSessionFacade.removeAttribute(StandardSessionFacade.java:154)
+	at controller.DangXuat.doGet(DangXuat.java:23)
+	at javax.servlet.http.HttpServlet.service(HttpServlet.java:635)
+	at javax.servlet.http.HttpServlet.service(HttpServlet.java:742)
+	at org.apache.catalina.core.ApplicationFilterChain.internalDoFilter(ApplicationFilterChain.java:231)
+	at org.apache.catalina.core.ApplicationFilterChain.doFilter(ApplicationFilterChain.java:166)
+	at org.apache.tomcat.websocket.server.WsFilter.doFilter(WsFilter.java:52)
+	at org.apache.catalina.core.ApplicationFilterChain.internalDoFilter(ApplicationFilterChain.java:193)
+	at org.apache.catalina.core.ApplicationFilterChain.doFilter(ApplicationFilterChain.java:166)
+	at org.apache.catalina.core.StandardWrapperValve.invoke(StandardWrapperValve.java:198)
+	at org.apache.catalina.core.StandardContextValve.invoke(StandardContextValve.java:96)
+	at org.apache.catalina.authenticator.AuthenticatorBase.invoke(AuthenticatorBase.java:493)
+	at org.apache.catalina.core.StandardHostValve.invoke(StandardHostValve.java:140)
+	at org.apache.catalina.valves.ErrorReportValve.invoke(ErrorReportValve.java:81)
+	at org.apache.catalina.valves.AbstractAccessLogValve.invoke(AbstractAccessLogValve.java:650)
+	at org.apache.catalina.core.StandardEngineValve.invoke(StandardEngineValve.java:87)
+	at org.apache.catalina.connector.CoyoteAdapter.service(CoyoteAdapter.java:342)
+	at org.apache.coyote.http11.Http11Processor.service(Http11Processor.java:800)
+	at org.apache.coyote.AbstractProcessorLight.process(AbstractProcessorLight.java:66)
+	at org.apache.coyote.AbstractProtocol$ConnectionHandler.process(AbstractProtocol.java:806)
+	at org.apache.tomcat.util.net.NioEndpoint$SocketProcessor.doRun(NioEndpoint.java:1498)
+	at org.apache.tomcat.util.net.SocketProcessorBase.run(SocketProcessorBase.java:49)
+	at java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1149)
+	at java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:624)
+	at org.apache.tomcat.util.threads.TaskThread$WrappingRunnable.run(TaskThread.java:61)
+	at java.lang.Thread.run(Thread.java:748)
+
+15-Dec-2018 11:41:40.863 SEVERE [http-nio-8081-exec-190] org.apache.catalina.core.StandardWrapperValve.invoke Servlet.service() for servlet [DangXuat] in context with path [/MuaBanNha] threw exception
+ java.lang.NullPointerException
+	at controller.DangXuat.doGet(DangXuat.java:22)
+	at javax.servlet.http.HttpServlet.service(HttpServlet.java:635)
+	at javax.servlet.http.HttpServlet.service(HttpServlet.java:742)
+	at org.apache.catalina.core.ApplicationFilterChain.internalDoFilter(ApplicationFilterChain.java:231)
+	at org.apache.catalina.core.ApplicationFilterChain.doFilter(ApplicationFilterChain.java:166)
+	at org.apache.tomcat.websocket.server.WsFilter.doFilter(WsFilter.java:52)
+	at org.apache.catalina.core.ApplicationFilterChain.internalDoFilter(ApplicationFilterChain.java:193)
+	at org.apache.catalina.core.ApplicationFilterChain.doFilter(ApplicationFilterChain.java:166)
+	at org.apache.catalina.core.StandardWrapperValve.invoke(StandardWrapperValve.java:198)
+	at org.apache.catalina.core.StandardContextValve.invoke(StandardContextValve.java:96)
+	at org.apache.catalina.authenticator.AuthenticatorBase.invoke(AuthenticatorBase.java:493)
+	at org.apache.catalina.core.StandardHostValve.invoke(StandardHostValve.java:140)
+	at org.apache.catalina.valves.ErrorReportValve.invoke(ErrorReportValve.java:81)
+	at org.apache.catalina.valves.AbstractAccessLogValve.invoke(AbstractAccessLogValve.java:650)
+	at org.apache.catalina.core.StandardEngineValve.invoke(StandardEngineValve.java:87)
+	at org.apache.catalina.connector.CoyoteAdapter.service(CoyoteAdapter.java:342)
+	at org.apache.coyote.http11.Http11Processor.service(Http11Processor.java:800)
+	at org.apache.coyote.AbstractProcessorLight.process(AbstractProcessorLight.java:66)
+	at org.apache.coyote.AbstractProtocol$ConnectionHandler.process(AbstractProtocol.java:806)
+	at org.apache.tomcat.util.net.NioEndpoint$SocketProcessor.doRun(NioEndpoint.java:1498)
+	at org.apache.tomcat.util.net.SocketProcessorBase.run(SocketProcessorBase.java:49)
+	at java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1149)
+	at java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:624)
+	at org.apache.tomcat.util.threads.TaskThread$WrappingRunnable.run(TaskThread.java:61)
+	at java.lang.Thread.run(Thread.java:748)
+
+15-Dec-2018 11:41:41.902 SEVERE [http-nio-8081-exec-191] org.apache.catalina.core.StandardWrapperValve.invoke Servlet.service() for servlet [DangXuat] in context with path [/MuaBanNha] threw exception
+ java.lang.NullPointerException
+	at controller.DangXuat.doGet(DangXuat.java:22)
+	at javax.servlet.http.HttpServlet.service(HttpServlet.java:635)
+	at javax.servlet.http.HttpServlet.service(HttpServlet.java:742)
+	at org.apache.catalina.core.ApplicationFilterChain.internalDoFilter(ApplicationFilterChain.java:231)
+	at org.apache.catalina.core.ApplicationFilterChain.doFilter(ApplicationFilterChain.java:166)
+	at org.apache.tomcat.websocket.server.WsFilter.doFilter(WsFilter.java:52)
+	at org.apache.catalina.core.ApplicationFilterChain.internalDoFilter(ApplicationFilterChain.java:193)
+	at org.apache.catalina.core.ApplicationFilterChain.doFilter(ApplicationFilterChain.java:166)
+	at org.apache.catalina.core.StandardWrapperValve.invoke(StandardWrapperValve.java:198)
+	at org.apache.catalina.core.StandardContextValve.invoke(StandardContextValve.java:96)
+	at org.apache.catalina.authenticator.AuthenticatorBase.invoke(AuthenticatorBase.java:493)
+	at org.apache.catalina.core.StandardHostValve.invoke(StandardHostValve.java:140)
+	at org.apache.catalina.valves.ErrorReportValve.invoke(ErrorReportValve.java:81)
+	at org.apache.catalina.valves.AbstractAccessLogValve.invoke(AbstractAccessLogValve.java:650)
+	at org.apache.catalina.core.StandardEngineValve.invoke(StandardEngineValve.java:87)
+	at org.apache.catalina.connector.CoyoteAdapter.service(CoyoteAdapter.java:342)
+	at org.apache.coyote.http11.Http11Processor.service(Http11Processor.java:800)
+	at org.apache.coyote.AbstractProcessorLight.process(AbstractProcessorLight.java:66)
+	at org.apache.coyote.AbstractProtocol$ConnectionHandler.process(AbstractProtocol.java:806)
+	at org.apache.tomcat.util.net.NioEndpoint$SocketProcessor.doRun(NioEndpoint.java:1498)
+	at org.apache.tomcat.util.net.SocketProcessorBase.run(SocketProcessorBase.java:49)
+	at java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1149)
+	at java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:624)
+	at org.apache.tomcat.util.threads.TaskThread$WrappingRunnable.run(TaskThread.java:61)
+	at java.lang.Thread.run(Thread.java:748)
+
+15-Dec-2018 11:43:37.505 SEVERE [http-nio-8081-exec-191] org.apache.catalina.core.StandardWrapperValve.invoke Servlet.service() for servlet [DangXuat] in context with path [/MuaBanNha] threw exception
+ java.lang.IllegalStateException: removeAttribute: Session already invalidated
+	at org.apache.catalina.session.StandardSession.removeAttribute(StandardSession.java:1362)
+	at org.apache.catalina.session.StandardSession.removeAttribute(StandardSession.java:1337)
+	at org.apache.catalina.session.StandardSessionFacade.removeAttribute(StandardSessionFacade.java:154)
+	at controller.DangXuat.doGet(DangXuat.java:23)
+	at javax.servlet.http.HttpServlet.service(HttpServlet.java:635)
+	at javax.servlet.http.HttpServlet.service(HttpServlet.java:742)
+	at org.apache.catalina.core.ApplicationFilterChain.internalDoFilter(ApplicationFilterChain.java:231)
+	at org.apache.catalina.core.ApplicationFilterChain.doFilter(ApplicationFilterChain.java:166)
+	at org.apache.tomcat.websocket.server.WsFilter.doFilter(WsFilter.java:52)
+	at org.apache.catalina.core.ApplicationFilterChain.internalDoFilter(ApplicationFilterChain.java:193)
+	at org.apache.catalina.core.ApplicationFilterChain.doFilter(ApplicationFilterChain.java:166)
+	at org.apache.catalina.core.StandardWrapperValve.invoke(StandardWrapperValve.java:198)
+	at org.apache.catalina.core.StandardContextValve.invoke(StandardContextValve.java:96)
+	at org.apache.catalina.authenticator.AuthenticatorBase.invoke(AuthenticatorBase.java:493)
+	at org.apache.catalina.core.StandardHostValve.invoke(StandardHostValve.java:140)
+	at org.apache.catalina.valves.ErrorReportValve.invoke(ErrorReportValve.java:81)
+	at org.apache.catalina.valves.AbstractAccessLogValve.invoke(AbstractAccessLogValve.java:650)
+	at org.apache.catalina.core.StandardEngineValve.invoke(StandardEngineValve.java:87)
+	at org.apache.catalina.connector.CoyoteAdapter.service(CoyoteAdapter.java:342)
+	at org.apache.coyote.http11.Http11Processor.service(Http11Processor.java:800)
+	at org.apache.coyote.AbstractProcessorLight.process(AbstractProcessorLight.java:66)
+	at org.apache.coyote.AbstractProtocol$ConnectionHandler.process(AbstractProtocol.java:806)
+	at org.apache.tomcat.util.net.NioEndpoint$SocketProcessor.doRun(NioEndpoint.java:1498)
+	at org.apache.tomcat.util.net.SocketProcessorBase.run(SocketProcessorBase.java:49)
+	at java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1149)
+	at java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:624)
+	at org.apache.tomcat.util.threads.TaskThread$WrappingRunnable.run(TaskThread.java:61)
+	at java.lang.Thread.run(Thread.java:748)
+
+15-Dec-2018 11:49:17.756 SEVERE [http-nio-8081-exec-234] org.apache.catalina.core.StandardWrapperValve.invoke Servlet.service() for servlet [UsersServlet] in context with path [/MuaBanNha] threw exception
+ java.lang.NullPointerException
+

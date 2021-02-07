@@ -1,0 +1,9 @@
+@charset "utf-8";
+/* CSS Document */
+.fan_box .full_widget{border:0 !important}
+.fan_box .full_widget .connect_top{background:none !important}
+.fan_box .connections_grid .grid_item .name:hover{color:#196924}
+.name_block a{color:#196924 !important}
+.grid_item a img:hover{ width:48px; height:48px; border:1px solid #196924}
+.fan_box .connections{ padding-left:7px !important;}
+.app_content_299265820123236 .fan_box .full_widget{ margin:3px 0 !important;}

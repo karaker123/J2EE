@@ -1,0 +1,1018 @@
+20-Oct-2018 07:47:30.301 INFO [http-nio-8080-exec-78] org.apache.catalina.core.StandardContext.reload Reloading Context with name [/MuaBanNha] has started
+20-Oct-2018 07:47:30.350 WARNING [http-nio-8080-exec-78] org.apache.catalina.loader.WebappClassLoaderBase.clearReferencesJdbc The web application [MuaBanNha] registered the JDBC driver [com.mysql.jdbc.Driver] but failed to unregister it when the web application was stopped. To prevent a memory leak, the JDBC Driver has been forcibly unregistered.
+20-Oct-2018 07:47:30.351 WARNING [http-nio-8080-exec-78] org.apache.catalina.loader.WebappClassLoaderBase.clearReferencesThreads The web application [MuaBanNha] appears to have started a thread named [MySQL Statement Cancellation Timer] but has failed to stop it. This is very likely to create a memory leak. Stack trace of thread:
+ java.lang.Object.wait(Native Method)
+ java.lang.Object.wait(Object.java:502)
+ java.util.TimerThread.mainLoop(Timer.java:526)
+ java.util.TimerThread.run(Timer.java:505)
+20-Oct-2018 07:47:30.804 INFO [169] org.apache.jasper.servlet.TldScanner.scanJars At least one JAR was scanned for TLDs yet contained no TLDs. Enable debug logging for this logger for a complete list of JARs that were scanned but no TLDs were found in them. Skipping unneeded JARs during scanning can improve startup time and JSP compilation time.
+20-Oct-2018 07:47:30.817 INFO [169] org.apache.catalina.core.StandardContext.reload Reloading Context with name [/MuaBanNha] is completed
+20-Oct-2018 07:47:39.695 INFO [http-nio-8080-exec-84] org.apache.catalina.core.StandardContext.reload Reloading Context with name [/MuaBanNha] has started
+20-Oct-2018 07:47:40.113 INFO [http-nio-8080-exec-84] org.apache.jasper.servlet.TldScanner.scanJars At least one JAR was scanned for TLDs yet contained no TLDs. Enable debug logging for this logger for a complete list of JARs that were scanned but no TLDs were found in them. Skipping unneeded JARs during scanning can improve startup time and JSP compilation time.
+20-Oct-2018 07:47:40.188 INFO [http-nio-8080-exec-84] org.apache.catalina.core.StandardContext.reload Reloading Context with name [/MuaBanNha] is completed
+20-Oct-2018 07:50:47.151 INFO [http-nio-8080-exec-92] org.apache.catalina.core.StandardContext.reload Reloading Context with name [/MuaBanNha] has started
+20-Oct-2018 07:50:48.090 INFO [http-nio-8080-exec-92] org.apache.jasper.servlet.TldScanner.scanJars At least one JAR was scanned for TLDs yet contained no TLDs. Enable debug logging for this logger for a complete list of JARs that were scanned but no TLDs were found in them. Skipping unneeded JARs during scanning can improve startup time and JSP compilation time.
+20-Oct-2018 07:50:48.138 INFO [195] org.apache.catalina.core.StandardContext.reload Reloading Context with name [/MuaBanNha] is completed
+20-Oct-2018 07:54:31.760 INFO [http-nio-8080-exec-100] org.apache.catalina.core.StandardContext.reload Reloading Context with name [/MuaBanNha] has started
+20-Oct-2018 07:54:31.781 WARNING [http-nio-8080-exec-100] org.apache.catalina.loader.WebappClassLoaderBase.clearReferencesJdbc The web application [MuaBanNha] registered the JDBC driver [com.mysql.jdbc.Driver] but failed to unregister it when the web application was stopped. To prevent a memory leak, the JDBC Driver has been forcibly unregistered.
+20-Oct-2018 07:54:31.782 WARNING [http-nio-8080-exec-100] org.apache.catalina.loader.WebappClassLoaderBase.clearReferencesThreads The web application [MuaBanNha] appears to have started a thread named [MySQL Statement Cancellation Timer] but has failed to stop it. This is very likely to create a memory leak. Stack trace of thread:
+ java.lang.Object.wait(Native Method)
+ java.lang.Object.wait(Object.java:502)
+ java.util.TimerThread.mainLoop(Timer.java:526)
+ java.util.TimerThread.run(Timer.java:505)
+20-Oct-2018 07:54:32.358 INFO [http-nio-8080-exec-100] org.apache.jasper.servlet.TldScanner.scanJars At least one JAR was scanned for TLDs yet contained no TLDs. Enable debug logging for this logger for a complete list of JARs that were scanned but no TLDs were found in them. Skipping unneeded JARs during scanning can improve startup time and JSP compilation time.
+20-Oct-2018 07:54:32.398 INFO [http-nio-8080-exec-100] org.apache.catalina.core.StandardContext.reload Reloading Context with name [/MuaBanNha] is completed
+20-Oct-2018 07:54:32.457 INFO [http-nio-8080-exec-98] org.apache.catalina.core.StandardContext.reload Reloading Context with name [/MuaBanNha] has started
+20-Oct-2018 07:54:33.092 INFO [http-nio-8080-exec-98] org.apache.jasper.servlet.TldScanner.scanJars At least one JAR was scanned for TLDs yet contained no TLDs. Enable debug logging for this logger for a complete list of JARs that were scanned but no TLDs were found in them. Skipping unneeded JARs during scanning can improve startup time and JSP compilation time.
+20-Oct-2018 07:54:33.120 INFO [203] org.apache.catalina.core.StandardContext.reload Reloading Context with name [/MuaBanNha] is completed
+20-Oct-2018 07:54:52.983 INFO [http-nio-8080-exec-103] org.apache.catalina.core.StandardContext.reload Reloading Context with name [/MuaBanNha] has started
+20-Oct-2018 07:54:53.499 INFO [http-nio-8080-exec-103] org.apache.jasper.servlet.TldScanner.scanJars At least one JAR was scanned for TLDs yet contained no TLDs. Enable debug logging for this logger for a complete list of JARs that were scanned but no TLDs were found in them. Skipping unneeded JARs during scanning can improve startup time and JSP compilation time.
+20-Oct-2018 07:54:53.522 INFO [http-nio-8080-exec-103] org.apache.catalina.core.StandardContext.reload Reloading Context with name [/MuaBanNha] is completed
+20-Oct-2018 07:57:08.808 INFO [http-nio-8080-exec-109] org.apache.catalina.core.StandardContext.reload Reloading Context with name [/MuaBanNha] has started
+20-Oct-2018 07:57:09.317 INFO [http-nio-8080-exec-109] org.apache.jasper.servlet.TldScanner.scanJars At least one JAR was scanned for TLDs yet contained no TLDs. Enable debug logging for this logger for a complete list of JARs that were scanned but no TLDs were found in them. Skipping unneeded JARs during scanning can improve startup time and JSP compilation time.
+20-Oct-2018 07:57:09.491 INFO [http-nio-8080-exec-109] org.apache.catalina.core.StandardContext.reload Reloading Context with name [/MuaBanNha] is completed
+20-Oct-2018 07:58:04.700 INFO [http-nio-8080-exec-94] org.apache.catalina.core.StandardContext.reload Reloading Context with name [/MuaBanNha] has started
+20-Oct-2018 07:58:06.566 INFO [Finalizer] org.apache.catalina.loader.WebappClassLoaderBase.checkStateForResourceLoading Illegal access: this web application instance has been stopped already. Could not load [com.mysql.jdbc.profiler.ProfileEventSink]. The following stack trace is thrown for debugging purposes as well as to attempt to terminate the thread which caused the illegal access.
+ java.lang.IllegalStateException: Illegal access: this web application instance has been stopped already. Could not load [com.mysql.jdbc.profiler.ProfileEventSink]. The following stack trace is thrown for debugging purposes as well as to attempt to terminate the thread which caused the illegal access.
+	at org.apache.catalina.loader.WebappClassLoaderBase.checkStateForResourceLoading(WebappClassLoaderBase.java:1329)
+	at org.apache.catalina.loader.WebappClassLoaderBase.checkStateForClassLoading(WebappClassLoaderBase.java:1317)
+	at org.apache.catalina.loader.WebappClassLoaderBase.loadClass(WebappClassLoaderBase.java:1176)
+	at org.apache.catalina.loader.WebappClassLoaderBase.loadClass(WebappClassLoaderBase.java:1137)
+	at com.mysql.jdbc.ConnectionImpl.realClose(ConnectionImpl.java:4235)
+	at com.mysql.jdbc.ConnectionImpl.cleanup(ConnectionImpl.java:1257)
+	at com.mysql.jdbc.ConnectionImpl.finalize(ConnectionImpl.java:2663)
+	at java.lang.System$2.invokeFinalize(System.java:1270)
+	at java.lang.ref.Finalizer.runFinalizer(Finalizer.java:98)
+	at java.lang.ref.Finalizer.access$100(Finalizer.java:34)
+	at java.lang.ref.Finalizer$FinalizerThread.run(Finalizer.java:213)
+
+20-Oct-2018 07:58:06.604 INFO [http-nio-8080-exec-94] org.apache.jasper.servlet.TldScanner.scanJars At least one JAR was scanned for TLDs yet contained no TLDs. Enable debug logging for this logger for a complete list of JARs that were scanned but no TLDs were found in them. Skipping unneeded JARs during scanning can improve startup time and JSP compilation time.
+20-Oct-2018 07:58:06.621 INFO [http-nio-8080-exec-94] org.apache.catalina.core.StandardContext.reload Reloading Context with name [/MuaBanNha] is completed
+20-Oct-2018 07:58:06.704 INFO [http-nio-8080-exec-102] org.apache.catalina.core.StandardContext.reload Reloading Context with name [/MuaBanNha] has started
+20-Oct-2018 07:58:07.225 INFO [http-nio-8080-exec-102] org.apache.jasper.servlet.TldScanner.scanJars At least one JAR was scanned for TLDs yet contained no TLDs. Enable debug logging for this logger for a complete list of JARs that were scanned but no TLDs were found in them. Skipping unneeded JARs during scanning can improve startup time and JSP compilation time.
+20-Oct-2018 07:58:07.245 INFO [http-nio-8080-exec-102] org.apache.catalina.core.StandardContext.reload Reloading Context with name [/MuaBanNha] is completed
+20-Oct-2018 07:58:16.666 INFO [http-nio-8080-exec-100] org.apache.catalina.core.StandardContext.reload Reloading Context with name [/MuaBanNha] has started
+20-Oct-2018 07:58:17.193 INFO [http-nio-8080-exec-100] org.apache.jasper.servlet.TldScanner.scanJars At least one JAR was scanned for TLDs yet contained no TLDs. Enable debug logging for this logger for a complete list of JARs that were scanned but no TLDs were found in them. Skipping unneeded JARs during scanning can improve startup time and JSP compilation time.
+20-Oct-2018 07:58:17.226 INFO [http-nio-8080-exec-100] org.apache.catalina.core.StandardContext.reload Reloading Context with name [/MuaBanNha] is completed
+20-Oct-2018 07:59:17.523 INFO [http-nio-8080-exec-110] org.apache.catalina.core.StandardContext.reload Reloading Context with name [/MuaBanNha] has started
+20-Oct-2018 07:59:17.996 INFO [http-nio-8080-exec-110] org.apache.jasper.servlet.TldScanner.scanJars At least one JAR was scanned for TLDs yet contained no TLDs. Enable debug logging for this logger for a complete list of JARs that were scanned but no TLDs were found in them. Skipping unneeded JARs during scanning can improve startup time and JSP compilation time.
+20-Oct-2018 07:59:18.012 INFO [http-nio-8080-exec-110] org.apache.catalina.core.StandardContext.reload Reloading Context with name [/MuaBanNha] is completed
+20-Oct-2018 07:59:33.106 INFO [http-nio-8080-exec-113] org.apache.catalina.core.StandardContext.reload Reloading Context with name [/MuaBanNha] has started
+20-Oct-2018 07:59:33.569 INFO [http-nio-8080-exec-113] org.apache.jasper.servlet.TldScanner.scanJars At least one JAR was scanned for TLDs yet contained no TLDs. Enable debug logging for this logger for a complete list of JARs that were scanned but no TLDs were found in them. Skipping unneeded JARs during scanning can improve startup time and JSP compilation time.
+20-Oct-2018 07:59:33.583 INFO [http-nio-8080-exec-113] org.apache.catalina.core.StandardContext.reload Reloading Context with name [/MuaBanNha] is completed
+20-Oct-2018 08:00:06.679 INFO [http-nio-8080-exec-112] org.apache.catalina.core.StandardContext.reload Reloading Context with name [/MuaBanNha] has started
+20-Oct-2018 08:00:07.171 INFO [http-nio-8080-exec-112] org.apache.jasper.servlet.TldScanner.scanJars At least one JAR was scanned for TLDs yet contained no TLDs. Enable debug logging for this logger for a complete list of JARs that were scanned but no TLDs were found in them. Skipping unneeded JARs during scanning can improve startup time and JSP compilation time.
+20-Oct-2018 08:00:07.192 INFO [http-nio-8080-exec-112] org.apache.catalina.core.StandardContext.reload Reloading Context with name [/MuaBanNha] is completed
+20-Oct-2018 08:01:00.123 INFO [http-nio-8080-exec-124] org.apache.catalina.core.StandardContext.reload Reloading Context with name [/MuaBanNha] has started
+20-Oct-2018 08:01:00.138 WARNING [http-nio-8080-exec-124] org.apache.catalina.loader.WebappClassLoaderBase.clearReferencesJdbc The web application [MuaBanNha] registered the JDBC driver [com.mysql.jdbc.Driver] but failed to unregister it when the web application was stopped. To prevent a memory leak, the JDBC Driver has been forcibly unregistered.
+20-Oct-2018 08:01:00.138 WARNING [http-nio-8080-exec-124] org.apache.catalina.loader.WebappClassLoaderBase.clearReferencesThreads The web application [MuaBanNha] appears to have started a thread named [MySQL Statement Cancellation Timer] but has failed to stop it. This is very likely to create a memory leak. Stack trace of thread:
+ java.lang.Object.wait(Native Method)
+ java.lang.Object.wait(Object.java:502)
+ java.util.TimerThread.mainLoop(Timer.java:526)
+ java.util.TimerThread.run(Timer.java:505)
+20-Oct-2018 08:01:00.385 INFO [Finalizer] org.apache.catalina.loader.WebappClassLoaderBase.checkStateForResourceLoading Illegal access: this web application instance has been stopped already. Could not load [com.mysql.jdbc.profiler.ProfileEventSink]. The following stack trace is thrown for debugging purposes as well as to attempt to terminate the thread which caused the illegal access.
+ java.lang.IllegalStateException: Illegal access: this web application instance has been stopped already. Could not load [com.mysql.jdbc.profiler.ProfileEventSink]. The following stack trace is thrown for debugging purposes as well as to attempt to terminate the thread which caused the illegal access.
+	at org.apache.catalina.loader.WebappClassLoaderBase.checkStateForResourceLoading(WebappClassLoaderBase.java:1329)
+	at org.apache.catalina.loader.WebappClassLoaderBase.checkStateForClassLoading(WebappClassLoaderBase.java:1317)
+	at org.apache.catalina.loader.WebappClassLoaderBase.loadClass(WebappClassLoaderBase.java:1176)
+	at org.apache.catalina.loader.WebappClassLoaderBase.loadClass(WebappClassLoaderBase.java:1137)
+	at com.mysql.jdbc.ConnectionImpl.realClose(ConnectionImpl.java:4235)
+	at com.mysql.jdbc.ConnectionImpl.cleanup(ConnectionImpl.java:1257)
+	at com.mysql.jdbc.ConnectionImpl.finalize(ConnectionImpl.java:2663)
+	at java.lang.System$2.invokeFinalize(System.java:1270)
+	at java.lang.ref.Finalizer.runFinalizer(Finalizer.java:98)
+	at java.lang.ref.Finalizer.access$100(Finalizer.java:34)
+	at java.lang.ref.Finalizer$FinalizerThread.run(Finalizer.java:213)
+
+20-Oct-2018 08:01:00.635 INFO [http-nio-8080-exec-124] org.apache.jasper.servlet.TldScanner.scanJars At least one JAR was scanned for TLDs yet contained no TLDs. Enable debug logging for this logger for a complete list of JARs that were scanned but no TLDs were found in them. Skipping unneeded JARs during scanning can improve startup time and JSP compilation time.
+20-Oct-2018 08:01:00.651 INFO [http-nio-8080-exec-124] org.apache.catalina.core.StandardContext.reload Reloading Context with name [/MuaBanNha] is completed
+20-Oct-2018 08:01:09.905 INFO [http-nio-8080-exec-100] org.apache.catalina.core.StandardContext.reload Reloading Context with name [/MuaBanNha] has started
+20-Oct-2018 08:01:10.261 INFO [http-nio-8080-exec-100] org.apache.jasper.servlet.TldScanner.scanJars At least one JAR was scanned for TLDs yet contained no TLDs. Enable debug logging for this logger for a complete list of JARs that were scanned but no TLDs were found in them. Skipping unneeded JARs during scanning can improve startup time and JSP compilation time.
+20-Oct-2018 08:01:10.293 INFO [http-nio-8080-exec-100] org.apache.catalina.core.StandardContext.reload Reloading Context with name [/MuaBanNha] is completed
+20-Oct-2018 08:01:10.350 INFO [http-nio-8080-exec-124] org.apache.catalina.core.StandardContext.reload Reloading Context with name [/MuaBanNha] has started
+20-Oct-2018 08:01:10.656 INFO [http-nio-8080-exec-124] org.apache.jasper.servlet.TldScanner.scanJars At least one JAR was scanned for TLDs yet contained no TLDs. Enable debug logging for this logger for a complete list of JARs that were scanned but no TLDs were found in them. Skipping unneeded JARs during scanning can improve startup time and JSP compilation time.
+20-Oct-2018 08:01:10.659 INFO [http-nio-8080-exec-124] org.apache.catalina.core.StandardContext.reload Reloading Context with name [/MuaBanNha] is completed
+20-Oct-2018 08:20:43.083 INFO [http-nio-8080-exec-129] org.apache.catalina.core.StandardContext.reload Reloading Context with name [/MuaBanNha] has started
+20-Oct-2018 08:20:43.095 WARNING [http-nio-8080-exec-129] org.apache.catalina.loader.WebappClassLoaderBase.clearReferencesJdbc The web application [MuaBanNha] registered the JDBC driver [com.mysql.jdbc.Driver] but failed to unregister it when the web application was stopped. To prevent a memory leak, the JDBC Driver has been forcibly unregistered.
+20-Oct-2018 08:20:43.096 WARNING [http-nio-8080-exec-129] org.apache.catalina.loader.WebappClassLoaderBase.clearReferencesThreads The web application [MuaBanNha] appears to have started a thread named [MySQL Statement Cancellation Timer] but has failed to stop it. This is very likely to create a memory leak. Stack trace of thread:
+ java.lang.Object.wait(Native Method)
+ java.lang.Object.wait(Object.java:502)
+ java.util.TimerThread.mainLoop(Timer.java:526)
+ java.util.TimerThread.run(Timer.java:505)
+20-Oct-2018 08:20:43.498 INFO [243] org.apache.jasper.servlet.TldScanner.scanJars At least one JAR was scanned for TLDs yet contained no TLDs. Enable debug logging for this logger for a complete list of JARs that were scanned but no TLDs were found in them. Skipping unneeded JARs during scanning can improve startup time and JSP compilation time.
+20-Oct-2018 08:20:43.519 INFO [243] org.apache.catalina.core.StandardContext.reload Reloading Context with name [/MuaBanNha] is completed
+20-Oct-2018 08:21:00.350 INFO [http-nio-8080-exec-128] org.apache.catalina.core.StandardContext.reload Reloading Context with name [/MuaBanNha] has started
+20-Oct-2018 08:21:00.354 WARNING [http-nio-8080-exec-128] org.apache.catalina.loader.WebappClassLoaderBase.clearReferencesJdbc The web application [MuaBanNha] registered the JDBC driver [com.mysql.jdbc.Driver] but failed to unregister it when the web application was stopped. To prevent a memory leak, the JDBC Driver has been forcibly unregistered.
+20-Oct-2018 08:21:00.361 WARNING [http-nio-8080-exec-128] org.apache.catalina.loader.WebappClassLoaderBase.clearReferencesThreads The web application [MuaBanNha] appears to have started a thread named [MySQL Statement Cancellation Timer] but has failed to stop it. This is very likely to create a memory leak. Stack trace of thread:
+ java.lang.Object.wait(Native Method)
+ java.lang.Object.wait(Object.java:502)
+ java.util.TimerThread.mainLoop(Timer.java:526)
+ java.util.TimerThread.run(Timer.java:505)
+20-Oct-2018 08:21:00.747 INFO [http-nio-8080-exec-128] org.apache.jasper.servlet.TldScanner.scanJars At least one JAR was scanned for TLDs yet contained no TLDs. Enable debug logging for this logger for a complete list of JARs that were scanned but no TLDs were found in them. Skipping unneeded JARs during scanning can improve startup time and JSP compilation time.
+20-Oct-2018 08:21:00.772 INFO [http-nio-8080-exec-128] org.apache.catalina.core.StandardContext.reload Reloading Context with name [/MuaBanNha] is completed
+20-Oct-2018 08:21:42.841 INFO [http-nio-8080-exec-134] org.apache.catalina.core.StandardContext.reload Reloading Context with name [/MuaBanNha] has started
+20-Oct-2018 08:21:44.282 INFO [Finalizer] org.apache.catalina.loader.WebappClassLoaderBase.checkStateForResourceLoading Illegal access: this web application instance has been stopped already. Could not load [com.mysql.jdbc.profiler.ProfileEventSink]. The following stack trace is thrown for debugging purposes as well as to attempt to terminate the thread which caused the illegal access.
+ java.lang.IllegalStateException: Illegal access: this web application instance has been stopped already. Could not load [com.mysql.jdbc.profiler.ProfileEventSink]. The following stack trace is thrown for debugging purposes as well as to attempt to terminate the thread which caused the illegal access.
+	at org.apache.catalina.loader.WebappClassLoaderBase.checkStateForResourceLoading(WebappClassLoaderBase.java:1329)
+	at org.apache.catalina.loader.WebappClassLoaderBase.checkStateForClassLoading(WebappClassLoaderBase.java:1317)
+	at org.apache.catalina.loader.WebappClassLoaderBase.loadClass(WebappClassLoaderBase.java:1176)
+	at org.apache.catalina.loader.WebappClassLoaderBase.loadClass(WebappClassLoaderBase.java:1137)
+	at com.mysql.jdbc.ConnectionImpl.realClose(ConnectionImpl.java:4235)
+	at com.mysql.jdbc.ConnectionImpl.cleanup(ConnectionImpl.java:1257)
+	at com.mysql.jdbc.ConnectionImpl.finalize(ConnectionImpl.java:2663)
+	at java.lang.System$2.invokeFinalize(System.java:1270)
+	at java.lang.ref.Finalizer.runFinalizer(Finalizer.java:98)
+	at java.lang.ref.Finalizer.access$100(Finalizer.java:34)
+	at java.lang.ref.Finalizer$FinalizerThread.run(Finalizer.java:213)
+
+20-Oct-2018 08:21:44.291 INFO [Finalizer] org.apache.catalina.loader.WebappClassLoaderBase.checkStateForResourceLoading Illegal access: this web application instance has been stopped already. Could not load [com.mysql.jdbc.profiler.ProfileEventSink]. The following stack trace is thrown for debugging purposes as well as to attempt to terminate the thread which caused the illegal access.
+ java.lang.IllegalStateException: Illegal access: this web application instance has been stopped already. Could not load [com.mysql.jdbc.profiler.ProfileEventSink]. The following stack trace is thrown for debugging purposes as well as to attempt to terminate the thread which caused the illegal access.
+	at org.apache.catalina.loader.WebappClassLoaderBase.checkStateForResourceLoading(WebappClassLoaderBase.java:1329)
+	at org.apache.catalina.loader.WebappClassLoaderBase.checkStateForClassLoading(WebappClassLoaderBase.java:1317)
+	at org.apache.catalina.loader.WebappClassLoaderBase.loadClass(WebappClassLoaderBase.java:1176)
+	at org.apache.catalina.loader.WebappClassLoaderBase.loadClass(WebappClassLoaderBase.java:1137)
+	at com.mysql.jdbc.ConnectionImpl.realClose(ConnectionImpl.java:4235)
+	at com.mysql.jdbc.ConnectionImpl.cleanup(ConnectionImpl.java:1257)
+	at com.mysql.jdbc.ConnectionImpl.finalize(ConnectionImpl.java:2663)
+	at java.lang.System$2.invokeFinalize(System.java:1270)
+	at java.lang.ref.Finalizer.runFinalizer(Finalizer.java:98)
+	at java.lang.ref.Finalizer.access$100(Finalizer.java:34)
+	at java.lang.ref.Finalizer$FinalizerThread.run(Finalizer.java:213)
+
+20-Oct-2018 08:21:44.294 INFO [Finalizer] org.apache.catalina.loader.WebappClassLoaderBase.checkStateForResourceLoading Illegal access: this web application instance has been stopped already. Could not load [com.mysql.jdbc.SQLError]. The following stack trace is thrown for debugging purposes as well as to attempt to terminate the thread which caused the illegal access.
+ java.lang.IllegalStateException: Illegal access: this web application instance has been stopped already. Could not load [com.mysql.jdbc.SQLError]. The following stack trace is thrown for debugging purposes as well as to attempt to terminate the thread which caused the illegal access.
+	at org.apache.catalina.loader.WebappClassLoaderBase.checkStateForResourceLoading(WebappClassLoaderBase.java:1329)
+	at org.apache.catalina.loader.WebappClassLoaderBase.checkStateForClassLoading(WebappClassLoaderBase.java:1317)
+	at org.apache.catalina.loader.WebappClassLoaderBase.loadClass(WebappClassLoaderBase.java:1176)
+	at org.apache.catalina.loader.WebappClassLoaderBase.loadClass(WebappClassLoaderBase.java:1137)
+	at com.mysql.jdbc.MysqlIO.send(MysqlIO.java:3134)
+	at com.mysql.jdbc.MysqlIO.quit(MysqlIO.java:1616)
+	at com.mysql.jdbc.ConnectionImpl.realClose(ConnectionImpl.java:4223)
+	at com.mysql.jdbc.ConnectionImpl.cleanup(ConnectionImpl.java:1257)
+	at com.mysql.jdbc.ConnectionImpl.finalize(ConnectionImpl.java:2663)
+	at java.lang.System$2.invokeFinalize(System.java:1270)
+	at java.lang.ref.Finalizer.runFinalizer(Finalizer.java:98)
+	at java.lang.ref.Finalizer.access$100(Finalizer.java:34)
+	at java.lang.ref.Finalizer$FinalizerThread.run(Finalizer.java:213)
+
+20-Oct-2018 08:21:44.636 INFO [http-nio-8080-exec-134] org.apache.jasper.servlet.TldScanner.scanJars At least one JAR was scanned for TLDs yet contained no TLDs. Enable debug logging for this logger for a complete list of JARs that were scanned but no TLDs were found in them. Skipping unneeded JARs during scanning can improve startup time and JSP compilation time.
+20-Oct-2018 08:21:44.664 INFO [252] org.apache.catalina.core.StandardContext.reload Reloading Context with name [/MuaBanNha] is completed
+20-Oct-2018 08:51:30.250 INFO [http-nio-8080-exec-155] org.apache.catalina.core.StandardContext.reload Reloading Context with name [/MuaBanNha] has started
+20-Oct-2018 08:51:30.257 WARNING [http-nio-8080-exec-155] org.apache.catalina.loader.WebappClassLoaderBase.clearReferencesJdbc The web application [MuaBanNha] registered the JDBC driver [com.mysql.jdbc.Driver] but failed to unregister it when the web application was stopped. To prevent a memory leak, the JDBC Driver has been forcibly unregistered.
+20-Oct-2018 08:51:30.267 WARNING [http-nio-8080-exec-155] org.apache.catalina.loader.WebappClassLoaderBase.clearReferencesThreads The web application [MuaBanNha] appears to have started a thread named [MySQL Statement Cancellation Timer] but has failed to stop it. This is very likely to create a memory leak. Stack trace of thread:
+ java.lang.Object.wait(Native Method)
+ java.lang.Object.wait(Object.java:502)
+ java.util.TimerThread.mainLoop(Timer.java:526)
+ java.util.TimerThread.run(Timer.java:505)
+20-Oct-2018 08:51:32.205 INFO [Finalizer] org.apache.catalina.loader.WebappClassLoaderBase.checkStateForResourceLoading Illegal access: this web application instance has been stopped already. Could not load [com.mysql.jdbc.profiler.ProfileEventSink]. The following stack trace is thrown for debugging purposes as well as to attempt to terminate the thread which caused the illegal access.
+ java.lang.IllegalStateException: Illegal access: this web application instance has been stopped already. Could not load [com.mysql.jdbc.profiler.ProfileEventSink]. The following stack trace is thrown for debugging purposes as well as to attempt to terminate the thread which caused the illegal access.
+	at org.apache.catalina.loader.WebappClassLoaderBase.checkStateForResourceLoading(WebappClassLoaderBase.java:1329)
+	at org.apache.catalina.loader.WebappClassLoaderBase.checkStateForClassLoading(WebappClassLoaderBase.java:1317)
+	at org.apache.catalina.loader.WebappClassLoaderBase.loadClass(WebappClassLoaderBase.java:1176)
+	at org.apache.catalina.loader.WebappClassLoaderBase.loadClass(WebappClassLoaderBase.java:1137)
+	at com.mysql.jdbc.ConnectionImpl.realClose(ConnectionImpl.java:4235)
+	at com.mysql.jdbc.ConnectionImpl.cleanup(ConnectionImpl.java:1257)
+	at com.mysql.jdbc.ConnectionImpl.finalize(ConnectionImpl.java:2663)
+	at java.lang.System$2.invokeFinalize(System.java:1270)
+	at java.lang.ref.Finalizer.runFinalizer(Finalizer.java:98)
+	at java.lang.ref.Finalizer.access$100(Finalizer.java:34)
+	at java.lang.ref.Finalizer$FinalizerThread.run(Finalizer.java:213)
+
+20-Oct-2018 08:51:32.487 INFO [283] org.apache.jasper.servlet.TldScanner.scanJars At least one JAR was scanned for TLDs yet contained no TLDs. Enable debug logging for this logger for a complete list of JARs that were scanned but no TLDs were found in them. Skipping unneeded JARs during scanning can improve startup time and JSP compilation time.
+20-Oct-2018 08:51:32.499 INFO [283] org.apache.catalina.core.StandardContext.reload Reloading Context with name [/MuaBanNha] is completed
+20-Oct-2018 08:51:33.911 INFO [http-nio-8080-exec-153] org.apache.catalina.core.StandardContext.reload Reloading Context with name [/MuaBanNha] has started
+20-Oct-2018 08:51:34.423 INFO [http-nio-8080-exec-153] org.apache.jasper.servlet.TldScanner.scanJars At least one JAR was scanned for TLDs yet contained no TLDs. Enable debug logging for this logger for a complete list of JARs that were scanned but no TLDs were found in them. Skipping unneeded JARs during scanning can improve startup time and JSP compilation time.
+20-Oct-2018 08:51:34.439 INFO [http-nio-8080-exec-153] org.apache.catalina.core.StandardContext.reload Reloading Context with name [/MuaBanNha] is completed
+20-Oct-2018 08:51:51.795 INFO [http-nio-8080-exec-156] org.apache.catalina.core.StandardContext.reload Reloading Context with name [/MuaBanNha] has started
+20-Oct-2018 08:51:52.152 INFO [http-nio-8080-exec-156] org.apache.jasper.servlet.TldScanner.scanJars At least one JAR was scanned for TLDs yet contained no TLDs. Enable debug logging for this logger for a complete list of JARs that were scanned but no TLDs were found in them. Skipping unneeded JARs during scanning can improve startup time and JSP compilation time.
+20-Oct-2018 08:51:52.166 INFO [http-nio-8080-exec-156] org.apache.catalina.core.StandardContext.reload Reloading Context with name [/MuaBanNha] is completed
+20-Oct-2018 08:52:32.201 INFO [http-nio-8080-exec-153] org.apache.catalina.startup.HostConfig.undeploy Undeploying context [/WebApplication2]
+20-Oct-2018 08:52:44.000 INFO [http-nio-8080-exec-160] org.apache.catalina.startup.HostConfig.undeploy Undeploying context [/WebApplication1]
+20-Oct-2018 16:05:44.695 INFO [http-nio-8080-exec-160] org.apache.catalina.core.StandardContext.reload Reloading Context with name [/MuaBanNha] has started
+20-Oct-2018 16:05:45.007 INFO [http-nio-8080-exec-160] org.apache.jasper.servlet.TldScanner.scanJars At least one JAR was scanned for TLDs yet contained no TLDs. Enable debug logging for this logger for a complete list of JARs that were scanned but no TLDs were found in them. Skipping unneeded JARs during scanning can improve startup time and JSP compilation time.
+20-Oct-2018 16:05:45.022 INFO [http-nio-8080-exec-160] org.apache.catalina.core.StandardContext.reload Reloading Context with name [/MuaBanNha] is completed
+20-Oct-2018 16:14:07.340 INFO [http-nio-8080-exec-169] org.apache.catalina.core.StandardContext.reload Reloading Context with name [/MuaBanNha] has started
+20-Oct-2018 16:14:07.777 INFO [http-nio-8080-exec-169] org.apache.jasper.servlet.TldScanner.scanJars At least one JAR was scanned for TLDs yet contained no TLDs. Enable debug logging for this logger for a complete list of JARs that were scanned but no TLDs were found in them. Skipping unneeded JARs during scanning can improve startup time and JSP compilation time.
+20-Oct-2018 16:14:07.794 INFO [307] org.apache.catalina.core.StandardContext.reload Reloading Context with name [/MuaBanNha] is completed
+20-Oct-2018 16:14:08.301 INFO [http-nio-8080-exec-166] org.apache.catalina.core.StandardContext.reload Reloading Context with name [/MuaBanNha] has started
+20-Oct-2018 16:14:09.373 INFO [http-nio-8080-exec-166] org.apache.jasper.servlet.TldScanner.scanJars At least one JAR was scanned for TLDs yet contained no TLDs. Enable debug logging for this logger for a complete list of JARs that were scanned but no TLDs were found in them. Skipping unneeded JARs during scanning can improve startup time and JSP compilation time.
+20-Oct-2018 16:14:09.386 INFO [http-nio-8080-exec-166] org.apache.catalina.core.StandardContext.reload Reloading Context with name [/MuaBanNha] is completed
+20-Oct-2018 16:15:46.489 INFO [http-nio-8080-exec-180] org.apache.catalina.core.StandardContext.reload Reloading Context with name [/MuaBanNha] has started
+20-Oct-2018 16:15:46.840 INFO [http-nio-8080-exec-180] org.apache.jasper.servlet.TldScanner.scanJars At least one JAR was scanned for TLDs yet contained no TLDs. Enable debug logging for this logger for a complete list of JARs that were scanned but no TLDs were found in them. Skipping unneeded JARs during scanning can improve startup time and JSP compilation time.
+20-Oct-2018 16:15:46.857 INFO [http-nio-8080-exec-180] org.apache.catalina.core.StandardContext.reload Reloading Context with name [/MuaBanNha] is completed
+20-Oct-2018 16:15:53.292 INFO [http-nio-8080-exec-176] org.apache.catalina.core.StandardContext.reload Reloading Context with name [/MuaBanNha] has started
+20-Oct-2018 16:15:53.658 INFO [http-nio-8080-exec-176] org.apache.jasper.servlet.TldScanner.scanJars At least one JAR was scanned for TLDs yet contained no TLDs. Enable debug logging for this logger for a complete list of JARs that were scanned but no TLDs were found in them. Skipping unneeded JARs during scanning can improve startup time and JSP compilation time.
+20-Oct-2018 16:15:53.673 INFO [http-nio-8080-exec-176] org.apache.catalina.core.StandardContext.reload Reloading Context with name [/MuaBanNha] is completed
+20-Oct-2018 16:15:54.376 INFO [http-nio-8080-exec-173] org.apache.catalina.core.StandardContext.reload Reloading Context with name [/MuaBanNha] has started
+20-Oct-2018 16:15:54.690 INFO [http-nio-8080-exec-173] org.apache.jasper.servlet.TldScanner.scanJars At least one JAR was scanned for TLDs yet contained no TLDs. Enable debug logging for this logger for a complete list of JARs that were scanned but no TLDs were found in them. Skipping unneeded JARs during scanning can improve startup time and JSP compilation time.
+20-Oct-2018 16:15:54.704 INFO [http-nio-8080-exec-173] org.apache.catalina.core.StandardContext.reload Reloading Context with name [/MuaBanNha] is completed
+20-Oct-2018 16:15:56.491 INFO [http-nio-8080-exec-172] org.apache.catalina.core.StandardContext.reload Reloading Context with name [/MuaBanNha] has started
+20-Oct-2018 16:15:56.799 INFO [http-nio-8080-exec-172] org.apache.jasper.servlet.TldScanner.scanJars At least one JAR was scanned for TLDs yet contained no TLDs. Enable debug logging for this logger for a complete list of JARs that were scanned but no TLDs were found in them. Skipping unneeded JARs during scanning can improve startup time and JSP compilation time.
+20-Oct-2018 16:15:56.821 INFO [http-nio-8080-exec-172] org.apache.catalina.core.StandardContext.reload Reloading Context with name [/MuaBanNha] is completed
+20-Oct-2018 16:17:44.061 INFO [http-nio-8080-exec-185] org.apache.catalina.core.StandardContext.reload Reloading Context with name [/MuaBanNha] has started
+20-Oct-2018 16:17:44.068 WARNING [http-nio-8080-exec-185] org.apache.catalina.loader.WebappClassLoaderBase.clearReferencesJdbc The web application [MuaBanNha] registered the JDBC driver [com.mysql.jdbc.Driver] but failed to unregister it when the web application was stopped. To prevent a memory leak, the JDBC Driver has been forcibly unregistered.
+20-Oct-2018 16:17:44.069 WARNING [http-nio-8080-exec-185] org.apache.catalina.loader.WebappClassLoaderBase.clearReferencesThreads The web application [MuaBanNha] appears to have started a thread named [MySQL Statement Cancellation Timer] but has failed to stop it. This is very likely to create a memory leak. Stack trace of thread:
+ java.lang.Object.wait(Native Method)
+ java.lang.Object.wait(Object.java:502)
+ java.util.TimerThread.mainLoop(Timer.java:526)
+ java.util.TimerThread.run(Timer.java:505)
+20-Oct-2018 16:17:46.202 INFO [Finalizer] org.apache.catalina.loader.WebappClassLoaderBase.checkStateForResourceLoading Illegal access: this web application instance has been stopped already. Could not load [com.mysql.jdbc.SQLError]. The following stack trace is thrown for debugging purposes as well as to attempt to terminate the thread which caused the illegal access.
+ java.lang.IllegalStateException: Illegal access: this web application instance has been stopped already. Could not load [com.mysql.jdbc.SQLError]. The following stack trace is thrown for debugging purposes as well as to attempt to terminate the thread which caused the illegal access.
+	at org.apache.catalina.loader.WebappClassLoaderBase.checkStateForResourceLoading(WebappClassLoaderBase.java:1329)
+	at org.apache.catalina.loader.WebappClassLoaderBase.checkStateForClassLoading(WebappClassLoaderBase.java:1317)
+	at org.apache.catalina.loader.WebappClassLoaderBase.loadClass(WebappClassLoaderBase.java:1176)
+	at org.apache.catalina.loader.WebappClassLoaderBase.loadClass(WebappClassLoaderBase.java:1137)
+	at com.mysql.jdbc.MysqlIO.send(MysqlIO.java:3134)
+	at com.mysql.jdbc.MysqlIO.quit(MysqlIO.java:1616)
+	at com.mysql.jdbc.ConnectionImpl.realClose(ConnectionImpl.java:4223)
+	at com.mysql.jdbc.ConnectionImpl.cleanup(ConnectionImpl.java:1257)
+	at com.mysql.jdbc.ConnectionImpl.finalize(ConnectionImpl.java:2663)
+	at java.lang.System$2.invokeFinalize(System.java:1270)
+	at java.lang.ref.Finalizer.runFinalizer(Finalizer.java:98)
+	at java.lang.ref.Finalizer.access$100(Finalizer.java:34)
+	at java.lang.ref.Finalizer$FinalizerThread.run(Finalizer.java:213)
+
+20-Oct-2018 16:17:46.203 INFO [Finalizer] org.apache.catalina.loader.WebappClassLoaderBase.checkStateForResourceLoading Illegal access: this web application instance has been stopped already. Could not load [com.mysql.jdbc.profiler.ProfileEventSink]. The following stack trace is thrown for debugging purposes as well as to attempt to terminate the thread which caused the illegal access.
+ java.lang.IllegalStateException: Illegal access: this web application instance has been stopped already. Could not load [com.mysql.jdbc.profiler.ProfileEventSink]. The following stack trace is thrown for debugging purposes as well as to attempt to terminate the thread which caused the illegal access.
+	at org.apache.catalina.loader.WebappClassLoaderBase.checkStateForResourceLoading(WebappClassLoaderBase.java:1329)
+	at org.apache.catalina.loader.WebappClassLoaderBase.checkStateForClassLoading(WebappClassLoaderBase.java:1317)
+	at org.apache.catalina.loader.WebappClassLoaderBase.loadClass(WebappClassLoaderBase.java:1176)
+	at org.apache.catalina.loader.WebappClassLoaderBase.loadClass(WebappClassLoaderBase.java:1137)
+	at com.mysql.jdbc.ConnectionImpl.realClose(ConnectionImpl.java:4235)
+	at com.mysql.jdbc.ConnectionImpl.cleanup(ConnectionImpl.java:1257)
+	at com.mysql.jdbc.ConnectionImpl.finalize(ConnectionImpl.java:2663)
+	at java.lang.System$2.invokeFinalize(System.java:1270)
+	at java.lang.ref.Finalizer.runFinalizer(Finalizer.java:98)
+	at java.lang.ref.Finalizer.access$100(Finalizer.java:34)
+	at java.lang.ref.Finalizer$FinalizerThread.run(Finalizer.java:213)
+
+20-Oct-2018 16:17:46.596 INFO [http-nio-8080-exec-185] org.apache.jasper.servlet.TldScanner.scanJars At least one JAR was scanned for TLDs yet contained no TLDs. Enable debug logging for this logger for a complete list of JARs that were scanned but no TLDs were found in them. Skipping unneeded JARs during scanning can improve startup time and JSP compilation time.
+20-Oct-2018 16:17:46.615 INFO [http-nio-8080-exec-185] org.apache.catalina.core.StandardContext.reload Reloading Context with name [/MuaBanNha] is completed
+20-Oct-2018 16:17:46.685 INFO [http-nio-8080-exec-184] org.apache.catalina.core.StandardContext.reload Reloading Context with name [/MuaBanNha] has started
+20-Oct-2018 16:17:47.096 INFO [http-nio-8080-exec-184] org.apache.jasper.servlet.TldScanner.scanJars At least one JAR was scanned for TLDs yet contained no TLDs. Enable debug logging for this logger for a complete list of JARs that were scanned but no TLDs were found in them. Skipping unneeded JARs during scanning can improve startup time and JSP compilation time.
+20-Oct-2018 16:17:47.114 INFO [http-nio-8080-exec-184] org.apache.catalina.core.StandardContext.reload Reloading Context with name [/MuaBanNha] is completed
+20-Oct-2018 16:17:52.706 INFO [http-nio-8080-exec-178] org.apache.catalina.core.StandardContext.reload Reloading Context with name [/MuaBanNha] has started
+20-Oct-2018 16:17:53.129 INFO [http-nio-8080-exec-178] org.apache.jasper.servlet.TldScanner.scanJars At least one JAR was scanned for TLDs yet contained no TLDs. Enable debug logging for this logger for a complete list of JARs that were scanned but no TLDs were found in them. Skipping unneeded JARs during scanning can improve startup time and JSP compilation time.
+20-Oct-2018 16:17:53.160 INFO [http-nio-8080-exec-178] org.apache.catalina.core.StandardContext.reload Reloading Context with name [/MuaBanNha] is completed
+20-Oct-2018 16:32:02.839 INFO [http-nio-8080-exec-195] org.apache.catalina.core.StandardContext.reload Reloading Context with name [/MuaBanNha] has started
+20-Oct-2018 16:32:02.844 WARNING [http-nio-8080-exec-195] org.apache.catalina.loader.WebappClassLoaderBase.clearReferencesJdbc The web application [MuaBanNha] registered the JDBC driver [com.mysql.jdbc.Driver] but failed to unregister it when the web application was stopped. To prevent a memory leak, the JDBC Driver has been forcibly unregistered.
+20-Oct-2018 16:32:02.853 WARNING [http-nio-8080-exec-195] org.apache.catalina.loader.WebappClassLoaderBase.clearReferencesThreads The web application [MuaBanNha] appears to have started a thread named [MySQL Statement Cancellation Timer] but has failed to stop it. This is very likely to create a memory leak. Stack trace of thread:
+ java.lang.Object.wait(Native Method)
+ java.lang.Object.wait(Object.java:502)
+ java.util.TimerThread.mainLoop(Timer.java:526)
+ java.util.TimerThread.run(Timer.java:505)
+20-Oct-2018 16:32:03.211 INFO [http-nio-8080-exec-195] org.apache.jasper.servlet.TldScanner.scanJars At least one JAR was scanned for TLDs yet contained no TLDs. Enable debug logging for this logger for a complete list of JARs that were scanned but no TLDs were found in them. Skipping unneeded JARs during scanning can improve startup time and JSP compilation time.
+20-Oct-2018 16:32:03.223 INFO [http-nio-8080-exec-195] org.apache.catalina.core.StandardContext.reload Reloading Context with name [/MuaBanNha] is completed
+20-Oct-2018 16:42:50.676 INFO [http-nio-8080-exec-206] org.apache.catalina.core.StandardContext.reload Reloading Context with name [/MuaBanNha] has started
+20-Oct-2018 16:42:50.682 WARNING [http-nio-8080-exec-206] org.apache.catalina.loader.WebappClassLoaderBase.clearReferencesJdbc The web application [MuaBanNha] registered the JDBC driver [com.mysql.jdbc.Driver] but failed to unregister it when the web application was stopped. To prevent a memory leak, the JDBC Driver has been forcibly unregistered.
+20-Oct-2018 16:42:50.682 WARNING [http-nio-8080-exec-206] org.apache.catalina.loader.WebappClassLoaderBase.clearReferencesThreads The web application [MuaBanNha] appears to have started a thread named [MySQL Statement Cancellation Timer] but has failed to stop it. This is very likely to create a memory leak. Stack trace of thread:
+ java.lang.Object.wait(Native Method)
+ java.lang.Object.wait(Object.java:502)
+ java.util.TimerThread.mainLoop(Timer.java:526)
+ java.util.TimerThread.run(Timer.java:505)
+20-Oct-2018 16:42:51.116 INFO [http-nio-8080-exec-206] org.apache.jasper.servlet.TldScanner.scanJars At least one JAR was scanned for TLDs yet contained no TLDs. Enable debug logging for this logger for a complete list of JARs that were scanned but no TLDs were found in them. Skipping unneeded JARs during scanning can improve startup time and JSP compilation time.
+20-Oct-2018 16:42:51.139 INFO [http-nio-8080-exec-206] org.apache.catalina.core.StandardContext.reload Reloading Context with name [/MuaBanNha] is completed
+20-Oct-2018 16:43:03.874 INFO [http-nio-8080-exec-203] org.apache.catalina.core.StandardContext.reload Reloading Context with name [/MuaBanNha] has started
+20-Oct-2018 16:43:04.213 INFO [http-nio-8080-exec-203] org.apache.jasper.servlet.TldScanner.scanJars At least one JAR was scanned for TLDs yet contained no TLDs. Enable debug logging for this logger for a complete list of JARs that were scanned but no TLDs were found in them. Skipping unneeded JARs during scanning can improve startup time and JSP compilation time.
+20-Oct-2018 16:43:04.231 INFO [http-nio-8080-exec-203] org.apache.catalina.core.StandardContext.reload Reloading Context with name [/MuaBanNha] is completed
+20-Oct-2018 16:44:30.810 INFO [http-nio-8080-exec-218] org.apache.catalina.core.StandardContext.reload Reloading Context with name [/MuaBanNha] has started
+20-Oct-2018 16:44:30.816 WARNING [http-nio-8080-exec-218] org.apache.catalina.loader.WebappClassLoaderBase.clearReferencesJdbc The web application [MuaBanNha] registered the JDBC driver [com.mysql.jdbc.Driver] but failed to unregister it when the web application was stopped. To prevent a memory leak, the JDBC Driver has been forcibly unregistered.
+20-Oct-2018 16:44:30.817 WARNING [http-nio-8080-exec-218] org.apache.catalina.loader.WebappClassLoaderBase.clearReferencesThreads The web application [MuaBanNha] appears to have started a thread named [MySQL Statement Cancellation Timer] but has failed to stop it. This is very likely to create a memory leak. Stack trace of thread:
+ java.lang.Object.wait(Native Method)
+ java.lang.Object.wait(Object.java:502)
+ java.util.TimerThread.mainLoop(Timer.java:526)
+ java.util.TimerThread.run(Timer.java:505)
+20-Oct-2018 16:44:31.177 INFO [http-nio-8080-exec-218] org.apache.jasper.servlet.TldScanner.scanJars At least one JAR was scanned for TLDs yet contained no TLDs. Enable debug logging for this logger for a complete list of JARs that were scanned but no TLDs were found in them. Skipping unneeded JARs during scanning can improve startup time and JSP compilation time.
+20-Oct-2018 16:44:31.189 INFO [http-nio-8080-exec-218] org.apache.catalina.core.StandardContext.reload Reloading Context with name [/MuaBanNha] is completed
+20-Oct-2018 16:45:31.824 INFO [http-nio-8080-exec-208] org.apache.catalina.core.StandardContext.reload Reloading Context with name [/MuaBanNha] has started
+20-Oct-2018 16:45:32.269 INFO [http-nio-8080-exec-208] org.apache.jasper.servlet.TldScanner.scanJars At least one JAR was scanned for TLDs yet contained no TLDs. Enable debug logging for this logger for a complete list of JARs that were scanned but no TLDs were found in them. Skipping unneeded JARs during scanning can improve startup time and JSP compilation time.
+20-Oct-2018 16:45:32.283 INFO [http-nio-8080-exec-208] org.apache.catalina.core.StandardContext.reload Reloading Context with name [/MuaBanNha] is completed
+20-Oct-2018 16:45:44.963 INFO [http-nio-8080-exec-219] org.apache.catalina.core.StandardContext.reload Reloading Context with name [/MuaBanNha] has started
+20-Oct-2018 16:45:45.154 INFO [Finalizer] org.apache.catalina.loader.WebappClassLoaderBase.checkStateForResourceLoading Illegal access: this web application instance has been stopped already. Could not load [com.mysql.jdbc.profiler.ProfileEventSink]. The following stack trace is thrown for debugging purposes as well as to attempt to terminate the thread which caused the illegal access.
+ java.lang.IllegalStateException: Illegal access: this web application instance has been stopped already. Could not load [com.mysql.jdbc.profiler.ProfileEventSink]. The following stack trace is thrown for debugging purposes as well as to attempt to terminate the thread which caused the illegal access.
+	at org.apache.catalina.loader.WebappClassLoaderBase.checkStateForResourceLoading(WebappClassLoaderBase.java:1329)
+	at org.apache.catalina.loader.WebappClassLoaderBase.checkStateForClassLoading(WebappClassLoaderBase.java:1317)
+	at org.apache.catalina.loader.WebappClassLoaderBase.loadClass(WebappClassLoaderBase.java:1176)
+	at org.apache.catalina.loader.WebappClassLoaderBase.loadClass(WebappClassLoaderBase.java:1137)
+	at com.mysql.jdbc.ConnectionImpl.realClose(ConnectionImpl.java:4235)
+	at com.mysql.jdbc.ConnectionImpl.cleanup(ConnectionImpl.java:1257)
+	at com.mysql.jdbc.ConnectionImpl.finalize(ConnectionImpl.java:2663)
+	at java.lang.System$2.invokeFinalize(System.java:1270)
+	at java.lang.ref.Finalizer.runFinalizer(Finalizer.java:98)
+	at java.lang.ref.Finalizer.access$100(Finalizer.java:34)
+	at java.lang.ref.Finalizer$FinalizerThread.run(Finalizer.java:213)
+
+20-Oct-2018 16:45:45.571 INFO [http-nio-8080-exec-219] org.apache.jasper.servlet.TldScanner.scanJars At least one JAR was scanned for TLDs yet contained no TLDs. Enable debug logging for this logger for a complete list of JARs that were scanned but no TLDs were found in them. Skipping unneeded JARs during scanning can improve startup time and JSP compilation time.
+20-Oct-2018 16:45:45.583 INFO [http-nio-8080-exec-219] org.apache.catalina.core.StandardContext.reload Reloading Context with name [/MuaBanNha] is completed
+20-Oct-2018 16:46:39.753 INFO [http-nio-8080-exec-223] org.apache.catalina.core.StandardContext.reload Reloading Context with name [/MuaBanNha] has started
+20-Oct-2018 16:46:40.181 INFO [http-nio-8080-exec-223] org.apache.jasper.servlet.TldScanner.scanJars At least one JAR was scanned for TLDs yet contained no TLDs. Enable debug logging for this logger for a complete list of JARs that were scanned but no TLDs were found in them. Skipping unneeded JARs during scanning can improve startup time and JSP compilation time.
+20-Oct-2018 16:46:40.204 INFO [http-nio-8080-exec-223] org.apache.catalina.core.StandardContext.reload Reloading Context with name [/MuaBanNha] is completed
+20-Oct-2018 16:46:46.133 INFO [http-nio-8080-exec-218] org.apache.catalina.core.StandardContext.reload Reloading Context with name [/MuaBanNha] has started
+20-Oct-2018 16:46:46.628 INFO [http-nio-8080-exec-218] org.apache.jasper.servlet.TldScanner.scanJars At least one JAR was scanned for TLDs yet contained no TLDs. Enable debug logging for this logger for a complete list of JARs that were scanned but no TLDs were found in them. Skipping unneeded JARs during scanning can improve startup time and JSP compilation time.
+20-Oct-2018 16:46:46.659 INFO [http-nio-8080-exec-218] org.apache.catalina.core.StandardContext.reload Reloading Context with name [/MuaBanNha] is completed
+20-Oct-2018 16:51:28.459 INFO [http-nio-8080-exec-227] org.apache.catalina.core.StandardContext.reload Reloading Context with name [/MuaBanNha] has started
+20-Oct-2018 16:51:28.466 WARNING [http-nio-8080-exec-227] org.apache.catalina.loader.WebappClassLoaderBase.clearReferencesJdbc The web application [MuaBanNha] registered the JDBC driver [com.mysql.jdbc.Driver] but failed to unregister it when the web application was stopped. To prevent a memory leak, the JDBC Driver has been forcibly unregistered.
+20-Oct-2018 16:51:28.467 WARNING [http-nio-8080-exec-227] org.apache.catalina.loader.WebappClassLoaderBase.clearReferencesThreads The web application [MuaBanNha] appears to have started a thread named [MySQL Statement Cancellation Timer] but has failed to stop it. This is very likely to create a memory leak. Stack trace of thread:
+ java.lang.Object.wait(Native Method)
+ java.lang.Object.wait(Object.java:502)
+ java.util.TimerThread.mainLoop(Timer.java:526)
+ java.util.TimerThread.run(Timer.java:505)
+20-Oct-2018 16:51:28.899 INFO [401] org.apache.jasper.servlet.TldScanner.scanJars At least one JAR was scanned for TLDs yet contained no TLDs. Enable debug logging for this logger for a complete list of JARs that were scanned but no TLDs were found in them. Skipping unneeded JARs during scanning can improve startup time and JSP compilation time.
+20-Oct-2018 16:51:28.919 INFO [401] org.apache.catalina.core.StandardContext.reload Reloading Context with name [/MuaBanNha] is completed
+20-Oct-2018 16:51:58.752 INFO [Finalizer] org.apache.catalina.loader.WebappClassLoaderBase.checkStateForResourceLoading Illegal access: this web application instance has been stopped already. Could not load [com.mysql.jdbc.profiler.ProfileEventSink]. The following stack trace is thrown for debugging purposes as well as to attempt to terminate the thread which caused the illegal access.
+ java.lang.IllegalStateException: Illegal access: this web application instance has been stopped already. Could not load [com.mysql.jdbc.profiler.ProfileEventSink]. The following stack trace is thrown for debugging purposes as well as to attempt to terminate the thread which caused the illegal access.
+	at org.apache.catalina.loader.WebappClassLoaderBase.checkStateForResourceLoading(WebappClassLoaderBase.java:1329)
+	at org.apache.catalina.loader.WebappClassLoaderBase.checkStateForClassLoading(WebappClassLoaderBase.java:1317)
+	at org.apache.catalina.loader.WebappClassLoaderBase.loadClass(WebappClassLoaderBase.java:1176)
+	at org.apache.catalina.loader.WebappClassLoaderBase.loadClass(WebappClassLoaderBase.java:1137)
+	at com.mysql.jdbc.ConnectionImpl.realClose(ConnectionImpl.java:4235)
+	at com.mysql.jdbc.ConnectionImpl.cleanup(ConnectionImpl.java:1257)
+	at com.mysql.jdbc.ConnectionImpl.finalize(ConnectionImpl.java:2663)
+	at java.lang.System$2.invokeFinalize(System.java:1270)
+	at java.lang.ref.Finalizer.runFinalizer(Finalizer.java:98)
+	at java.lang.ref.Finalizer.access$100(Finalizer.java:34)
+	at java.lang.ref.Finalizer$FinalizerThread.run(Finalizer.java:213)
+
+20-Oct-2018 16:51:58.764 INFO [Finalizer] org.apache.catalina.loader.WebappClassLoaderBase.checkStateForResourceLoading Illegal access: this web application instance has been stopped already. Could not load [com.mysql.jdbc.SQLError]. The following stack trace is thrown for debugging purposes as well as to attempt to terminate the thread which caused the illegal access.
+ java.lang.IllegalStateException: Illegal access: this web application instance has been stopped already. Could not load [com.mysql.jdbc.SQLError]. The following stack trace is thrown for debugging purposes as well as to attempt to terminate the thread which caused the illegal access.
+	at org.apache.catalina.loader.WebappClassLoaderBase.checkStateForResourceLoading(WebappClassLoaderBase.java:1329)
+	at org.apache.catalina.loader.WebappClassLoaderBase.checkStateForClassLoading(WebappClassLoaderBase.java:1317)
+	at org.apache.catalina.loader.WebappClassLoaderBase.loadClass(WebappClassLoaderBase.java:1176)
+	at org.apache.catalina.loader.WebappClassLoaderBase.loadClass(WebappClassLoaderBase.java:1137)
+	at com.mysql.jdbc.MysqlIO.send(MysqlIO.java:3134)
+	at com.mysql.jdbc.MysqlIO.quit(MysqlIO.java:1616)
+	at com.mysql.jdbc.ConnectionImpl.realClose(ConnectionImpl.java:4223)
+	at com.mysql.jdbc.ConnectionImpl.cleanup(ConnectionImpl.java:1257)
+	at com.mysql.jdbc.ConnectionImpl.finalize(ConnectionImpl.java:2663)
+	at java.lang.System$2.invokeFinalize(System.java:1270)
+	at java.lang.ref.Finalizer.runFinalizer(Finalizer.java:98)
+	at java.lang.ref.Finalizer.access$100(Finalizer.java:34)
+	at java.lang.ref.Finalizer$FinalizerThread.run(Finalizer.java:213)
+
+20-Oct-2018 16:54:41.635 INFO [http-nio-8080-exec-242] org.apache.catalina.core.StandardContext.reload Reloading Context with name [/MuaBanNha] has started
+20-Oct-2018 16:54:41.640 WARNING [http-nio-8080-exec-242] org.apache.catalina.loader.WebappClassLoaderBase.clearReferencesJdbc The web application [MuaBanNha] registered the JDBC driver [com.mysql.jdbc.Driver] but failed to unregister it when the web application was stopped. To prevent a memory leak, the JDBC Driver has been forcibly unregistered.
+20-Oct-2018 16:54:41.641 WARNING [http-nio-8080-exec-242] org.apache.catalina.loader.WebappClassLoaderBase.clearReferencesThreads The web application [MuaBanNha] appears to have started a thread named [MySQL Statement Cancellation Timer] but has failed to stop it. This is very likely to create a memory leak. Stack trace of thread:
+ java.lang.Object.wait(Native Method)
+ java.lang.Object.wait(Object.java:502)
+ java.util.TimerThread.mainLoop(Timer.java:526)
+ java.util.TimerThread.run(Timer.java:505)
+20-Oct-2018 16:54:42.038 INFO [http-nio-8080-exec-242] org.apache.jasper.servlet.TldScanner.scanJars At least one JAR was scanned for TLDs yet contained no TLDs. Enable debug logging for this logger for a complete list of JARs that were scanned but no TLDs were found in them. Skipping unneeded JARs during scanning can improve startup time and JSP compilation time.
+20-Oct-2018 16:54:42.074 INFO [http-nio-8080-exec-242] org.apache.catalina.core.StandardContext.reload Reloading Context with name [/MuaBanNha] is completed
+20-Oct-2018 16:54:48.089 INFO [http-nio-8080-exec-245] org.apache.catalina.core.StandardContext.reload Reloading Context with name [/MuaBanNha] has started
+20-Oct-2018 16:54:48.470 INFO [http-nio-8080-exec-245] org.apache.jasper.servlet.TldScanner.scanJars At least one JAR was scanned for TLDs yet contained no TLDs. Enable debug logging for this logger for a complete list of JARs that were scanned but no TLDs were found in them. Skipping unneeded JARs during scanning can improve startup time and JSP compilation time.
+20-Oct-2018 16:54:48.483 INFO [http-nio-8080-exec-245] org.apache.catalina.core.StandardContext.reload Reloading Context with name [/MuaBanNha] is completed
+20-Oct-2018 16:54:55.347 INFO [http-nio-8080-exec-241] org.apache.catalina.core.StandardContext.reload Reloading Context with name [/MuaBanNha] has started
+20-Oct-2018 16:54:55.675 INFO [http-nio-8080-exec-241] org.apache.jasper.servlet.TldScanner.scanJars At least one JAR was scanned for TLDs yet contained no TLDs. Enable debug logging for this logger for a complete list of JARs that were scanned but no TLDs were found in them. Skipping unneeded JARs during scanning can improve startup time and JSP compilation time.
+20-Oct-2018 16:54:55.689 INFO [http-nio-8080-exec-241] org.apache.catalina.core.StandardContext.reload Reloading Context with name [/MuaBanNha] is completed
+20-Oct-2018 16:54:58.873 INFO [http-nio-8080-exec-238] org.apache.catalina.core.StandardContext.reload Reloading Context with name [/MuaBanNha] has started
+20-Oct-2018 16:54:59.440 INFO [Finalizer] org.apache.catalina.loader.WebappClassLoaderBase.checkStateForResourceLoading Illegal access: this web application instance has been stopped already. Could not load [com.mysql.jdbc.profiler.ProfileEventSink]. The following stack trace is thrown for debugging purposes as well as to attempt to terminate the thread which caused the illegal access.
+ java.lang.IllegalStateException: Illegal access: this web application instance has been stopped already. Could not load [com.mysql.jdbc.profiler.ProfileEventSink]. The following stack trace is thrown for debugging purposes as well as to attempt to terminate the thread which caused the illegal access.
+	at org.apache.catalina.loader.WebappClassLoaderBase.checkStateForResourceLoading(WebappClassLoaderBase.java:1329)
+	at org.apache.catalina.loader.WebappClassLoaderBase.checkStateForClassLoading(WebappClassLoaderBase.java:1317)
+	at org.apache.catalina.loader.WebappClassLoaderBase.loadClass(WebappClassLoaderBase.java:1176)
+	at org.apache.catalina.loader.WebappClassLoaderBase.loadClass(WebappClassLoaderBase.java:1137)
+	at com.mysql.jdbc.ConnectionImpl.realClose(ConnectionImpl.java:4235)
+	at com.mysql.jdbc.ConnectionImpl.cleanup(ConnectionImpl.java:1257)
+	at com.mysql.jdbc.ConnectionImpl.finalize(ConnectionImpl.java:2663)
+	at java.lang.System$2.invokeFinalize(System.java:1270)
+	at java.lang.ref.Finalizer.runFinalizer(Finalizer.java:98)
+	at java.lang.ref.Finalizer.access$100(Finalizer.java:34)
+	at java.lang.ref.Finalizer$FinalizerThread.run(Finalizer.java:213)
+
+20-Oct-2018 16:54:59.518 INFO [http-nio-8080-exec-238] org.apache.jasper.servlet.TldScanner.scanJars At least one JAR was scanned for TLDs yet contained no TLDs. Enable debug logging for this logger for a complete list of JARs that were scanned but no TLDs were found in them. Skipping unneeded JARs during scanning can improve startup time and JSP compilation time.
+20-Oct-2018 16:54:59.534 INFO [http-nio-8080-exec-238] org.apache.catalina.core.StandardContext.reload Reloading Context with name [/MuaBanNha] is completed
+20-Oct-2018 16:55:04.674 INFO [http-nio-8080-exec-243] org.apache.catalina.core.StandardContext.reload Reloading Context with name [/MuaBanNha] has started
+20-Oct-2018 16:55:05.088 INFO [http-nio-8080-exec-243] org.apache.jasper.servlet.TldScanner.scanJars At least one JAR was scanned for TLDs yet contained no TLDs. Enable debug logging for this logger for a complete list of JARs that were scanned but no TLDs were found in them. Skipping unneeded JARs during scanning can improve startup time and JSP compilation time.
+20-Oct-2018 16:55:05.105 INFO [http-nio-8080-exec-243] org.apache.catalina.core.StandardContext.reload Reloading Context with name [/MuaBanNha] is completed
+20-Oct-2018 16:56:10.933 INFO [http-nio-8080-exec-258] org.apache.catalina.core.StandardContext.reload Reloading Context with name [/MuaBanNha] has started
+20-Oct-2018 16:56:10.946 WARNING [http-nio-8080-exec-258] org.apache.catalina.loader.WebappClassLoaderBase.clearReferencesJdbc The web application [MuaBanNha] registered the JDBC driver [com.mysql.jdbc.Driver] but failed to unregister it when the web application was stopped. To prevent a memory leak, the JDBC Driver has been forcibly unregistered.
+20-Oct-2018 16:56:10.950 WARNING [http-nio-8080-exec-258] org.apache.catalina.loader.WebappClassLoaderBase.clearReferencesThreads The web application [MuaBanNha] appears to have started a thread named [MySQL Statement Cancellation Timer] but has failed to stop it. This is very likely to create a memory leak. Stack trace of thread:
+ java.lang.Object.wait(Native Method)
+ java.lang.Object.wait(Object.java:502)
+ java.util.TimerThread.mainLoop(Timer.java:526)
+ java.util.TimerThread.run(Timer.java:505)
+20-Oct-2018 16:56:11.392 INFO [http-nio-8080-exec-258] org.apache.jasper.servlet.TldScanner.scanJars At least one JAR was scanned for TLDs yet contained no TLDs. Enable debug logging for this logger for a complete list of JARs that were scanned but no TLDs were found in them. Skipping unneeded JARs during scanning can improve startup time and JSP compilation time.
+20-Oct-2018 16:56:11.411 INFO [http-nio-8080-exec-258] org.apache.catalina.core.StandardContext.reload Reloading Context with name [/MuaBanNha] is completed
+20-Oct-2018 16:56:30.159 INFO [http-nio-8080-exec-248] org.apache.catalina.core.StandardContext.reload Reloading Context with name [/MuaBanNha] has started
+20-Oct-2018 16:56:30.553 INFO [http-nio-8080-exec-248] org.apache.jasper.servlet.TldScanner.scanJars At least one JAR was scanned for TLDs yet contained no TLDs. Enable debug logging for this logger for a complete list of JARs that were scanned but no TLDs were found in them. Skipping unneeded JARs during scanning can improve startup time and JSP compilation time.
+20-Oct-2018 16:56:30.570 INFO [http-nio-8080-exec-248] org.apache.catalina.core.StandardContext.reload Reloading Context with name [/MuaBanNha] is completed
+20-Oct-2018 16:56:51.504 INFO [http-nio-8080-exec-243] org.apache.catalina.core.StandardContext.reload Reloading Context with name [/MuaBanNha] has started
+20-Oct-2018 16:56:51.861 INFO [Finalizer] org.apache.catalina.loader.WebappClassLoaderBase.checkStateForResourceLoading Illegal access: this web application instance has been stopped already. Could not load [com.mysql.jdbc.SQLError]. The following stack trace is thrown for debugging purposes as well as to attempt to terminate the thread which caused the illegal access.
+ java.lang.IllegalStateException: Illegal access: this web application instance has been stopped already. Could not load [com.mysql.jdbc.SQLError]. The following stack trace is thrown for debugging purposes as well as to attempt to terminate the thread which caused the illegal access.
+	at org.apache.catalina.loader.WebappClassLoaderBase.checkStateForResourceLoading(WebappClassLoaderBase.java:1329)
+	at org.apache.catalina.loader.WebappClassLoaderBase.checkStateForClassLoading(WebappClassLoaderBase.java:1317)
+	at org.apache.catalina.loader.WebappClassLoaderBase.loadClass(WebappClassLoaderBase.java:1176)
+	at org.apache.catalina.loader.WebappClassLoaderBase.loadClass(WebappClassLoaderBase.java:1137)
+	at com.mysql.jdbc.MysqlIO.send(MysqlIO.java:3134)
+	at com.mysql.jdbc.MysqlIO.quit(MysqlIO.java:1616)
+	at com.mysql.jdbc.ConnectionImpl.realClose(ConnectionImpl.java:4223)
+	at com.mysql.jdbc.ConnectionImpl.cleanup(ConnectionImpl.java:1257)
+	at com.mysql.jdbc.ConnectionImpl.finalize(ConnectionImpl.java:2663)
+	at java.lang.System$2.invokeFinalize(System.java:1270)
+	at java.lang.ref.Finalizer.runFinalizer(Finalizer.java:98)
+	at java.lang.ref.Finalizer.access$100(Finalizer.java:34)
+	at java.lang.ref.Finalizer$FinalizerThread.run(Finalizer.java:213)
+
+20-Oct-2018 16:56:51.862 INFO [Finalizer] org.apache.catalina.loader.WebappClassLoaderBase.checkStateForResourceLoading Illegal access: this web application instance has been stopped already. Could not load [com.mysql.jdbc.profiler.ProfileEventSink]. The following stack trace is thrown for debugging purposes as well as to attempt to terminate the thread which caused the illegal access.
+ java.lang.IllegalStateException: Illegal access: this web application instance has been stopped already. Could not load [com.mysql.jdbc.profiler.ProfileEventSink]. The following stack trace is thrown for debugging purposes as well as to attempt to terminate the thread which caused the illegal access.
+	at org.apache.catalina.loader.WebappClassLoaderBase.checkStateForResourceLoading(WebappClassLoaderBase.java:1329)
+	at org.apache.catalina.loader.WebappClassLoaderBase.checkStateForClassLoading(WebappClassLoaderBase.java:1317)
+	at org.apache.catalina.loader.WebappClassLoaderBase.loadClass(WebappClassLoaderBase.java:1176)
+	at org.apache.catalina.loader.WebappClassLoaderBase.loadClass(WebappClassLoaderBase.java:1137)
+	at com.mysql.jdbc.ConnectionImpl.realClose(ConnectionImpl.java:4235)
+	at com.mysql.jdbc.ConnectionImpl.cleanup(ConnectionImpl.java:1257)
+	at com.mysql.jdbc.ConnectionImpl.finalize(ConnectionImpl.java:2663)
+	at java.lang.System$2.invokeFinalize(System.java:1270)
+	at java.lang.ref.Finalizer.runFinalizer(Finalizer.java:98)
+	at java.lang.ref.Finalizer.access$100(Finalizer.java:34)
+	at java.lang.ref.Finalizer$FinalizerThread.run(Finalizer.java:213)
+
+20-Oct-2018 16:56:51.939 INFO [http-nio-8080-exec-243] org.apache.jasper.servlet.TldScanner.scanJars At least one JAR was scanned for TLDs yet contained no TLDs. Enable debug logging for this logger for a complete list of JARs that were scanned but no TLDs were found in them. Skipping unneeded JARs during scanning can improve startup time and JSP compilation time.
+20-Oct-2018 16:56:51.954 INFO [http-nio-8080-exec-243] org.apache.catalina.core.StandardContext.reload Reloading Context with name [/MuaBanNha] is completed
+20-Oct-2018 16:57:06.617 INFO [http-nio-8080-exec-259] org.apache.catalina.core.StandardContext.reload Reloading Context with name [/MuaBanNha] has started
+20-Oct-2018 16:57:07.054 INFO [http-nio-8080-exec-259] org.apache.jasper.servlet.TldScanner.scanJars At least one JAR was scanned for TLDs yet contained no TLDs. Enable debug logging for this logger for a complete list of JARs that were scanned but no TLDs were found in them. Skipping unneeded JARs during scanning can improve startup time and JSP compilation time.
+20-Oct-2018 16:57:07.065 INFO [http-nio-8080-exec-259] org.apache.catalina.core.StandardContext.reload Reloading Context with name [/MuaBanNha] is completed
+20-Oct-2018 16:57:21.014 INFO [http-nio-8080-exec-248] org.apache.catalina.core.StandardContext.reload Reloading Context with name [/MuaBanNha] has started
+20-Oct-2018 16:57:21.356 INFO [http-nio-8080-exec-248] org.apache.jasper.servlet.TldScanner.scanJars At least one JAR was scanned for TLDs yet contained no TLDs. Enable debug logging for this logger for a complete list of JARs that were scanned but no TLDs were found in them. Skipping unneeded JARs during scanning can improve startup time and JSP compilation time.
+20-Oct-2018 16:57:21.372 INFO [http-nio-8080-exec-248] org.apache.catalina.core.StandardContext.reload Reloading Context with name [/MuaBanNha] is completed
+20-Oct-2018 16:58:41.667 INFO [http-nio-8080-exec-266] org.apache.catalina.core.StandardContext.reload Reloading Context with name [/MuaBanNha] has started
+20-Oct-2018 16:58:41.671 WARNING [http-nio-8080-exec-266] org.apache.catalina.loader.WebappClassLoaderBase.clearReferencesJdbc The web application [MuaBanNha] registered the JDBC driver [com.mysql.jdbc.Driver] but failed to unregister it when the web application was stopped. To prevent a memory leak, the JDBC Driver has been forcibly unregistered.
+20-Oct-2018 16:58:41.672 WARNING [http-nio-8080-exec-266] org.apache.catalina.loader.WebappClassLoaderBase.clearReferencesThreads The web application [MuaBanNha] appears to have started a thread named [MySQL Statement Cancellation Timer] but has failed to stop it. This is very likely to create a memory leak. Stack trace of thread:
+ java.lang.Object.wait(Native Method)
+ java.lang.Object.wait(Object.java:502)
+ java.util.TimerThread.mainLoop(Timer.java:526)
+ java.util.TimerThread.run(Timer.java:505)
+20-Oct-2018 16:58:42.107 INFO [http-nio-8080-exec-266] org.apache.jasper.servlet.TldScanner.scanJars At least one JAR was scanned for TLDs yet contained no TLDs. Enable debug logging for this logger for a complete list of JARs that were scanned but no TLDs were found in them. Skipping unneeded JARs during scanning can improve startup time and JSP compilation time.
+20-Oct-2018 16:58:42.122 INFO [http-nio-8080-exec-266] org.apache.catalina.core.StandardContext.reload Reloading Context with name [/MuaBanNha] is completed
+20-Oct-2018 16:58:48.553 INFO [http-nio-8080-exec-265] org.apache.catalina.core.StandardContext.reload Reloading Context with name [/MuaBanNha] has started
+20-Oct-2018 16:58:48.914 INFO [Finalizer] org.apache.catalina.loader.WebappClassLoaderBase.checkStateForResourceLoading Illegal access: this web application instance has been stopped already. Could not load [com.mysql.jdbc.profiler.ProfileEventSink]. The following stack trace is thrown for debugging purposes as well as to attempt to terminate the thread which caused the illegal access.
+ java.lang.IllegalStateException: Illegal access: this web application instance has been stopped already. Could not load [com.mysql.jdbc.profiler.ProfileEventSink]. The following stack trace is thrown for debugging purposes as well as to attempt to terminate the thread which caused the illegal access.
+	at org.apache.catalina.loader.WebappClassLoaderBase.checkStateForResourceLoading(WebappClassLoaderBase.java:1329)
+	at org.apache.catalina.loader.WebappClassLoaderBase.checkStateForClassLoading(WebappClassLoaderBase.java:1317)
+	at org.apache.catalina.loader.WebappClassLoaderBase.loadClass(WebappClassLoaderBase.java:1176)
+	at org.apache.catalina.loader.WebappClassLoaderBase.loadClass(WebappClassLoaderBase.java:1137)
+	at com.mysql.jdbc.ConnectionImpl.realClose(ConnectionImpl.java:4235)
+	at com.mysql.jdbc.ConnectionImpl.cleanup(ConnectionImpl.java:1257)
+	at com.mysql.jdbc.ConnectionImpl.finalize(ConnectionImpl.java:2663)
+	at java.lang.System$2.invokeFinalize(System.java:1270)
+	at java.lang.ref.Finalizer.runFinalizer(Finalizer.java:98)
+	at java.lang.ref.Finalizer.access$100(Finalizer.java:34)
+	at java.lang.ref.Finalizer$FinalizerThread.run(Finalizer.java:213)
+
+20-Oct-2018 16:58:49.071 INFO [http-nio-8080-exec-265] org.apache.jasper.servlet.TldScanner.scanJars At least one JAR was scanned for TLDs yet contained no TLDs. Enable debug logging for this logger for a complete list of JARs that were scanned but no TLDs were found in them. Skipping unneeded JARs during scanning can improve startup time and JSP compilation time.
+20-Oct-2018 16:58:49.089 INFO [http-nio-8080-exec-265] org.apache.catalina.core.StandardContext.reload Reloading Context with name [/MuaBanNha] is completed
+20-Oct-2018 16:59:21.639 INFO [http-nio-8080-exec-270] org.apache.catalina.core.StandardContext.reload Reloading Context with name [/MuaBanNha] has started
+20-Oct-2018 16:59:21.645 WARNING [http-nio-8080-exec-270] org.apache.catalina.loader.WebappClassLoaderBase.clearReferencesJdbc The web application [MuaBanNha] registered the JDBC driver [com.mysql.jdbc.Driver] but failed to unregister it when the web application was stopped. To prevent a memory leak, the JDBC Driver has been forcibly unregistered.
+20-Oct-2018 16:59:21.647 WARNING [http-nio-8080-exec-270] org.apache.catalina.loader.WebappClassLoaderBase.clearReferencesThreads The web application [MuaBanNha] appears to have started a thread named [MySQL Statement Cancellation Timer] but has failed to stop it. This is very likely to create a memory leak. Stack trace of thread:
+ java.lang.Object.wait(Native Method)
+ java.lang.Object.wait(Object.java:502)
+ java.util.TimerThread.mainLoop(Timer.java:526)
+ java.util.TimerThread.run(Timer.java:505)
+20-Oct-2018 16:59:22.160 INFO [http-nio-8080-exec-270] org.apache.jasper.servlet.TldScanner.scanJars At least one JAR was scanned for TLDs yet contained no TLDs. Enable debug logging for this logger for a complete list of JARs that were scanned but no TLDs were found in them. Skipping unneeded JARs during scanning can improve startup time and JSP compilation time.
+20-Oct-2018 16:59:22.179 INFO [http-nio-8080-exec-270] org.apache.catalina.core.StandardContext.reload Reloading Context with name [/MuaBanNha] is completed
+20-Oct-2018 17:01:23.404 INFO [http-nio-8080-exec-288] org.apache.catalina.core.StandardContext.reload Reloading Context with name [/MuaBanNha] has started
+20-Oct-2018 17:01:23.408 WARNING [http-nio-8080-exec-288] org.apache.catalina.loader.WebappClassLoaderBase.clearReferencesJdbc The web application [MuaBanNha] registered the JDBC driver [com.mysql.jdbc.Driver] but failed to unregister it when the web application was stopped. To prevent a memory leak, the JDBC Driver has been forcibly unregistered.
+20-Oct-2018 17:01:23.409 WARNING [http-nio-8080-exec-288] org.apache.catalina.loader.WebappClassLoaderBase.clearReferencesThreads The web application [MuaBanNha] appears to have started a thread named [MySQL Statement Cancellation Timer] but has failed to stop it. This is very likely to create a memory leak. Stack trace of thread:
+ java.lang.Object.wait(Native Method)
+ java.lang.Object.wait(Object.java:502)
+ java.util.TimerThread.mainLoop(Timer.java:526)
+ java.util.TimerThread.run(Timer.java:505)
+20-Oct-2018 17:01:23.790 INFO [http-nio-8080-exec-288] org.apache.jasper.servlet.TldScanner.scanJars At least one JAR was scanned for TLDs yet contained no TLDs. Enable debug logging for this logger for a complete list of JARs that were scanned but no TLDs were found in them. Skipping unneeded JARs during scanning can improve startup time and JSP compilation time.
+20-Oct-2018 17:01:23.813 INFO [477] org.apache.catalina.core.StandardContext.reload Reloading Context with name [/MuaBanNha] is completed
+20-Oct-2018 17:02:20.580 INFO [http-nio-8080-exec-298] org.apache.catalina.core.StandardContext.reload Reloading Context with name [/MuaBanNha] has started
+20-Oct-2018 17:02:20.585 WARNING [http-nio-8080-exec-298] org.apache.catalina.loader.WebappClassLoaderBase.clearReferencesJdbc The web application [MuaBanNha] registered the JDBC driver [com.mysql.jdbc.Driver] but failed to unregister it when the web application was stopped. To prevent a memory leak, the JDBC Driver has been forcibly unregistered.
+20-Oct-2018 17:02:20.586 WARNING [http-nio-8080-exec-298] org.apache.catalina.loader.WebappClassLoaderBase.clearReferencesThreads The web application [MuaBanNha] appears to have started a thread named [MySQL Statement Cancellation Timer] but has failed to stop it. This is very likely to create a memory leak. Stack trace of thread:
+ java.lang.Object.wait(Native Method)
+ java.lang.Object.wait(Object.java:502)
+ java.util.TimerThread.mainLoop(Timer.java:526)
+ java.util.TimerThread.run(Timer.java:505)
+20-Oct-2018 17:02:20.946 INFO [Finalizer] org.apache.catalina.loader.WebappClassLoaderBase.checkStateForResourceLoading Illegal access: this web application instance has been stopped already. Could not load [com.mysql.jdbc.profiler.ProfileEventSink]. The following stack trace is thrown for debugging purposes as well as to attempt to terminate the thread which caused the illegal access.
+ java.lang.IllegalStateException: Illegal access: this web application instance has been stopped already. Could not load [com.mysql.jdbc.profiler.ProfileEventSink]. The following stack trace is thrown for debugging purposes as well as to attempt to terminate the thread which caused the illegal access.
+	at org.apache.catalina.loader.WebappClassLoaderBase.checkStateForResourceLoading(WebappClassLoaderBase.java:1329)
+	at org.apache.catalina.loader.WebappClassLoaderBase.checkStateForClassLoading(WebappClassLoaderBase.java:1317)
+	at org.apache.catalina.loader.WebappClassLoaderBase.loadClass(WebappClassLoaderBase.java:1176)
+	at org.apache.catalina.loader.WebappClassLoaderBase.loadClass(WebappClassLoaderBase.java:1137)
+	at com.mysql.jdbc.ConnectionImpl.realClose(ConnectionImpl.java:4235)
+	at com.mysql.jdbc.ConnectionImpl.cleanup(ConnectionImpl.java:1257)
+	at com.mysql.jdbc.ConnectionImpl.finalize(ConnectionImpl.java:2663)
+	at java.lang.System$2.invokeFinalize(System.java:1270)
+	at java.lang.ref.Finalizer.runFinalizer(Finalizer.java:98)
+	at java.lang.ref.Finalizer.access$100(Finalizer.java:34)
+	at java.lang.ref.Finalizer$FinalizerThread.run(Finalizer.java:213)
+
+20-Oct-2018 17:02:20.957 INFO [Finalizer] org.apache.catalina.loader.WebappClassLoaderBase.checkStateForResourceLoading Illegal access: this web application instance has been stopped already. Could not load [com.mysql.jdbc.profiler.ProfileEventSink]. The following stack trace is thrown for debugging purposes as well as to attempt to terminate the thread which caused the illegal access.
+ java.lang.IllegalStateException: Illegal access: this web application instance has been stopped already. Could not load [com.mysql.jdbc.profiler.ProfileEventSink]. The following stack trace is thrown for debugging purposes as well as to attempt to terminate the thread which caused the illegal access.
+	at org.apache.catalina.loader.WebappClassLoaderBase.checkStateForResourceLoading(WebappClassLoaderBase.java:1329)
+	at org.apache.catalina.loader.WebappClassLoaderBase.checkStateForClassLoading(WebappClassLoaderBase.java:1317)
+	at org.apache.catalina.loader.WebappClassLoaderBase.loadClass(WebappClassLoaderBase.java:1176)
+	at org.apache.catalina.loader.WebappClassLoaderBase.loadClass(WebappClassLoaderBase.java:1137)
+	at com.mysql.jdbc.ConnectionImpl.realClose(ConnectionImpl.java:4235)
+	at com.mysql.jdbc.ConnectionImpl.cleanup(ConnectionImpl.java:1257)
+	at com.mysql.jdbc.ConnectionImpl.finalize(ConnectionImpl.java:2663)
+	at java.lang.System$2.invokeFinalize(System.java:1270)
+	at java.lang.ref.Finalizer.runFinalizer(Finalizer.java:98)
+	at java.lang.ref.Finalizer.access$100(Finalizer.java:34)
+	at java.lang.ref.Finalizer$FinalizerThread.run(Finalizer.java:213)
+
+20-Oct-2018 17:02:20.965 INFO [Finalizer] org.apache.catalina.loader.WebappClassLoaderBase.checkStateForResourceLoading Illegal access: this web application instance has been stopped already. Could not load [com.mysql.jdbc.profiler.ProfileEventSink]. The following stack trace is thrown for debugging purposes as well as to attempt to terminate the thread which caused the illegal access.
+ java.lang.IllegalStateException: Illegal access: this web application instance has been stopped already. Could not load [com.mysql.jdbc.profiler.ProfileEventSink]. The following stack trace is thrown for debugging purposes as well as to attempt to terminate the thread which caused the illegal access.
+	at org.apache.catalina.loader.WebappClassLoaderBase.checkStateForResourceLoading(WebappClassLoaderBase.java:1329)
+	at org.apache.catalina.loader.WebappClassLoaderBase.checkStateForClassLoading(WebappClassLoaderBase.java:1317)
+	at org.apache.catalina.loader.WebappClassLoaderBase.loadClass(WebappClassLoaderBase.java:1176)
+	at org.apache.catalina.loader.WebappClassLoaderBase.loadClass(WebappClassLoaderBase.java:1137)
+	at com.mysql.jdbc.ConnectionImpl.realClose(ConnectionImpl.java:4235)
+	at com.mysql.jdbc.ConnectionImpl.cleanup(ConnectionImpl.java:1257)
+	at com.mysql.jdbc.ConnectionImpl.finalize(ConnectionImpl.java:2663)
+	at java.lang.System$2.invokeFinalize(System.java:1270)
+	at java.lang.ref.Finalizer.runFinalizer(Finalizer.java:98)
+	at java.lang.ref.Finalizer.access$100(Finalizer.java:34)
+	at java.lang.ref.Finalizer$FinalizerThread.run(Finalizer.java:213)
+
+20-Oct-2018 17:02:21.143 INFO [http-nio-8080-exec-298] org.apache.jasper.servlet.TldScanner.scanJars At least one JAR was scanned for TLDs yet contained no TLDs. Enable debug logging for this logger for a complete list of JARs that were scanned but no TLDs were found in them. Skipping unneeded JARs during scanning can improve startup time and JSP compilation time.
+20-Oct-2018 17:02:21.159 INFO [http-nio-8080-exec-298] org.apache.catalina.core.StandardContext.reload Reloading Context with name [/MuaBanNha] is completed
+20-Oct-2018 17:02:22.425 INFO [http-nio-8080-exec-299] org.apache.catalina.core.StandardContext.reload Reloading Context with name [/MuaBanNha] has started
+20-Oct-2018 17:02:22.748 INFO [http-nio-8080-exec-299] org.apache.jasper.servlet.TldScanner.scanJars At least one JAR was scanned for TLDs yet contained no TLDs. Enable debug logging for this logger for a complete list of JARs that were scanned but no TLDs were found in them. Skipping unneeded JARs during scanning can improve startup time and JSP compilation time.
+20-Oct-2018 17:02:22.761 INFO [http-nio-8080-exec-299] org.apache.catalina.core.StandardContext.reload Reloading Context with name [/MuaBanNha] is completed
+20-Oct-2018 17:02:56.307 INFO [http-nio-8080-exec-305] org.apache.catalina.core.StandardContext.reload Reloading Context with name [/MuaBanNha] has started
+20-Oct-2018 17:02:56.313 WARNING [http-nio-8080-exec-305] org.apache.catalina.loader.WebappClassLoaderBase.clearReferencesJdbc The web application [MuaBanNha] registered the JDBC driver [com.mysql.jdbc.Driver] but failed to unregister it when the web application was stopped. To prevent a memory leak, the JDBC Driver has been forcibly unregistered.
+20-Oct-2018 17:02:56.315 WARNING [http-nio-8080-exec-305] org.apache.catalina.loader.WebappClassLoaderBase.clearReferencesThreads The web application [MuaBanNha] appears to have started a thread named [MySQL Statement Cancellation Timer] but has failed to stop it. This is very likely to create a memory leak. Stack trace of thread:
+ java.lang.Object.wait(Native Method)
+ java.lang.Object.wait(Object.java:502)
+ java.util.TimerThread.mainLoop(Timer.java:526)
+ java.util.TimerThread.run(Timer.java:505)
+20-Oct-2018 17:02:56.715 INFO [http-nio-8080-exec-305] org.apache.jasper.servlet.TldScanner.scanJars At least one JAR was scanned for TLDs yet contained no TLDs. Enable debug logging for this logger for a complete list of JARs that were scanned but no TLDs were found in them. Skipping unneeded JARs during scanning can improve startup time and JSP compilation time.
+20-Oct-2018 17:02:56.739 INFO [http-nio-8080-exec-305] org.apache.catalina.core.StandardContext.reload Reloading Context with name [/MuaBanNha] is completed
+20-Oct-2018 17:03:03.100 INFO [http-nio-8080-exec-306] org.apache.catalina.core.StandardContext.reload Reloading Context with name [/MuaBanNha] has started
+20-Oct-2018 17:03:03.469 INFO [http-nio-8080-exec-306] org.apache.jasper.servlet.TldScanner.scanJars At least one JAR was scanned for TLDs yet contained no TLDs. Enable debug logging for this logger for a complete list of JARs that were scanned but no TLDs were found in them. Skipping unneeded JARs during scanning can improve startup time and JSP compilation time.
+20-Oct-2018 17:03:03.487 INFO [http-nio-8080-exec-306] org.apache.catalina.core.StandardContext.reload Reloading Context with name [/MuaBanNha] is completed
+20-Oct-2018 17:03:12.510 INFO [http-nio-8080-exec-308] org.apache.catalina.core.StandardContext.reload Reloading Context with name [/MuaBanNha] has started
+20-Oct-2018 17:03:12.639 INFO [Finalizer] org.apache.catalina.loader.WebappClassLoaderBase.checkStateForResourceLoading Illegal access: this web application instance has been stopped already. Could not load [com.mysql.jdbc.SQLError]. The following stack trace is thrown for debugging purposes as well as to attempt to terminate the thread which caused the illegal access.
+ java.lang.IllegalStateException: Illegal access: this web application instance has been stopped already. Could not load [com.mysql.jdbc.SQLError]. The following stack trace is thrown for debugging purposes as well as to attempt to terminate the thread which caused the illegal access.
+	at org.apache.catalina.loader.WebappClassLoaderBase.checkStateForResourceLoading(WebappClassLoaderBase.java:1329)
+	at org.apache.catalina.loader.WebappClassLoaderBase.checkStateForClassLoading(WebappClassLoaderBase.java:1317)
+	at org.apache.catalina.loader.WebappClassLoaderBase.loadClass(WebappClassLoaderBase.java:1176)
+	at org.apache.catalina.loader.WebappClassLoaderBase.loadClass(WebappClassLoaderBase.java:1137)
+	at com.mysql.jdbc.MysqlIO.send(MysqlIO.java:3134)
+	at com.mysql.jdbc.MysqlIO.quit(MysqlIO.java:1616)
+	at com.mysql.jdbc.ConnectionImpl.realClose(ConnectionImpl.java:4223)
+	at com.mysql.jdbc.ConnectionImpl.cleanup(ConnectionImpl.java:1257)
+	at com.mysql.jdbc.ConnectionImpl.finalize(ConnectionImpl.java:2663)
+	at java.lang.System$2.invokeFinalize(System.java:1270)
+	at java.lang.ref.Finalizer.runFinalizer(Finalizer.java:98)
+	at java.lang.ref.Finalizer.access$100(Finalizer.java:34)
+	at java.lang.ref.Finalizer$FinalizerThread.run(Finalizer.java:213)
+
+20-Oct-2018 17:03:12.641 INFO [Finalizer] org.apache.catalina.loader.WebappClassLoaderBase.checkStateForResourceLoading Illegal access: this web application instance has been stopped already. Could not load [com.mysql.jdbc.profiler.ProfileEventSink]. The following stack trace is thrown for debugging purposes as well as to attempt to terminate the thread which caused the illegal access.
+ java.lang.IllegalStateException: Illegal access: this web application instance has been stopped already. Could not load [com.mysql.jdbc.profiler.ProfileEventSink]. The following stack trace is thrown for debugging purposes as well as to attempt to terminate the thread which caused the illegal access.
+	at org.apache.catalina.loader.WebappClassLoaderBase.checkStateForResourceLoading(WebappClassLoaderBase.java:1329)
+	at org.apache.catalina.loader.WebappClassLoaderBase.checkStateForClassLoading(WebappClassLoaderBase.java:1317)
+	at org.apache.catalina.loader.WebappClassLoaderBase.loadClass(WebappClassLoaderBase.java:1176)
+	at org.apache.catalina.loader.WebappClassLoaderBase.loadClass(WebappClassLoaderBase.java:1137)
+	at com.mysql.jdbc.ConnectionImpl.realClose(ConnectionImpl.java:4235)
+	at com.mysql.jdbc.ConnectionImpl.cleanup(ConnectionImpl.java:1257)
+	at com.mysql.jdbc.ConnectionImpl.finalize(ConnectionImpl.java:2663)
+	at java.lang.System$2.invokeFinalize(System.java:1270)
+	at java.lang.ref.Finalizer.runFinalizer(Finalizer.java:98)
+	at java.lang.ref.Finalizer.access$100(Finalizer.java:34)
+	at java.lang.ref.Finalizer$FinalizerThread.run(Finalizer.java:213)
+
+20-Oct-2018 17:03:13.064 INFO [http-nio-8080-exec-308] org.apache.jasper.servlet.TldScanner.scanJars At least one JAR was scanned for TLDs yet contained no TLDs. Enable debug logging for this logger for a complete list of JARs that were scanned but no TLDs were found in them. Skipping unneeded JARs during scanning can improve startup time and JSP compilation time.
+20-Oct-2018 17:03:13.079 INFO [http-nio-8080-exec-308] org.apache.catalina.core.StandardContext.reload Reloading Context with name [/MuaBanNha] is completed
+20-Oct-2018 17:04:31.512 INFO [http-nio-8080-exec-317] org.apache.catalina.core.StandardContext.reload Reloading Context with name [/MuaBanNha] has started
+20-Oct-2018 17:04:31.521 WARNING [http-nio-8080-exec-317] org.apache.catalina.loader.WebappClassLoaderBase.clearReferencesJdbc The web application [MuaBanNha] registered the JDBC driver [com.mysql.jdbc.Driver] but failed to unregister it when the web application was stopped. To prevent a memory leak, the JDBC Driver has been forcibly unregistered.
+20-Oct-2018 17:04:31.523 WARNING [http-nio-8080-exec-317] org.apache.catalina.loader.WebappClassLoaderBase.clearReferencesThreads The web application [MuaBanNha] appears to have started a thread named [MySQL Statement Cancellation Timer] but has failed to stop it. This is very likely to create a memory leak. Stack trace of thread:
+ java.lang.Object.wait(Native Method)
+ java.lang.Object.wait(Object.java:502)
+ java.util.TimerThread.mainLoop(Timer.java:526)
+ java.util.TimerThread.run(Timer.java:505)
+20-Oct-2018 17:04:32.112 INFO [http-nio-8080-exec-317] org.apache.jasper.servlet.TldScanner.scanJars At least one JAR was scanned for TLDs yet contained no TLDs. Enable debug logging for this logger for a complete list of JARs that were scanned but no TLDs were found in them. Skipping unneeded JARs during scanning can improve startup time and JSP compilation time.
+20-Oct-2018 17:04:32.129 INFO [http-nio-8080-exec-317] org.apache.catalina.core.StandardContext.reload Reloading Context with name [/MuaBanNha] is completed
+20-Oct-2018 17:06:21.728 INFO [http-nio-8080-exec-318] org.apache.catalina.core.StandardContext.reload Reloading Context with name [/MuaBanNha] has started
+20-Oct-2018 17:06:22.220 INFO [http-nio-8080-exec-318] org.apache.jasper.servlet.TldScanner.scanJars At least one JAR was scanned for TLDs yet contained no TLDs. Enable debug logging for this logger for a complete list of JARs that were scanned but no TLDs were found in them. Skipping unneeded JARs during scanning can improve startup time and JSP compilation time.
+20-Oct-2018 17:06:22.245 INFO [http-nio-8080-exec-318] org.apache.catalina.core.StandardContext.reload Reloading Context with name [/MuaBanNha] is completed
+20-Oct-2018 17:09:31.186 INFO [http-nio-8080-exec-323] org.apache.catalina.core.StandardContext.reload Reloading Context with name [/MuaBanNha] has started
+20-Oct-2018 17:09:31.491 INFO [Finalizer] org.apache.catalina.loader.WebappClassLoaderBase.checkStateForResourceLoading Illegal access: this web application instance has been stopped already. Could not load [com.mysql.jdbc.profiler.ProfileEventSink]. The following stack trace is thrown for debugging purposes as well as to attempt to terminate the thread which caused the illegal access.
+ java.lang.IllegalStateException: Illegal access: this web application instance has been stopped already. Could not load [com.mysql.jdbc.profiler.ProfileEventSink]. The following stack trace is thrown for debugging purposes as well as to attempt to terminate the thread which caused the illegal access.
+	at org.apache.catalina.loader.WebappClassLoaderBase.checkStateForResourceLoading(WebappClassLoaderBase.java:1329)
+	at org.apache.catalina.loader.WebappClassLoaderBase.checkStateForClassLoading(WebappClassLoaderBase.java:1317)
+	at org.apache.catalina.loader.WebappClassLoaderBase.loadClass(WebappClassLoaderBase.java:1176)
+	at org.apache.catalina.loader.WebappClassLoaderBase.loadClass(WebappClassLoaderBase.java:1137)
+	at com.mysql.jdbc.ConnectionImpl.realClose(ConnectionImpl.java:4235)
+	at com.mysql.jdbc.ConnectionImpl.cleanup(ConnectionImpl.java:1257)
+	at com.mysql.jdbc.ConnectionImpl.finalize(ConnectionImpl.java:2663)
+	at java.lang.System$2.invokeFinalize(System.java:1270)
+	at java.lang.ref.Finalizer.runFinalizer(Finalizer.java:98)
+	at java.lang.ref.Finalizer.access$100(Finalizer.java:34)
+	at java.lang.ref.Finalizer$FinalizerThread.run(Finalizer.java:213)
+
+20-Oct-2018 17:09:31.502 INFO [Finalizer] org.apache.catalina.loader.WebappClassLoaderBase.checkStateForResourceLoading Illegal access: this web application instance has been stopped already. Could not load [com.mysql.jdbc.SQLError]. The following stack trace is thrown for debugging purposes as well as to attempt to terminate the thread which caused the illegal access.
+ java.lang.IllegalStateException: Illegal access: this web application instance has been stopped already. Could not load [com.mysql.jdbc.SQLError]. The following stack trace is thrown for debugging purposes as well as to attempt to terminate the thread which caused the illegal access.
+	at org.apache.catalina.loader.WebappClassLoaderBase.checkStateForResourceLoading(WebappClassLoaderBase.java:1329)
+	at org.apache.catalina.loader.WebappClassLoaderBase.checkStateForClassLoading(WebappClassLoaderBase.java:1317)
+	at org.apache.catalina.loader.WebappClassLoaderBase.loadClass(WebappClassLoaderBase.java:1176)
+	at org.apache.catalina.loader.WebappClassLoaderBase.loadClass(WebappClassLoaderBase.java:1137)
+	at com.mysql.jdbc.MysqlIO.send(MysqlIO.java:3134)
+	at com.mysql.jdbc.MysqlIO.quit(MysqlIO.java:1616)
+	at com.mysql.jdbc.ConnectionImpl.realClose(ConnectionImpl.java:4223)
+	at com.mysql.jdbc.ConnectionImpl.cleanup(ConnectionImpl.java:1257)
+	at com.mysql.jdbc.ConnectionImpl.finalize(ConnectionImpl.java:2663)
+	at java.lang.System$2.invokeFinalize(System.java:1270)
+	at java.lang.ref.Finalizer.runFinalizer(Finalizer.java:98)
+	at java.lang.ref.Finalizer.access$100(Finalizer.java:34)
+	at java.lang.ref.Finalizer$FinalizerThread.run(Finalizer.java:213)
+
+20-Oct-2018 17:09:31.684 INFO [http-nio-8080-exec-323] org.apache.jasper.servlet.TldScanner.scanJars At least one JAR was scanned for TLDs yet contained no TLDs. Enable debug logging for this logger for a complete list of JARs that were scanned but no TLDs were found in them. Skipping unneeded JARs during scanning can improve startup time and JSP compilation time.
+20-Oct-2018 17:09:31.700 INFO [http-nio-8080-exec-323] org.apache.catalina.core.StandardContext.reload Reloading Context with name [/MuaBanNha] is completed
+20-Oct-2018 17:10:10.666 INFO [http-nio-8080-exec-313] org.apache.catalina.core.StandardContext.reload Reloading Context with name [/MuaBanNha] has started
+20-Oct-2018 17:10:11.167 INFO [http-nio-8080-exec-313] org.apache.jasper.servlet.TldScanner.scanJars At least one JAR was scanned for TLDs yet contained no TLDs. Enable debug logging for this logger for a complete list of JARs that were scanned but no TLDs were found in them. Skipping unneeded JARs during scanning can improve startup time and JSP compilation time.
+20-Oct-2018 17:10:11.185 INFO [http-nio-8080-exec-313] org.apache.catalina.core.StandardContext.reload Reloading Context with name [/MuaBanNha] is completed
+20-Oct-2018 17:10:12.764 INFO [http-nio-8080-exec-322] org.apache.catalina.core.StandardContext.reload Reloading Context with name [/MuaBanNha] has started
+20-Oct-2018 17:10:13.250 INFO [http-nio-8080-exec-322] org.apache.jasper.servlet.TldScanner.scanJars At least one JAR was scanned for TLDs yet contained no TLDs. Enable debug logging for this logger for a complete list of JARs that were scanned but no TLDs were found in them. Skipping unneeded JARs during scanning can improve startup time and JSP compilation time.
+20-Oct-2018 17:10:13.278 INFO [http-nio-8080-exec-322] org.apache.catalina.core.StandardContext.reload Reloading Context with name [/MuaBanNha] is completed
+20-Oct-2018 17:10:16.633 INFO [http-nio-8080-exec-318] org.apache.catalina.core.StandardContext.reload Reloading Context with name [/MuaBanNha] has started
+20-Oct-2018 17:10:17.145 INFO [http-nio-8080-exec-318] org.apache.jasper.servlet.TldScanner.scanJars At least one JAR was scanned for TLDs yet contained no TLDs. Enable debug logging for this logger for a complete list of JARs that were scanned but no TLDs were found in them. Skipping unneeded JARs during scanning can improve startup time and JSP compilation time.
+20-Oct-2018 17:10:17.163 INFO [http-nio-8080-exec-318] org.apache.catalina.core.StandardContext.reload Reloading Context with name [/MuaBanNha] is completed
+20-Oct-2018 17:13:06.283 INFO [http-nio-8080-exec-332] org.apache.catalina.core.StandardContext.reload Reloading Context with name [/MuaBanNha] has started
+20-Oct-2018 17:13:06.289 WARNING [http-nio-8080-exec-332] org.apache.catalina.loader.WebappClassLoaderBase.clearReferencesJdbc The web application [MuaBanNha] registered the JDBC driver [com.mysql.jdbc.Driver] but failed to unregister it when the web application was stopped. To prevent a memory leak, the JDBC Driver has been forcibly unregistered.
+20-Oct-2018 17:13:06.290 WARNING [http-nio-8080-exec-332] org.apache.catalina.loader.WebappClassLoaderBase.clearReferencesThreads The web application [MuaBanNha] appears to have started a thread named [MySQL Statement Cancellation Timer] but has failed to stop it. This is very likely to create a memory leak. Stack trace of thread:
+ java.lang.Object.wait(Native Method)
+ java.lang.Object.wait(Object.java:502)
+ java.util.TimerThread.mainLoop(Timer.java:526)
+ java.util.TimerThread.run(Timer.java:505)
+20-Oct-2018 17:13:06.759 INFO [http-nio-8080-exec-332] org.apache.jasper.servlet.TldScanner.scanJars At least one JAR was scanned for TLDs yet contained no TLDs. Enable debug logging for this logger for a complete list of JARs that were scanned but no TLDs were found in them. Skipping unneeded JARs during scanning can improve startup time and JSP compilation time.
+20-Oct-2018 17:13:06.778 INFO [531] org.apache.catalina.core.StandardContext.reload Reloading Context with name [/MuaBanNha] is completed
+20-Oct-2018 17:13:45.127 INFO [http-nio-8080-exec-340] org.apache.catalina.core.StandardContext.reload Reloading Context with name [/MuaBanNha] has started
+20-Oct-2018 17:13:45.133 WARNING [http-nio-8080-exec-340] org.apache.catalina.loader.WebappClassLoaderBase.clearReferencesJdbc The web application [MuaBanNha] registered the JDBC driver [com.mysql.jdbc.Driver] but failed to unregister it when the web application was stopped. To prevent a memory leak, the JDBC Driver has been forcibly unregistered.
+20-Oct-2018 17:13:45.134 WARNING [http-nio-8080-exec-340] org.apache.catalina.loader.WebappClassLoaderBase.clearReferencesThreads The web application [MuaBanNha] appears to have started a thread named [MySQL Statement Cancellation Timer] but has failed to stop it. This is very likely to create a memory leak. Stack trace of thread:
+ java.lang.Object.wait(Native Method)
+ java.lang.Object.wait(Object.java:502)
+ java.util.TimerThread.mainLoop(Timer.java:526)
+ java.util.TimerThread.run(Timer.java:505)
+20-Oct-2018 17:13:45.562 INFO [http-nio-8080-exec-340] org.apache.jasper.servlet.TldScanner.scanJars At least one JAR was scanned for TLDs yet contained no TLDs. Enable debug logging for this logger for a complete list of JARs that were scanned but no TLDs were found in them. Skipping unneeded JARs during scanning can improve startup time and JSP compilation time.
+20-Oct-2018 17:13:45.580 INFO [http-nio-8080-exec-340] org.apache.catalina.core.StandardContext.reload Reloading Context with name [/MuaBanNha] is completed
+20-Oct-2018 17:13:47.392 INFO [Finalizer] org.apache.catalina.loader.WebappClassLoaderBase.checkStateForResourceLoading Illegal access: this web application instance has been stopped already. Could not load [com.mysql.jdbc.profiler.ProfileEventSink]. The following stack trace is thrown for debugging purposes as well as to attempt to terminate the thread which caused the illegal access.
+ java.lang.IllegalStateException: Illegal access: this web application instance has been stopped already. Could not load [com.mysql.jdbc.profiler.ProfileEventSink]. The following stack trace is thrown for debugging purposes as well as to attempt to terminate the thread which caused the illegal access.
+	at org.apache.catalina.loader.WebappClassLoaderBase.checkStateForResourceLoading(WebappClassLoaderBase.java:1329)
+	at org.apache.catalina.loader.WebappClassLoaderBase.checkStateForClassLoading(WebappClassLoaderBase.java:1317)
+	at org.apache.catalina.loader.WebappClassLoaderBase.loadClass(WebappClassLoaderBase.java:1176)
+	at org.apache.catalina.loader.WebappClassLoaderBase.loadClass(WebappClassLoaderBase.java:1137)
+	at com.mysql.jdbc.ConnectionImpl.realClose(ConnectionImpl.java:4235)
+	at com.mysql.jdbc.ConnectionImpl.cleanup(ConnectionImpl.java:1257)
+	at com.mysql.jdbc.ConnectionImpl.finalize(ConnectionImpl.java:2663)
+	at java.lang.System$2.invokeFinalize(System.java:1270)
+	at java.lang.ref.Finalizer.runFinalizer(Finalizer.java:98)
+	at java.lang.ref.Finalizer.access$100(Finalizer.java:34)
+	at java.lang.ref.Finalizer$FinalizerThread.run(Finalizer.java:213)
+
+20-Oct-2018 17:13:47.398 INFO [Finalizer] org.apache.catalina.loader.WebappClassLoaderBase.checkStateForResourceLoading Illegal access: this web application instance has been stopped already. Could not load [com.mysql.jdbc.profiler.ProfileEventSink]. The following stack trace is thrown for debugging purposes as well as to attempt to terminate the thread which caused the illegal access.
+ java.lang.IllegalStateException: Illegal access: this web application instance has been stopped already. Could not load [com.mysql.jdbc.profiler.ProfileEventSink]. The following stack trace is thrown for debugging purposes as well as to attempt to terminate the thread which caused the illegal access.
+	at org.apache.catalina.loader.WebappClassLoaderBase.checkStateForResourceLoading(WebappClassLoaderBase.java:1329)
+	at org.apache.catalina.loader.WebappClassLoaderBase.checkStateForClassLoading(WebappClassLoaderBase.java:1317)
+	at org.apache.catalina.loader.WebappClassLoaderBase.loadClass(WebappClassLoaderBase.java:1176)
+	at org.apache.catalina.loader.WebappClassLoaderBase.loadClass(WebappClassLoaderBase.java:1137)
+	at com.mysql.jdbc.ConnectionImpl.realClose(ConnectionImpl.java:4235)
+	at com.mysql.jdbc.ConnectionImpl.cleanup(ConnectionImpl.java:1257)
+	at com.mysql.jdbc.ConnectionImpl.finalize(ConnectionImpl.java:2663)
+	at java.lang.System$2.invokeFinalize(System.java:1270)
+	at java.lang.ref.Finalizer.runFinalizer(Finalizer.java:98)
+	at java.lang.ref.Finalizer.access$100(Finalizer.java:34)
+	at java.lang.ref.Finalizer$FinalizerThread.run(Finalizer.java:213)
+
+20-Oct-2018 17:35:52.886 INFO [http-nio-8080-exec-348] org.apache.catalina.core.StandardContext.reload Reloading Context with name [/MuaBanNha] has started
+20-Oct-2018 17:35:52.890 WARNING [http-nio-8080-exec-348] org.apache.catalina.loader.WebappClassLoaderBase.clearReferencesJdbc The web application [MuaBanNha] registered the JDBC driver [com.mysql.jdbc.Driver] but failed to unregister it when the web application was stopped. To prevent a memory leak, the JDBC Driver has been forcibly unregistered.
+20-Oct-2018 17:35:52.891 WARNING [http-nio-8080-exec-348] org.apache.catalina.loader.WebappClassLoaderBase.clearReferencesThreads The web application [MuaBanNha] appears to have started a thread named [MySQL Statement Cancellation Timer] but has failed to stop it. This is very likely to create a memory leak. Stack trace of thread:
+ java.lang.Object.wait(Native Method)
+ java.lang.Object.wait(Object.java:502)
+ java.util.TimerThread.mainLoop(Timer.java:526)
+ java.util.TimerThread.run(Timer.java:505)
+20-Oct-2018 17:35:53.230 INFO [http-nio-8080-exec-348] org.apache.jasper.servlet.TldScanner.scanJars At least one JAR was scanned for TLDs yet contained no TLDs. Enable debug logging for this logger for a complete list of JARs that were scanned but no TLDs were found in them. Skipping unneeded JARs during scanning can improve startup time and JSP compilation time.
+20-Oct-2018 17:35:53.240 INFO [http-nio-8080-exec-348] org.apache.catalina.core.StandardContext.reload Reloading Context with name [/MuaBanNha] is completed
+20-Oct-2018 17:41:24.289 INFO [Finalizer] org.apache.catalina.loader.WebappClassLoaderBase.checkStateForResourceLoading Illegal access: this web application instance has been stopped already. Could not load [com.mysql.jdbc.SQLError]. The following stack trace is thrown for debugging purposes as well as to attempt to terminate the thread which caused the illegal access.
+ java.lang.IllegalStateException: Illegal access: this web application instance has been stopped already. Could not load [com.mysql.jdbc.SQLError]. The following stack trace is thrown for debugging purposes as well as to attempt to terminate the thread which caused the illegal access.
+	at org.apache.catalina.loader.WebappClassLoaderBase.checkStateForResourceLoading(WebappClassLoaderBase.java:1329)
+	at org.apache.catalina.loader.WebappClassLoaderBase.checkStateForClassLoading(WebappClassLoaderBase.java:1317)
+	at org.apache.catalina.loader.WebappClassLoaderBase.loadClass(WebappClassLoaderBase.java:1176)
+	at org.apache.catalina.loader.WebappClassLoaderBase.loadClass(WebappClassLoaderBase.java:1137)
+	at com.mysql.jdbc.MysqlIO.send(MysqlIO.java:3134)
+	at com.mysql.jdbc.MysqlIO.quit(MysqlIO.java:1616)
+	at com.mysql.jdbc.ConnectionImpl.realClose(ConnectionImpl.java:4223)
+	at com.mysql.jdbc.ConnectionImpl.cleanup(ConnectionImpl.java:1257)
+	at com.mysql.jdbc.ConnectionImpl.finalize(ConnectionImpl.java:2663)
+	at java.lang.System$2.invokeFinalize(System.java:1270)
+	at java.lang.ref.Finalizer.runFinalizer(Finalizer.java:98)
+	at java.lang.ref.Finalizer.access$100(Finalizer.java:34)
+	at java.lang.ref.Finalizer$FinalizerThread.run(Finalizer.java:213)
+
+20-Oct-2018 17:41:24.289 INFO [Finalizer] org.apache.catalina.loader.WebappClassLoaderBase.checkStateForResourceLoading Illegal access: this web application instance has been stopped already. Could not load [com.mysql.jdbc.profiler.ProfileEventSink]. The following stack trace is thrown for debugging purposes as well as to attempt to terminate the thread which caused the illegal access.
+ java.lang.IllegalStateException: Illegal access: this web application instance has been stopped already. Could not load [com.mysql.jdbc.profiler.ProfileEventSink]. The following stack trace is thrown for debugging purposes as well as to attempt to terminate the thread which caused the illegal access.
+	at org.apache.catalina.loader.WebappClassLoaderBase.checkStateForResourceLoading(WebappClassLoaderBase.java:1329)
+	at org.apache.catalina.loader.WebappClassLoaderBase.checkStateForClassLoading(WebappClassLoaderBase.java:1317)
+	at org.apache.catalina.loader.WebappClassLoaderBase.loadClass(WebappClassLoaderBase.java:1176)
+	at org.apache.catalina.loader.WebappClassLoaderBase.loadClass(WebappClassLoaderBase.java:1137)
+	at com.mysql.jdbc.ConnectionImpl.realClose(ConnectionImpl.java:4235)
+	at com.mysql.jdbc.ConnectionImpl.cleanup(ConnectionImpl.java:1257)
+	at com.mysql.jdbc.ConnectionImpl.finalize(ConnectionImpl.java:2663)
+	at java.lang.System$2.invokeFinalize(System.java:1270)
+	at java.lang.ref.Finalizer.runFinalizer(Finalizer.java:98)
+	at java.lang.ref.Finalizer.access$100(Finalizer.java:34)
+	at java.lang.ref.Finalizer$FinalizerThread.run(Finalizer.java:213)
+
+20-Oct-2018 18:02:24.379 INFO [http-nio-8080-exec-362] org.apache.catalina.core.StandardContext.reload Reloading Context with name [/MuaBanNha] has started
+20-Oct-2018 18:02:24.384 WARNING [http-nio-8080-exec-362] org.apache.catalina.loader.WebappClassLoaderBase.clearReferencesJdbc The web application [MuaBanNha] registered the JDBC driver [com.mysql.jdbc.Driver] but failed to unregister it when the web application was stopped. To prevent a memory leak, the JDBC Driver has been forcibly unregistered.
+20-Oct-2018 18:02:24.385 WARNING [http-nio-8080-exec-362] org.apache.catalina.loader.WebappClassLoaderBase.clearReferencesThreads The web application [MuaBanNha] appears to have started a thread named [MySQL Statement Cancellation Timer] but has failed to stop it. This is very likely to create a memory leak. Stack trace of thread:
+ java.lang.Object.wait(Native Method)
+ java.lang.Object.wait(Object.java:502)
+ java.util.TimerThread.mainLoop(Timer.java:526)
+ java.util.TimerThread.run(Timer.java:505)
+20-Oct-2018 18:02:24.718 INFO [http-nio-8080-exec-362] org.apache.jasper.servlet.TldScanner.scanJars At least one JAR was scanned for TLDs yet contained no TLDs. Enable debug logging for this logger for a complete list of JARs that were scanned but no TLDs were found in them. Skipping unneeded JARs during scanning can improve startup time and JSP compilation time.
+20-Oct-2018 18:02:24.742 INFO [http-nio-8080-exec-362] org.apache.catalina.core.StandardContext.reload Reloading Context with name [/MuaBanNha] is completed
+20-Oct-2018 18:02:49.441 INFO [http-nio-8080-exec-360] org.apache.catalina.core.StandardContext.reload Reloading Context with name [/MuaBanNha] has started
+20-Oct-2018 18:02:49.453 WARNING [http-nio-8080-exec-360] org.apache.catalina.loader.WebappClassLoaderBase.clearReferencesJdbc The web application [MuaBanNha] registered the JDBC driver [com.mysql.jdbc.Driver] but failed to unregister it when the web application was stopped. To prevent a memory leak, the JDBC Driver has been forcibly unregistered.
+20-Oct-2018 18:02:49.460 WARNING [http-nio-8080-exec-360] org.apache.catalina.loader.WebappClassLoaderBase.clearReferencesThreads The web application [MuaBanNha] appears to have started a thread named [MySQL Statement Cancellation Timer] but has failed to stop it. This is very likely to create a memory leak. Stack trace of thread:
+ java.lang.Object.wait(Native Method)
+ java.lang.Object.wait(Object.java:502)
+ java.util.TimerThread.mainLoop(Timer.java:526)
+ java.util.TimerThread.run(Timer.java:505)
+20-Oct-2018 18:02:49.798 INFO [http-nio-8080-exec-360] org.apache.jasper.servlet.TldScanner.scanJars At least one JAR was scanned for TLDs yet contained no TLDs. Enable debug logging for this logger for a complete list of JARs that were scanned but no TLDs were found in them. Skipping unneeded JARs during scanning can improve startup time and JSP compilation time.
+20-Oct-2018 18:02:49.813 INFO [http-nio-8080-exec-360] org.apache.catalina.core.StandardContext.reload Reloading Context with name [/MuaBanNha] is completed
+20-Oct-2018 18:11:48.056 INFO [http-nio-8080-exec-377] org.apache.catalina.core.StandardContext.reload Reloading Context with name [/MuaBanNha] has started
+20-Oct-2018 18:11:48.070 WARNING [http-nio-8080-exec-377] org.apache.catalina.loader.WebappClassLoaderBase.clearReferencesJdbc The web application [MuaBanNha] registered the JDBC driver [com.mysql.jdbc.Driver] but failed to unregister it when the web application was stopped. To prevent a memory leak, the JDBC Driver has been forcibly unregistered.
+20-Oct-2018 18:11:48.071 WARNING [http-nio-8080-exec-377] org.apache.catalina.loader.WebappClassLoaderBase.clearReferencesThreads The web application [MuaBanNha] appears to have started a thread named [MySQL Statement Cancellation Timer] but has failed to stop it. This is very likely to create a memory leak. Stack trace of thread:
+ java.lang.Object.wait(Native Method)
+ java.lang.Object.wait(Object.java:502)
+ java.util.TimerThread.mainLoop(Timer.java:526)
+ java.util.TimerThread.run(Timer.java:505)
+20-Oct-2018 18:11:48.558 INFO [Finalizer] org.apache.catalina.loader.WebappClassLoaderBase.checkStateForResourceLoading Illegal access: this web application instance has been stopped already. Could not load [com.mysql.jdbc.profiler.ProfileEventSink]. The following stack trace is thrown for debugging purposes as well as to attempt to terminate the thread which caused the illegal access.
+ java.lang.IllegalStateException: Illegal access: this web application instance has been stopped already. Could not load [com.mysql.jdbc.profiler.ProfileEventSink]. The following stack trace is thrown for debugging purposes as well as to attempt to terminate the thread which caused the illegal access.
+	at org.apache.catalina.loader.WebappClassLoaderBase.checkStateForResourceLoading(WebappClassLoaderBase.java:1329)
+	at org.apache.catalina.loader.WebappClassLoaderBase.checkStateForClassLoading(WebappClassLoaderBase.java:1317)
+	at org.apache.catalina.loader.WebappClassLoaderBase.loadClass(WebappClassLoaderBase.java:1176)
+	at org.apache.catalina.loader.WebappClassLoaderBase.loadClass(WebappClassLoaderBase.java:1137)
+	at com.mysql.jdbc.ConnectionImpl.realClose(ConnectionImpl.java:4235)
+	at com.mysql.jdbc.ConnectionImpl.cleanup(ConnectionImpl.java:1257)
+	at com.mysql.jdbc.ConnectionImpl.finalize(ConnectionImpl.java:2663)
+	at java.lang.System$2.invokeFinalize(System.java:1270)
+	at java.lang.ref.Finalizer.runFinalizer(Finalizer.java:98)
+	at java.lang.ref.Finalizer.access$100(Finalizer.java:34)
+	at java.lang.ref.Finalizer$FinalizerThread.run(Finalizer.java:213)
+
+20-Oct-2018 18:11:48.566 INFO [Finalizer] org.apache.catalina.loader.WebappClassLoaderBase.checkStateForResourceLoading Illegal access: this web application instance has been stopped already. Could not load [com.mysql.jdbc.profiler.ProfileEventSink]. The following stack trace is thrown for debugging purposes as well as to attempt to terminate the thread which caused the illegal access.
+ java.lang.IllegalStateException: Illegal access: this web application instance has been stopped already. Could not load [com.mysql.jdbc.profiler.ProfileEventSink]. The following stack trace is thrown for debugging purposes as well as to attempt to terminate the thread which caused the illegal access.
+	at org.apache.catalina.loader.WebappClassLoaderBase.checkStateForResourceLoading(WebappClassLoaderBase.java:1329)
+	at org.apache.catalina.loader.WebappClassLoaderBase.checkStateForClassLoading(WebappClassLoaderBase.java:1317)
+	at org.apache.catalina.loader.WebappClassLoaderBase.loadClass(WebappClassLoaderBase.java:1176)
+	at org.apache.catalina.loader.WebappClassLoaderBase.loadClass(WebappClassLoaderBase.java:1137)
+	at com.mysql.jdbc.ConnectionImpl.realClose(ConnectionImpl.java:4235)
+	at com.mysql.jdbc.ConnectionImpl.cleanup(ConnectionImpl.java:1257)
+	at com.mysql.jdbc.ConnectionImpl.finalize(ConnectionImpl.java:2663)
+	at java.lang.System$2.invokeFinalize(System.java:1270)
+	at java.lang.ref.Finalizer.runFinalizer(Finalizer.java:98)
+	at java.lang.ref.Finalizer.access$100(Finalizer.java:34)
+	at java.lang.ref.Finalizer$FinalizerThread.run(Finalizer.java:213)
+
+20-Oct-2018 18:11:48.589 INFO [Finalizer] org.apache.catalina.loader.WebappClassLoaderBase.checkStateForResourceLoading Illegal access: this web application instance has been stopped already. Could not load [com.mysql.jdbc.SQLError]. The following stack trace is thrown for debugging purposes as well as to attempt to terminate the thread which caused the illegal access.
+ java.lang.IllegalStateException: Illegal access: this web application instance has been stopped already. Could not load [com.mysql.jdbc.SQLError]. The following stack trace is thrown for debugging purposes as well as to attempt to terminate the thread which caused the illegal access.
+	at org.apache.catalina.loader.WebappClassLoaderBase.checkStateForResourceLoading(WebappClassLoaderBase.java:1329)
+	at org.apache.catalina.loader.WebappClassLoaderBase.checkStateForClassLoading(WebappClassLoaderBase.java:1317)
+	at org.apache.catalina.loader.WebappClassLoaderBase.loadClass(WebappClassLoaderBase.java:1176)
+	at org.apache.catalina.loader.WebappClassLoaderBase.loadClass(WebappClassLoaderBase.java:1137)
+	at com.mysql.jdbc.MysqlIO.send(MysqlIO.java:3134)
+	at com.mysql.jdbc.MysqlIO.quit(MysqlIO.java:1616)
+	at com.mysql.jdbc.ConnectionImpl.realClose(ConnectionImpl.java:4223)
+	at com.mysql.jdbc.ConnectionImpl.cleanup(ConnectionImpl.java:1257)
+	at com.mysql.jdbc.ConnectionImpl.finalize(ConnectionImpl.java:2663)
+	at java.lang.System$2.invokeFinalize(System.java:1270)
+	at java.lang.ref.Finalizer.runFinalizer(Finalizer.java:98)
+	at java.lang.ref.Finalizer.access$100(Finalizer.java:34)
+	at java.lang.ref.Finalizer$FinalizerThread.run(Finalizer.java:213)
+
+20-Oct-2018 18:11:48.674 INFO [http-nio-8080-exec-377] org.apache.jasper.servlet.TldScanner.scanJars At least one JAR was scanned for TLDs yet contained no TLDs. Enable debug logging for this logger for a complete list of JARs that were scanned but no TLDs were found in them. Skipping unneeded JARs during scanning can improve startup time and JSP compilation time.
+20-Oct-2018 18:11:48.700 INFO [604] org.apache.catalina.core.StandardContext.reload Reloading Context with name [/MuaBanNha] is completed
+20-Oct-2018 18:11:49.118 INFO [http-nio-8080-exec-379] org.apache.catalina.core.StandardContext.reload Reloading Context with name [/MuaBanNha] has started
+20-Oct-2018 18:11:49.471 INFO [http-nio-8080-exec-379] org.apache.jasper.servlet.TldScanner.scanJars At least one JAR was scanned for TLDs yet contained no TLDs. Enable debug logging for this logger for a complete list of JARs that were scanned but no TLDs were found in them. Skipping unneeded JARs during scanning can improve startup time and JSP compilation time.
+20-Oct-2018 18:11:49.486 INFO [http-nio-8080-exec-379] org.apache.catalina.core.StandardContext.reload Reloading Context with name [/MuaBanNha] is completed
+20-Oct-2018 18:11:52.348 INFO [http-nio-8080-exec-370] org.apache.catalina.core.StandardContext.reload Reloading Context with name [/MuaBanNha] has started
+20-Oct-2018 18:11:52.899 INFO [http-nio-8080-exec-370] org.apache.jasper.servlet.TldScanner.scanJars At least one JAR was scanned for TLDs yet contained no TLDs. Enable debug logging for this logger for a complete list of JARs that were scanned but no TLDs were found in them. Skipping unneeded JARs during scanning can improve startup time and JSP compilation time.
+20-Oct-2018 18:11:52.923 INFO [http-nio-8080-exec-370] org.apache.catalina.core.StandardContext.reload Reloading Context with name [/MuaBanNha] is completed
+20-Oct-2018 18:11:53.011 INFO [http-nio-8080-exec-374] org.apache.catalina.core.StandardContext.reload Reloading Context with name [/MuaBanNha] has started
+20-Oct-2018 18:11:53.515 INFO [http-nio-8080-exec-374] org.apache.jasper.servlet.TldScanner.scanJars At least one JAR was scanned for TLDs yet contained no TLDs. Enable debug logging for this logger for a complete list of JARs that were scanned but no TLDs were found in them. Skipping unneeded JARs during scanning can improve startup time and JSP compilation time.
+20-Oct-2018 18:11:53.548 INFO [http-nio-8080-exec-374] org.apache.catalina.core.StandardContext.reload Reloading Context with name [/MuaBanNha] is completed
+20-Oct-2018 18:12:02.755 INFO [http-nio-8080-exec-379] org.apache.catalina.core.StandardContext.reload Reloading Context with name [/MuaBanNha] has started
+20-Oct-2018 18:12:03.158 INFO [http-nio-8080-exec-379] org.apache.jasper.servlet.TldScanner.scanJars At least one JAR was scanned for TLDs yet contained no TLDs. Enable debug logging for this logger for a complete list of JARs that were scanned but no TLDs were found in them. Skipping unneeded JARs during scanning can improve startup time and JSP compilation time.
+20-Oct-2018 18:12:03.174 INFO [http-nio-8080-exec-379] org.apache.catalina.core.StandardContext.reload Reloading Context with name [/MuaBanNha] is completed
+20-Oct-2018 18:13:28.758 INFO [http-nio-8080-exec-370] org.apache.catalina.core.StandardContext.reload Reloading Context with name [/MuaBanNha] has started
+20-Oct-2018 18:13:29.216 INFO [http-nio-8080-exec-370] org.apache.jasper.servlet.TldScanner.scanJars At least one JAR was scanned for TLDs yet contained no TLDs. Enable debug logging for this logger for a complete list of JARs that were scanned but no TLDs were found in them. Skipping unneeded JARs during scanning can improve startup time and JSP compilation time.
+20-Oct-2018 18:13:29.232 INFO [http-nio-8080-exec-370] org.apache.catalina.core.StandardContext.reload Reloading Context with name [/MuaBanNha] is completed
+20-Oct-2018 18:13:45.172 INFO [http-nio-8080-exec-382] org.apache.catalina.core.StandardContext.reload Reloading Context with name [/MuaBanNha] has started
+20-Oct-2018 18:13:45.531 INFO [http-nio-8080-exec-382] org.apache.jasper.servlet.TldScanner.scanJars At least one JAR was scanned for TLDs yet contained no TLDs. Enable debug logging for this logger for a complete list of JARs that were scanned but no TLDs were found in them. Skipping unneeded JARs during scanning can improve startup time and JSP compilation time.
+20-Oct-2018 18:13:45.549 INFO [http-nio-8080-exec-382] org.apache.catalina.core.StandardContext.reload Reloading Context with name [/MuaBanNha] is completed
+20-Oct-2018 18:14:04.135 INFO [http-nio-8080-exec-370] org.apache.catalina.core.StandardContext.reload Reloading Context with name [/MuaBanNha] has started
+20-Oct-2018 18:14:04.483 INFO [http-nio-8080-exec-370] org.apache.jasper.servlet.TldScanner.scanJars At least one JAR was scanned for TLDs yet contained no TLDs. Enable debug logging for this logger for a complete list of JARs that were scanned but no TLDs were found in them. Skipping unneeded JARs during scanning can improve startup time and JSP compilation time.
+20-Oct-2018 18:14:04.500 INFO [http-nio-8080-exec-370] org.apache.catalina.core.StandardContext.reload Reloading Context with name [/MuaBanNha] is completed
+20-Oct-2018 18:19:11.282 INFO [http-nio-8080-exec-394] org.apache.catalina.core.StandardContext.reload Reloading Context with name [/MuaBanNha] has started
+20-Oct-2018 18:19:11.285 WARNING [http-nio-8080-exec-394] org.apache.catalina.loader.WebappClassLoaderBase.clearReferencesJdbc The web application [MuaBanNha] registered the JDBC driver [com.mysql.jdbc.Driver] but failed to unregister it when the web application was stopped. To prevent a memory leak, the JDBC Driver has been forcibly unregistered.
+20-Oct-2018 18:19:11.286 WARNING [http-nio-8080-exec-394] org.apache.catalina.loader.WebappClassLoaderBase.clearReferencesThreads The web application [MuaBanNha] appears to have started a thread named [MySQL Statement Cancellation Timer] but has failed to stop it. This is very likely to create a memory leak. Stack trace of thread:
+ java.lang.Object.wait(Native Method)
+ java.lang.Object.wait(Object.java:502)
+ java.util.TimerThread.mainLoop(Timer.java:526)
+ java.util.TimerThread.run(Timer.java:505)
+20-Oct-2018 18:19:11.627 INFO [http-nio-8080-exec-394] org.apache.jasper.servlet.TldScanner.scanJars At least one JAR was scanned for TLDs yet contained no TLDs. Enable debug logging for this logger for a complete list of JARs that were scanned but no TLDs were found in them. Skipping unneeded JARs during scanning can improve startup time and JSP compilation time.
+20-Oct-2018 18:19:11.669 INFO [http-nio-8080-exec-394] org.apache.catalina.core.StandardContext.reload Reloading Context with name [/MuaBanNha] is completed
+20-Oct-2018 18:24:56.662 INFO [http-nio-8080-exec-407] org.apache.catalina.core.StandardContext.reload Reloading Context with name [/MuaBanNha] has started
+20-Oct-2018 18:24:56.666 WARNING [http-nio-8080-exec-407] org.apache.catalina.loader.WebappClassLoaderBase.clearReferencesJdbc The web application [MuaBanNha] registered the JDBC driver [com.mysql.jdbc.Driver] but failed to unregister it when the web application was stopped. To prevent a memory leak, the JDBC Driver has been forcibly unregistered.
+20-Oct-2018 18:24:56.667 WARNING [http-nio-8080-exec-407] org.apache.catalina.loader.WebappClassLoaderBase.clearReferencesThreads The web application [MuaBanNha] appears to have started a thread named [MySQL Statement Cancellation Timer] but has failed to stop it. This is very likely to create a memory leak. Stack trace of thread:
+ java.lang.Object.wait(Native Method)
+ java.lang.Object.wait(Object.java:502)
+ java.util.TimerThread.mainLoop(Timer.java:526)
+ java.util.TimerThread.run(Timer.java:505)
+20-Oct-2018 18:24:56.966 INFO [http-nio-8080-exec-407] org.apache.jasper.servlet.TldScanner.scanJars At least one JAR was scanned for TLDs yet contained no TLDs. Enable debug logging for this logger for a complete list of JARs that were scanned but no TLDs were found in them. Skipping unneeded JARs during scanning can improve startup time and JSP compilation time.
+20-Oct-2018 18:24:56.980 INFO [http-nio-8080-exec-407] org.apache.catalina.core.StandardContext.reload Reloading Context with name [/MuaBanNha] is completed
+20-Oct-2018 18:25:28.635 WARNING [http-nio-8080-exec-405] org.apache.catalina.loader.WebappClassLoaderBase.clearReferencesJdbc The web application [MuaBanNha] registered the JDBC driver [com.mysql.jdbc.Driver] but failed to unregister it when the web application was stopped. To prevent a memory leak, the JDBC Driver has been forcibly unregistered.
+20-Oct-2018 18:25:28.637 WARNING [http-nio-8080-exec-405] org.apache.catalina.loader.WebappClassLoaderBase.clearReferencesThreads The web application [MuaBanNha] appears to have started a thread named [MySQL Statement Cancellation Timer] but has failed to stop it. This is very likely to create a memory leak. Stack trace of thread:
+ java.lang.Object.wait(Native Method)
+ java.lang.Object.wait(Object.java:502)
+ java.util.TimerThread.mainLoop(Timer.java:526)
+ java.util.TimerThread.run(Timer.java:505)
+20-Oct-2018 18:25:29.139 INFO [http-nio-8080-exec-405] org.apache.catalina.startup.HostConfig.undeploy Undeploying context [/MuaBanNha]
+20-Oct-2018 18:25:45.089 INFO [http-nio-8080-exec-405] org.apache.catalina.startup.HostConfig.deployDescriptor Deploying configuration descriptor [D:\Java\apache-tomcat-8.5.34\conf\Catalina\localhost\MuaBanNha.xml]
+20-Oct-2018 18:25:45.664 INFO [Finalizer] org.apache.catalina.loader.WebappClassLoaderBase.checkStateForResourceLoading Illegal access: this web application instance has been stopped already. Could not load [com.mysql.jdbc.SQLError]. The following stack trace is thrown for debugging purposes as well as to attempt to terminate the thread which caused the illegal access.
+ java.lang.IllegalStateException: Illegal access: this web application instance has been stopped already. Could not load [com.mysql.jdbc.SQLError]. The following stack trace is thrown for debugging purposes as well as to attempt to terminate the thread which caused the illegal access.
+	at org.apache.catalina.loader.WebappClassLoaderBase.checkStateForResourceLoading(WebappClassLoaderBase.java:1329)
+	at org.apache.catalina.loader.WebappClassLoaderBase.checkStateForClassLoading(WebappClassLoaderBase.java:1317)
+	at org.apache.catalina.loader.WebappClassLoaderBase.loadClass(WebappClassLoaderBase.java:1176)
+	at org.apache.catalina.loader.WebappClassLoaderBase.loadClass(WebappClassLoaderBase.java:1137)
+	at com.mysql.jdbc.MysqlIO.send(MysqlIO.java:3134)
+	at com.mysql.jdbc.MysqlIO.quit(MysqlIO.java:1616)
+	at com.mysql.jdbc.ConnectionImpl.realClose(ConnectionImpl.java:4223)
+	at com.mysql.jdbc.ConnectionImpl.cleanup(ConnectionImpl.java:1257)
+	at com.mysql.jdbc.ConnectionImpl.finalize(ConnectionImpl.java:2663)
+	at java.lang.System$2.invokeFinalize(System.java:1270)
+	at java.lang.ref.Finalizer.runFinalizer(Finalizer.java:98)
+	at java.lang.ref.Finalizer.access$100(Finalizer.java:34)
+	at java.lang.ref.Finalizer$FinalizerThread.run(Finalizer.java:213)
+
+20-Oct-2018 18:25:45.669 INFO [Finalizer] org.apache.catalina.loader.WebappClassLoaderBase.checkStateForResourceLoading Illegal access: this web application instance has been stopped already. Could not load [com.mysql.jdbc.SQLError]. The following stack trace is thrown for debugging purposes as well as to attempt to terminate the thread which caused the illegal access.
+ java.lang.IllegalStateException: Illegal access: this web application instance has been stopped already. Could not load [com.mysql.jdbc.SQLError]. The following stack trace is thrown for debugging purposes as well as to attempt to terminate the thread which caused the illegal access.
+	at org.apache.catalina.loader.WebappClassLoaderBase.checkStateForResourceLoading(WebappClassLoaderBase.java:1329)
+	at org.apache.catalina.loader.WebappClassLoaderBase.checkStateForClassLoading(WebappClassLoaderBase.java:1317)
+	at org.apache.catalina.loader.WebappClassLoaderBase.loadClass(WebappClassLoaderBase.java:1176)
+	at org.apache.catalina.loader.WebappClassLoaderBase.loadClass(WebappClassLoaderBase.java:1137)
+	at com.mysql.jdbc.MysqlIO.send(MysqlIO.java:3134)
+	at com.mysql.jdbc.MysqlIO.quit(MysqlIO.java:1616)
+	at com.mysql.jdbc.ConnectionImpl.realClose(ConnectionImpl.java:4223)
+	at com.mysql.jdbc.ConnectionImpl.cleanup(ConnectionImpl.java:1257)
+	at com.mysql.jdbc.ConnectionImpl.finalize(ConnectionImpl.java:2663)
+	at java.lang.System$2.invokeFinalize(System.java:1270)
+	at java.lang.ref.Finalizer.runFinalizer(Finalizer.java:98)
+	at java.lang.ref.Finalizer.access$100(Finalizer.java:34)
+	at java.lang.ref.Finalizer$FinalizerThread.run(Finalizer.java:213)
+
+20-Oct-2018 18:25:45.669 INFO [Finalizer] org.apache.catalina.loader.WebappClassLoaderBase.checkStateForResourceLoading Illegal access: this web application instance has been stopped already. Could not load [com.mysql.jdbc.profiler.ProfileEventSink]. The following stack trace is thrown for debugging purposes as well as to attempt to terminate the thread which caused the illegal access.
+ java.lang.IllegalStateException: Illegal access: this web application instance has been stopped already. Could not load [com.mysql.jdbc.profiler.ProfileEventSink]. The following stack trace is thrown for debugging purposes as well as to attempt to terminate the thread which caused the illegal access.
+	at org.apache.catalina.loader.WebappClassLoaderBase.checkStateForResourceLoading(WebappClassLoaderBase.java:1329)
+	at org.apache.catalina.loader.WebappClassLoaderBase.checkStateForClassLoading(WebappClassLoaderBase.java:1317)
+	at org.apache.catalina.loader.WebappClassLoaderBase.loadClass(WebappClassLoaderBase.java:1176)
+	at org.apache.catalina.loader.WebappClassLoaderBase.loadClass(WebappClassLoaderBase.java:1137)
+	at com.mysql.jdbc.ConnectionImpl.realClose(ConnectionImpl.java:4235)
+	at com.mysql.jdbc.ConnectionImpl.cleanup(ConnectionImpl.java:1257)
+	at com.mysql.jdbc.ConnectionImpl.finalize(ConnectionImpl.java:2663)
+	at java.lang.System$2.invokeFinalize(System.java:1270)
+	at java.lang.ref.Finalizer.runFinalizer(Finalizer.java:98)
+	at java.lang.ref.Finalizer.access$100(Finalizer.java:34)
+	at java.lang.ref.Finalizer$FinalizerThread.run(Finalizer.java:213)
+
+20-Oct-2018 18:25:45.885 INFO [http-nio-8080-exec-405] org.apache.jasper.servlet.TldScanner.scanJars At least one JAR was scanned for TLDs yet contained no TLDs. Enable debug logging for this logger for a complete list of JARs that were scanned but no TLDs were found in them. Skipping unneeded JARs during scanning can improve startup time and JSP compilation time.
+20-Oct-2018 18:25:45.895 INFO [http-nio-8080-exec-405] org.apache.catalina.startup.HostConfig.deployDescriptor Deployment of configuration descriptor [D:\Java\apache-tomcat-8.5.34\conf\Catalina\localhost\MuaBanNha.xml] has finished in [807] ms
+20-Oct-2018 18:25:45.900 INFO [http-nio-8080-exec-413] org.apache.catalina.util.LifecycleBase.start The start() method was called on component [StandardEngine[Catalina].StandardHost[localhost].StandardContext[/MuaBanNha]] after start() had already been called. The second call will be ignored.
+20-Oct-2018 19:18:39.498 INFO [main] org.apache.catalina.core.StandardServer.await A valid shutdown command was received via the shutdown port. Stopping the Server instance.
+20-Oct-2018 19:18:39.498 INFO [main] org.apache.coyote.AbstractProtocol.pause Pausing ProtocolHandler ["http-nio-8080"]
+20-Oct-2018 19:18:39.779 INFO [main] org.apache.coyote.AbstractProtocol.pause Pausing ProtocolHandler ["ajp-nio-8009"]
+20-Oct-2018 19:18:39.935 INFO [main] org.apache.catalina.core.StandardService.stopInternal Stopping service [Catalina]
+20-Oct-2018 19:18:39.982 WARNING [localhost-startStop-2] org.apache.catalina.loader.WebappClassLoaderBase.clearReferencesJdbc The web application [MuaBanNha] registered the JDBC driver [com.mysql.jdbc.Driver] but failed to unregister it when the web application was stopped. To prevent a memory leak, the JDBC Driver has been forcibly unregistered.
+20-Oct-2018 19:18:39.982 WARNING [localhost-startStop-2] org.apache.catalina.loader.WebappClassLoaderBase.clearReferencesThreads The web application [MuaBanNha] appears to have started a thread named [MySQL Statement Cancellation Timer] but has failed to stop it. This is very likely to create a memory leak. Stack trace of thread:
+ java.lang.Object.wait(Native Method)
+ java.lang.Object.wait(Object.java:502)
+ java.util.TimerThread.mainLoop(Timer.java:526)
+ java.util.TimerThread.run(Timer.java:505)
+20-Oct-2018 19:18:40.029 INFO [main] org.apache.coyote.AbstractProtocol.stop Stopping ProtocolHandler ["http-nio-8080"]
+20-Oct-2018 19:18:40.029 INFO [main] org.apache.coyote.AbstractProtocol.stop Stopping ProtocolHandler ["ajp-nio-8009"]
+20-Oct-2018 19:18:40.044 INFO [main] org.apache.coyote.AbstractProtocol.destroy Destroying ProtocolHandler ["http-nio-8080"]
+20-Oct-2018 19:18:40.044 INFO [main] org.apache.coyote.AbstractProtocol.destroy Destroying ProtocolHandler ["ajp-nio-8009"]
+20-Oct-2018 19:23:50.327 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Server version:        Apache Tomcat/8.5.34
+20-Oct-2018 19:23:50.334 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Server built:          Sep 4 2018 22:28:22 UTC
+20-Oct-2018 19:23:50.335 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Server number:         8.5.34.0
+20-Oct-2018 19:23:50.335 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log OS Name:               Windows 7
+20-Oct-2018 19:23:50.335 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log OS Version:            6.1
+20-Oct-2018 19:23:50.336 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Architecture:          amd64
+20-Oct-2018 19:23:50.336 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Java Home:             C:\Program Files\Java\jdk1.8.0_171\jre
+20-Oct-2018 19:23:50.336 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log JVM Version:           1.8.0_171-b11
+20-Oct-2018 19:23:50.337 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log JVM Vendor:            Oracle Corporation
+20-Oct-2018 19:23:50.337 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log CATALINA_BASE:         D:\Java\apache-tomcat-8.5.34
+20-Oct-2018 19:23:50.337 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log CATALINA_HOME:         D:\Java\apache-tomcat-8.5.34
+20-Oct-2018 19:23:50.338 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: -Djava.util.logging.config.file=D:\Java\apache-tomcat-8.5.34\conf\logging.properties
+20-Oct-2018 19:23:50.338 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: -Djava.util.logging.manager=org.apache.juli.ClassLoaderLogManager
+20-Oct-2018 19:23:50.338 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: -Dhttp.nonProxyHosts=localhost|127.0.0.1|Khatmau-sr
+20-Oct-2018 19:23:50.339 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: -Djdk.tls.ephemeralDHKeySize=2048
+20-Oct-2018 19:23:50.339 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: -Djava.protocol.handler.pkgs=org.apache.catalina.webresources
+20-Oct-2018 19:23:50.339 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: -Dignore.endorsed.dirs=
+20-Oct-2018 19:23:50.340 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: -Dcatalina.base=D:\Java\apache-tomcat-8.5.34
+20-Oct-2018 19:23:50.340 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: -Dcatalina.home=D:\Java\apache-tomcat-8.5.34
+20-Oct-2018 19:23:50.341 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: -Djava.io.tmpdir=D:\Java\apache-tomcat-8.5.34\temp
+20-Oct-2018 19:23:50.341 INFO [main] org.apache.catalina.core.AprLifecycleListener.lifecycleEvent The APR based Apache Tomcat Native library which allows optimal performance in production environments was not found on the java.library.path: [C:\Program Files\Java\jdk1.8.0_171\bin;C:\Windows\Sun\Java\bin;C:\Windows\system32;C:\Windows;C:\Program Files (x86)\Common Files\Oracle\Java\javapath;C:\Windows\system32;C:\Windows;C:\Windows\System32\Wbem;C:\Windows\System32\WindowsPowerShell\v1.0\;;.]
+20-Oct-2018 19:23:51.290 INFO [main] org.apache.coyote.AbstractProtocol.init Initializing ProtocolHandler ["http-nio-8080"]
+20-Oct-2018 19:23:51.853 INFO [main] org.apache.tomcat.util.net.NioSelectorPool.getSharedSelector Using a shared selector for servlet write/read
+20-Oct-2018 19:23:51.918 INFO [main] org.apache.coyote.AbstractProtocol.init Initializing ProtocolHandler ["ajp-nio-8009"]
+20-Oct-2018 19:23:51.928 INFO [main] org.apache.tomcat.util.net.NioSelectorPool.getSharedSelector Using a shared selector for servlet write/read
+20-Oct-2018 19:23:51.936 INFO [main] org.apache.catalina.startup.Catalina.load Initialization processed in 2858 ms
+20-Oct-2018 19:23:52.112 INFO [main] org.apache.catalina.core.StandardService.startInternal Starting service [Catalina]
+20-Oct-2018 19:23:52.112 INFO [main] org.apache.catalina.core.StandardEngine.startInternal Starting Servlet Engine: Apache Tomcat/8.5.34
+20-Oct-2018 19:23:52.175 INFO [localhost-startStop-1] org.apache.catalina.startup.HostConfig.deployDescriptor Deploying configuration descriptor [D:\Java\apache-tomcat-8.5.34\conf\Catalina\localhost\MuaBanNha.xml]
+20-Oct-2018 19:23:54.511 INFO [localhost-startStop-1] org.apache.jasper.servlet.TldScanner.scanJars At least one JAR was scanned for TLDs yet contained no TLDs. Enable debug logging for this logger for a complete list of JARs that were scanned but no TLDs were found in them. Skipping unneeded JARs during scanning can improve startup time and JSP compilation time.
+20-Oct-2018 19:23:54.807 INFO [localhost-startStop-1] org.apache.catalina.startup.HostConfig.deployDescriptor Deployment of configuration descriptor [D:\Java\apache-tomcat-8.5.34\conf\Catalina\localhost\MuaBanNha.xml] has finished in [2,630] ms
+20-Oct-2018 19:23:54.809 INFO [localhost-startStop-1] org.apache.catalina.startup.HostConfig.deployDirectory Deploying web application directory [D:\Java\apache-tomcat-8.5.34\webapps\docs]
+20-Oct-2018 19:23:54.903 INFO [localhost-startStop-1] org.apache.catalina.startup.HostConfig.deployDirectory Deployment of web application directory [D:\Java\apache-tomcat-8.5.34\webapps\docs] has finished in [93] ms
+20-Oct-2018 19:23:54.903 INFO [localhost-startStop-1] org.apache.catalina.startup.HostConfig.deployDirectory Deploying web application directory [D:\Java\apache-tomcat-8.5.34\webapps\examples]
+20-Oct-2018 19:23:55.930 INFO [localhost-startStop-1] org.apache.catalina.startup.HostConfig.deployDirectory Deployment of web application directory [D:\Java\apache-tomcat-8.5.34\webapps\examples] has finished in [1,026] ms
+20-Oct-2018 19:23:55.930 INFO [localhost-startStop-1] org.apache.catalina.startup.HostConfig.deployDirectory Deploying web application directory [D:\Java\apache-tomcat-8.5.34\webapps\host-manager]
+20-Oct-2018 19:23:56.036 INFO [localhost-startStop-1] org.apache.catalina.startup.HostConfig.deployDirectory Deployment of web application directory [D:\Java\apache-tomcat-8.5.34\webapps\host-manager] has finished in [106] ms
+20-Oct-2018 19:23:56.037 INFO [localhost-startStop-1] org.apache.catalina.startup.HostConfig.deployDirectory Deploying web application directory [D:\Java\apache-tomcat-8.5.34\webapps\manager]
+20-Oct-2018 19:23:56.209 INFO [localhost-startStop-1] org.apache.catalina.startup.HostConfig.deployDirectory Deployment of web application directory [D:\Java\apache-tomcat-8.5.34\webapps\manager] has finished in [173] ms
+20-Oct-2018 19:23:56.210 INFO [localhost-startStop-1] org.apache.catalina.startup.HostConfig.deployDirectory Deploying web application directory [D:\Java\apache-tomcat-8.5.34\webapps\ROOT]
+20-Oct-2018 19:23:56.317 INFO [localhost-startStop-1] org.apache.catalina.startup.HostConfig.deployDirectory Deployment of web application directory [D:\Java\apache-tomcat-8.5.34\webapps\ROOT] has finished in [107] ms
+20-Oct-2018 19:23:56.332 INFO [main] org.apache.coyote.AbstractProtocol.start Starting ProtocolHandler ["http-nio-8080"]
+20-Oct-2018 19:23:56.403 INFO [main] org.apache.coyote.AbstractProtocol.start Starting ProtocolHandler ["ajp-nio-8009"]
+20-Oct-2018 19:23:56.437 INFO [main] org.apache.catalina.startup.Catalina.start Server startup in 4500 ms
+20-Oct-2018 20:55:02.564 INFO [main] org.apache.catalina.core.StandardServer.await A valid shutdown command was received via the shutdown port. Stopping the Server instance.
+20-Oct-2018 20:55:02.672 INFO [main] org.apache.coyote.AbstractProtocol.pause Pausing ProtocolHandler ["http-nio-8080"]
+20-Oct-2018 20:55:02.863 INFO [main] org.apache.coyote.AbstractProtocol.pause Pausing ProtocolHandler ["ajp-nio-8009"]
+20-Oct-2018 20:55:03.150 INFO [main] org.apache.catalina.core.StandardService.stopInternal Stopping service [Catalina]
+20-Oct-2018 20:55:03.626 WARNING [localhost-startStop-2] org.apache.catalina.loader.WebappClassLoaderBase.clearReferencesJdbc The web application [MuaBanNha] registered the JDBC driver [com.mysql.jdbc.Driver] but failed to unregister it when the web application was stopped. To prevent a memory leak, the JDBC Driver has been forcibly unregistered.
+20-Oct-2018 20:55:03.642 WARNING [localhost-startStop-2] org.apache.catalina.loader.WebappClassLoaderBase.clearReferencesJdbc The web application [MuaBanNha] registered the JDBC driver [com.mysql.jdbc.Driver] but failed to unregister it when the web application was stopped. To prevent a memory leak, the JDBC Driver has been forcibly unregistered.
+20-Oct-2018 20:55:03.642 WARNING [localhost-startStop-2] org.apache.catalina.loader.WebappClassLoaderBase.clearReferencesJdbc The web application [MuaBanNha] registered the JDBC driver [com.mysql.jdbc.Driver] but failed to unregister it when the web application was stopped. To prevent a memory leak, the JDBC Driver has been forcibly unregistered.
+20-Oct-2018 20:55:03.642 WARNING [localhost-startStop-2] org.apache.catalina.loader.WebappClassLoaderBase.clearReferencesThreads The web application [MuaBanNha] appears to have started a thread named [MySQL Statement Cancellation Timer] but has failed to stop it. This is very likely to create a memory leak. Stack trace of thread:
+ java.lang.Object.wait(Native Method)
+ java.lang.Object.wait(Object.java:502)
+ java.util.TimerThread.mainLoop(Timer.java:526)
+ java.util.TimerThread.run(Timer.java:505)
+20-Oct-2018 20:55:04.068 INFO [main] org.apache.coyote.AbstractProtocol.stop Stopping ProtocolHandler ["http-nio-8080"]
+20-Oct-2018 20:55:04.086 INFO [main] org.apache.coyote.AbstractProtocol.stop Stopping ProtocolHandler ["ajp-nio-8009"]
+20-Oct-2018 20:55:04.170 INFO [main] org.apache.coyote.AbstractProtocol.destroy Destroying ProtocolHandler ["http-nio-8080"]
+20-Oct-2018 20:55:04.175 INFO [main] org.apache.coyote.AbstractProtocol.destroy Destroying ProtocolHandler ["ajp-nio-8009"]
+20-Oct-2018 21:32:22.910 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Server version:        Apache Tomcat/8.5.34
+20-Oct-2018 21:32:22.910 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Server built:          Sep 4 2018 22:28:22 UTC
+20-Oct-2018 21:32:22.910 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Server number:         8.5.34.0
+20-Oct-2018 21:32:22.910 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log OS Name:               Windows 7
+20-Oct-2018 21:32:22.910 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log OS Version:            6.1
+20-Oct-2018 21:32:22.910 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Architecture:          amd64
+20-Oct-2018 21:32:22.910 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Java Home:             C:\Program Files\Java\jdk1.8.0_171\jre
+20-Oct-2018 21:32:22.910 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log JVM Version:           1.8.0_171-b11
+20-Oct-2018 21:32:22.910 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log JVM Vendor:            Oracle Corporation
+20-Oct-2018 21:32:22.910 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log CATALINA_BASE:         D:\Java\apache-tomcat-8.5.34
+20-Oct-2018 21:32:22.910 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log CATALINA_HOME:         D:\Java\apache-tomcat-8.5.34
+20-Oct-2018 21:32:22.926 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: -Djava.util.logging.config.file=D:\Java\apache-tomcat-8.5.34\conf\logging.properties
+20-Oct-2018 21:32:22.926 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: -Djava.util.logging.manager=org.apache.juli.ClassLoaderLogManager
+20-Oct-2018 21:32:22.926 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: -Dhttp.nonProxyHosts=localhost|127.0.0.1|Khatmau-sr
+20-Oct-2018 21:32:22.926 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: -Djdk.tls.ephemeralDHKeySize=2048
+20-Oct-2018 21:32:22.926 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: -Djava.protocol.handler.pkgs=org.apache.catalina.webresources
+20-Oct-2018 21:32:22.926 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: -Dignore.endorsed.dirs=
+20-Oct-2018 21:32:22.926 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: -Dcatalina.base=D:\Java\apache-tomcat-8.5.34
+20-Oct-2018 21:32:22.926 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: -Dcatalina.home=D:\Java\apache-tomcat-8.5.34
+20-Oct-2018 21:32:22.926 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: -Djava.io.tmpdir=D:\Java\apache-tomcat-8.5.34\temp
+20-Oct-2018 21:32:22.926 INFO [main] org.apache.catalina.core.AprLifecycleListener.lifecycleEvent The APR based Apache Tomcat Native library which allows optimal performance in production environments was not found on the java.library.path: [C:\Program Files\Java\jdk1.8.0_171\bin;C:\Windows\Sun\Java\bin;C:\Windows\system32;C:\Windows;C:\Program Files (x86)\Common Files\Oracle\Java\javapath;C:\Windows\system32;C:\Windows;C:\Windows\System32\Wbem;C:\Windows\System32\WindowsPowerShell\v1.0\;;.]
+20-Oct-2018 21:32:23.675 INFO [main] org.apache.coyote.AbstractProtocol.init Initializing ProtocolHandler ["http-nio-8080"]
+20-Oct-2018 21:32:24.158 INFO [main] org.apache.tomcat.util.net.NioSelectorPool.getSharedSelector Using a shared selector for servlet write/read
+20-Oct-2018 21:32:24.174 INFO [main] org.apache.coyote.AbstractProtocol.init Initializing ProtocolHandler ["ajp-nio-8009"]
+20-Oct-2018 21:32:24.174 INFO [main] org.apache.tomcat.util.net.NioSelectorPool.getSharedSelector Using a shared selector for servlet write/read
+20-Oct-2018 21:32:24.174 INFO [main] org.apache.catalina.startup.Catalina.load Initialization processed in 2618 ms
+20-Oct-2018 21:32:24.299 INFO [main] org.apache.catalina.core.StandardService.startInternal Starting service [Catalina]
+20-Oct-2018 21:32:24.299 INFO [main] org.apache.catalina.core.StandardEngine.startInternal Starting Servlet Engine: Apache Tomcat/8.5.34
+20-Oct-2018 21:32:24.345 INFO [localhost-startStop-1] org.apache.catalina.startup.HostConfig.deployDescriptor Deploying configuration descriptor [D:\Java\apache-tomcat-8.5.34\conf\Catalina\localhost\MuaBanNha.xml]
+20-Oct-2018 21:32:26.445 INFO [localhost-startStop-1] org.apache.jasper.servlet.TldScanner.scanJars At least one JAR was scanned for TLDs yet contained no TLDs. Enable debug logging for this logger for a complete list of JARs that were scanned but no TLDs were found in them. Skipping unneeded JARs during scanning can improve startup time and JSP compilation time.
+20-Oct-2018 21:32:26.601 INFO [localhost-startStop-1] org.apache.catalina.startup.HostConfig.deployDescriptor Deployment of configuration descriptor [D:\Java\apache-tomcat-8.5.34\conf\Catalina\localhost\MuaBanNha.xml] has finished in [2,256] ms
+20-Oct-2018 21:32:26.601 INFO [localhost-startStop-1] org.apache.catalina.startup.HostConfig.deployDirectory Deploying web application directory [D:\Java\apache-tomcat-8.5.34\webapps\docs]
+20-Oct-2018 21:32:26.663 INFO [localhost-startStop-1] org.apache.catalina.startup.HostConfig.deployDirectory Deployment of web application directory [D:\Java\apache-tomcat-8.5.34\webapps\docs] has finished in [62] ms
+20-Oct-2018 21:32:26.663 INFO [localhost-startStop-1] org.apache.catalina.startup.HostConfig.deployDirectory Deploying web application directory [D:\Java\apache-tomcat-8.5.34\webapps\examples]
+20-Oct-2018 21:32:27.677 INFO [localhost-startStop-1] org.apache.catalina.startup.HostConfig.deployDirectory Deployment of web application directory [D:\Java\apache-tomcat-8.5.34\webapps\examples] has finished in [1,014] ms
+20-Oct-2018 21:32:27.677 INFO [localhost-startStop-1] org.apache.catalina.startup.HostConfig.deployDirectory Deploying web application directory [D:\Java\apache-tomcat-8.5.34\webapps\host-manager]
+20-Oct-2018 21:32:27.771 INFO [localhost-startStop-1] org.apache.catalina.startup.HostConfig.deployDirectory Deployment of web application directory [D:\Java\apache-tomcat-8.5.34\webapps\host-manager] has finished in [94] ms
+20-Oct-2018 21:32:27.771 INFO [localhost-startStop-1] org.apache.catalina.startup.HostConfig.deployDirectory Deploying web application directory [D:\Java\apache-tomcat-8.5.34\webapps\manager]
+20-Oct-2018 21:32:28.036 INFO [localhost-startStop-1] org.apache.catalina.startup.HostConfig.deployDirectory Deployment of web application directory [D:\Java\apache-tomcat-8.5.34\webapps\manager] has finished in [265] ms
+20-Oct-2018 21:32:28.036 INFO [localhost-startStop-1] org.apache.catalina.startup.HostConfig.deployDirectory Deploying web application directory [D:\Java\apache-tomcat-8.5.34\webapps\ROOT]
+20-Oct-2018 21:32:28.083 INFO [localhost-startStop-1] org.apache.catalina.startup.HostConfig.deployDirectory Deployment of web application directory [D:\Java\apache-tomcat-8.5.34\webapps\ROOT] has finished in [47] ms
+20-Oct-2018 21:32:28.098 INFO [main] org.apache.coyote.AbstractProtocol.start Starting ProtocolHandler ["http-nio-8080"]
+20-Oct-2018 21:32:28.145 INFO [main] org.apache.coyote.AbstractProtocol.start Starting ProtocolHandler ["ajp-nio-8009"]
+20-Oct-2018 21:32:28.145 INFO [main] org.apache.catalina.startup.Catalina.start Server startup in 3976 ms
+20-Oct-2018 21:48:38.660 INFO [main] org.apache.catalina.core.StandardServer.await A valid shutdown command was received via the shutdown port. Stopping the Server instance.
+20-Oct-2018 21:48:38.675 INFO [main] org.apache.coyote.AbstractProtocol.pause Pausing ProtocolHandler ["http-nio-8080"]
+20-Oct-2018 21:48:38.816 INFO [main] org.apache.coyote.AbstractProtocol.pause Pausing ProtocolHandler ["ajp-nio-8009"]
+20-Oct-2018 21:48:38.909 INFO [main] org.apache.catalina.core.StandardService.stopInternal Stopping service [Catalina]
+20-Oct-2018 21:48:38.987 WARNING [localhost-startStop-2] org.apache.catalina.loader.WebappClassLoaderBase.clearReferencesJdbc The web application [MuaBanNha] registered the JDBC driver [com.mysql.jdbc.Driver] but failed to unregister it when the web application was stopped. To prevent a memory leak, the JDBC Driver has been forcibly unregistered.
+20-Oct-2018 21:48:38.987 WARNING [localhost-startStop-2] org.apache.catalina.loader.WebappClassLoaderBase.clearReferencesThreads The web application [MuaBanNha] appears to have started a thread named [MySQL Statement Cancellation Timer] but has failed to stop it. This is very likely to create a memory leak. Stack trace of thread:
+ java.lang.Object.wait(Native Method)
+ java.lang.Object.wait(Object.java:502)
+ java.util.TimerThread.mainLoop(Timer.java:526)
+ java.util.TimerThread.run(Timer.java:505)
+20-Oct-2018 21:48:39.065 INFO [main] org.apache.coyote.AbstractProtocol.stop Stopping ProtocolHandler ["http-nio-8080"]
+20-Oct-2018 21:48:39.065 INFO [main] org.apache.coyote.AbstractProtocol.stop Stopping ProtocolHandler ["ajp-nio-8009"]
+20-Oct-2018 21:48:39.081 INFO [main] org.apache.coyote.AbstractProtocol.destroy Destroying ProtocolHandler ["http-nio-8080"]
+20-Oct-2018 21:48:39.081 INFO [main] org.apache.coyote.AbstractProtocol.destroy Destroying ProtocolHandler ["ajp-nio-8009"]

@@ -1,0 +1,2 @@
+01-Jan-2019 09:40:09.434 WARNING [http-nio-8081-exec-44] org.springframework.web.servlet.DispatcherServlet.noHandlerFound No mapping found for HTTP request with URI [/netbeans-tomcat-status-test] in DispatcherServlet with name 'dispatcher'
+01-Jan-2019 09:40:09.434 WARNING [http-nio-8081-exec-41] org.springframework.web.servlet.DispatcherServlet.noHandlerFound No mapping found for HTTP request with URI [/netbeans-tomcat-status-test] in DispatcherServlet with name 'dispatcher'

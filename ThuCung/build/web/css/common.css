@@ -1,0 +1,10 @@
+body {
+  box-sizing: border-box;
+  overflow-x: hidden;
+}
+
+.callbacks2_tabs, .callbacks3_tabs, .callbacks4_tabs {
+  display: none !important;
+}
+
+/*# sourceMappingURL=common.css.map */

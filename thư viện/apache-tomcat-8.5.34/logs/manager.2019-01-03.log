@@ -1,0 +1,8 @@
+03-Jan-2019 06:45:06.175 INFO [http-nio-8081-exec-31] org.apache.catalina.core.ApplicationContext.log Manager: list: Listing contexts for virtual host 'localhost'
+03-Jan-2019 06:45:16.394 INFO [http-nio-8081-exec-31] org.apache.catalina.core.ApplicationContext.log Manager: list: Listing contexts for virtual host 'localhost'
+03-Jan-2019 06:45:16.430 INFO [http-nio-8081-exec-34] org.apache.catalina.core.ApplicationContext.log Manager: list: Listing contexts for virtual host 'localhost'
+03-Jan-2019 06:47:07.296 INFO [http-nio-8081-exec-33] org.apache.catalina.core.ApplicationContext.log Manager: list: Listing contexts for virtual host 'localhost'
+03-Jan-2019 07:16:10.989 INFO [http-nio-8081-exec-38] org.apache.catalina.core.ApplicationContext.log Manager: list: Listing contexts for virtual host 'localhost'
+03-Jan-2019 07:16:20.945 INFO [http-nio-8081-exec-35] org.apache.catalina.core.ApplicationContext.log Manager: list: Listing contexts for virtual host 'localhost'
+03-Jan-2019 07:16:20.949 INFO [http-nio-8081-exec-33] org.apache.catalina.core.ApplicationContext.log Manager: list: Listing contexts for virtual host 'localhost'
+03-Jan-2019 07:29:25.238 INFO [http-nio-8081-exec-31] org.apache.catalina.core.ApplicationContext.log Manager: list: Listing contexts for virtual host 'localhost'

@@ -1,0 +1,12 @@
+06-Jan-2019 11:02:56.064 INFO [http-nio-8081-exec-1] org.apache.catalina.core.StandardContext.reload Reloading Context with name [/Jquery] has started
+06-Jan-2019 11:03:02.738 INFO [http-nio-8081-exec-1] org.apache.catalina.core.StandardContext.reload Reloading Context with name [/Jquery] is completed
+06-Jan-2019 16:23:20.719 INFO [http-nio-8081-exec-12] org.apache.catalina.core.StandardContext.reload Reloading Context with name [/Jquery] has started
+06-Jan-2019 16:23:21.439 INFO [http-nio-8081-exec-12] org.apache.catalina.core.StandardContext.reload Reloading Context with name [/Jquery] is completed
+06-Jan-2019 20:33:33.933 INFO [main] org.apache.catalina.core.StandardServer.await A valid shutdown command was received via the shutdown port. Stopping the Server instance.
+06-Jan-2019 20:33:34.601 INFO [main] org.apache.coyote.AbstractProtocol.pause Pausing ProtocolHandler ["http-nio-8081"]
+06-Jan-2019 20:33:35.819 INFO [main] org.apache.coyote.AbstractProtocol.pause Pausing ProtocolHandler ["ajp-nio-8009"]
+06-Jan-2019 20:33:35.970 INFO [main] org.apache.catalina.core.StandardService.stopInternal Stopping service [Catalina]
+06-Jan-2019 20:33:39.707 INFO [main] org.apache.coyote.AbstractProtocol.stop Stopping ProtocolHandler ["http-nio-8081"]
+06-Jan-2019 20:33:40.060 INFO [main] org.apache.coyote.AbstractProtocol.stop Stopping ProtocolHandler ["ajp-nio-8009"]
+06-Jan-2019 20:33:40.453 INFO [main] org.apache.coyote.AbstractProtocol.destroy Destroying ProtocolHandler ["http-nio-8081"]
+06-Jan-2019 20:33:40.516 INFO [main] org.apache.coyote.AbstractProtocol.destroy Destroying ProtocolHandler ["ajp-nio-8009"]
